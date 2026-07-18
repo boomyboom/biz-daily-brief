@@ -8,5 +8,9 @@
 logs/
 *.log
 
+# threads operational (transient drafts / posted history)
+threads/queue/
+threads/posted.log
+
 # macOS
 .DS_Store
