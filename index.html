@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BoomyBoom · 돈 되는 비즈 인사이트</title>
+<style>
+  :root{
+    --bg:#0b0e14; --panel:#141922; --panel2:#1b2230; --border:#26303f;
+    --text:#e6edf3; --muted:#8b98a9; --accent:#f5a623; --accent2:#4c8dff; --chip:#20293a;
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --bg:#f7f6f3; --panel:#ffffff; --panel2:#f2efe9; --border:#e5e0d8;
+      --text:#1a2230; --muted:#6b6459; --accent:#d98a10; --accent2:#2563eb; --chip:#f0ece4;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo",Roboto,"Malgun Gothic",sans-serif;
+    line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:820px;margin:0 auto;padding:24px 18px 80px}
+  header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;
+    padding-bottom:16px;border-bottom:1px solid var(--border);margin-bottom:22px}
+  h1{font-size:1.3rem;margin:0;letter-spacing:-.02em}
+  h1 .dot{color:var(--accent)}
+  .sub{color:var(--muted);font-size:.85rem}
+  select{background:var(--panel2);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:6px 10px;font-size:.85rem}
+  .headline{font-size:1.1rem;font-weight:700;background:var(--panel);border:1px solid var(--border);
+    border-left:3px solid var(--accent);border-radius:10px;padding:14px 16px;margin-bottom:22px}
+  section{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px}
+  section h2{font-size:.82rem;letter-spacing:.02em;color:var(--text);margin:0 0 14px;font-weight:700}
+  section h2 .mut{color:var(--muted);font-weight:400;font-size:.85em}
+  .insight{padding:12px 0;border-top:1px solid var(--border)}
+  .insight:first-of-type{border-top:none}
+  .insight .t{font-weight:700;font-size:1rem}
+  .insight .s{font-size:.9rem;color:var(--text);margin-top:3px}
+  .insight .take{font-size:.9rem;margin-top:6px;background:var(--panel2);border-radius:8px;padding:7px 10px;
+    border-left:2px solid var(--accent)}
+  .insight .take b{color:var(--accent)}
+  .insight .src{font-size:.76rem;color:var(--muted);margin-top:5px}
+  .insight .src a{color:var(--accent2)}
+  .row{padding:9px 0;border-top:1px solid var(--border)}
+  .row:first-of-type{border-top:none}
+  .row .t{font-weight:600}
+  .row .m{font-size:.86rem;color:var(--muted);margin-top:2px}
+  .quote{font-style:italic;font-size:1rem;text-align:center;padding:6px 10px;color:var(--text)}
+  .quote .a{display:block;font-style:normal;font-size:.82rem;color:var(--muted);margin-top:6px}
+  a{color:var(--accent2);text-decoration:none} a:hover{text-decoration:underline}
+
+  /* newsletter + variants */
+  .md{font-size:.95rem}
+  .md h1,.md h2,.md h3{margin:16px 0 8px}
+  .md h1{font-size:1.15rem} .md h2{font-size:1.05rem} .md h3{font-size:.98rem}
+  .md p{margin:9px 0} .md ul,.md ol{margin:9px 0;padding-left:22px} .md li{margin:3px 0}
+  .md blockquote{margin:9px 0;padding:6px 12px;border-left:3px solid var(--border);color:var(--muted)}
+  .md strong{color:var(--text)}
+  .newsletter-title{font-size:1.15rem;font-weight:800;margin-bottom:4px}
+
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+  .tab{font-size:.8rem;padding:6px 12px;border:1px solid var(--border);border-radius:999px;background:var(--panel2);
+    color:var(--muted);cursor:pointer}
+  .tab.active{background:var(--accent);color:#111;border-color:var(--accent);font-weight:700}
+  .pane{display:none} .pane.active{display:block}
+  .copybar{display:flex;justify-content:flex-end;margin-bottom:8px}
+  .copy{font-size:.78rem;padding:5px 12px;border:1px solid var(--border);border-radius:8px;background:var(--panel2);
+    color:var(--text);cursor:pointer}
+  .copy:hover{border-color:var(--accent)}
+  .copy.done{background:var(--accent);color:#111;border-color:var(--accent)}
+  .thread-post{background:var(--panel2);border:1px solid var(--border);border-radius:10px;padding:11px 13px;margin-bottom:8px;
+    position:relative}
+  .thread-post .num{font-size:.72rem;color:var(--muted);margin-bottom:4px}
+  .card-text{background:var(--panel2);border:1px solid var(--border);border-radius:8px;padding:9px 12px;margin-bottom:7px;font-size:.9rem}
+  .hashtags{color:var(--accent2);font-size:.88rem;margin-top:8px}
+  .disclaimer{font-size:.78rem;color:var(--muted);background:var(--panel2);border:1px dashed var(--border);
+    border-radius:10px;padding:12px 14px;margin-top:20px}
+  .empty{color:var(--muted);text-align:center;padding:60px 0}
+  footer{text-align:center;color:var(--muted);font-size:.75rem;margin-top:30px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Boomy<span class="dot">·</span>Boom 비즈 인사이트</h1>
+      <div class="sub" id="gen">불러오는 중…</div>
+    </div>
+    <select id="datesel" aria-label="날짜 선택"></select>
+  </header>
+  <div id="content"><div class="empty">브리핑을 불러오는 중…</div></div>
+  <footer>매일 정오 12:00 KST 자동 업데이트 · 정보 제공용</footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => (s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+
+// --- 최소 마크다운 렌더러 ---
+function mdToHtml(md){
+  if(!md) return "";
+  const lines = String(md).replace(/\r/g,"").split("\n");
+  let html="", inUl=false, inOl=false, para=[];
+  const inline = t => esc(t)
+    .replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>")
+    .replace(/(^|[^*])\*(?!\*)(.+?)\*/g,"$1<em>$2</em>")
+    .replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  const flushP=()=>{ if(para.length){ html+="<p>"+inline(para.join(" "))+"</p>"; para=[]; } };
+  const closeLists=()=>{ if(inUl){html+="</ul>";inUl=false;} if(inOl){html+="</ol>";inOl=false;} };
+  for(let raw of lines){
+    const line=raw.trimEnd();
+    if(!line.trim()){ flushP(); closeLists(); continue; }
+    let m;
+    if(m=line.match(/^(#{1,3})\s+(.*)/)){ flushP(); closeLists(); const n=m[1].length; html+=`<h${n}>${inline(m[2])}</h${n}>`; continue; }
+    if(m=line.match(/^>\s?(.*)/)){ flushP(); closeLists(); html+=`<blockquote>${inline(m[1])}</blockquote>`; continue; }
+    if(m=line.match(/^[-*]\s+(.*)/)){ flushP(); if(inOl){html+="</ol>";inOl=false;} if(!inUl){html+="<ul>";inUl=true;} html+=`<li>${inline(m[1])}</li>`; continue; }
+    if(m=line.match(/^\d+\.\s+(.*)/)){ flushP(); if(inUl){html+="</ul>";inUl=false;} if(!inOl){html+="<ol>";inOl=true;} html+=`<li>${inline(m[1])}</li>`; continue; }
+    para.push(line.trim());
+  }
+  flushP(); closeLists();
+  return html;
+}
+
+// 클립보드 복사 버튼
+let copySeq=0;
+function copyBtn(text){
+  const id="cp"+(copySeq++);
+  window.__cp = window.__cp || {};
+  window.__cp[id] = text;
+  return `<button class="copy" onclick="doCopy('${id}',this)">복사</button>`;
+}
+function doCopy(id, btn){
+  const t=(window.__cp||{})[id]||"";
+  navigator.clipboard.writeText(t).then(()=>{
+    btn.textContent="복사됨 ✓"; btn.classList.add("done");
+    setTimeout(()=>{btn.textContent="복사";btn.classList.remove("done");},1500);
+  });
+}
+
+function render(b){
+  const el=$("#content");
+  if(!b){ el.innerHTML='<div class="empty">아직 브리핑이 없습니다.<br>매일 정오에 생성됩니다.</div>'; return; }
+  let h="";
+  if(b.headline) h+=`<div class="headline">${esc(b.headline)}</div>`;
+
+  // insights
+  if((b.insights||[]).length){
+    h+='<section><h2>💡 오늘의 인사이트</h2>'+b.insights.map(s=>{
+      const src=s.source_url?`<a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.source_name||s.source_type||'출처')} ↗</a>`:esc(s.source_name||'');
+      return `<div class="insight"><div class="t">${esc(s.title)}</div>
+        <div class="s">${esc(s.summary)}</div>
+        ${s.takeaway?`<div class="take"><b>바로 써먹기</b> · ${esc(s.takeaway)}</div>`:""}
+        <div class="src">${src}</div></div>`;
+    }).join("")+'</section>';
+  }
+
+  // trends
+  if((b.trends||[]).length){
+    h+='<section><h2>📈 지금 뜨는 트렌드</h2>'+b.trends.map(t=>{
+      const src=t.source_url?` <a href="${esc(t.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
+      return `<div class="row"><div class="t">${esc(t.theme)}${src}</div><div class="m">${esc(t.summary)}${t.why_now?` <b>· 왜 지금?</b> ${esc(t.why_now)}`:""}</div></div>`;
+    }).join("")+'</section>';
+  }
+
+  // cases
+  if((b.cases||[]).length){
+    h+='<section><h2>🏆 사례</h2>'+b.cases.map(c=>{
+      const src=c.source_url?` <a href="${esc(c.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
+      return `<div class="row"><div class="t">${esc(c.who)} — ${esc(c.what)}${src}</div><div class="m">${esc(c.how)}${c.numbers?` · <b>${esc(c.numbers)}</b>`:""}</div></div>`;
+    }).join("")+'</section>';
+  }
+
+  // tools
+  if((b.tools||[]).length){
+    h+='<section><h2>🛠️ 도구·리소스</h2>'+b.tools.map(t=>{
+      const src=t.source_url?` <a href="${esc(t.source_url)}" target="_blank" rel="noopener">↗</a>`:"";
+      return `<div class="row"><div class="t">${esc(t.name)}${src}</div><div class="m">${esc(t.use)}</div></div>`;
+    }).join("")+'</section>';
+  }
+
+  // quote
+  const q=b.quote||{};
+  if(q.text){
+    h+=`<section><div class="quote">"${esc(q.text)}"<span class="a">${q.author?"— "+esc(q.author):""}</span></div></section>`;
+  }
+
+  // newsletter
+  const nl=b.newsletter||{};
+  if(nl.body_md){
+    h+=`<section><h2>📝 오늘의 뉴스레터 원고</h2>
+      <div class="copybar">${copyBtn((nl.title?nl.title+"\n\n":"")+nl.body_md)}</div>
+      ${nl.title?`<div class="newsletter-title">${esc(nl.title)}</div>`:""}
+      <div class="md">${mdToHtml(nl.body_md)}</div></section>`;
+  }
+
+  // variants (채널별 변환본 + 복사)
+  const v=b.variants||{};
+  if(v.blog||v.threads||v.instagram||v.youtube){
+    h+=`<section><h2>📤 채널별 변환본 <span class="mut">· 복사해서 바로 업로드</span></h2>`;
+    const tabs=[], panes=[];
+    if(v.blog){ tabs.push("blog"); panes.push(`<div class="pane" data-p="blog">
+        <div class="copybar">${copyBtn((v.blog.title?v.blog.title+"\n\n":"")+(v.blog.body_md||""))}</div>
+        ${v.blog.title?`<div class="newsletter-title">${esc(v.blog.title)}</div>`:""}
+        <div class="md">${mdToHtml(v.blog.body_md)}</div></div>`); }
+    if(v.threads&&v.threads.length){ tabs.push("threads"); panes.push(`<div class="pane" data-p="threads">
+        <div class="copybar">${copyBtn(v.threads.join("\n\n———\n\n"))}</div>
+        ${v.threads.map((p,i)=>`<div class="thread-post"><div class="num">${i+1}/${v.threads.length}</div>${esc(p)}</div>`).join("")}</div>`); }
+    if(v.instagram){ const ig=v.instagram; const igText=(ig.caption||"")+"\n\n"+(ig.hashtags||"");
+      tabs.push("instagram"); panes.push(`<div class="pane" data-p="instagram">
+        <div class="copybar">${copyBtn(igText)}</div>
+        <div class="md">${mdToHtml(ig.caption)}</div>
+        ${ig.hashtags?`<div class="hashtags">${esc(ig.hashtags)}</div>`:""}
+        ${(ig.cards||[]).length?`<div style="margin-top:12px"><div class="num" style="font-size:.75rem;color:var(--muted);margin-bottom:6px">카드뉴스</div>${ig.cards.map((c,i)=>`<div class="card-text">${i+1}. ${esc(c)}</div>`).join("")}</div>`:""}</div>`); }
+    if(v.youtube){ const y=v.youtube; const yText=(y.title?y.title+"\n\n":"")+(y.hook?y.hook+"\n\n":"")+(y.script||"");
+      tabs.push("youtube"); panes.push(`<div class="pane" data-p="youtube">
+        <div class="copybar">${copyBtn(yText)}</div>
+        ${y.title?`<div class="newsletter-title">${esc(y.title)}</div>`:""}
+        ${y.hook?`<div class="take" style="margin:8px 0"><b>훅</b> · ${esc(y.hook)}</div>`:""}
+        <div class="md">${mdToHtml(y.script)}</div></div>`); }
+    const label={blog:"블로그",threads:"스레드",instagram:"인스타",youtube:"유튜브"};
+    h+=`<div class="tabs">${tabs.map((t,i)=>`<span class="tab${i===0?' active':''}" data-t="${t}" onclick="selTab(this)">${label[t]||t}</span>`).join("")}</div>`;
+    h+=panes.join("");
+    h+=`</section>`;
+  }
+
+  if(b.disclaimer) h+=`<div class="disclaimer">${esc(b.disclaimer)}</div>`;
+  el.innerHTML=h||'<div class="empty">내용이 비어 있습니다.</div>';
+  // activate first pane
+  const first=el.querySelector('.pane'); if(first) first.classList.add('active');
+}
+
+function selTab(elm){
+  const wrap=elm.closest('section');
+  wrap.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  elm.classList.add('active');
+  const key=elm.getAttribute('data-t');
+  wrap.querySelectorAll('.pane').forEach(p=>p.classList.toggle('active', p.getAttribute('data-p')===key));
+}
+
+async function loadJSON(p){ const r=await fetch(p+"?_="+Date.now()); return r.json(); }
+(async function init(){
+  try{
+    const man=await loadJSON("briefs/manifest.json");
+    const dates=man.dates||[];
+    const sel=$("#datesel");
+    if(!dates.length){ $("#gen").textContent="브리핑 없음"; render(null); return; }
+    sel.innerHTML=dates.map(d=>`<option value="${d}">${d}</option>`).join("");
+    async function show(d){
+      $("#gen").textContent="불러오는 중…";
+      const b=await loadJSON(`briefs/${d}.json`);
+      $("#gen").textContent=(b.generated_at_kst?"생성: "+b.generated_at_kst.replace("T"," ").slice(0,16):d)+(b.mode?` · ${b.mode}`:"");
+      render(b);
+    }
+    sel.addEventListener("change",e=>show(e.target.value));
+    show(dates[0]);
+  }catch(e){
+    $("#gen").textContent="로드 실패";
+    $("#content").innerHTML='<div class="empty">불러오지 못했습니다.<br><small>'+esc(e.message)+'</small></div>';
+  }
+})();
+</script>
+</body>
+</html>
