@@ -21,5 +21,14 @@
     { "name": "플래텀", "note": "스타트업" },
     { "name": "비즈니스워치", "note": "산업·기업" },
     { "name": "전자신문·매경·한경", "note": "경제 일반" }
+  ],
+  "threads_accounts": [
+    { "handle": "senioor_future", "note": "시니어·미래 비즈니스 참고 (스레드)" }
+  ],
+  "healthcare_senior": [
+    { "name": "청년의사·메디게이트·데일리팜", "note": "헬스케어·의료 산업 (국내)" },
+    { "name": "Rock Health / CB Insights Digital Health", "note": "디지털 헬스케어 투자·트렌드 (해외)" },
+    { "name": "AARP / Age Wave / 실버산업 리포트", "note": "시니어(고령친화) 비즈니스" },
+    { "name": "보건복지부·한국보건산업진흥원", "note": "정책·통계 (공신력)" }
   ]
 }
