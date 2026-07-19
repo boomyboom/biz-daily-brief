@@ -24,7 +24,7 @@ def load_env_vault():
         for line in open(p):
             s = line.strip()
             if s.startswith("OBSIDIAN_VAULT=") and "=" in s:
-                return s.split("=", 1)[1].strip()
+                return s.split("=", 1)[1].strip().strip('"').strip("'")
     return os.environ.get("OBSIDIAN_VAULT") or DEFAULT_VAULT
 
 
