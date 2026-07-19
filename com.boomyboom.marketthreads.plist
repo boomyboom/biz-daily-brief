@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.boomyboom.marketthreads</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom-Biz/run_market_threads_draft.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Applications/BoomyBoom-Biz</string>
+
+    <!-- 매일 08:20 (8시 시장 브리핑 생성 직후) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key><integer>8</integer>
+        <key>Minute</key><integer>20</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Applications/BoomyBoom-Biz/logs/marketthreads.launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Applications/BoomyBoom-Biz/logs/marketthreads.launchd.err.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
