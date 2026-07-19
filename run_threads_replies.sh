@@ -36,8 +36,9 @@ if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_err
   exit 1
 fi
 
-# 3) 초안 인박스 정리
+# 3) 초안 인박스 정리 + 문장 다듬기(·, — 제거)
 rm -f "$REPO/threads/replies_queue"/inbox-*.json
+"$PYTHON" "$REPO/strip_closing_question.py" >>"$LOG" 2>&1 || true
 
 # 4) 텔레그램으로 승인 요청
 "$PYTHON" "$REPO/replies_notify.py" >>"$LOG" 2>&1 && log "답글 초안 전송" || log "전송 실패"
