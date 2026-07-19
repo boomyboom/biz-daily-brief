@@ -36,8 +36,10 @@ def esc(s):
 
 
 def newest_pending():
-    files = sorted(glob.glob(os.path.join(QUEUE, "pending-*.json")))
-    return files[-1] if files else None
+    # 파일명 정렬이 아니라 '가장 최근 생성(mtime)' 기준으로 골라야 함
+    # (pending-mkt-* 가 이름순으로 뒤에 와서 엉뚱하게 잡히던 버그 수정)
+    files = glob.glob(os.path.join(QUEUE, "pending-*.json"))
+    return max(files, key=os.path.getmtime) if files else None
 
 
 def format_message(draft):
