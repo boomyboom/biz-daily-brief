@@ -76,6 +76,14 @@ def permalink(token, media_id):
         return ""
 
 
+def post_reply(uid, token, text, reply_to_id):
+    """Post a single reply to a given comment/post id. Returns (media_id, permalink)."""
+    cid = create_container(uid, token, text, reply_to_id=reply_to_id)
+    time.sleep(2)
+    mid = publish(uid, token, cid)
+    return mid, permalink(token, mid)
+
+
 def post_series(uid, token, posts, dry_run=False):
     """Post a list of texts as a reply-chained series. Returns (first_media_id, permalink)."""
     first_id, prev_id = None, None

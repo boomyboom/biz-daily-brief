@@ -12,6 +12,9 @@ logs/
 threads/queue/
 threads/posted/
 threads/skipped/
+threads/replied/
+threads/replies_queue/
+threads/replies_seen.json
 threads/posted.log
 threads/.tg_offset
 

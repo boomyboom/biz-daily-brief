@@ -25,6 +25,8 @@ import post_to_threads as threads  # noqa: E402
 QUEUE = os.path.join(ROOT, "threads", "queue")
 POSTED = os.path.join(ROOT, "threads", "posted")
 SKIPPED = os.path.join(ROOT, "threads", "skipped")
+REPLIES_QUEUE = os.path.join(ROOT, "threads", "replies_queue")
+REPLIED = os.path.join(ROOT, "threads", "replied")
 OFFSET_FILE = os.path.join(ROOT, "threads", ".tg_offset")
 LOG = os.path.join(ROOT, "logs", "threads-listener.log")
 
@@ -107,6 +109,40 @@ def handle_callback(cb):
         api("answerCallbackQuery", {"callback_query_id": cb_id})
         return
     action, fname = data.split(":", 1)
+
+    # ---- 답글(reply) 콜백 ----
+    if action in ("rok", "rskip"):
+        rpath = os.path.join(REPLIES_QUEUE, fname)
+        if not os.path.exists(rpath):
+            api("answerCallbackQuery", {"callback_query_id": cb_id, "text": "이미 처리됨"})
+            return
+        if action == "rskip":
+            os.remove(rpath)
+            api("answerCallbackQuery", {"callback_query_id": cb_id, "text": "무시했어요"})
+            edit_message(chat_id, message_id, orig_text + "\n\n❌ <b>무시함</b>")
+            log(f"reply skipped {fname}")
+            return
+        # rok: 답글 게시
+        api("answerCallbackQuery", {"callback_query_id": cb_id, "text": "답글 게시 중…"})
+        try:
+            d = json.load(open(rpath))
+            draft = (d.get("draft") or "").strip()
+            if not draft:
+                raise ValueError("빈 초안")
+            _, permalink = threads.post_reply(
+                ENV.get("THREADS_USER_ID"), ENV.get("THREADS_TOKEN"),
+                draft, d.get("comment_id"))
+            os.makedirs(REPLIED, exist_ok=True)
+            shutil.move(rpath, os.path.join(REPLIED, fname))
+            link = f"\n🔗 {permalink}" if permalink else ""
+            edit_message(chat_id, message_id, orig_text + f"\n\n✅ <b>답글 게시됨</b>{link}")
+            log(f"replied {fname} -> {permalink}")
+        except Exception as e:
+            log(f"REPLY FAILED {fname}: {e}")
+            edit_message(chat_id, message_id, orig_text + f"\n\n⚠️ <b>답글 실패</b>: {e}")
+        return
+
+    # ---- 초안 게시(post) 콜백 ----
     path = os.path.join(QUEUE, fname)
 
     if not os.path.exists(path):
