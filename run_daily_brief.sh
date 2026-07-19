@@ -62,6 +62,11 @@ fi
 # ---- safety: refresh manifest ----
 "$PYTHON" "$REPO/cleanup_old_briefs.py" >>"$LOG" 2>&1 || log "cleanup failed"
 
+# ---- Obsidian 제2의 뇌 기록 ----
+if [ -f "$REPO/briefs/$TODAY.json" ]; then
+  "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
+fi
+
 # ---- record git state after ----
 REV_AFTER="$("$GIT" rev-parse HEAD 2>/dev/null || echo none)"
 
