@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key><string>com.boomyboom.asset</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom-Biz/run_asset.sh</string>
+    </array>
+    <key>WorkingDirectory</key><string>/Applications/BoomyBoom-Biz</string>
+    <!-- 토요일 02:00 수익 자산 제작 -->
+    <key>StartCalendarInterval</key>
+    <dict><key>Weekday</key><integer>6</integer><key>Hour</key><integer>2</integer><key>Minute</key><integer>0</integer></dict>
+    <key>StandardOutPath</key><string>/Applications/BoomyBoom-Biz/logs/asset.launchd.out.log</string>
+    <key>StandardErrorPath</key><string>/Applications/BoomyBoom-Biz/logs/asset.launchd.err.log</string>
+    <key>RunAtLoad</key><false/>
+</dict>
+</plist>

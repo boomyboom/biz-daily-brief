@@ -5,7 +5,7 @@
 ## 소재
 - 시장 브리핑 JSON: `/Applications/BoomyBoom/briefs/<오늘날짜>.json` (KST) 를 읽는다.
   (kr=한국장, us=미국장, sectors=섹터 히트맵, assets=환율·금·코인, top_themes 등)
-- 톤·구조 규칙: `threads/voice.md`.
+- 톤·구조 규칙: `threads/voice.md`. `threads/growth_insights.md` 있으면 참고(잘 된 훅·시간대 패턴).
 
 ## ⚠️ 매우 중요 — 정보 전달용, 투자 권유 금지
 - **절대 매수/매도 추천을 하지 않는다.** "사라/팔아라/지금 담아라/손절해라" 등 일체 금지.
