@@ -53,17 +53,19 @@ def format_message(draft):
     if draft.get("source_name"):
         L.append(f"<i>출처: {esc(draft['source_name'])}</i>")
     L.append("————————")
-    L.append("👉 마음에 들면 <b>복사해서 스레드에 게시</b>하세요.")
-    L.append("(자동 게시는 Threads API 토큰 설정 후 활성화됩니다)")
+    L.append("아래 버튼으로 바로 게시하거나, 복사해서 직접 올리셔도 돼요.")
     return "\n".join(L)
 
 
-def send(token, chat_id, text):
+def send(token, chat_id, text, reply_markup=None):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    data = urllib.parse.urlencode({
+    payload = {
         "chat_id": chat_id, "text": text,
         "parse_mode": "HTML", "disable_web_page_preview": "true",
-    }).encode()
+    }
+    if reply_markup:
+        payload["reply_markup"] = json.dumps(reply_markup)
+    data = urllib.parse.urlencode(payload).encode()
     with urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=30) as r:
         return json.loads(r.read().decode())
 
@@ -81,7 +83,12 @@ def main():
         return 1
     with open(path) as f:
         draft = json.load(f)
-    res = send(token, chat_id, format_message(draft))
+    fname = os.path.basename(path)
+    keyboard = {"inline_keyboard": [[
+        {"text": "✅ 스레드에 게시", "callback_data": f"ok:{fname}"},
+        {"text": "❌ 스킵", "callback_data": f"skip:{fname}"},
+    ]]}
+    res = send(token, chat_id, format_message(draft), reply_markup=keyboard)
     if not res.get("ok"):
         print(f"ERROR: send failed: {res}", file=sys.stderr)
         return 1

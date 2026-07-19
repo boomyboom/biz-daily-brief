@@ -1,0 +1,123 @@
+#!/usr/bin/env python3
+"""Post text to Threads via the Threads Graph API.
+
+Reads THREADS_TOKEN / THREADS_USER_ID from .env. Two-step publish:
+  1) create a media container (media_type=TEXT)
+  2) publish the container
+Supports a thread series (post 1, then reply-chain the rest).
+
+CLI:
+  python3 post_to_threads.py --file threads/queue/pending-XXX.json
+  python3 post_to_threads.py --text "한 줄 글"
+  python3 post_to_threads.py --file ... --dry-run   # container만 생성(발행 안 함)
+"""
+import json
+import os
+import sys
+import time
+import urllib.request
+import urllib.parse
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+API = "https://graph.threads.net/v1.0"
+
+
+def load_env():
+    env = {}
+    p = os.path.join(ROOT, ".env")
+    if os.path.exists(p):
+        with open(p) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, v = line.split("=", 1)
+                    env[k.strip()] = v.strip()
+    return env
+
+
+def _post(path, params):
+    data = urllib.parse.urlencode(params).encode()
+    req = urllib.request.Request(f"{API}/{path}", data=data, method="POST")
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read().decode())
+
+
+def _get(path, params):
+    url = f"{API}/{path}?" + urllib.parse.urlencode(params)
+    with urllib.request.urlopen(url, timeout=30) as r:
+        return json.loads(r.read().decode())
+
+
+def create_container(uid, token, text, reply_to_id=None):
+    params = {"media_type": "TEXT", "text": text, "access_token": token}
+    if reply_to_id:
+        params["reply_to_id"] = reply_to_id
+    res = _post(f"{uid}/threads", params)
+    return res["id"]
+
+
+def publish(uid, token, creation_id):
+    # 텍스트는 대개 즉시 발행되나, 처리 지연 대비 재시도
+    last = None
+    for attempt in range(6):
+        try:
+            res = _post(f"{uid}/threads_publish", {"creation_id": creation_id, "access_token": token})
+            return res["id"]
+        except urllib.error.HTTPError as e:
+            last = e.read().decode()
+            time.sleep(5)
+    raise RuntimeError(f"publish failed: {last}")
+
+
+def permalink(token, media_id):
+    try:
+        return _get(f"{media_id}", {"fields": "permalink", "access_token": token}).get("permalink", "")
+    except Exception:
+        return ""
+
+
+def post_series(uid, token, posts, dry_run=False):
+    """Post a list of texts as a reply-chained series. Returns (first_media_id, permalink)."""
+    first_id, prev_id = None, None
+    for i, text in enumerate(posts):
+        cid = create_container(uid, token, text, reply_to_id=prev_id)
+        if dry_run:
+            print(f"[dry-run] container {i+1}/{len(posts)} created: {cid} (발행 안 함)")
+            return cid, ""
+        time.sleep(2)
+        mid = publish(uid, token, cid)
+        if first_id is None:
+            first_id = mid
+        prev_id = mid
+        time.sleep(2)
+    return first_id, permalink(token, first_id)
+
+
+def main():
+    args = sys.argv[1:]
+    dry = "--dry-run" in args
+    env = load_env()
+    token = env.get("THREADS_TOKEN")
+    uid = env.get("THREADS_USER_ID")
+    if not token or not uid:
+        print("ERROR: THREADS_TOKEN / THREADS_USER_ID missing in .env", file=sys.stderr)
+        return 1
+
+    posts = None
+    if "--file" in args:
+        path = args[args.index("--file") + 1]
+        with open(path) as f:
+            posts = json.load(f).get("posts") or []
+    elif "--text" in args:
+        posts = [args[args.index("--text") + 1]]
+    if not posts:
+        print("ERROR: no posts (use --file or --text)", file=sys.stderr)
+        return 1
+
+    mid, url = post_series(uid, token, posts, dry_run=dry)
+    print(json.dumps({"media_id": mid, "permalink": url, "dry_run": dry}, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

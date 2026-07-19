@@ -10,7 +10,10 @@ logs/
 
 # threads operational (transient drafts / posted history)
 threads/queue/
+threads/posted/
+threads/skipped/
 threads/posted.log
+threads/.tg_offset
 
 # macOS
 .DS_Store
