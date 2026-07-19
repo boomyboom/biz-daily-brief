@@ -44,6 +44,9 @@ if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_err
   exit 1
 fi
 
+# 마지막 질문 제거 (안전장치)
+"$PYTHON" "$REPO/strip_closing_question.py" >>"$LOG" 2>&1 || true
+
 AFTER="$(ls "$REPO/threads/queue"/pending-*.json 2>/dev/null | wc -l | tr -d ' ')"
 if [ "$AFTER" -gt "$BEFORE" ]; then
   log "새 초안 생성됨 → 텔레그램 전송"

@@ -41,6 +41,9 @@ if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_err
   send_alert "🔒 Claude 로그인 해제됨 — 시장 스레드 초안 실패. $CLAUDE → /login"; exit 1
 fi
 
+# 마지막 질문 제거 (안전장치)
+"$PYTHON" "$REPO/strip_closing_question.py" >>"$LOG" 2>&1 || true
+
 AFTER="$(ls "$REPO/threads/queue"/pending-mkt-*.json 2>/dev/null | wc -l | tr -d ' ')"
 if [ "$AFTER" -gt "$BEFORE" ]; then
   log "새 시장 초안 생성 → 텔레그램 전송"
