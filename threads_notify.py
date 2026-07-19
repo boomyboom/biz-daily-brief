@@ -72,7 +72,8 @@ def send(token, chat_id, text, reply_markup=None):
 
 def main():
     env = load_env()
-    token = env.get("TELEGRAM_BOT_TOKEN")
+    # 스레드 승인은 전용 봇으로 (getUpdates 충돌 방지). 없으면 메인 봇 폴백.
+    token = env.get("TELEGRAM_APPROVE_BOT_TOKEN") or env.get("TELEGRAM_BOT_TOKEN")
     chat_id = env.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
         print("ERROR: telegram creds missing", file=sys.stderr)

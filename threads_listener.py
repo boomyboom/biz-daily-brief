@@ -43,7 +43,8 @@ def load_env():
 
 
 ENV = load_env()
-TOKEN = ENV.get("TELEGRAM_BOT_TOKEN")
+# 스레드 승인 전용 봇 우선 (getUpdates 충돌 방지). 없으면 메인 봇 폴백.
+TOKEN = ENV.get("TELEGRAM_APPROVE_BOT_TOKEN") or ENV.get("TELEGRAM_BOT_TOKEN")
 CHAT_ID = str(ENV.get("TELEGRAM_CHAT_ID", ""))
 API = f"https://api.telegram.org/bot{TOKEN}"
 
