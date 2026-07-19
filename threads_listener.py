@@ -13,6 +13,7 @@ import json
 import os
 import sys
 import time
+import glob
 import shutil
 import urllib.request
 import urllib.parse
@@ -149,6 +150,14 @@ def handle_callback(cb):
         api("answerCallbackQuery", {"callback_query_id": cb_id, "text": "이미 처리된 초안이에요"})
         return
 
+    if action == "cancel":
+        os.makedirs(SKIPPED, exist_ok=True)
+        shutil.move(path, os.path.join(SKIPPED, fname))
+        api("answerCallbackQuery", {"callback_query_id": cb_id, "text": "자동 게시 취소됨"})
+        edit_message(chat_id, message_id, orig_text + "\n\n❌ <b>취소됨 (게시 안 함)</b>")
+        log(f"cancelled {fname}")
+        return
+
     if action == "skip":
         os.makedirs(SKIPPED, exist_ok=True)
         shutil.move(path, os.path.join(SKIPPED, fname))
@@ -176,6 +185,35 @@ def handle_callback(cb):
             edit_message(chat_id, message_id, orig_text + f"\n\n⚠️ <b>게시 실패</b>: {e}\n초안은 큐에 남겨뒀어요.")
 
 
+def check_auto_posts():
+    """예약된(auto_post_at) 초안 중 시간이 된 것을 자동 게시."""
+    now = time.time()
+    for path in glob.glob(os.path.join(QUEUE, "pending-*.json")):
+        try:
+            d = json.load(open(path))
+        except Exception:
+            continue
+        at = d.get("auto_post_at")
+        if not at or now < at:
+            continue
+        fname = os.path.basename(path)
+        posts = d.get("posts") or []
+        try:
+            _, permalink = threads.post_series(
+                ENV.get("THREADS_USER_ID"), ENV.get("THREADS_TOKEN"), posts)
+            os.makedirs(POSTED, exist_ok=True)
+            shutil.move(path, os.path.join(POSTED, fname))
+            link = f"\n🔗 {permalink}" if permalink else ""
+            if d.get("tg_message_id") and d.get("tg_chat_id"):
+                edit_message(d["tg_chat_id"], d["tg_message_id"],
+                             (d.get("tg_text") or "🧵 스레드") + f"\n\n✅ <b>자동 게시됨</b>{link}")
+            log(f"auto-posted {fname} -> {permalink}")
+        except Exception as e:
+            log(f"AUTO-POST FAILED {fname}: {e}")
+            d.pop("auto_post_at", None)  # 무한 재시도 방지, 초안은 남김
+            json.dump(d, open(path, "w"), ensure_ascii=False, indent=2)
+
+
 def main():
     if not TOKEN or not CHAT_ID:
         log("ERROR: telegram creds missing")
@@ -185,6 +223,7 @@ def main():
     offset = read_offset()
     while True:
         try:
+            check_auto_posts()   # 예약된 자동 게시 발사
             res = api("getUpdates", {
                 "offset": offset, "timeout": 50,
                 "allowed_updates": json.dumps(["callback_query"]),
