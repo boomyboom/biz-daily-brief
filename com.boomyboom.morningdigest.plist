@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key><string>com.boomyboom.morningdigest</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom-Biz/run_morning_digest.sh</string>
+    </array>
+    <key>WorkingDirectory</key><string>/Applications/BoomyBoom-Biz</string>
+    <!-- 매일 07:45 밤사이 야근 결과 다이제스트 -->
+    <key>StartCalendarInterval</key>
+    <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>45</integer></dict>
+    <key>StandardOutPath</key><string>/Applications/BoomyBoom-Biz/logs/digest.launchd.out.log</string>
+    <key>StandardErrorPath</key><string>/Applications/BoomyBoom-Biz/logs/digest.launchd.err.log</string>
+    <key>RunAtLoad</key><false/>
+</dict>
+</plist>

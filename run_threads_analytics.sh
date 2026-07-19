@@ -9,8 +9,6 @@ TODAY="$(date +%Y-%m-%d)"; LOG="$REPO/logs/analytics-$TODAY.log"
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG"; }
 
 log "===== analytics run start ====="
-"$PYTHON" "$REPO/analyze_threads.py" >>"$LOG" 2>&1 && log "분석 완료" || { log "분석 실패"; exit 1; }
-if [ -f "$REPO/logs/analytics_summary.txt" ]; then
-  bash "$REPO/send_telegram.sh" "$(cat "$REPO/logs/analytics_summary.txt")" >>"$LOG" 2>&1 && log "요약 전송" || log "전송 실패"
-fi
+# 새벽 실행: 텔레그램 즉시 발송 안 함. 요약 파일만 남기면 07:45 다이제스트가 보냄.
+"$PYTHON" "$REPO/analyze_threads.py" >>"$LOG" 2>&1 && log "분석 완료(요약은 아침 다이제스트로)" || log "분석 실패"
 log "===== analytics run end ====="

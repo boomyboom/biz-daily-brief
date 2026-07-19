@@ -18,13 +18,9 @@ RUN_OUT="$REPO/logs/scout-claude-$TODAY.out"
 "$CLAUDE" --model "$MODEL" -p "$PROMPT" \
   --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" >"$RUN_OUT" 2>&1
 log "claude exit: $?"; cat "$RUN_OUT" >>"$LOG"
+# 새벽 실행: 즉시 발송 안 함(밤에 안 울림). 오류는 아침 다이제스트로.
 if grep -qiE "Not logged in|Please run /login|Invalid API key|authentication_error|Unauthorized" "$RUN_OUT"; then
-  bash "$REPO/send_telegram.sh" "🔒 Claude 로그인 해제됨 — 사업 스카우트 실패. $CLAUDE → /login" >>"$LOG" 2>&1 || true; exit 1
+  echo "🔒 Claude 로그인 해제로 사업 스카우트 실패 ($CLAUDE → /login)" >> "$REPO/logs/overnight_error.txt"; exit 1
 fi
-if [ -f "$REPO/logs/scout_summary.txt" ]; then
-  bash "$REPO/send_telegram.sh" "🔎 <b>오늘의 사업 기회</b>
-$(cat "$REPO/logs/scout_summary.txt")
-
-📓 Obsidian: 20_사업뇌/기회/$TODAY 기회.md" >>"$LOG" 2>&1 && log "요약 전송" || log "전송 실패"
-fi
+log "요약은 아침 07:45 다이제스트로 전송됨"
 log "===== scout run end ====="
