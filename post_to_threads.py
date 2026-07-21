@@ -17,9 +17,20 @@ import sys
 import time
 import urllib.request
 import urllib.parse
+import urllib.error
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 API = "https://graph.threads.net/v1.0"
+
+
+def _meta_error(e):
+    """Extract the real Threads/Meta error message from an HTTPError body."""
+    try:
+        body = json.loads(e.read().decode())
+        err = body.get("error", {})
+        return f"{err.get('message')} (code {err.get('code')}, type {err.get('type')})"
+    except Exception:
+        return str(e)
 
 
 def load_env():
@@ -38,14 +49,20 @@ def load_env():
 def _post(path, params):
     data = urllib.parse.urlencode(params).encode()
     req = urllib.request.Request(f"{API}/{path}", data=data, method="POST")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Threads API: {_meta_error(e)}")
 
 
 def _get(path, params):
     url = f"{API}/{path}?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(url, timeout=30) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Threads API: {_meta_error(e)}")
 
 
 def create_container(uid, token, text, reply_to_id=None):

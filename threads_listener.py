@@ -187,6 +187,9 @@ def handle_callback(cb):
 
 def check_auto_posts():
     """예약된(auto_post_at) 초안 중 시간이 된 것을 자동 게시."""
+    # 게시 일시정지 스위치 (Meta API 차단 등): 파일 있으면 발사 안 함(초안은 큐에 보존)
+    if os.path.exists(os.path.join(ROOT, "threads", "POSTING_PAUSED")):
+        return
     now = time.time()
     for path in glob.glob(os.path.join(QUEUE, "pending-*.json")):
         try:
