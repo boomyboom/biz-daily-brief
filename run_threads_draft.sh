@@ -20,6 +20,11 @@ send_alert() { bash "$REPO/send_telegram.sh" "$1" >>"$LOG" 2>&1 || true; }
 
 log "===== threads draft run start (model=$MODEL) ====="
 
+# 봇 티 안 나게: 정각 대신 매번 2~5분 랜덤 지연 후 진행
+DELAY=$(( RANDOM % 181 + 120 ))
+log "랜덤 지연 ${DELAY}초 후 시작"
+sleep "$DELAY"
+
 RUN_OUT="$REPO/logs/threads-claude-$TODAY.out"
 BEFORE="$(ls "$REPO/threads/queue"/pending-*.json 2>/dev/null | wc -l | tr -d ' ')"
 
