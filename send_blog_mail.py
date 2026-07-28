@@ -18,6 +18,24 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 
+def humanize(t):
+    """Strip AI-tell punctuation (가운뎃점, 긴 줄표) the owner asked us to avoid."""
+    if not t:
+        return t
+    t = re.sub(r"[ \t]*[·・][ \t]*", ", ", t)
+    t = re.sub(r"[ \t]*[—–][ \t]*", ", ", t)
+    t = re.sub(r"(,[ \t]*){2,}", ", ", t)
+    t = re.sub(r"[ \t]{2,}", " ", t)
+    out = []
+    for ln in t.split("\n"):
+        ln = ln.rstrip()
+        ln = re.sub(r"^\s*,\s*", "", ln)
+        ln = re.sub(r"\s*,\s*$", "", ln)
+        ln = re.sub(r",\s*([.!?])", r"\1", ln)
+        out.append(ln)
+    return "\n".join(out)
+
+
 def esc_html(s):
     return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
@@ -26,7 +44,7 @@ def thread_to_html(posts):
     """Render a thread chain (hook + reply chunks) as blog paragraphs."""
     out = []
     for chunk in posts:
-        for para in re.split(r"\n\s*\n", (chunk or "").strip()):
+        for para in re.split(r"\n\s*\n", humanize(chunk or "").strip()):
             if para.strip():
                 out.append("<p>" + esc_html(para.strip()).replace("\n", "<br>") + "</p>")
     return "\n".join(out)
@@ -50,7 +68,7 @@ def collect_threads(date):
                 continue
             posts = d.get("posts") or []
             if posts:
-                items.append((d.get("topic") or "", thread_to_html(posts), name))
+                items.append((humanize(d.get("topic") or ""), thread_to_html(posts), name))
     # 파일명 뒤 시각(HHMM) 기준 정렬
     items.sort(key=lambda x: re.sub(r"\D", "", x[2]))
     return [(t, h) for t, h, _ in items]
@@ -120,10 +138,10 @@ def main():
         raw = open(path).read()
         lines = raw.split("\n")
         if lines and lines[0].startswith("<!-- 제목:"):
-            title = re.sub(r"^<!-- 제목:\s*|\s*-->$", "", lines[0]).strip()
-            body = "\n".join(lines[1:])
+            title = humanize(re.sub(r"^<!-- 제목:\s*|\s*-->$", "", lines[0]).strip())
+            body = humanize("\n".join(lines[1:]))
         else:
-            body = raw
+            body = humanize(raw)
 
     threads = collect_threads(date)
     if not body and not threads:
@@ -151,7 +169,7 @@ def main():
              f"제목: {title}\n\n"
              f"=====================================\n")
     html = guide + "\n".join(parts) + "\n=====================================\n"
-    subject = f"[티스토리 발행용] {date}" + (f" · {title[:40]}" if title else "")
+    subject = f"[티스토리 발행용] {date}" + (f" {title[:40]}" if title else "")
     send(to_addr, subject, html)
     print(f"OK: mailed {date} to {to_addr} (blog={'y' if body else 'n'}, threads={len(threads)})")
     return 0

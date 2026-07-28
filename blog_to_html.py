@@ -19,6 +19,24 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 POSTS = os.path.join(ROOT, "posts")
 
 
+def humanize(t):
+    """Remove AI-tell punctuation (가운뎃점, 긴 줄표) that the owner dislikes."""
+    if not t:
+        return t
+    t = re.sub(r"[ \t]*[·・][ \t]*", ", ", t)
+    t = re.sub(r"[ \t]*[—–][ \t]*", ", ", t)
+    t = re.sub(r"(,[ \t]*){2,}", ", ", t)
+    t = re.sub(r"[ \t]{2,}", " ", t)
+    out = []
+    for ln in t.split("\n"):
+        ln = ln.rstrip()
+        ln = re.sub(r"^\s*,\s*", "", ln)
+        ln = re.sub(r"\s*,\s*$", "", ln)
+        ln = re.sub(r",\s*([.!?])", r"\1", ln)
+        out.append(ln)
+    return "\n".join(out)
+
+
 def esc(s):
     return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
@@ -115,7 +133,7 @@ def split_title(md):
 
 
 def convert(path):
-    md = open(path).read()
+    md = humanize(open(path).read())
     title, body = split_title(md)
     html = md_to_html(body)
     out_path = os.path.join(os.path.dirname(path), "blog.html")
