@@ -62,6 +62,11 @@ fi
 # ---- safety: refresh manifest ----
 "$PYTHON" "$REPO/cleanup_old_briefs.py" >>"$LOG" 2>&1 || log "cleanup failed"
 
+# ---- 문장부호 정리 (가운뎃점, 긴 줄표 제거) ----
+if [ -f "$REPO/briefs/$TODAY.json" ]; then
+  "$PYTHON" "$REPO/humanize_brief.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 || log "humanize 실패"
+fi
+
 # ---- Obsidian 제2의 뇌 기록 ----
 if [ -f "$REPO/briefs/$TODAY.json" ]; then
   "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
