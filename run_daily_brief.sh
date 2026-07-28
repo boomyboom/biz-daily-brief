@@ -70,6 +70,8 @@ fi
 # ---- 티스토리 발행용 HTML 변환 (Open API 종료로 복붙 발행) ----
 if [ -f "$REPO/posts/$TODAY/blog.md" ]; then
   "$PYTHON" "$REPO/blog_to_html.py" "$REPO/posts/$TODAY/blog.md" >>"$LOG" 2>&1 && log "블로그 HTML 생성 OK" || log "블로그 HTML 변환 실패"
+  # Mail.app 계정이 설정돼 있으면 본인 주소로 발송 (없으면 조용히 건너뜀)
+  "$PYTHON" "$REPO/send_blog_mail.py" "$TODAY" >>"$LOG" 2>&1 && log "블로그 메일 발송 OK" || log "블로그 메일 발송 skip/실패 (Mail.app 계정 확인)"
 fi
 
 # ---- record git state after ----
