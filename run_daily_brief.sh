@@ -67,9 +67,15 @@ if [ -f "$REPO/briefs/$TODAY.json" ]; then
   "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
 fi
 
+# ---- 뉴스레터 심화 집필 (Opus 별도 패스) ----
+bash "$REPO/run_newsletter.sh" "$TODAY" >>"$LOG" 2>&1 && log "뉴스레터 집필 OK" || log "뉴스레터 집필 실패"
+
 # ---- 티스토리 발행용 HTML 변환 (Open API 종료로 복붙 발행) ----
-if [ -f "$REPO/posts/$TODAY/blog.md" ]; then
-  "$PYTHON" "$REPO/blog_to_html.py" "$REPO/posts/$TODAY/blog.md" >>"$LOG" 2>&1 && log "블로그 HTML 생성 OK" || log "블로그 HTML 변환 실패"
+# 깊이 있는 뉴스레터를 우선 발행용으로 쓰고, 없으면 blog.md 로 폴백
+SRC="$REPO/posts/$TODAY/newsletter.md"
+[ -f "$SRC" ] || SRC="$REPO/posts/$TODAY/blog.md"
+if [ -f "$SRC" ]; then
+  "$PYTHON" "$REPO/blog_to_html.py" "$SRC" >>"$LOG" 2>&1 && log "발행용 HTML 생성 OK ($(basename "$SRC"))" || log "발행용 HTML 변환 실패"
   # Mail.app 계정이 설정돼 있으면 본인 주소로 발송 (없으면 조용히 건너뜀)
   "$PYTHON" "$REPO/send_blog_mail.py" "$TODAY" >>"$LOG" 2>&1 && log "블로그 메일 발송 OK" || log "블로그 메일 발송 skip/실패 (Mail.app 계정 확인)"
 fi
