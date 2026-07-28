@@ -4,6 +4,7 @@
 
 ## 소재
 - 시장 브리핑 JSON: `/Applications/BoomyBoom/briefs/<오늘날짜>.json` (KST) 를 읽는다.
+- **직전 거래일 저녁 한국장 마감 브리핑** `/Applications/BoomyBoom/briefs/<직전 거래일>-kr.json` 이 있으면 함께 읽는다. 어제 저녁 스레드에서 이미 다룬 이야기를 그대로 반복하지 말고, **"어제는 ~였는데, 밤사이 ~"** 처럼 어제를 짧게 짚고 **밤사이 새로 생긴 것**에 무게를 둔다.
   (kr=한국장, us=미국장, sectors=섹터 히트맵, assets=환율·금·코인, top_themes 등)
 - 톤·구조 규칙: `threads/voice.md`. `threads/growth_insights.md` 있으면 참고(잘 된 훅·시간대 패턴).
 

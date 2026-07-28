@@ -162,11 +162,15 @@ def main():
                 parts.append(f"<h3>{esc_html(topic)}</h3>")
             parts.append(html)
 
+    links = (f"[바로가기]\n"
+             f"시장 브리핑: {env.get('MARKET_SITE_URL', 'https://boomyboom.github.io/market-daily-brief/')}\n"
+             + (f"비즈 브리핑: {env['SITE_URL']}\n" if env.get("SITE_URL") else ""))
     guide = (f"[티스토리 발행 방법]\n"
              f"1. 티스토리 글쓰기 → 우측 상단 '기본모드'를 'HTML'로 변경\n"
              f"2. 아래 ===== 사이 내용을 전체 복사해서 붙여넣기\n"
              f"3. 다시 '기본모드'로 돌아오면 서식이 적용돼 있습니다\n"
              f"제목: {title}\n\n"
+             f"{links}\n"
              f"=====================================\n")
     html = guide + "\n".join(parts) + "\n=====================================\n"
     subject = f"[티스토리 발행용] {date}" + (f" {title[:40]}" if title else "")
