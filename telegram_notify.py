@@ -52,7 +52,7 @@ def esc(s):
 
 def format_message(brief, site_url=""):
     L = []
-    L.append(f"💡 <b>오늘의 돈 되는 인사이트</b> — {esc(brief.get('date',''))}")
+    L.append(f"💡 <b>오늘의 돈 되는 인사이트</b> {esc(brief.get('date',''))}")
     if brief.get("headline"):
         L.append(f"<i>{esc(brief['headline'])}</i>")
     L.append("")
@@ -79,29 +79,43 @@ def format_message(brief, site_url=""):
     if cases:
         c = cases[0]
         who = esc(c.get("who"))
-        L.append(f"🏆 <b>사례</b>: {who} — {esc(c.get('what'))}")
+        L.append(f"🏆 <b>사례</b>: {who}, {esc(c.get('what'))}")
         if c.get("numbers"):
             L.append(f"   {esc(c['numbers'])}")
         L.append("")
 
     q = brief.get("quote") or {}
     if q.get("text"):
-        author = f" — {esc(q['author'])}" if q.get("author") else ""
+        author = f", {esc(q['author'])}" if q.get("author") else ""
         L.append(f"💬 <i>\"{esc(q['text'])}\"{author}</i>")
         L.append("")
 
     if site_url:
         L.append("━━━━━━━━━━━━━━")
-        L.append("📝 오늘의 뉴스레터 원고 + 채널별(블로그·스레드·인스타·유튜브) 변환본이 준비됐어요")
+        L.append("📝 오늘의 뉴스레터 원고와 채널별 변환본이 준비됐어요")
         L.append(f"📊 <a href=\"{esc(site_url)}\">사이트에서 전체 보기 →</a>")
     if brief.get("disclaimer"):
         L.append("")
         L.append(f"<i>{esc(brief['disclaimer'])}</i>")
 
-    msg = "\n".join(L)
-    if len(msg) > TG_LIMIT:
-        msg = msg[: TG_LIMIT - 20].rstrip() + "\n…(생략)"
-    return msg
+    return "\n".join(L)
+
+
+def split_message(msg, limit=TG_LIMIT):
+    """Split at line boundaries so nothing is dropped and no HTML tag is cut."""
+    if len(msg) <= limit:
+        return [msg]
+    parts, cur = [], []
+    for line in msg.split("\n"):
+        cand = ("\n".join(cur + [line])) if cur else line
+        if len(cand) > limit - 20 and cur:
+            parts.append("\n".join(cur)); cur = [line]
+        else:
+            cur.append(line)
+    if cur:
+        parts.append("\n".join(cur))
+    total = len(parts)
+    return [f"{p}\n\n<i>({i}/{total})</i>" for i, p in enumerate(parts, 1)]
 
 
 def send(token, chat_id, text):
@@ -137,10 +151,23 @@ def main():
         brief = json.load(f)
 
     text = format_message(brief, env.get("SITE_URL", ""))
-    res = send(token, chat_id, text)
-    if not res.get("ok"):
-        print(f"ERROR: telegram send failed: {res}", file=sys.stderr)
-        return 1
+    import time as _t
+    for i, part in enumerate(split_message(text), 1):
+        res = send(token, chat_id, part)
+        if not res.get("ok"):
+            print(f"ERROR: telegram send failed (part {i}): {res}", file=sys.stderr)
+            return 1
+        _t.sleep(1)
+    # 텔레그램 나갈 때마다 메일도 함께 (사장 요청)
+    try:
+        import mailer
+        to_addr = env.get("MAIL_TO")
+        if to_addr:
+            mailer.send_mail(to_addr,
+                             f"[비즈 브리핑] {brief.get('date','')} {(brief.get('headline') or '')[:40]}",
+                             mailer.strip_html(text))
+    except Exception as e:
+        print(f"mail skipped: {e}")
     print(f"OK: sent biz brief {brief.get('date')} to chat {chat_id}")
     return 0
 

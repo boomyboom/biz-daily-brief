@@ -143,9 +143,10 @@ def main():
         else:
             body = humanize(raw)
 
-    threads = collect_threads(date)
-    if not body and not threads:
-        print(f"no blog.html or threads for {date}", file=sys.stderr)
+    # 스레드는 각 초안이 생성될 때 개별 메일로 나가므로 여기서 묶지 않는다
+    threads = []
+    if not body:
+        print(f"no blog.html for {date}", file=sys.stderr)
         return 1
 
     parts = []

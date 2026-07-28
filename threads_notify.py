@@ -112,6 +112,20 @@ def main():
     if auto:
         draft["auto_post_at"] = int(time.time()) + delay_sec
     json.dump(draft, open(path, "w"), ensure_ascii=False, indent=2)
+    # 텔레그램 나갈 때마다 메일도 함께 (사장 요청)
+    try:
+        import mailer
+        to_addr = env.get("MAIL_TO")
+        if to_addr:
+            posts = draft.get("posts") or []
+            body = "\n\n———\n\n".join(posts)
+            note = ("자가검열 통과, 잠시 뒤 자동 게시됩니다." if auto
+                    else f"확인 필요: {reason or '검토 요망'}")
+            topic = draft.get("topic") or ""
+            mailer.send_mail(to_addr, f"[스레드] {topic[:45]}",
+                             f"{note}\n\n{'=' * 30}\n\n{body}\n")
+    except Exception as e:
+        print(f"mail skipped: {e}")
     print(f"OK: sent {fname} (auto={auto})")
     return 0
 
