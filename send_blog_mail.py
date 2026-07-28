@@ -18,6 +18,44 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 
+def esc_html(s):
+    return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def thread_to_html(posts):
+    """Render a thread chain (hook + reply chunks) as blog paragraphs."""
+    out = []
+    for chunk in posts:
+        for para in re.split(r"\n\s*\n", (chunk or "").strip()):
+            if para.strip():
+                out.append("<p>" + esc_html(para.strip()).replace("\n", "<br>") + "</p>")
+    return "\n".join(out)
+
+
+def collect_threads(date):
+    """Today's threads (posted + still queued), oldest first. Returns [(topic, html)]."""
+    import glob as _glob
+    import json as _json
+    stamp = date.replace("-", "")
+    seen, items = set(), []
+    for folder in ("posted", "queue"):
+        for path in sorted(_glob.glob(os.path.join(ROOT, "threads", folder, f"*{stamp}*.json"))):
+            name = os.path.basename(path)
+            if name in seen:
+                continue
+            seen.add(name)
+            try:
+                d = _json.load(open(path))
+            except Exception:
+                continue
+            posts = d.get("posts") or []
+            if posts:
+                items.append((d.get("topic") or "", thread_to_html(posts), name))
+    # 파일명 뒤 시각(HHMM) 기준 정렬
+    items.sort(key=lambda x: re.sub(r"\D", "", x[2]))
+    return [(t, h) for t, h, _ in items]
+
+
 def load_env():
     env = {}
     p = os.path.join(ROOT, ".env")
@@ -34,22 +72,36 @@ def applescript_escape(s):
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
-def send(to_addr, subject, html):
-    script = f'''
-    tell application "Mail"
-        set newMessage to make new outgoing message with properties ¬
-            {{subject:"{applescript_escape(subject)}", visible:false}}
-        tell newMessage
-            set html content to "{applescript_escape(html)}"
-            make new to recipient at end of to recipients ¬
-                with properties {{address:"{applescript_escape(to_addr)}"}}
-            send
+def send(to_addr, subject, text):
+    """Send via Mail.app as PLAIN TEXT.
+
+    Two hard-won details:
+      * `html content` silently produces an empty body on this Mail version, so
+        we send the HTML *source* as plain text — the user pastes it into
+        Tistory's HTML mode, which preserves formatting exactly.
+      * The body goes through a temp file; embedding it in the AppleScript
+        source breaks on newlines.
+    """
+    import tempfile
+    fd, tmp = tempfile.mkstemp(suffix=".txt")
+    with os.fdopen(fd, "w") as f:
+        f.write(text)
+    try:
+        script = f'''
+        set bodyText to (read POSIX file "{applescript_escape(tmp)}" as «class utf8»)
+        tell application "Mail"
+            set newMessage to make new outgoing message with properties {{subject:"{applescript_escape(subject)}", content:bodyText, visible:false}}
+            tell newMessage
+                make new to recipient at end of to recipients with properties {{address:"{applescript_escape(to_addr)}"}}
+            end tell
+            send newMessage
         end tell
-    end tell
-    '''
-    r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True, timeout=90)
-    if r.returncode != 0:
-        raise RuntimeError(r.stderr.strip() or "osascript failed")
+        '''
+        r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True, timeout=90)
+        if r.returncode != 0:
+            raise RuntimeError(r.stderr.strip() or "osascript failed")
+    finally:
+        os.unlink(tmp)
     return True
 
 
@@ -61,28 +113,47 @@ def main():
         return 1
 
     date = sys.argv[1] if len(sys.argv) > 1 else datetime.now().strftime("%Y-%m-%d")
+
+    title, body = "", ""
     path = os.path.join(ROOT, "posts", date, "blog.html")
-    if not os.path.exists(path):
-        print(f"no blog.html for {date}", file=sys.stderr)
+    if os.path.exists(path):
+        raw = open(path).read()
+        lines = raw.split("\n")
+        if lines and lines[0].startswith("<!-- 제목:"):
+            title = re.sub(r"^<!-- 제목:\s*|\s*-->$", "", lines[0]).strip()
+            body = "\n".join(lines[1:])
+        else:
+            body = raw
+
+    threads = collect_threads(date)
+    if not body and not threads:
+        print(f"no blog.html or threads for {date}", file=sys.stderr)
         return 1
 
-    raw = open(path).read()
-    lines = raw.split("\n")
-    title = ""
-    if lines and lines[0].startswith("<!-- 제목:"):
-        title = re.sub(r"^<!-- 제목:\s*|\s*-->$", "", lines[0]).strip()
-        body = "\n".join(lines[1:])
-    else:
-        body = raw
+    parts = []
+    if title:
+        parts.append(f"<h2>{esc_html(title)}</h2>")
+    if body:
+        parts.append(body)
 
-    guide = ('<p style="color:#888;font-size:13px">↓ 아래 제목부터 끝까지 드래그해서 복사 '
-             '→ 티스토리 에디터에 붙여넣기 (서식 유지됨)</p><hr>')
-    heading = f"<h2>{title}</h2>" if title else ""
-    html = guide + heading + body
+    # 오늘 나간 스레드 글들도 블로그용으로 함께
+    if threads:
+        parts.append('<hr>\n<h2>오늘의 짧은 글</h2>')
+        for topic, html in threads:
+            if topic:
+                parts.append(f"<h3>{esc_html(topic)}</h3>")
+            parts.append(html)
 
+    guide = (f"[티스토리 발행 방법]\n"
+             f"1. 티스토리 글쓰기 → 우측 상단 '기본모드'를 'HTML'로 변경\n"
+             f"2. 아래 ===== 사이 내용을 전체 복사해서 붙여넣기\n"
+             f"3. 다시 '기본모드'로 돌아오면 서식이 적용돼 있습니다\n"
+             f"제목: {title}\n\n"
+             f"=====================================\n")
+    html = guide + "\n".join(parts) + "\n=====================================\n"
     subject = f"[티스토리 발행용] {date}" + (f" · {title[:40]}" if title else "")
     send(to_addr, subject, html)
-    print(f"OK: mailed {date} blog to {to_addr}")
+    print(f"OK: mailed {date} to {to_addr} (blog={'y' if body else 'n'}, threads={len(threads)})")
     return 0
 
 
