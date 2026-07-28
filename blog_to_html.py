@@ -132,10 +132,23 @@ def split_title(md):
     return title, "\n".join(lines[body_start:])
 
 
+SVG_RE = re.compile(r"<svg\b.*?</svg>", re.S | re.I)
+
+
 def convert(path):
     md = humanize(open(path).read())
     title, body = split_title(md)
+    # 인라인 SVG 개념도는 마크다운 변환에서 이스케이프되면 깨지므로 빼뒀다가 되돌린다
+    svgs = []
+
+    def stash(m):
+        svgs.append(m.group(0))
+        return f"\n\nSVGPLACEHOLDER{len(svgs) - 1}\n\n"
+
+    body = SVG_RE.sub(stash, body)
     html = md_to_html(body)
+    for i, svg in enumerate(svgs):
+        html = html.replace(f"<p>SVGPLACEHOLDER{i}</p>", svg).replace(f"SVGPLACEHOLDER{i}", svg)
     out_path = os.path.join(os.path.dirname(path), "blog.html")
     with open(out_path, "w") as f:
         if title:

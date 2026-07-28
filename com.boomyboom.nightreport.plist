@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key><string>com.boomyboom.nightreport</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom-Biz/run_night_report.sh</string>
+    </array>
+    <key>WorkingDirectory</key><string>/Applications/BoomyBoom-Biz</string>
+    <!-- 07:30, 야근 결과가 다 나온 뒤 텔레그램 다이제스트(07:45) 직전 -->
+    <key>StartCalendarInterval</key>
+    <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>30</integer></dict>
+    <key>StandardOutPath</key><string>/Applications/BoomyBoom-Biz/logs/nightreport.launchd.out.log</string>
+    <key>StandardErrorPath</key><string>/Applications/BoomyBoom-Biz/logs/nightreport.launchd.err.log</string>
+    <key>RunAtLoad</key><false/>
+</dict>
+</plist>
