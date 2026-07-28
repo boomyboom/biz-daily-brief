@@ -44,8 +44,24 @@ def ensure_dirs(vault):
         os.makedirs(os.path.join(vault, d), exist_ok=True)
 
 
+FAILED = []
+
+
 def append_timeline(vault, folder, name, etype, date, context, daily_link, extra_fm=None):
-    """Ensure entity note exists; append a dated bullet (idempotent per date+daily)."""
+    """Ensure entity note exists; append a dated bullet (idempotent per date+daily).
+
+    One unwritable note must not abort the whole export (macOS can deny writes to
+    pre-existing vault files when this runs from launchd), so failures are
+    collected and reported instead of raised.
+    """
+    try:
+        return _append_timeline(vault, folder, name, etype, date, context, daily_link, extra_fm)
+    except Exception as e:
+        FAILED.append(f"{folder}/{safe_name(name)}: {e.__class__.__name__}")
+        return safe_name(name)
+
+
+def _append_timeline(vault, folder, name, etype, date, context, daily_link, extra_fm=None):
     name = safe_name(name)
     if not name:
         return None
@@ -63,7 +79,7 @@ def append_timeline(vault, folder, name, etype, date, context, daily_link, extra
     for line in content.splitlines():
         if line.startswith(f"- {date}") and marker in line:
             return name
-    bullet = f"- {date} {marker}" + (f" · {context}" if context else "")
+    bullet = f"- {date} {marker}" + (f" {context}" if context else "")
     if "## 이력" not in content:
         content += "\n## 이력\n"
     content = content.rstrip() + "\n" + bullet + "\n"
@@ -107,7 +123,7 @@ def build_market(vault, b, date):
             ctx = f"{s.get('change_pct','')} {s.get('reason') or s.get('thesis','')}".strip()
             append_timeline(vault, "10_주식뇌/종목", nm, "종목", date, ctx[:120], daily,
                             {"ticker": s.get("ticker"), "market": mkt})
-            L.append(f"- {link(nm)} {s.get('change_pct','')} — {s.get('reason') or s.get('thesis','')}")
+            L.append(f"- {link(nm)} {s.get('change_pct','')}: {s.get('reason') or s.get('thesis','')}")
         L.append("")
     # 섹터
     secs = (b.get("sectors", {}) or {}).get("kr", []) + (b.get("sectors", {}) or {}).get("us", [])
@@ -150,7 +166,7 @@ def build_biz(vault, b, date):
     if b.get("insights"):
         L.append("## 인사이트")
         for s in b["insights"]:
-            L.append(f"- **{s.get('title')}** — {s.get('takeaway','')}")
+            L.append(f"- **{s.get('title')}**: {s.get('takeaway','')}")
         L.append("")
     if b.get("trends"):
         L.append("## 트렌드/개념")
@@ -176,7 +192,7 @@ def build_biz(vault, b, date):
                 append_timeline(vault, "20_사업뇌/인물기업", nm, "인물기업", date, "", daily)
         if srcs:
             L.append("## 출처")
-            L.append(" · ".join(link(s) for s in srcs))
+            L.append(", ".join(link(s) for s in srcs))
             L.append("")
     return os.path.join(vault, "20_사업뇌/_데일리", f"{daily}.md"), "\n".join(L)
 
@@ -195,7 +211,12 @@ def main():
     else:
         path, content = build_market(vault, b, date)
     open(path, "w").write(content)
-    print(f"OK: wrote {os.path.relpath(path, vault)} (+ entity timelines)")
+    msg = f"OK: wrote {os.path.relpath(path, vault)} (+ entity timelines)"
+    if FAILED:
+        msg += f"\nWARN: {len(FAILED)} note(s) not updated: " + ", ".join(FAILED[:8])
+        if len(FAILED) > 8:
+            msg += f" (+{len(FAILED) - 8} more)"
+    print(msg)
     return 0
 
 
