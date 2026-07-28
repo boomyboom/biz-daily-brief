@@ -67,6 +67,11 @@ if [ -f "$REPO/briefs/$TODAY.json" ]; then
   "$PYTHON" "$REPO/brief_to_obsidian.py" "$REPO/briefs/$TODAY.json" >>"$LOG" 2>&1 && log "obsidian 기록 OK" || log "obsidian export 실패"
 fi
 
+# ---- 티스토리 발행용 HTML 변환 (Open API 종료로 복붙 발행) ----
+if [ -f "$REPO/posts/$TODAY/blog.md" ]; then
+  "$PYTHON" "$REPO/blog_to_html.py" "$REPO/posts/$TODAY/blog.md" >>"$LOG" 2>&1 && log "블로그 HTML 생성 OK" || log "블로그 HTML 변환 실패"
+fi
+
 # ---- record git state after ----
 REV_AFTER="$("$GIT" rev-parse HEAD 2>/dev/null || echo none)"
 
