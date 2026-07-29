@@ -49,26 +49,9 @@ def html_to_text(html):
 
 
 def send(to_addr, subject, text):
-    import tempfile
-    fd, tmp = tempfile.mkstemp(suffix=".txt")
-    with os.fdopen(fd, "w") as f:
-        f.write(text)
-    try:
-        script = f'''
-        set bodyText to (read POSIX file "{applescript_escape(tmp)}" as «class utf8»)
-        tell application "Mail"
-            set m to make new outgoing message with properties {{subject:"{applescript_escape(subject)}", content:bodyText, visible:false}}
-            tell m
-                make new to recipient at end of to recipients with properties {{address:"{applescript_escape(to_addr)}"}}
-            end tell
-            send m
-        end tell
-        '''
-        r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True, timeout=90)
-        if r.returncode != 0:
-            raise RuntimeError(r.stderr.strip() or "osascript failed")
-    finally:
-        os.unlink(tmp)
+    """Delegates to the shared mailer (ensures Mail.app is up, retries once)."""
+    import mailer
+    return mailer.send_mail(to_addr, subject, text)
 
 
 def main():

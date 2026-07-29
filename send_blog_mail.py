@@ -91,36 +91,9 @@ def applescript_escape(s):
 
 
 def send(to_addr, subject, text):
-    """Send via Mail.app as PLAIN TEXT.
-
-    Two hard-won details:
-      * `html content` silently produces an empty body on this Mail version, so
-        we send the HTML *source* as plain text — the user pastes it into
-        Tistory's HTML mode, which preserves formatting exactly.
-      * The body goes through a temp file; embedding it in the AppleScript
-        source breaks on newlines.
-    """
-    import tempfile
-    fd, tmp = tempfile.mkstemp(suffix=".txt")
-    with os.fdopen(fd, "w") as f:
-        f.write(text)
-    try:
-        script = f'''
-        set bodyText to (read POSIX file "{applescript_escape(tmp)}" as «class utf8»)
-        tell application "Mail"
-            set newMessage to make new outgoing message with properties {{subject:"{applescript_escape(subject)}", content:bodyText, visible:false}}
-            tell newMessage
-                make new to recipient at end of to recipients with properties {{address:"{applescript_escape(to_addr)}"}}
-            end tell
-            send newMessage
-        end tell
-        '''
-        r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True, timeout=90)
-        if r.returncode != 0:
-            raise RuntimeError(r.stderr.strip() or "osascript failed")
-    finally:
-        os.unlink(tmp)
-    return True
+    """Delegates to the shared mailer (ensures Mail.app is up, retries once)."""
+    import mailer
+    return mailer.send_mail(to_addr, subject, text)
 
 
 def main():

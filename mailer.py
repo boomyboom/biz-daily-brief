@@ -39,9 +39,32 @@ def strip_html(t):
              .replace("&gt;", ">").replace("&quot;", '"').replace("&#x27;", "'"))
 
 
-def send_mail(to_addr, subject, text, timeout=90):
+def ensure_mail_running(wait=25):
+    """Start Mail.app and wait until it answers Apple events.
+
+    Scheduled sends were hanging the full timeout because Mail was not running:
+    `tell application "Mail"` tries to launch it, and that launch stalls in a
+    background launchd context. Launching it explicitly first fixes that.
+    """
+    import time
+    running = subprocess.run(["pgrep", "-x", "Mail"], capture_output=True).returncode == 0
+    if not running:
+        subprocess.run(["open", "-g", "-a", "Mail"], capture_output=True)
+    deadline = time.time() + wait
+    while time.time() < deadline:
+        probe = subprocess.run(
+            ["osascript", "-e", 'with timeout of 5 seconds\ntell application "Mail" to count accounts\nend timeout'],
+            capture_output=True, text=True, timeout=15)
+        if probe.returncode == 0:
+            return True
+        time.sleep(2)
+    return False
+
+
+def send_mail(to_addr, subject, text, timeout=90, retries=1):
     """Send plain-text mail through Mail.app. Raises on failure."""
     import tempfile
+    ensure_mail_running()
     fd, tmp = tempfile.mkstemp(suffix=".txt")
     with os.fdopen(fd, "w") as f:
         f.write(text)
@@ -56,9 +79,18 @@ def send_mail(to_addr, subject, text, timeout=90):
             send m
         end tell
         '''
-        r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True, timeout=timeout)
-        if r.returncode != 0:
-            raise RuntimeError(r.stderr.strip() or "osascript failed")
+        last = None
+        for attempt in range(retries + 1):
+            try:
+                r = subprocess.run(["osascript", "-e", script],
+                                   capture_output=True, text=True, timeout=timeout)
+                if r.returncode == 0:
+                    return True
+                last = r.stderr.strip() or "osascript failed"
+            except subprocess.TimeoutExpired:
+                last = f"timed out after {timeout}s"
+            if attempt < retries:
+                ensure_mail_running()
+        raise RuntimeError(last)
     finally:
         os.unlink(tmp)
-    return True
