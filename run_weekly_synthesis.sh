@@ -25,7 +25,7 @@ if ! command -v "$CLAUDE" >/dev/null 2>&1 && [ ! -x "$CLAUDE" ]; then
   log "ERROR: claude CLI not found"; exit 1
 fi
 
-PROMPT="$(cat "$REPO/SYNTHESIS_PROMPT.md")
+PROMPT="$(cat "$REPO/WIKI_MAINTAIN_PROMPT.md")
 
 [실행 정보]
 - 볼트 경로: $VAULT

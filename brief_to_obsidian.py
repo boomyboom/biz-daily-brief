@@ -61,28 +61,61 @@ def append_timeline(vault, folder, name, etype, date, context, daily_link, extra
         return safe_name(name)
 
 
+STUB = """---
+type: {etype}
+name: {name}
+{extra}updated: {date}
+---
+
+# {name}
+
+## 현재 상황
+(주간 유지보수가 채운다)
+
+## 반복 패턴
+(주간 유지보수가 채운다)
+
+## 관련
+
+## 이력
+"""
+
+
 def _append_timeline(vault, folder, name, etype, date, context, daily_link, extra_fm=None):
+    """Prepend today's line under `## 이력` and refresh the `updated:` stamp.
+
+    Newest first, because the useful question is "what is going on now", not
+    "what happened first". The summary sections above the history are owned by
+    the weekly maintenance pass; this function never touches them.
+    """
     name = safe_name(name)
     if not name:
         return None
     path = os.path.join(vault, folder, f"{name}.md")
     if not os.path.exists(path):
-        fm = [f"type: {etype}", f"name: {name}"]
-        for k, v in (extra_fm or {}).items():
-            if v:
-                fm.append(f"{k}: {v}")
-        header = "---\n" + "\n".join(fm) + "\n---\n\n" + f"# {name}\n\n## 이력\n"
-        open(path, "w").write(header)
+        extra = "".join(f"{k}: {v}\n" for k, v in (extra_fm or {}).items() if v)
+        open(path, "w").write(STUB.format(etype=etype, name=name, extra=extra, date=date))
+
     content = open(path).read()
     marker = f"[[{daily_link}]]"
-    # 같은 날 같은 데일리 노트 중복 방지
-    for line in content.splitlines():
+    for line in content.splitlines():           # 같은 날 중복 방지
         if line.startswith(f"- {date}") and marker in line:
             return name
+
     bullet = f"- {date} {marker}" + (f" {context}" if context else "")
-    if "## 이력" not in content:
-        content += "\n## 이력\n"
-    content = content.rstrip() + "\n" + bullet + "\n"
+    if "## 이력" in content:
+        head, hist = content.split("## 이력", 1)
+        hist = hist.lstrip("\n")
+        content = head + "## 이력\n" + bullet + "\n" + hist
+    else:
+        content = content.rstrip() + "\n\n## 이력\n" + bullet + "\n"
+
+    # updated 스탬프 갱신 (없으면 추가)
+    if re.search(r"^updated:.*$", content, re.M):
+        content = re.sub(r"^updated:.*$", f"updated: {date}", content, count=1, flags=re.M)
+    else:
+        content = re.sub(r"^---\n", f"---\nupdated: {date}\n", content, count=1)
+
     open(path, "w").write(content)
     return name
 
