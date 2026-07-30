@@ -114,8 +114,9 @@ def main():
     json.dump(draft, open(path, "w"), ensure_ascii=False, indent=2)
     # 메일은 스레드 초안이 아니라 복붙용 HTML 글로 보낸다 (사장 요청).
     # 한국장 스레드는 브리핑 메일과 겹치므로 메일을 보내지 않는다.
+    # 2026-07-30: 사장 요청으로 [발행용] 메일은 일단 보내지 않음 (코드는 유지, .env에서 재활성화 가능)
     try:
-        if not fname.startswith("pending-kr-"):
+        if env.get("SEND_ARTICLE_MAIL", "0") == "1" and not fname.startswith("pending-kr-"):
             import mailer, piece_to_html
             to_addr = env.get("MAIL_TO")
             if to_addr:
