@@ -25,3 +25,6 @@ threads/growth_insights.md
 products/
 threads/analytics/
 threads/POSTING_PAUSED
+
+# 스토리 후보는 운영 데이터
+stories/candidates.json
