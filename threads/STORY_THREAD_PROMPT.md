@@ -28,6 +28,23 @@
 - 숫자와 고유명사를 아끼지 않는다. 구체적일수록 잘 읽힌다.
 - 이모지는 0~2개.
 
+## 🖼 카드 이미지 (선택, 있으면 좋다)
+
+스레드는 이미지가 붙으면 눈에 더 잘 띈다. 이야기 구조를 한 장으로 보여주는 **카드**를 만들어 첫 포스트에 붙인다.
+
+1. 1000x1000 정사각형 SVG 를 만든다. 흰 배경, 제목은 굵게, 시간순 항목 3~4개를 색 블록으로.
+   - 폰트: `font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"`
+   - 글자 크기 24 이상 (작으면 모바일에서 안 읽힌다)
+   - 색: 제목 `#111`, 파랑 블록 `#eef4fc`/`#1a4f8a`, 빨강 `#fdeeec`/`#a8322a`, 초록 `#eaf7ef`/`#1d6b40`, 보라 `#f5f0fb`/`#5b3a8a`
+   - 외부 이미지나 폰트를 참조하지 않는다. 도형과 텍스트만.
+2. SVG 를 임시 파일로 저장하고 `python3 make_card.py <svg파일> <슬러그>` 를 실행한다.
+   슬러그는 `YYYY-MM-DD-주제` 형태. 성공하면 공개 URL 이 출력된다.
+3. 그 URL 을 초안 JSON 의 `images` 에 넣는다. 키는 포스트 번호(문자열)다.
+   ```json
+   "images": { "0": "https://boomyboom.github.io/market-daily-brief/cards/....png" }
+   ```
+4. 카드 제작이 실패하면 **그냥 이미지 없이 진행**한다. 글이 우선이다.
+
 ## ⚠️ 절대 원칙
 - **`facts` 에 있는 검증된 사실만 쓴다.** 후보에 없는 내용을 지어내거나 추측으로 채우지 않는다.
 - **루머, 미확인 주장, 음모론을 쓰지 않는다.** 조회수가 나와도 안 쓴다.
@@ -46,7 +63,7 @@
 ## 저장
 1. `threads/queue/pending-story-<YYYYMMDD-HHMM>.json`:
 ```json
-{ "created_at": "", "topic": "이야기 제목", "posts": ["훅", "..."], "source_name": "", "source_url": "", "review_ok": true, "review_reason": "" }
+{ "created_at": "", "topic": "이야기 제목", "posts": ["훅", "..."], "source_name": "", "source_url": "", "review_ok": true, "review_reason": "", "images": {} }
 ```
 2. `stories/candidates.json` 에서 사용한 후보의 `used` 를 `true` 로 바꾼다.
 3. 텔레그램 발송은 하지 마라. 러너가 처리한다.

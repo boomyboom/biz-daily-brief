@@ -174,7 +174,8 @@ def handle_callback(cb):
             posts = draft.get("posts") or []
             uid = ENV.get("THREADS_USER_ID")
             ttoken = ENV.get("THREADS_TOKEN")
-            _, permalink = threads.post_series(uid, ttoken, posts)
+            _, permalink = threads.post_series(uid, ttoken, posts,
+                                                images=draft.get("images"))
             os.makedirs(POSTED, exist_ok=True)
             shutil.move(path, os.path.join(POSTED, fname))
             link = f"\n🔗 {permalink}" if permalink else ""
@@ -203,7 +204,8 @@ def check_auto_posts():
         posts = d.get("posts") or []
         try:
             _, permalink = threads.post_series(
-                ENV.get("THREADS_USER_ID"), ENV.get("THREADS_TOKEN"), posts)
+                ENV.get("THREADS_USER_ID"), ENV.get("THREADS_TOKEN"), posts,
+                images=d.get("images"))
             os.makedirs(POSTED, exist_ok=True)
             shutil.move(path, os.path.join(POSTED, fname))
             link = f"\n🔗 {permalink}" if permalink else ""

@@ -65,8 +65,12 @@ def _get(path, params):
         raise RuntimeError(f"Threads API: {_meta_error(e)}")
 
 
-def create_container(uid, token, text, reply_to_id=None):
+def create_container(uid, token, text, reply_to_id=None, image_url=None):
+    """Threads fetches images by public URL, so image_url must be reachable."""
     params = {"media_type": "TEXT", "text": text, "access_token": token}
+    if image_url:
+        params["media_type"] = "IMAGE"
+        params["image_url"] = image_url
     if reply_to_id:
         params["reply_to_id"] = reply_to_id
     res = _post(f"{uid}/threads", params)
@@ -101,11 +105,17 @@ def post_reply(uid, token, text, reply_to_id):
     return mid, permalink(token, mid)
 
 
-def post_series(uid, token, posts, dry_run=False):
-    """Post a list of texts as a reply-chained series. Returns (first_media_id, permalink)."""
+def post_series(uid, token, posts, dry_run=False, images=None):
+    """Post a list of texts as a reply-chained series. Returns (first_media_id, permalink).
+
+    `images` maps a post index to a public image URL, so a card can be attached
+    to the hook without forcing every chunk to carry one.
+    """
+    images = images or {}
     first_id, prev_id = None, None
     for i, text in enumerate(posts):
-        cid = create_container(uid, token, text, reply_to_id=prev_id)
+        cid = create_container(uid, token, text, reply_to_id=prev_id,
+                               image_url=images.get(i) or images.get(str(i)))
         if dry_run:
             print(f"[dry-run] container {i+1}/{len(posts)} created: {cid} (발행 안 함)")
             return cid, ""
