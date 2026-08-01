@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/bin/bash</string>
+        <string>/Applications/BoomyBoom Obsidian Agent.app/Contents/MacOS/boomyboom-obsidian-agent</string>
         <string>/Applications/BoomyBoom-Biz/run_daily_brief.sh</string>
     </array>
 
