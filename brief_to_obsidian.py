@@ -126,7 +126,8 @@ def link(name):
 
 
 def build_market(vault, b, date):
-    daily = f"{date} 시장"
+    session_label = "마감" if b.get("session") == "kr_close" else "아침"
+    daily = f"{date} 시장 {session_label}"
     kr = b.get("kr", {}) or {}
     us = b.get("us", {}) or {}
     L = ["---", "type: 데일리-시장", f"date: {date}", "tags: [주식뇌, 시장브리핑]", "---", ""]
