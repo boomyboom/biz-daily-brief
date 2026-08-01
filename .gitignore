@@ -1,32 +1,9 @@
-# secrets — never commit
-.env
+# GitHub Pages 공개 파일만 추적한다.
+# 자동화 코드와 내부 운영 자료는 이 폴더에 그대로 두되 Git에는 올리지 않는다.
+/*
+!/.gitignore
+!/index.html
+!/briefs/
 
-# local machine settings
-.claude/settings.local.json
-
-# logs
-logs/
-*.log
-
-# threads operational (transient drafts / posted history)
-threads/queue/
-threads/posted/
-threads/skipped/
-threads/replied/
-threads/replies_queue/
-threads/replies_skipped/
-threads/replies_seen.json
-threads/posted.log
-threads/.tg_offset
-
-# macOS
-.DS_Store
-threads/motivation_posted.log
-threads/growth_insights.md
-products/
-threads/analytics/
-threads/analytics_history/
-threads/POSTING_PAUSED
-
-# 스토리 후보는 운영 데이터
-stories/candidates.json
+# 내부 중복 방지 데이터
+/briefs/seen_urls.json
