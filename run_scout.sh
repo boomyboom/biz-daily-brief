@@ -2,7 +2,11 @@
 # Business-opportunity scout (healthcare/senior) → Obsidian 사업뇌/기회 + Telegram.
 set -uo pipefail
 REPO="/Applications/BoomyBoom-Biz"; cd "$REPO" || exit 1
-[ -f "$REPO/.env" ] && { set -a; source "$REPO/.env"; set +a; }
+if [ -f "$REPO/.env" ]; then
+  set -a
+  source "$REPO/.env"
+  set +a
+fi
 CLAUDE="${CLAUDE_BIN:-claude}"; MODEL="${SCOUT_MODEL:-sonnet}"
 VAULT="${OBSIDIAN_VAULT:-/Users/boomyboom/Documents/Obsidian Vault}"
 mkdir -p "$REPO/logs" "$VAULT/20_사업뇌/기회"
@@ -15,7 +19,7 @@ PROMPT="$(cat "$REPO/SCOUT_PROMPT.md")
 
 [실행 정보] 볼트 경로: $VAULT / 오늘 날짜: $TODAY"
 RUN_OUT="$REPO/logs/scout-claude-$TODAY.out"
-"$CLAUDE" --model "$MODEL" -p "$PROMPT" \
+env -u TELEGRAM_BOT_TOKEN -u TELEGRAM_CHAT_ID -u TELEGRAM_APPROVE_BOT_TOKEN -u THREADS_TOKEN -u MAIL_TO -u NIGHT_REPORT_TO -u OBSIDIAN_VAULT "$CLAUDE" --model "$MODEL" -p "$PROMPT" \
   --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" >"$RUN_OUT" 2>&1
 log "claude exit: $?"; cat "$RUN_OUT" >>"$LOG"
 # 새벽 실행: 즉시 발송 안 함(밤에 안 울림). 오류는 아침 다이제스트로.

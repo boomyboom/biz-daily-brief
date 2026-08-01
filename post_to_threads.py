@@ -23,6 +23,13 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 API = "https://graph.threads.net/v1.0"
 
 
+class ThreadsAPIError(RuntimeError):
+    def __init__(self, status, detail):
+        super().__init__(f"Threads API HTTP {status}: {detail}")
+        self.status = status
+        self.detail = detail
+
+
 def _meta_error(e):
     """Extract the real Threads/Meta error message from an HTTPError body."""
     try:
@@ -53,7 +60,7 @@ def _post(path, params):
         with urllib.request.urlopen(req, timeout=30) as r:
             return json.loads(r.read().decode())
     except urllib.error.HTTPError as e:
-        raise RuntimeError(f"Threads API: {_meta_error(e)}")
+        raise ThreadsAPIError(e.code, _meta_error(e))
 
 
 def _get(path, params):
@@ -84,9 +91,18 @@ def publish(uid, token, creation_id):
         try:
             res = _post(f"{uid}/threads_publish", {"creation_id": creation_id, "access_token": token})
             return res["id"]
-        except urllib.error.HTTPError as e:
-            last = e.read().decode()
-            time.sleep(5)
+        except ThreadsAPIError as e:
+            last = str(e)
+            processing_400 = e.status == 400 and any(
+                hint in str(e.detail).lower()
+                for hint in ("not ready", "not finished", "processing", "try again")
+            )
+            if not processing_400 and e.status != 429 and e.status < 500:
+                raise
+            time.sleep(5 * (attempt + 1))
+        except urllib.error.URLError as e:
+            last = str(e)
+            time.sleep(5 * (attempt + 1))
     raise RuntimeError(f"publish failed: {last}")
 
 

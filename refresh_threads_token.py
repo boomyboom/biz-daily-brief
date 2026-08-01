@@ -13,6 +13,7 @@ import os
 import sys
 import re
 import urllib.request
+import urllib.error
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 ENV_PATH = os.path.join(ROOT, ".env")
@@ -54,10 +55,20 @@ def main():
     try:
         with urllib.request.urlopen(url, timeout=30) as r:
             res = json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        try:
+            body = json.loads(e.read().decode())
+            message = str((body.get("error") or {}).get("message") or "")
+        except Exception:
+            message = ""
+        if e.code == 400 and any(word in message.lower() for word in ("24 hour", "24-hour", "too early", "cannot be refreshed")):
+            print("refresh skipped: token is not old enough")
+            return 0
+        print(f"refresh failed: HTTP {e.code} {message[:160]}", file=sys.stderr)
+        return 1
     except Exception as e:
-        # <24h old or short-lived token → refuse; leave as-is
-        print(f"refresh skipped/failed: {e}", file=sys.stderr)
-        return 0
+        print(f"refresh failed: {e.__class__.__name__}", file=sys.stderr)
+        return 1
     new = res.get("access_token")
     if new:
         set_env_value("THREADS_TOKEN", new)

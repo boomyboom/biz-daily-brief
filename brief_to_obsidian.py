@@ -250,7 +250,7 @@ def main():
         if len(FAILED) > 8:
             msg += f" (+{len(FAILED) - 8} more)"
     print(msg)
-    return 0
+    return 2 if FAILED else 0
 
 
 if __name__ == "__main__":

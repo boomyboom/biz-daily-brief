@@ -3,7 +3,11 @@
 # so nothing pings during the night. Sends then clears the summary files.
 set -uo pipefail
 REPO="/Applications/BoomyBoom-Biz"; cd "$REPO" || exit 1
-[ -f "$REPO/.env" ] && { set -a; source "$REPO/.env"; set +a; }
+if [ -f "$REPO/.env" ]; then
+  set -a
+  source "$REPO/.env"
+  set +a
+fi
 mkdir -p "$REPO/logs"
 LOG="$REPO/logs/digest-$(date +%Y-%m-%d).log"
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG"; }

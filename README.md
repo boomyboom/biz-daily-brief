@@ -1,4 +1,4 @@
-# BoomyBoom · Biz Insight Daily Brief
+# BoomyBoom & Biz Insight Daily Brief
 
 매일 **정오 12:00 KST**에 비즈니스 유튜버·뉴스레터·해외/국내 매체에서 **돈 되는 인사이트**를 종합해서
 - 💡 **비즈 브리핑** (인사이트·트렌드·사례·도구)

@@ -5,7 +5,11 @@ set -uo pipefail
 
 REPO="/Applications/BoomyBoom-Biz"
 cd "$REPO" || exit 1
-[ -f "$REPO/.env" ] && { set -a; source "$REPO/.env"; set +a; }
+if [ -f "$REPO/.env" ]; then
+  set -a
+  source "$REPO/.env"
+  set +a
+fi
 
 PYTHON="${PYTHON_BIN:-/usr/bin/python3}"
 CLAUDE="${CLAUDE_BIN:-claude}"
@@ -34,7 +38,7 @@ sleep "$DELAY"
 
 RUN_OUT="$REPO/logs/story-thread-claude-$TODAY.out"
 BEFORE="$(ls "$REPO/threads/queue"/pending-story-*.json 2>/dev/null | wc -l | tr -d ' ')"
-"$CLAUDE" --model "$MODEL" -p "$(cat "$REPO/threads/STORY_THREAD_PROMPT.md")" \
+env -u TELEGRAM_BOT_TOKEN -u TELEGRAM_CHAT_ID -u TELEGRAM_APPROVE_BOT_TOKEN -u THREADS_TOKEN -u MAIL_TO -u NIGHT_REPORT_TO -u OBSIDIAN_VAULT "$CLAUDE" --model "$MODEL" -p "$(cat "$REPO/threads/STORY_THREAD_PROMPT.md")" \
   --allowedTools "Bash,Read,Write,Edit,Glob,Grep" >"$RUN_OUT" 2>&1
 log "claude exit: $?"
 cat "$RUN_OUT" >>"$LOG"

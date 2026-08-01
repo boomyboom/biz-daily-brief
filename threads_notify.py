@@ -16,9 +16,17 @@ import html
 import time
 import urllib.request
 import urllib.parse
+import re
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 QUEUE = os.path.join(ROOT, "threads", "queue")
+BAD_PUNCT = ("·", "・", "—", "–")
+SENSITIVE = (
+    "대통령", "국회의원", "정당", "선거", "탄핵", "좌파", "우파",
+    "젠더갈등", "남녀갈등", "지역갈등", "인종갈등", "참사", "재난",
+    "노조", "파업",
+)
+DIRECT_ADVICE = ("매수하세요", "매도하세요", "사세요", "팔아야 합니다", "추천 종목", "진입가", "손절가", "익절가", "수익 보장")
 
 
 def load_env():
@@ -44,6 +52,32 @@ def newest_pending():
     return max(files, key=os.path.getmtime) if files else None
 
 
+def deterministic_review(draft):
+    errors = []
+    posts = draft.get("posts") or []
+    if not 1 <= len(posts) <= 8:
+        errors.append("포스트 수가 1~8개 범위를 벗어남")
+    for index, post in enumerate(posts, 1):
+        text = str(post or "").strip()
+        if not text:
+            errors.append(f"{index}번 포스트가 비어 있음")
+        if len(text) > 500:
+            errors.append(f"{index}번 포스트가 500자 초과")
+        if any(mark in text for mark in BAD_PUNCT):
+            errors.append(f"{index}번 포스트에 금지 문장부호 포함")
+        hit = next((word for word in SENSITIVE if word in text), None)
+        if hit:
+            errors.append(f"{index}번 포스트에 민감 주제 포함 ({hit})")
+        advice = next((word for word in DIRECT_ADVICE if word in text), None)
+        if advice:
+            errors.append(f"{index}번 포스트에 직접 투자 지시 포함 ({advice})")
+    if posts:
+        last = str(posts[-1]).strip()
+        if last.endswith("?") or re.search(r"(어떻게 생각|무엇인가요|어디인가요|하시나요|인가요)[?.!]*$", last):
+            errors.append("마지막 질문 문장 포함")
+    return errors
+
+
 def format_message(draft, auto, delay_min, reason):
     posts = draft.get("posts") or []
     L = ["🧵 <b>스레드 초안</b>"]
@@ -54,7 +88,7 @@ def format_message(draft, auto, delay_min, reason):
         prefix = f"<b>{i}/{len(posts)}</b> " if len(posts) > 1 else ""
         L.append(f"{prefix}{esc(p)}")
         L.append("")
-    L.append("————————")
+    L.append("========")
     if auto:
         L.append(f"🕒 <b>{delay_min}분 후 자동 게시</b> 됩니다. 문제 있으면 ❌ 취소를 눌러주세요.")
     else:
@@ -88,7 +122,11 @@ def main():
     with open(path) as f:
         draft = json.load(f)
     fname = os.path.basename(path)
-    auto = bool(draft.get("review_ok"))          # 자가검열 통과 시에만 자동
+    gate_errors = deterministic_review(draft)
+    if gate_errors:
+        draft["review_ok"] = False
+        draft["review_reason"] = "; ".join(gate_errors)
+    auto = bool(draft.get("review_ok")) and not gate_errors
     reason = draft.get("review_reason", "")
     if auto:
         buttons = [[

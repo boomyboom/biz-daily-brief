@@ -5,7 +5,11 @@ set -uo pipefail
 
 REPO="/Applications/BoomyBoom-Biz"
 cd "$REPO" || exit 1
-[ -f "$REPO/.env" ] && { set -a; source "$REPO/.env"; set +a; }
+if [ -f "$REPO/.env" ]; then
+  set -a
+  source "$REPO/.env"
+  set +a
+fi
 
 PYTHON="${PYTHON_BIN:-/usr/bin/python3}"
 CLAUDE="${CLAUDE_BIN:-claude}"
@@ -35,7 +39,7 @@ if ! command -v "$CLAUDE" >/dev/null 2>&1 && [ ! -x "$CLAUDE" ]; then
 fi
 
 log "generating draft…"
-"$CLAUDE" --model "$MODEL" -p "$(cat "$REPO/threads/THREADS_PROMPT.md")" \
+env -u TELEGRAM_BOT_TOKEN -u TELEGRAM_CHAT_ID -u TELEGRAM_APPROVE_BOT_TOKEN -u THREADS_TOKEN -u MAIL_TO -u NIGHT_REPORT_TO -u OBSIDIAN_VAULT "$CLAUDE" --model "$MODEL" -p "$(cat "$REPO/threads/THREADS_PROMPT.md")" \
   --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
   >"$RUN_OUT" 2>&1
 log "claude exit: $?"

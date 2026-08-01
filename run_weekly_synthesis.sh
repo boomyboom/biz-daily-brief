@@ -5,7 +5,11 @@ set -uo pipefail
 
 REPO="/Applications/BoomyBoom-Biz"
 cd "$REPO" || exit 1
-[ -f "$REPO/.env" ] && { set -a; source "$REPO/.env"; set +a; }
+if [ -f "$REPO/.env" ]; then
+  set -a
+  source "$REPO/.env"
+  set +a
+fi
 
 PYTHON="${PYTHON_BIN:-/usr/bin/python3}"
 CLAUDE="${CLAUDE_BIN:-claude}"
@@ -35,7 +39,7 @@ PROMPT="$(cat "$REPO/WIKI_MAINTAIN_PROMPT.md")
 
 RUN_OUT="$REPO/logs/synthesis-claude-$TODAY.out"
 rm -f "$REPO/logs/last_synthesis_summary.txt"
-"$CLAUDE" --model "$MODEL" -p "$PROMPT" \
+env -u TELEGRAM_BOT_TOKEN -u TELEGRAM_CHAT_ID -u TELEGRAM_APPROVE_BOT_TOKEN -u THREADS_TOKEN -u MAIL_TO -u NIGHT_REPORT_TO -u OBSIDIAN_VAULT "$CLAUDE" --model "$MODEL" -p "$PROMPT" \
   --allowedTools "Bash,Read,Write,Edit,Glob,Grep" >"$RUN_OUT" 2>&1
 log "claude exit: $?"
 cat "$RUN_OUT" >>"$LOG"

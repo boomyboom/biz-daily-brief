@@ -14,6 +14,7 @@ threads/posted/
 threads/skipped/
 threads/replied/
 threads/replies_queue/
+threads/replies_skipped/
 threads/replies_seen.json
 threads/posted.log
 threads/.tg_offset
@@ -24,6 +25,7 @@ threads/motivation_posted.log
 threads/growth_insights.md
 products/
 threads/analytics/
+threads/analytics_history/
 threads/POSTING_PAUSED
 
 # 스토리 후보는 운영 데이터
