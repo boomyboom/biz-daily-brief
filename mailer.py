@@ -10,8 +10,13 @@ No password is ever handled: Mail.app uses the account the owner configured.
 import os
 import re
 import subprocess
+import hashlib
+import json
+import time
+from datetime import datetime
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+QUEUE_DIR = os.path.join(ROOT, "logs", "mail_queue")
 
 
 def load_env(root=None):
@@ -46,7 +51,6 @@ def ensure_mail_running(wait=25):
     `tell application "Mail"` tries to launch it, and that launch stalls in a
     background launchd context. Launching it explicitly first fixes that.
     """
-    import time
     running = subprocess.run(["pgrep", "-x", "Mail"], capture_output=True).returncode == 0
     if not running:
         subprocess.run(["open", "-g", "-a", "Mail"], capture_output=True)
@@ -61,10 +65,57 @@ def ensure_mail_running(wait=25):
     return False
 
 
-def send_mail(to_addr, subject, text, timeout=90, retries=1):
+def _queue_failure(to_addr, subject, text, error):
+    """Keep a deduplicated local copy when Mail.app cannot accept the message."""
+    os.makedirs(QUEUE_DIR, mode=0o700, exist_ok=True)
+    os.chmod(QUEUE_DIR, 0o700)
+    digest = hashlib.sha256(
+        (to_addr + "\0" + subject + "\0" + text).encode("utf-8")
+    ).hexdigest()[:16]
+    path = os.path.join(QUEUE_DIR, f"pending-{digest}.json")
+    created = datetime.now().astimezone().isoformat(timespec="seconds")
+    payload = {
+        "status": "needs_review" if "timed out" in str(error).lower() else "pending",
+        "created_at": created,
+        "updated_at": created,
+        "to": to_addr,
+        "subject": subject,
+        "body": text,
+        "last_error": str(error),
+    }
+    if os.path.exists(path):
+        try:
+            previous = json.load(open(path))
+            payload["created_at"] = previous.get("created_at", created)
+        except (OSError, ValueError):
+            pass
+    tmp = path + ".tmp"
+    with open(tmp, "w") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, path)
+    os.chmod(path, 0o600)
+    return path
+
+
+def _notify_failure(subject, queue_path, error):
+    """Send a short alert without including the private mail body."""
+    script = os.path.join(ROOT, "send_telegram.sh")
+    if not os.path.exists(script):
+        return
+    message = ("⚠️ 메일 자동 발송 실패\n"
+               f"제목: {subject[:80]}\n"
+               f"대기열: {os.path.basename(queue_path)}\n"
+               f"원인: {str(error)[:180]}")
+    try:
+        subprocess.run(["/bin/bash", script, message], capture_output=True,
+                       text=True, timeout=20)
+    except Exception:
+        pass
+
+
+def send_mail(to_addr, subject, text, timeout=45, retries=2, queue_on_failure=True):
     """Send plain-text mail through Mail.app. Raises on failure."""
     import tempfile
-    ensure_mail_running()
     fd, tmp = tempfile.mkstemp(suffix=".txt")
     with os.fdopen(fd, "w") as f:
         f.write(text)
@@ -81,16 +132,25 @@ def send_mail(to_addr, subject, text, timeout=90, retries=1):
         '''
         last = None
         for attempt in range(retries + 1):
+            if not ensure_mail_running():
+                last = "Mail.app did not answer Apple events"
+                if attempt < retries:
+                    time.sleep(3 * (attempt + 1))
+                continue
             try:
                 r = subprocess.run(["osascript", "-e", script],
                                    capture_output=True, text=True, timeout=timeout)
                 if r.returncode == 0:
                     return True
                 last = r.stderr.strip() or "osascript failed"
+                break
             except subprocess.TimeoutExpired:
                 last = f"timed out after {timeout}s"
-            if attempt < retries:
-                ensure_mail_running()
+                break
+        if queue_on_failure:
+            queue_path = _queue_failure(to_addr, subject, text, last)
+            _notify_failure(subject, queue_path, last)
+            raise RuntimeError(f"{last}; queued at {queue_path}")
         raise RuntimeError(last)
     finally:
         os.unlink(tmp)
