@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-19",
+  "generated_at_kst": "2026-08-19T12:07:00+09:00",
+  "mode": "new",
+  "headline": "요양시설 직원이 하룻밤 300번 돌던 순찰을, 침대당 연 2,530파운드짜리 카메라가 대신한다",
+  "insights": [
+    {
+      "title": "요양시설 직원이 하룻밤 300번 돌던 순찰을, 침대당 연 2,530파운드짜리 카메라가 대신한다",
+      "summary": "덴마크 Teton.ai는 요양시설, 병원 입소자 방의 움직임을 익명화된 정보로 바꿔 낙상, 수면, 이동 상태를 돌봄 직원에게 알린다. Kildemarkscenteret 요양시설은 입소자 100명 이상을 확인하려고 야간 직원 5명이 밤마다 최대 300번 방을 돌던 문제를 겪었고, 인근 Næstved 지방정부 담당자는 도입 후 낙상 뒤 대기시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔다. 영국 정부 공공조달 사이트 Digital Marketplace 공식 가격표(2026년 8월 19일 확인)에는 지원 수준에 따라 침대당 연 1,685파운드, 2,090파운드, 2,530파운드 세 단계 요금과 최대 30개 침대 3개월 무료 시험이 게시돼 있다. 회사가 2026년 3월 공개한 낙상 2,000건 분석 자료는 도입 시설의 낙상률이 환자일 1,000일당 11.3건에서 6.6건으로 42% 줄었다고 밝히지만, 비교 대상 시설 수와 무작위 배정 여부는 공개되지 않았다.",
+      "takeaway": "요양시설이 사는 것은 카메라 성능이 아니라 순찰과 대응시간을 줄이는 정착 운영이다. 작은 사업자는 센서를 만들기보다 설치 전 업무 측정과 직원 교육 같은 정착 단계를 팔 수 있다",
+      "source_type": "media",
+      "source_name": "Teton.ai 공식 자료 / 영국 정부 Digital Marketplace",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/144788699971062"
+    },
+    {
+      "title": "생성형 AI 콘텐츠 일감이 90% 늘었는데, 프리랜서 건당 수입은 13% 줄었다",
+      "summary": "미국 프리랜서 플랫폼 Upwork가 2026년 7월 14일 공개한 Future Workforce Index 2026(미국 지식노동자 2,400명, 2026년 3~4월 조사, 95% 신뢰수준 오차범위 2%포인트)에 따르면 생성형 AI, 창작 제작 계약 시작 건수는 전년 대비 90% 늘었지만 계약당 수입은 13% 줄었다. 반대로 기존 전문성에 AI를 결합한 복잡한 업무의 수입은 45% 늘었고, 전문서비스에 AI를 결합한 업무는 거래량 72%, 수입 22% 늘었다. 2026년 8월 10일 발표된 2분기 실적에서는 전체 거래액(GSV)이 9억6,640만달러로 전년 대비 4% 줄고 활성 고객도 76만3,000곳으로 4% 줄었지만, AI 관련 거래액은 22% 이상, AI 전략, 컨설팅 거래액은 50% 이상 늘어 고객 1곳당 거래액은 5,230달러로 5% 늘었다.",
+      "takeaway": "AI로 빨리 만드는 능력보다, 무엇을 만들지 판단하고 결과를 책임지는 좁은 전문 영역을 정해야 건당 단가가 오히려 오른다",
+      "source_type": "media",
+      "source_name": "Upwork 공식 발표 / Upwork 2026년 2분기 실적",
+      "source_url": "https://investors.upwork.com/news-releases/news-release-details/upworks-future-workforce-index-2026-how-ai-redefining-value-work"
+    },
+    {
+      "title": "구글이 8월 17일부터, 방치해둔 광고 목표값 그대로 광고비를 맞추기 시작했다",
+      "summary": "Google Ads는 2026년 8월 17일부터 예산이 부족한 검색, 쇼핑, Performance Max, Demand Gen, 디스플레이, 호텔, 여행 캠페인의 실제 성과를 광고주가 입력한 목표 CPA, 목표 ROAS에 더 가깝게 맞추도록 자동입찰 방식을 바꿨다(앱 캠페인, 동영상 도달, 조회 캠페인은 제외). Google 공식 예시로는 목표 CPA가 10달러인데 최근 실제 CPA가 5달러였던 캠페인을 그대로 두면, 변경 후 실제 CPA가 10달러에 가까워질 수 있다고 설명한다. 예산이나 목표를 자동으로 바꾸지는 않으며, 목표값과 최근 실제 성과를 비교해주는 Bid Target Adjustment Tool을 공식 제공한다. 같은 시점 Alphabet의 2026년 2분기 검색 및 기타 광고 매출은 632억7,000만달러였다.",
+      "takeaway": "예산 제한 캠페인의 오래된 목표 CPA, ROAS 값을 8월 17일 전후로 점검하지 않으면 같은 예산으로 얻는 고객 수가 줄어들 수 있다",
+      "source_type": "blog",
+      "source_name": "Google Ads 공식 고객센터",
+      "source_url": "https://support.google.com/google-ads/answer/17061251"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄시설 AI 구독료는 침대 수와 응답 속도에 따라 세 단계 요금으로 나뉜다",
+      "summary": "Teton의 영국 공공요금은 평일 지원(1,685파운드), 정착 지원 포함(2,090파운드), 24시간 지원(2,530파운드)으로 나뉘어, 같은 센서라도 사람이 얼마나 빨리 응답하는지에 값을 매긴다.",
+      "why_now": "3개월 무료 시험을 거친 요양시설들이 유료 계약으로 넘어가는 단계에 들어서며 지원 수준별 요금 구조가 공개적으로 드러났다",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/144788699971062"
+    },
+    {
+      "theme": "생성형 AI로 쉽게 늘어난 일감일수록, 건당 단가는 거꾸로 낮아지는 시장이 나타났다",
+      "summary": "Upwork에서 생성형 AI 제작 계약은 90% 늘었지만 건당 수입은 13% 줄었고, 반대로 판단이 필요한 복잡한 AI 활용 업무 수입은 45% 늘었다. 같은 AI 도구를 쓰더라도 결과의 희소성에 따라 가격이 갈린다.",
+      "why_now": "2026년 8월 10일 발표된 2분기 실적에서 전체 거래액과 고객 수는 줄었지만 AI 전략, 컨설팅 거래액만 50% 넘게 늘어, 시장이 이미 갈라지고 있음을 숫자로 보여줬다",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/upwork-reports-second-quarter-2026-210800845.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Teton.ai(덴마크, 요양시설, 병원 낙상감지 AI 플랫폼)",
+      "what": "방 안 광학 센서로 낙상, 수면, 이동 상태를 익명화된 정보로 바꿔 돌봄 직원에게 알리고 기록 작성을 돕는다",
+      "how": "Kildemarkscenteret 요양시설 등에서 3개월 무료 시험을 거쳐 침대 단위 연간 구독으로 전환하며, Næstved 지방정부는 낙상 후 대기시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔다",
+      "numbers": "영국 공공요금 침대당 연 1,685~2,530파운드(지원 수준별 3단계), 최대 30개 침대 3개월 무료 시험. 2026년 3월 자체 분석 기준 낙상률 42% 감소(환자일 1,000일당 11.3건에서 6.6건, 비교집단 미공개, 회사 주장). 2025년 9월 발표 기준 연간반복매출 13배, 고객수 전년 대비 300% 증가(회사 자체 발표, 미검증)",
+      "source_url": "https://www.teton.ai/blog/the-anatomy-of-2000-falls"
+    },
+    {
+      "who": "Upwork(미국, 상장 프리랜서 플랫폼)",
+      "what": "기업과 프리랜서를 연결하고 결제액의 일부를 수수료로 받는 마켓플레이스로, AI 업무를 단순 제작과 판단형 전문서비스로 나눠 가격 구조 변화를 자체 보고서로 공개했다",
+      "how": "생성형 AI 콘텐츠처럼 결과물이 비슷해지는 단순 업무와, 업종 판단이 들어간 복잡한 AI 활용 업무를 분리해 후자의 성장을 2026년 2분기 실적 발표에서 강조했다",
+      "numbers": "2026년 2분기 GSV 9억6,640만달러(전년 대비 4% 감소), 활성고객 76만3,000곳(4% 감소), 고객 1곳당 GSV 5,230달러(5% 증가). 생성형AI, 창작 계약 시작 90% 증가, 건당수입 13% 감소. 복잡한 AI활용 업무 수입 45% 증가. 전문서비스+AI 거래량 72% 증가, 수입 22% 증가",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/upwork-reports-second-quarter-2026-210800845.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Google Ads Bid Target Adjustment Tool",
+      "use": "예산 제한 캠페인의 목표 CPA, ROAS와 최근 실제 성과 차이를 비교해 8월 17일 변경 전후 대응 방향(유지, 제안값 적용, 직접 설정, 예산 증액, 전략 전환)을 정하게 해주는 공식 도구",
+      "source_url": "https://support.google.com/google-ads/answer/17061251"
+    },
+    {
+      "name": "영국 정부 Digital Marketplace 서비스 가격 검색",
+      "use": "돌봄테크, 헬스테크 서비스의 실제 공공조달 가격(침대당, 사용자당 등)을 검색해 국내 가격 설계의 비교 기준으로 참고할 수 있는 공개 데이터베이스",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/144788699971062"
+    }
+  ],
+  "quote": {
+    "text": "AI 데이터에는 역설이 있다. 도입은 어디에나 있지만 생산성 향상은 아직 눈에 잘 보이지 않는다.",
+    "author": "Nick Bloom(스탠퍼드대 경제학 교수, Upwork 경제자문위원)",
+    "source_url": "https://investors.upwork.com/news-releases/news-release-details/upworks-future-workforce-index-2026-how-ai-redefining-value-work"
+  },
+  "newsletter": {
+    "title": "요양시설은 카메라가 아니라 순찰을 줄이는 결과를 산다",
+    "body_md": "핵심 주장: 요양시설이 낙상감지 AI에 매년 수백만원을 내는 이유는 카메라 성능이 아니라, 야간 순찰과 대응시간을 실제로 줄여주는 정착 운영 때문이다. 대표 사례: 덴마크 Teton.ai는 Kildemarkscenteret에서 하룻밤 최대 300번이던 직원 순찰 부담을 줄였고, Næstved 지방정부는 낙상 후 대기시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔다. 공개 숫자: 영국 공공요금은 침대당 연 1,685~2,530파운드, 최대 30개 침대 3개월 무료 시험. 자체 분석 기준 낙상률 42% 감소(비교집단 미공개). 누가 돈을 내는가: 요양시설, 병원, 지방정부가 침대 단위로 연간 구독료를 낸다. 독자가 해볼 행동: 기술을 새로 만들기보다 설치 전 업무 측정, 직원 교육, 첫 4주 정착 확인을 좁은 상품으로 팔아본다. 보조로 다룰 소재: Upwork 조사에서는 생성형 AI 제작 일감이 90% 늘어도 건당 수입은 13% 줄고, 판단이 필요한 복잡한 AI 업무 수입은 45% 늘어 같은 흐름(결과와 판단에 값이 붙는다)을 보여준다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양시설은 왜 카메라 한 대에 침대당 연 2,530파운드를 낼까",
+      "hook": "요양시설은 카메라와 알림 기능에 왜 침대당 매년 수백만원을 낼까",
+      "core_claim": "Teton은 센서 성능이 아니라 야간 순찰, 낙상 발견, 직원 대응시간을 줄이는 운영 결과를 팔았다",
+      "primary_case": "Teton.ai(덴마크), Kildemarkscenteret 요양시설과 Næstved 지방정부 도입 사례",
+      "public_number": "영국 공공요금 침대당 연 1,685~2,530파운드(지원 수준별 3단계), 최대 30개 침대 3개월 무료 시험, 자체 분석 기준 낙상률 42% 감소(비교집단 미공개)",
+      "payer": "요양시설, 병원, 지방정부가 침대 단위 연간 구독료를 지불",
+      "seven_day_action": "요양시설 관리자와 야간 근무 경험자에게 순회, 낙상 알림, 기록 작성 과정을 묻고 개인정보 없는 가상 사례로 현재 업무와 개선 후 업무를 비교하는 1페이지 표를 만들어본다",
+      "source_urls": [
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/144788699971062",
+        "https://vpt.dk/kerneomraader/organisation-udvikling/saadan-spredes-ai-baseret-system-til-vaage-over-beboere",
+        "https://www.teton.ai/blog/the-anatomy-of-2000-falls",
+        "https://www.teton.ai/blog/teton-ai-raises-20-million-to-reinvent-elderly-care"
+      ]
+    },
+    {
+      "title": "생성형 AI 일감이 90% 늘었는데 건당 수입은 왜 13% 줄었을까",
+      "hook": "AI를 쓸 줄 안다고 소개하는 것만으로 프리랜서가 더 높은 값을 받을 수 있을까",
+      "core_claim": "단순 생성 작업은 늘수록 값이 낮아지고, 판단과 결과를 책임지는 전문 서비스는 AI를 결합할수록 값이 오른다",
+      "primary_case": "Upwork(미국), Future Workforce Index 2026과 2026년 2분기 실적",
+      "public_number": "생성형AI, 창작 계약 시작 90% 증가, 건당수입 13% 감소. 복잡한 AI활용 업무 수입 45% 증가. 전문서비스+AI 거래량 72%, 수입 22% 증가(2026년 3~4월 조사, 지식노동자 2,400명)",
+      "payer": "기업과 소상공인이 프로젝트 대금을 프리랜서에게 지급하고, Upwork가 거래 수수료(최대 7.99%)를 받는다",
+      "seven_day_action": "경험 있는 업종 하나를 정해 잠재 고객 5명에게 최근 반복해서 확인하거나 수정한 업무를 묻고, 가장 자주 나온 문제 하나로 수작업과 AI를 함께 쓰는 1주 시험안을 만들어 제안한다",
+      "source_urls": [
+        "https://investors.upwork.com/news-releases/news-release-details/upworks-future-workforce-index-2026-how-ai-redefining-value-work",
+        "https://finance.yahoo.com/markets/stocks/articles/upwork-reports-second-quarter-2026-210800845.html",
+        "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee"
+      ]
+    },
+    {
+      "title": "구글 광고 목표값을 손보지 않으면, 같은 예산으로 고객이 줄어들 수 있다",
+      "hook": "광고 예산을 바꾸지 않았는데도 고객 1명을 얻는 비용이 갑자기 높아질 수 있을까",
+      "core_claim": "8월 17일부터 구글은 예산 제한 캠페인의 실제 성과를 광고주가 입력한 목표에 더 가깝게 맞추므로, 오래전 목표값을 방치한 사업자는 같은 예산으로 더 적은 고객을 얻을 수 있다",
+      "primary_case": "Google Ads(미국), 목표 기반 입찰 변경(2026년 8월 17일 적용)",
+      "public_number": "Google 공식 예시: 목표 CPA 10달러, 최근 실제 CPA 5달러였던 캠페인이 변경 후 10달러에 가까워질 수 있음. Alphabet 2026년 2분기 검색, 기타 광고 매출 632억7,000만달러",
+      "payer": "검색, 쇼핑, Performance Max, Demand Gen, 디스플레이, 호텔, 여행 광고를 운영하는 사업자가 경매로 정해지는 광고비를 Google에 지불",
+      "seven_day_action": "동의를 받은 사업자의 최근 28일 광고 보고서에서 예산 제한 표시와 목표 CPA, ROAS 대비 실제 성과 차이를 확인하고, 1페이지 점검표를 무료로 제공한 뒤 유료 모니터링을 제안한다",
+      "source_urls": [
+        "https://support.google.com/google-ads/answer/17061251",
+        "https://support.google.com/google-ads/answer/17125145",
+        "https://searchengineland.com/google-ads-updates-target-based-bidding-for-budget-limited-campaigns-480752"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "요양시설 직원이 하룻밤 300번 돌던 순찰을, 침대당 연 2,530파운드짜리 카메라가 대신한다",
+      "body_md": "덴마크의 한 요양시설에서는 밤마다 직원 5명이 입소자 100명 넘는 상태를 확인하려고 최대 300번씩 방을 돌았다. 넘어진 사람은 없는지, 잠은 잘 자는지 일일이 눈으로 확인하는 수밖에 없었기 때문이다. 이 요양시설이 지금 사는 것은 새 카메라가 아니라, 그 300번의 순찰을 줄여주는 서비스다.\n\n덴마크 스타트업 Teton.ai는 입소자 방에 설치한 광학 센서로 움직임을 감지해 낙상, 수면, 이동 상태를 익명화된 정보로 바꾼 뒤 돌봄 직원에게 알린다. 영상을 그대로 저장하거나 얼굴을 보여주지 않고, 넘어졌는지 아닌지 같은 상태 변화만 알림으로 보낸다. Kildemarkscenteret 요양시설에서 시범 도입한 뒤, 인근 Næstved 지방정부 담당자는 낙상 후 입소자가 바닥에서 기다리는 시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔다. 이 결과를 바탕으로 20대였던 시범 대수를 두 시설로 늘리기 위해 지방정부가 350만덴마크크로네를 배정했다.\n\n가격은 영국 정부의 공공조달 사이트 Digital Marketplace에 공개돼 있다. 평일 지원만 받는 기본형은 침대당 연 1,685파운드, 정착 지원이 포함된 요금은 2,090파운드, 24시간 지원까지 받는 요금은 2,530파운드다. 최대 30개 침대까지는 3개월 무료로 먼저 써볼 수 있다. 회사가 2026년 3월 공개한 낙상 2,000건, 상태변화 300만건 분석 자료에 따르면 도입한 시설의 낙상률이 환자 1,000일당 11.3건에서 6.6건으로 42% 줄었다고 주장한다. 다만 이 수치는 회사가 직접 발표한 운영자료이고, 비교 대상 시설이나 무작위 배정 여부는 공개되지 않았다는 점은 감안해야 한다.\n\n이 사업이 돈이 되는 이유는 단순하다. 요양시설이 실제로 아쉬운 건 센서 정확도가 아니라 사람이다. 밤마다 정해진 시간 안에 여러 방을 확인해야 하는데 인력은 늘 부족하다. Teton은 기기를 파는 대신 설치와 직원 교육, 알림 설정까지 끝내서 실제로 순찰 횟수와 대응 시간이 줄어드는 것을 보여준 뒤에 요금을 받는다. 3개월 무료 시험을 두는 것도 결과를 먼저 확인시키고 나서 계약하겠다는 뜻이다.\n\n작은 사업자가 여기서 가져올 수 있는 건 두 가지다. 첫째, 센서나 앱을 새로 만들 필요는 없다. 이미 나와 있는 기기를 요양시설에 설치하기 전 업무를 측정하고, 도입 뒤 직원 교육과 가족 설명, 첫 4주 사용 확인까지 대신 맡는 정착 서비스만으로도 자리를 만들 수 있다. 둘째, 무료 체험 뒤에만 계약금을 받는 판매 방식을 시도해볼 만하다. 결과를 먼저 보여주면 값을 더 쉽게 받을 수 있다는 뜻이다. 다만 국내에서는 입소자의 건강정보나 영상을 다루려면 개인정보와 의료기기 관련 규정을 먼저 확인해야 하고, 초기 실험은 건강정보 없이 순찰 시간이나 업무 절차 확인 정도로 범위를 좁히는 게 안전하다.\n\n출처: 영국 정부 Digital Marketplace Teton One 가격표(2026년 8월 19일 확인), Teton 낙상 2,000건 분석 자료(2026년 3월), Viden på Tværs Næstved 도입 사례(2024년 6월)\n\n[부미붐의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "요양시설 직원이 밤마다 입소자 100명 넘는 상태를 확인하려고 최대 300번씩 방을 돌았다. 지금 이 시설이 사는 건 새 카메라가 아니라, 그 순찰을 줄여주는 서비스다.",
+      "덴마크 Teton.ai는 방 안 센서로 낙상과 수면, 이동 상태만 익명 정보로 바꿔 돌봄 직원에게 알린다. 영상을 저장하거나 얼굴을 보여주지 않는다.",
+      "인근 지방정부 Næstved 담당자는 낙상 후 대기시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔다. 이 결과로 시범 대수를 두 시설로 늘리는 예산이 새로 배정됐다.",
+      "영국 공공요금표 기준 가격은 침대당 연 1,685파운드에서 2,530파운드, 지원 수준(평일 또는 24시간)에 따라 세 단계다. 최대 30개 침대는 3개월 무료로 먼저 써볼 수 있다.",
+      "같은 날 확인한 다른 흐름도 있다. Upwork 조사에서는 생성형 AI 제작 일감이 90% 늘어도 건당 수입은 13% 줄고, 판단이 필요한 복잡한 AI 업무 수입은 오히려 45% 늘었다.",
+      "결론은 비슷하다. 센서든 AI든, 도구 자체보다 결과를 끝까지 책임지는 운영과 판단에 값이 붙는다. 작은 사업자는 기술을 새로 만들기보다 그 결과를 확인시키는 좁은 자리부터 찾을 수 있다."
+    ],
+    "instagram": {
+      "caption": "요양시설 직원이 밤마다 입소자 상태를 확인하려고 최대 300번씩 방을 돌던 문제를, 덴마크 스타트업 Teton.ai가 침대당 연 최대 2,530파운드짜리 구독 서비스로 줄였습니다. 방 안 센서가 낙상과 수면, 이동 상태를 익명 정보로 바꿔 알리고, 실제 도입 시설에서는 낙상 후 대기시간이 최대 2시간에서 약 5분으로 줄었습니다. 요양시설이 사는 건 카메라 성능이 아니라, 순찰과 대응시간을 줄이는 결과입니다.",
+      "hashtags": "#시니어비즈니스 #헬스케어스타트업 #요양시설 #낙상예방 #돌봄테크 #창업인사이트 #비즈니스전략",
+      "cards": [
+        "요양시설은 왜 카메라 한 대에 침대당 연 최대 2,530파운드를 낼까?",
+        "덴마크 Teton.ai, 방 안 센서로 낙상, 수면, 이동 상태를 익명화해 직원에게 알림",
+        "Kildemarkscenteret 요양시설, 야간 직원 5명이 밤마다 최대 300번 순찰하던 문제",
+        "Næstved 지방정부, 낙상 후 대기시간 최대 2시간에서 약 5분으로 감소(담당자 발표)",
+        "영국 공공요금, 침대당 연 1,685~2,530파운드(지원 수준별 3단계), 30개 침대까지 3개월 무료 체험",
+        "돈 버는 이유, 센서를 파는 게 아니라 설치와 교육, 정착까지 끝내 결과를 먼저 보여준 뒤 요금을 받는다",
+        "1인사업자가 써먹는 법, 기술을 새로 만들지 말고 도입 전 업무측정과 직원교육, 첫 4주 정착 확인을 좁은 상품으로 판다"
+      ]
+    },
+    "youtube": {
+      "title": "침대 하나에 연 2,530파운드, 요양시설이 카메라에 돈 쓰는 진짜 이유",
+      "hook": "요양시설 직원이 밤마다 300번씩 방을 도는 대신, 카메라 한 대에 매년 수백만원을 쓰기 시작했습니다. 왜 그럴까요.",
+      "script": "덴마크의 한 요양시설 이야기입니다. 이 시설에서는 밤마다 직원 5명이 입소자 100명 넘는 상태를 확인하려고 최대 300번씩 방을 돌아야 했습니다. 넘어진 사람은 없는지, 잠은 잘 자고 있는지 일일이 눈으로 봐야 했기 때문입니다. 지금 이 시설이 사는 건 새 카메라가 아니라, 그 300번의 순찰을 줄여주는 서비스입니다. 덴마크 스타트업 Teton.ai는 입소자 방에 설치한 센서로 움직임을 감지해서 낙상, 수면, 이동 상태를 익명화된 정보로 바꾼 뒤 돌봄 직원에게 알립니다. 영상을 저장하거나 얼굴을 보여주지 않고, 상태 변화만 알림으로 보냅니다. 인근 지방정부 담당자는 도입 후 낙상이 일어난 뒤 입소자가 바닥에서 기다리는 시간이 최대 2시간에서 약 5분으로 줄었다고 밝혔습니다. 가격은 영국 정부 공공조달 사이트에 공개돼 있는데, 침대 하나에 연간 1,685파운드에서 2,530파운드, 지원 수준에 따라 세 단계입니다. 최대 30개 침대는 3개월 동안 무료로 먼저 써볼 수 있습니다. 이 사업이 돈이 되는 이유는 간단합니다. 요양시설이 아쉬운 건 센서 정확도가 아니라 사람입니다. Teton은 기기만 파는 대신 설치와 직원 교육, 알림 설정까지 끝내서 실제로 순찰 횟수와 대응 시간이 줄어드는 걸 보여준 다음에 요금을 받습니다. 여러분의 사업에서도, 기술을 새로 만들기보다 이미 있는 도구를 설치한 뒤 정착시키는 자리부터 찾아보세요. 오늘 소개한 42퍼센트 낙상 감소 같은 수치는 회사가 직접 발표한 운영자료이며, 감사된 자료는 아니라는 점을 알려드립니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "영국 정부 Digital Marketplace(Teton One 가격표)",
+      "url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/144788699971062"
+    },
+    {
+      "name": "Teton.ai 낙상 2,000건 분석 자료",
+      "url": "https://www.teton.ai/blog/the-anatomy-of-2000-falls"
+    },
+    {
+      "name": "Teton.ai 투자, 연간반복매출 발표",
+      "url": "https://www.teton.ai/blog/teton-ai-raises-20-million-to-reinvent-elderly-care"
+    },
+    {
+      "name": "Viden på Tværs(Næstved 도입 사례)",
+      "url": "https://vpt.dk/kerneomraader/organisation-udvikling/saadan-spredes-ai-baseret-system-til-vaage-over-beboere"
+    },
+    {
+      "name": "Upwork 공식 발표(Future Workforce Index 2026)",
+      "url": "https://investors.upwork.com/news-releases/news-release-details/upworks-future-workforce-index-2026-how-ai-redefining-value-work"
+    },
+    {
+      "name": "Upwork 2026년 2분기 실적(Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/upwork-reports-second-quarter-2026-210800845.html"
+    },
+    {
+      "name": "Upwork 고객 거래 수수료 안내",
+      "url": "https://support.upwork.com/hc/en-us/articles/4660220468499-What-is-the-Client-Marketplace-Fee"
+    },
+    {
+      "name": "Google Ads 목표 기반 입찰 변경 안내",
+      "url": "https://support.google.com/google-ads/answer/17061251"
+    },
+    {
+      "name": "Google Ads 목표 기반 입찰 변경 FAQ",
+      "url": "https://support.google.com/google-ads/answer/17125145"
+    },
+    {
+      "name": "Search Engine Land(구글 변경 보도)",
+      "url": "https://searchengineland.com/google-ads-updates-target-based-bidding-for-budget-limited-campaigns-480752"
+    },
+    {
+      "name": "Alphabet 2026년 2분기 실적 자료",
+      "url": "https://abc.xyz/investor/earnings/"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약, 재구성한 정보 제공용이며, 특정 수익, 투자를 보장하지 않습니다. 인용된 사례, 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
