@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-20",
+  "generated_at_kst": "2026-08-20T12:13:49+09:00",
+  "mode": "new",
+  "headline": "치료사가 매달 서류에 쓰는 10시간, Heard는 거기에 월 169달러를 받는다",
+  "insights": [
+    {
+      "title": "치료사가 매달 서류에 쓰는 10시간, Heard는 거기에 월 169달러를 받는다",
+      "summary": "Heard는 2019년 치료사 연결 서비스로 시작했다가 2020년부터 개인 치료실을 운영하는 치료사 전용 재무 백오피스로 방향을 바꿨다. 장부 정리, 분기별 세금 계산 지원, 개인 세금 신고를 묶은 개인사업자용 Essential 요금제를 연간 결제 기준 월 169달러, 연 2,028달러에 판다. 2026년 회사 조사에서 미국 정신건강 전문가 약 2,000명 중 86.5%가 1인 사업자였고 한 달 평균 10시간을 사업 관리에 썼다. 회사는 치료사의 시간당 진료비 중간값 150달러를 적용해 이 시간이 연간 최대 1만8,000달러의 진료 기회와 같다고 계산했다.",
+      "takeaway": "범용 회계 프로그램보다 비싼 값을 받으려면 한 직업이 매달 반복하는 서류와 예외를 통째로 대신 처리해야 한다",
+      "source_type": "media",
+      "source_name": "Heard 공식 요금표 및 2026년 재무 조사 보도자료",
+      "source_url": "https://www.joinheard.com/pricing"
+    },
+    {
+      "title": "무료 AI 영상 도구가 쏟아지는데, 콰이쇼우의 Kling AI는 분기 매출 8억5,000만위안을 냈다",
+      "summary": "중국 콰이쇼우가 8월 19일 공개한 비감사 2분기 실적에서 자회사 AI 영상 서비스 Kling AI의 매출은 8억5,000만위안을 넘겨 전년 동기 대비 200% 넘게 늘었다. 2026년 상반기 누적 매출은 15억위안을 넘겼다. Kling AI는 영상 생성 기능만 팔지 않고 개인 구독 크레딧, 추가 충전, 기업용 선불 API를 묶어 광고회사와 제작사가 생성부터 편집, 대량 제작까지 한 흐름에서 처리하게 만들었다. 같은 분기 콰이쇼우 전체 조정순이익은 줄어들어, 매출 증가가 곧 수익성 개선을 의미하지는 않는다.",
+      "takeaway": "생성 횟수보다 실제로 쓸 수 있는 결과물 수와 반복 제작 흐름을 가격 기준으로 삼아야 반복 결제가 붙는다",
+      "source_type": "media",
+      "source_name": "Kuaishou Technology 2026년 2분기 실적 발표",
+      "source_url": "https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026"
+    },
+    {
+      "title": "시니어 돌봄 AI가 기기값 대신 돌봄기관이 청구하는 시간에 요금을 매긴다",
+      "summary": "미국 Sensi.AI는 시니어의 집에 음성 센서를 설치해 낙상과 활동 변화를 방문돌봄 업체와 시니어 주거시설에 알린다. 2026년 6월 이용약관에는 계약에 따라 기기를 무료로 제공하는 대신, 기관이 고객에게 청구한 월별 유료 서비스 시간을 확인해 비용을 계산하는 청구시간 모델이 명시돼 있다. 회사는 8월 11일 방문돌봄에서 노인주거시설과 생활지원시설로 판매 범위를 넓혔고, 2025년 매출이 전년보다 400% 늘었다고 발표했지만 절대 매출액은 공개하지 않았다.",
+      "takeaway": "초기 설치비를 받기 어려운 서비스라면 고객이 이미 청구하는 매출 단위에 요금을 연동하는 방법을 검토할 수 있다",
+      "source_type": "media",
+      "source_name": "Sensi.AI 이용약관 및 노인주거시설 확장 보도자료",
+      "source_url": "https://www.sensi.ai/terms-and-conditions/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "업종 하나의 업무 전체를 끝까지 처리하는 AI에 반복 결제가 붙는다",
+      "summary": "8월 19일 공개된 StartupBench 연구에서 범용 AI의 실제 업무 완료율은 19.74%였지만, 업종별로 설계한 AI는 39.18%로 두 배 가까이 높았다. Kling AI, Heard, Sensi.AI 세 사례 모두 기능 하나가 아니라 한 업종이 매달 반복하는 업무 전체(영상 제작, 장부와 세금, 돌봄 기록)를 처음부터 끝까지 대신 처리하는 상품을 팔았다는 공통점이 있다.",
+      "why_now": "8월 18일부터 19일 사이 발표된 연구와 실적이 같은 방향을 가리키며 겹쳤다",
+      "source_url": "https://arxiv.org/abs/2608.17800"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Heard(미국 시애틀, 2019년 설립, 치료사 전용 재무 백오피스 스타트업)",
+      "what": "개인 치료실을 운영하는 치료사와 웰니스 전문가 대상 장부 정리, 세금 일정, 개인 세금 신고를 묶은 구독 서비스",
+      "how": "개인사업자용 Essential 요금제, 연간 결제 기준 월 169달러(연 2,028달러). 장부 정리와 재무 보고서, 분기별 세금 계산 지원, 개인 세금 신고 포함",
+      "numbers": "요금은 공식 홈페이지로 확인됨. 2026년 회사 조사(응답자 약 2,000명) 기준 86.5%가 1인 사업자, 월평균 10시간을 사업 관리에 사용, 시간당 진료비 중간값 150달러 적용 시 연간 최대 1만8,000달러 기회비용(회사 계산). 고객 5,000곳과 연 반복매출 1,100만달러는 2026년 3월 회사 제품책임자의 개인 링크드인 게시물에 따른 것으로 감사되지 않은 주장",
+      "source_url": "https://www.joinheard.com/pricing"
+    },
+    {
+      "who": "콰이쇼우(Kuaishou, 홍콩 상장 기업)의 Kling AI",
+      "what": "AI 영상 생성 서비스로 개인 구독 크레딧과 기업용 선불 API를 함께 판매",
+      "how": "개인 창작자는 월 구독 크레딧과 추가 크레딧 구매, 광고회사와 제작사는 예상 사용량에 맞춘 API 자원을 선불로 구매",
+      "numbers": "2026년 2분기(4~6월) 매출 8억5,000만위안 이상, 전년 동기 대비 200% 이상 증가(콰이쇼우 8월 19일 비감사 실적 발표 기준). 2026년 상반기 누적 매출 15억위안 이상. 같은 분기 콰이쇼우 전체 조정순이익은 전년보다 줄었다",
+      "source_url": "https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026"
+    },
+    {
+      "who": "Sensi.AI(미국, 시니어 재가돌봄 AI 플랫폼)",
+      "what": "가정 내 음성 센서로 낙상, 활동 변화, 돌봄 필요 신호를 방문돌봄기관과 시니어 주거시설에 알림",
+      "how": "계약에 따라 기기 구매, 임차 또는 무료 제공 후 기관의 월별 유료 서비스 시간을 확인해 요금을 계산하는 청구시간 모델 운용",
+      "numbers": "청구시간 기준 과금 방식은 2026년 6월 이용약관에서 확인됨. 2025년 매출이 전년보다 400% 늘었다는 수치는 회사 발표이며 절대 매출액은 비공개(주장). 8월 11일 노인주거시설과 생활지원시설로 판매 범위 확장은 보도자료로 확인됨",
+      "source_url": "https://www.prnewswire.com/news-releases/sensiai-expands-care-intelligence-platform-to-senior-living-communities-bringing-continuous-insights-across-the-full-care-continuum-302848429.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Kling AI Video 3.0",
+      "use": "1080p 영상 생성 시 음성 포함이면 초당 12크레딧, 음성 제외면 초당 8크레딧이 소모된다. 광고용 짧은 컷을 여러 개 만들 때 크레딧 소모량을 미리 계산해 요금제를 고르는 데 참고할 수 있다",
+      "source_url": "https://home.kling.ai/quickstart/klingai-video-3-model-user-guide"
+    }
+  ],
+  "quote": {
+    "text": "치료사가 고객에게 집중하는 것과 자신의 재정에 확신을 갖는 것 중 하나를 고를 필요는 없다",
+    "author": "앤드루 리센(Andrew Riesen), Heard 공동창업자 겸 CEO",
+    "source_url": "https://www.businesswire.com/news/home/20260605911718/en/Heard-Partners-with-CAMFT-to-Bring-Therapist-Specific-Financial-Support-to-Californias-Marriage-and-Family-Therapists"
+  },
+  "newsletter": {
+    "title": "한 업종의 업무를 통째로 대신 해주는 상품에 사람들이 계속 돈을 낸다",
+    "body_md": "핵심 주장: 요즘 반복 결제가 붙는 서비스는 기능 하나가 아니라 한 업종의 업무 전체를 끝까지 대신 처리한다. 대표 사례는 Heard다. 미국 치료사의 86.5%가 혼자 병원을 운영하며 한 달 평균 10시간을 서류에 쓰는데, Heard는 장부와 세금 신고를 묶어 연 2,028달러(월 169달러)에 판다. 시간당 진료비 중간값 150달러로 계산하면 이 10시간은 연 최대 1만8,000달러의 진료 기회와 같다(2026년 회사 조사, 응답자 약 2,000명). 같은 흐름이 다른 업종에도 보인다. 콰이쇼우의 AI 영상 서비스 Kling AI는 구독 크레딧과 기업용 API를 묶어 2026년 2분기 매출 8억5,000만위안(전년비 200% 이상 증가, 8월 19일 비감사 실적)을 냈고, Sensi.AI는 시니어 돌봄기관이 청구하는 유료 서비스 시간에 요금을 연동해 기기값을 없앴다(2025년 매출 400% 증가는 회사 주장). 8월 19일 공개된 StartupBench 연구는 범용 AI 완료율 19.74%, 업종별 AI 완료율 39.18%로 이 흐름을 뒷받침한다. 독자가 해볼 일: 자신이 아는 업종에서 매달 반복되지만 아무도 대신해주지 않는 서류나 조율 업무 하나를 찾아, 일주일짜리 낮은 가격 시험 상품으로 제안해보고 실제 결제가 이어지는지 확인한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "무료 AI 영상이 넘치는데 Kling AI는 어떻게 분기 매출 8억5,000만위안을 만들었나",
+      "hook": "비슷한 AI 영상 도구가 쏟아지는데 고객은 왜 특정 서비스에만 계속 돈을 낼까",
+      "core_claim": "Kling AI는 영상 생성 기능만 팔지 않고 개인 구독 크레딧, 추가 충전, 기업용 선불 API를 묶어 2026년 2분기 매출 8억5,000만위안을 넘겼다",
+      "primary_case": "콰이쇼우 Kling AI",
+      "public_number": "2분기 매출 8억5,000만위안 이상, 전년 대비 200% 이상 증가(콰이쇼우 8월 19일 비감사 실적)",
+      "payer": "개인 창작자(월 구독 크레딧), 광고회사와 제작사(기업용 선불 API)",
+      "seven_day_action": "광고 집행 중인 판매자 한 곳의 동의를 받아 문구와 첫 장면이 다른 영상 12개를 만들고, 사람이 고른 3개와 선택 이유를 담은 묶음을 임시 가격 10만원에 제안한다",
+      "source_urls": [
+        "https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026",
+        "https://arxiv.org/abs/2608.17800"
+      ]
+    },
+    {
+      "title": "치료사는 왜 범용 회계앱 대신 월 169달러짜리 업종 전용 백오피스를 살까",
+      "hook": "회계 소프트웨어는 저렴한데 왜 굳이 비싼 업종 전용 서비스에 돈을 낼까",
+      "core_claim": "Heard는 회계 프로그램만 제공하지 않고 치료사의 거래 분류, 장부 정리, 세금 일정과 사람의 답변을 묶어 반복 결제되는 상품을 만들었다",
+      "primary_case": "Heard",
+      "public_number": "개인사업자 Essential 요금 연 2,028달러(월 169달러), 조사 대상 치료사 86.5%가 1인 사업자, 월평균 10시간을 사업 관리에 사용(연간 최대 1만8,000달러 기회비용, 2026년 회사 조사)",
+      "payer": "미국 개인 치료실 운영 치료사",
+      "seven_day_action": "치료사, 영양사 같은 1인 자격증 사업자 5명에게 매달 반복하지만 미루는 행정 업무를 묻고, 세무 판단 없이 서류 정리만 임시 가격 10만원에 제안한다",
+      "source_urls": [
+        "https://www.joinheard.com/pricing",
+        "https://www.businesswire.com/news/home/20260422209298/en/Heard-Releases-Fourth-Annual-Financial-State-of-Private-Practice-Report-Surveying-Nearly-2000-Therapists-on-Income-Taxes-and-the-Cost-of-Running-a-Practice",
+        "https://www.businesswire.com/news/home/20260605911718/en/Heard-Partners-with-CAMFT-to-Bring-Therapist-Specific-Financial-Support-to-Californias-Marriage-and-Family-Therapists"
+      ]
+    },
+    {
+      "title": "시니어 돌봄 AI는 왜 기기값을 없애고 돌봄기관의 유료 서비스 시간으로 요금을 계산할까",
+      "hook": "기술회사가 기기 판매보다 고객의 매출이 발생하는 단위에 맞춰 요금을 받으면 무엇이 달라질까",
+      "core_claim": "Sensi.AI는 일부 계약에서 가정용 기기를 무료로 제공하고 돌봄기관이 고객에게 청구한 서비스 시간을 확인해 요금을 계산함으로써 기술 사용료를 기관의 매출 활동과 연결했다",
+      "primary_case": "Sensi.AI",
+      "public_number": "2025년 매출 전년 대비 400% 증가(회사 발표, 절대액 비공개), 8월 11일 노인주거시설로 판매 확장",
+      "payer": "방문돌봄 업체와 시니어 주거시설",
+      "seven_day_action": "돌봄기관 관리자 3명에게 건강정보 없이 월별 유료시간과 자료 확인 소요시간을 묻고, 매출이 새는 단계를 정리한 1페이지 표를 고정가격 20만원에 제안한다",
+      "source_urls": [
+        "https://www.sensi.ai/terms-and-conditions/",
+        "https://www.prnewswire.com/news-releases/sensiai-expands-care-intelligence-platform-to-senior-living-communities-bringing-continuous-insights-across-the-full-care-continuum-302848429.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "치료사가 매달 서류에 쓰는 10시간, Heard는 거기에 월 169달러를 받는다",
+      "body_md": "미국에서 개인 치료실을 운영하는 치료사 열 명 중 여덟 명 이상은 혼자 사업을 꾸린다. 진료도 하고 장부도 쓰고 세금도 챙겨야 한다는 뜻이다. Heard라는 회사는 이 부담을 정기결제 상품으로 바꿔 미국 정신건강 전문가들 사이에서 자리를 잡았다.\n\nHeard는 2019년 치료사를 연결해주는 서비스로 출발했다. 그런데 고객들이 실제로 개인 치료실을 열면서 법인 설립, 장부, 급여, 세금 문제로 더 크게 고생한다는 사실을 발견하고 2020년부터 치료사 전용 재무 백오피스로 방향을 완전히 바꿨다. 지금은 매달 거래를 분류하고 장부를 정리하고 분기별 세금을 계산해주고 연말에는 개인 세금 신고까지 대신 해준다. 개인사업자를 위한 Essential 요금제는 연간 결제 기준으로 월 169달러, 연 2,028달러다.\n\n값이 낮지 않은데도 팔리는 이유는 회사가 2026년에 미국 정신건강 전문가 약 2,000명을 조사한 결과에서 드러난다. 응답자의 86.5%가 1인 사업자였고, 이들은 한 달 평균 10시간을 사업 관리에 썼다. 회사는 치료사의 시간당 진료비 중간값인 150달러를 적용해, 이 10시간이 연간 최대 1만8,000달러의 진료 기회와 같다고 계산했다. 서류 업무에 매달리는 시간만큼 실제로 벌 수 있었던 돈을 놓치고 있다는 뜻이다. 같은 조사에서 치료사의 66%는 이미 AI 도구를 쓰고 있었지만, 재무 예측에 쓰는 비율은 5%에 그쳤다.\n\nHeard의 창업자이자 CEO인 앤드루 리센은 6월 캘리포니아 결혼가족치료사협회 CAMFT와 제휴를 발표하며 치료사가 고객에게 집중하는 것과 자신의 재정에 확신을 갖는 것 중 하나를 고를 필요는 없다고 말했다. 실제로 회사는 자체 장부 자료 위에 재무 질문에 답하는 AI 기능도 준비하고 있다고 밝혔다.\n\n비슷한 흐름은 전혀 다른 업종에서도 보인다. 중국 콰이쇼우가 8월 19일 공개한 2분기 실적에서 자회사 AI 영상 서비스 Kling AI의 매출은 8억5,000만위안을 넘겨 전년 동기 대비 200% 넘게 늘었다. Kling AI는 영상 생성 기능 하나만 팔지 않는다. 개인 구독 크레딧과 기업용 선불 API를 함께 묶어 광고회사와 제작사가 생성부터 편집, 반복 제작까지 한 흐름에서 처리하게 만들었다. 시니어 돌봄 분야에서도 같은 방식이 보인다. 미국 Sensi.AI는 시니어의 집에 설치하는 음성 센서 기기값을 아예 없애는 대신, 방문돌봄기관이 고객에게 청구한 월별 유료 서비스 시간을 확인해 요금을 계산하는 계약을 쓴다. 기술 사용료를 고객이 이미 만들어내는 매출 단위에 직접 연결한 것이다.\n\n같은 시기 발표된 StartupBench 연구는 이 흐름에 숫자를 더한다. 범용 AI의 실제 업무 완료율은 19.74%에 그쳤지만, 한 업종에 맞춰 설계한 AI는 39.18%로 두 배 가까이 높았다. 세 회사의 공통점은 기능 하나를 자랑하지 않았다는 것이다. 한 업종이 매달 반복하는 업무 전체를 처음부터 끝까지 대신 처리했다.\n\n작은 사업자가 여기서 가져갈 점은 두 가지다. 첫째, 새 기능을 얹기보다 한 직업이나 업종이 매달 미루는 서류나 반복 업무를 통째로 대신 맡아본다. 둘째, 작업물 개수가 아니라 실수를 피하고 되찾은 시간을 가격 근거로 삼는다. 치료사나 세무사, 디자이너처럼 반복되는 행정 업무가 있는 1인 사업자를 대상으로 일주일짜리 시험 상품을 낮은 가격에 제안하고, 실제로 결제가 이어지는지부터 확인해보는 것이 첫 단계다.\n\n출처: Heard 공식 요금표(joinheard.com/pricing), Heard 2026년 재무 조사 및 CAMFT 제휴 보도자료(businesswire.com), Kuaishou Technology 2026년 2분기 실적 발표(ir.kuaishou.com), Sensi.AI 이용약관(sensi.ai/terms-and-conditions), StartupBench 연구(arxiv.org/abs/2608.17800)\n\n⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다.\n\n[부미붐의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "치료사 열 명 중 여덟 명은 혼자 병원을 차린다. 진료도 하고 장부도 쓰고 세금도 챙긴다. 미국 스타트업 Heard는 이 서류 업무 하나에 월 169달러를 받는 구독 상품을 만들었다.",
+      "Heard는 원래 2019년 치료사를 연결해주는 서비스로 시작했다. 그런데 고객들이 실제로 개인 치료실을 열면서 법인 설립, 장부, 세금 문제로 더 힘들어한다는 걸 알게 됐다. 2020년, 회사는 방향을 완전히 바꿨다.",
+      "지금 Heard는 매달 거래를 분류하고 장부를 정리하고 분기별 세금을 계산해주고 연말 세금 신고까지 대신한다. 개인사업자 요금제는 연간 결제 기준 월 169달러, 연 2,028달러다.",
+      "2026년 회사 조사에서 치료사 약 2,000명 중 86.5%가 1인 사업자였고, 이들은 한 달 평균 10시간을 사업 관리에 썼다. 시간당 진료비 중간값 150달러로 계산하면 연간 최대 1만8,000달러어치 진료 기회다.",
+      "비슷한 시기 콰이쇼우의 AI 영상 서비스 Kling AI도 2분기 매출 8억5,000만위안을 넘겼다. 영상 생성 기능만 판 게 아니라 구독 크레딧과 기업용 API를 묶어 제작 전체 흐름을 팔았다.",
+      "8월 19일 공개된 StartupBench 연구는 범용 AI의 업무 완료율이 19.74%, 업종별로 설계한 AI는 39.18%라고 밝혔다. 기능 하나보다 업무 전체를 끝까지 대신 처리하는 상품에 반복 결제가 붙는다."
+    ],
+    "instagram": {
+      "caption": "치료사 열 명 중 여덟 명은 혼자 병원을 운영합니다. 진료, 장부, 세금까지 혼자 챙기다 보니 한 달에 10시간이 서류에 사라지죠. 미국 스타트업 Heard는 이 문제 하나에 월 169달러짜리 구독 상품을 만들었습니다. 처음엔 치료사를 연결해주는 서비스였지만, 2020년 완전히 다른 회사로 방향을 틀었습니다. 오늘은 한 업종의 업무 전체를 끝까지 대신 처리해주는 상품에 왜 반복 결제가 붙는지 살펴봅니다.",
+      "hashtags": "#창업 #1인사업 #스몰비즈니스 #버티컬사스 #AI창업 #수익화 #비즈니스인사이트",
+      "cards": [
+        "치료사 86.5%가 혼자 병원을 운영한다, 그런데 왜 월 169달러를 회계 앱에 쓸까",
+        "Heard는 2019년 치료사 연결 서비스로 시작했지만, 2020년 재무 백오피스로 완전히 방향을 바꿨다",
+        "치료사는 한 달 평균 10시간을 서류에 쓴다, 시간당 진료비로 계산하면 연 최대 1만8,000달러",
+        "Heard는 장부 정리, 분기 세금 계산, 연말 신고를 묶어 개인사업자에게 연 2,028달러를 받는다",
+        "내 업종에서 매달 반복되지만 아무도 안 만드는 서류 업무는 무엇일까, 그 업무 하나를 통째로 대신해보자"
+      ]
+    },
+    "youtube": {
+      "title": "회계 앱 대신 월 169달러, 치료사들이 이 스타트업에 돈을 내는 이유",
+      "hook": "치료사 열 명 중 여덟 명은 혼자 병원을 운영합니다. 그런데 이들이 가장 많이 놓치는 건 진료가 아니라 서류였습니다.",
+      "script": "미국에서 개인 치료실을 운영하는 치료사, 열 명 중 여덟 명 이상은 혼자 사업을 꾸립니다. 진료도 하고 장부도 쓰고 세금도 챙겨야 합니다.\n\nHeard라는 회사는 2019년 치료사를 연결해주는 서비스로 시작했습니다. 그런데 고객들이 실제로 개인 치료실을 열면서 법인 설립과 장부, 세금 문제로 더 크게 고생한다는 걸 알게 됐고, 2020년부터 방향을 완전히 바꿨습니다.\n\n지금 Heard는 매달 거래를 분류하고 장부를 정리하고 분기별 세금을 계산해주고, 연말에는 개인 세금 신고까지 대신 해줍니다. 개인사업자 요금제는 연간 결제 기준으로 월 169달러, 연 2,028달러입니다.\n\n2026년 회사 조사에서 치료사 약 2,000명 가운데 86.5%가 1인 사업자였고, 이들은 한 달 평균 10시간을 사업 관리에 썼습니다. 시간당 진료비 중간값 150달러로 계산하면, 이 10시간은 연간 최대 1만8,000달러의 진료 기회와 같습니다.\n\n비슷한 흐름은 다른 업종에서도 보입니다. 콰이쇼우의 AI 영상 서비스 Kling AI는 영상 생성 기능 하나만 팔지 않고 구독 크레딧과 기업용 API를 묶어, 2026년 2분기 매출 8억5,000만위안을 넘겼습니다. 전년 동기 대비 200% 넘게 늘어난 수치입니다.\n\n8월 19일 공개된 StartupBench 연구는 범용 AI의 업무 완료율이 19.74%인 반면, 업종별로 설계한 AI는 39.18%라고 밝혔습니다. 기능 하나를 자랑하기보다, 한 업종이 매달 반복하는 업무 전체를 끝까지 대신 처리하는 상품에 반복 결제가 붙는다는 뜻입니다.\n\n작은 사업자가 가져갈 점은 두 가지입니다. 새 기능을 얹기보다 한 직업이 매달 미루는 반복 업무를 통째로 맡아보는 것, 그리고 작업물 개수가 아니라 되찾은 시간을 가격 근거로 삼는 것입니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Heard 공식 요금표",
+      "url": "https://www.joinheard.com/pricing"
+    },
+    {
+      "name": "Heard 2026년 재무 조사 보도자료",
+      "url": "https://www.businesswire.com/news/home/20260422209298/en/Heard-Releases-Fourth-Annual-Financial-State-of-Private-Practice-Report-Surveying-Nearly-2000-Therapists-on-Income-Taxes-and-the-Cost-of-Running-a-Practice"
+    },
+    {
+      "name": "Heard와 CAMFT 제휴 보도자료",
+      "url": "https://www.businesswire.com/news/home/20260605911718/en/Heard-Partners-with-CAMFT-to-Bring-Therapist-Specific-Financial-Support-to-Californias-Marriage-and-Family-Therapists"
+    },
+    {
+      "name": "Kuaishou Technology 2026년 2분기 실적 발표",
+      "url": "https://ir.kuaishou.com/news-releases/news-release-details/kuaishou-technology-announces-second-quarter-and-interim-2026"
+    },
+    {
+      "name": "Kling Video 3.0 크레딧 기준",
+      "url": "https://home.kling.ai/quickstart/klingai-video-3-model-user-guide"
+    },
+    {
+      "name": "Sensi.AI 이용약관",
+      "url": "https://www.sensi.ai/terms-and-conditions/"
+    },
+    {
+      "name": "Sensi.AI 노인주거시설 확장 보도자료",
+      "url": "https://www.prnewswire.com/news-releases/sensiai-expands-care-intelligence-platform-to-senior-living-communities-bringing-continuous-insights-across-the-full-care-continuum-302848429.html"
+    },
+    {
+      "name": "StartupBench 연구",
+      "url": "https://arxiv.org/abs/2608.17800"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
