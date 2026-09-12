@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-12",
+  "generated_at_kst": "2026-09-12T12:45:00+09:00",
+  "mode": "new",
+  "headline": "병원에서 요양시설로 옮긴 낙상감지 센서, 구독매출이 1년 만에 네 배로 뛰었다",
+  "insights": [
+    {
+      "title": "병원에서 요양시설로 옮긴 낙상감지 센서, 구독매출이 1년 만에 네 배로 뛰었다",
+      "summary": "간호사 출신 마이클 왕이 만든 미국 Inspiren은 병원용 낙상감지 센서로 시작했지만 사업이 크게 자란 곳은 시니어 리빙 시설이다. 9월 10일 발표한 시리즈C 7000만달러는 NewView Capital이 이끌고 Insight Partners 등 8곳이 참여했으며, 누적 투자금 2억2500만달러, 기업가치 5억5000만달러가 됐다. Forbes 취재(원문 접근 제한으로 야후 파이낸스 캐나다판 미러로 확인)에 따르면 구독 매출은 지난해 800만달러에서 올해 2900만달러로 늘었고 계약 기준 수입은 6000만달러를 넘었다. 500곳 넘는 시설에서 입주자 약 4만명을 관찰 중이며 비용은 입주자 한 명당 약 1000달러라고 밝혔으나 기간과 설치비 포함 여부는 확인되지 않는다.",
+      "takeaway": "정보 제공용 기기 판매에서 끝나지 않고 경보 이후 대응과 기록까지 서비스로 넓히면 반복되는 구독 매출로 이어질 수 있다.",
+      "source_type": "media",
+      "source_name": "PR Newswire(Inspiren) / Forbes",
+      "source_url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+    },
+    {
+      "title": "이 회사 건물의 80퍼센트를 소유한 대형 부동산 자본은, 투자자가 아니라 고객이다",
+      "summary": "Inspiren의 기술이 배치된 건물 가운데 80퍼센트 이상은 AEW, Sabra Healthcare REIT 같은 대형 시니어하우징 부동산 투자자가 소유한다. 그런데 이 표현은 두 회사가 Inspiren에 돈을 넣었다는 뜻이 아니라, 이들이 소유한 건물이 Inspiren의 기술을 도입한 고객이라는 뜻이다. 회사 발표 원문을 직접 대조한 결과 실제 시리즈C 투자자는 NewView Capital, Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek으로 모두 벤처캐피털이다.",
+      "takeaway": "보도자료에서 투자자와 고객이 한 문장에 함께 나오면 각자의 역할을 원문 문장 그대로 다시 대조해야 한다.",
+      "source_type": "media",
+      "source_name": "PR Newswire(Inspiren 시리즈C 보도자료)",
+      "source_url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+    },
+    {
+      "title": "시니어 도시락 가맹점이 32곳 줄었는데, 본사 매출은 11퍼센트 늘었다",
+      "summary": "일본 상장기업 실버라이프(배달 도시락 브랜드 마고코로벤토 등 운영)의 2025년 8월부터 2026년 1월까지 반기 매출은 80억7,100만엔으로 전년 동기 대비 11.4퍼센트 늘었다. 같은 기간 가맹점은 916곳으로 전년 동기보다 32곳 줄었지만, 가맹점 대상 매출은 46억8,799만엔으로 1.6퍼센트 늘었다. 매장당 평균 매출은 7.2퍼센트 늘었는데, 공시는 이 증가에 가격 인상이 기여했다고 설명해 식수 자체가 늘었다고 단정할 근거는 아니다. 이 수치는 IFIS 공시 원문과 일본유통산업신문 취재로 교차 확인됐다. 회사는 2026년 7월 결산에서도 15년 연속 매출 증가, 5년 연속 이익 증가가 이어졌다고 9월 11일 밝혔다.",
+      "takeaway": "가맹점 수를 늘리는 대신 문을 닫는 점포의 고객을 인근 점주에게 넘겨 기존 배달망의 밀도를 유지하는 방법으로도 매출을 키울 수 있다.",
+      "source_type": "media",
+      "source_name": "IFIS 공시 / 일본유통산업신문",
+      "source_url": "https://online.bci.co.jp/article/detail/4982?read_more=1"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄시설의 IT 지출이 기기 값에서 사고 이후 대응 관리로 옮겨간다",
+      "summary": "Inspiren은 벽면 센서로 낙상을 감지하는 데서 그치지 않고, 경보가 울린 뒤 누가 대응했는지, 어떤 조치를 했는지까지 기록하는 서비스로 상품을 넓혔다. 8월에는 양방향 음성과 담당자 표시 기능을 추가했다. 시설 입장에서는 기기를 사는 게 아니라 직원의 대응 과정을 관리하는 소프트웨어를 구독하는 셈이 된다.",
+      "why_now": "9월 10일 시리즈C 발표와 함께 구독 매출이 1년 새 800만달러에서 2900만달러로 늘었다는 수치가 이 방향 전환의 효과를 보여준다.",
+      "source_url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+    },
+    {
+      "theme": "매출을 늘리는 방법이 매장 확장에서 기존 경로의 밀도로 옮겨간다",
+      "summary": "실버라이프는 가맹점 수가 줄어드는 와중에도 매출을 늘렸다. 문을 닫는 점포의 배달 고객을 인근 점주가 넘겨받아 기존 배송 경로를 유지하는 방식이 회사 공시와 취재에서 함께 확인됐다.",
+      "why_now": "9월 11일 연간 결산 발표에서 15년 연속 매출 증가가 이어졌다고 밝혀, 반기 실적에서 보인 흐름이 연간에도 이어졌는지가 확인 대상으로 남는다.",
+      "source_url": "https://kabuyoho-sls-disclose.ifis.co.jp/70a/140120260313580717.pdf"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Inspiren(미국, 창업자 마이클 왕, 간호사 출신)",
+      "what": "병원용 낙상감지 센서로 시작해 시니어 리빙 시설의 입주자 관찰과 직원 대응 기록을 연결하는 서비스로 사업을 넓혔다",
+      "how": "500곳 넘는 시설에 벽면 센서를 배치해 입주자 약 4만명을 관찰하고, 경보 이후 담당자 지정과 조치 완료까지 소프트웨어로 관리한다. 입주자 한 명당 비용은 약 1000달러라고 밝혔으나 기간과 설치비 포함 여부는 확인되지 않는다.",
+      "numbers": "9월 10일 시리즈C 7000만달러 유치(NewView Capital 주도, Insight Partners 등 8개 벤처캐피털 참여), 누적 투자금 2억2500만달러, 기업가치 5억5000만달러. 구독 매출은 지난해 800만달러에서 올해 2900만달러로 증가, 계약 기준 수입은 6000만달러 초과(모두 회사 발표 수치, 독립 감사 미확인). 기술이 배치된 건물의 80퍼센트 이상을 소유한 AEW, Sabra Healthcare REIT는 투자자가 아니라 기술 도입 고객이다.",
+      "source_url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+    },
+    {
+      "who": "실버라이프(일본, 도쿄 증시 상장, 배달 도시락 브랜드 마고코로벤토 등 운영)",
+      "what": "고령자 대상 배달 도시락을 가맹점과 시설, 개인에게 공급한다",
+      "how": "문을 닫는 가맹점의 배달 고객을 인근 점주에게 넘기는 방식으로 가맹점 수가 줄어도 기존 배송 경로를 유지한다",
+      "numbers": "2025년 8월부터 2026년 1월까지 반기 매출 80억7,100만엔(전년 동기 대비 11.4퍼센트 증가), 가맹점 916곳(전년 동기 대비 32곳 감소), 가맹점 대상 매출 46억8,799만엔(1.6퍼센트 증가), 매장당 평균 매출 7.2퍼센트 증가(공시는 가격 인상 기여를 설명). 2026년 7월 결산 기준 경상이익 11.9억엔(전기 대비 17.3퍼센트 증가), 15기 연속 매출 증가, 5기 연속 이익 증가, 영업이익률 4.5퍼센트에서 5.9퍼센트로 개선.",
+      "source_url": "https://online.bci.co.jp/article/detail/4982?read_more=1"
+    },
+    {
+      "who": "Feet & Motion(영국 호셤, 발 관리 전문업체)",
+      "what": "30분 발 관리를 낱개로 팔지 않고 정기권으로 묶어 판매한다",
+      "how": "Assist 요금제는 월 27.5파운드 또는 연 330파운드에 8주 간격으로 6회 관리를 포함한다. 못 쓴 회차는 이월도 환불도 안 되고 해지에는 한 달 전 통보가 필요하다",
+      "numbers": "단건 가격은 58파운드로 표시돼 있으나 담당자와 상품 범위가 정기권과 완전히 같은지 확인되지 않아 정확한 할인율은 계산하지 않는다. 2026년 6월 단건 가격 인상과 12개월 가격 고정이 함께 적용됐고, 4월에는 지역 스포츠센터 Bluecoat Sports가 제휴 혜택으로 이 정기권을 소개했다.",
+      "source_url": "https://feetandmotion.co.uk/continuumcare/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "SimplyBook.me",
+      "use": "예약과 정기권, 반복 결제를 함께 관리하는 스케줄링 도구. 발 관리, 미용, 상담처럼 반복 방문이 필요한 소규모 서비스가 회차 관리와 결제를 한곳에서 처리할 때 참고할 수 있다.",
+      "source_url": "https://simplybook.me/ko/"
+    }
+  ],
+  "quote": {
+    "text": "10년 후에는 문이 닫힌 방 안에서 입주자에게 무슨 일이 있었는지 아무도 모르는 상황을 아무도 받아들이지 않을 것이다",
+    "author": "마이클 왕, Inspiren 창업자",
+    "source_url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+  },
+  "newsletter": {
+    "title": "병원에서 요양시설로 옮긴 낙상감지 센서, 구독매출이 1년 만에 네 배로 뛰었다",
+    "body_md": "핵심 주장: 정보 제공용 기기 판매로 끝나는 사업도, 경보 이후 대응과 기록까지 서비스로 넓히면 반복되는 구독 매출을 만들 수 있다.\n\n대표 사례: 미국 Inspiren. 병원용 낙상감지 센서로 시작했지만 시니어 리빙 시설로 옮기며 사업이 자랐다. 9월 10일 시리즈C 7000만달러(기업가치 5억5000만달러)를 유치했고, 구독 매출은 지난해 800만달러에서 올해 2900만달러로 늘었다.\n\n누가 돈을 내는가: 기술을 도입하는 시니어 리빙 시설 운영사. 건물의 80퍼센트 이상을 소유한 AEW, Sabra Healthcare REIT는 투자자가 아니라 고객이라는 점을 원문 대조로 확인했다.\n\n한계: 입주자당 비용 1000달러의 기간과 설치비 포함 여부, 구독 매출과 계약 기준 수입의 회계 기준은 공개되지 않았다.\n\n금요일 비교 후보: 실버라이프(가맹점 감소에도 매출 증가한 일본 배달 도시락 본사)와 Feet & Motion(영국 발 관리 정기권) 중 하나와 대비해 '반복 매출을 어디서 만드는가'라는 각도로 엮을 수 있음."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "병원에서 요양시설로 옮긴 낙상감지 센서, 구독매출이 1년 만에 네 배로 뛰었다",
+      "hook": "병원에서 쓰던 낙상감지 센서가 정작 요양시설에서 크게 자랐다면, 무엇이 달라진 걸까",
+      "core_claim": "기기 판매에서 끝나는 사업도 경보 이후 대응과 기록을 서비스로 넓히면 반복 구독 매출을 만들 수 있다",
+      "primary_case": "Inspiren(미국)",
+      "public_number": "시리즈C 7000만달러, 기업가치 5억5000만달러, 구독매출 800만달러에서 2900만달러로 증가",
+      "payer": "기술을 도입한 시니어 리빙 시설 운영사. AEW, Sabra Healthcare REIT는 투자자가 아니라 고객",
+      "seven_day_action": "국내 요양시설 운영자 2곳에 낙상감지 기기 도입 이후 실제로 늘어난 관리 업무와 담당자 배정 방식을 물어 기록한다",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html",
+        "https://www.forbes.com/sites/innovationrx/2026/09/09/the-550-million-startup-bringing-sensors-and-ai-to-senior-living-centers/"
+      ]
+    },
+    {
+      "title": "시니어 도시락 가맹점이 32곳 줄었는데, 본사 매출은 11퍼센트 늘었다",
+      "hook": "가맹점이 줄어드는데 본사 매출이 늘었다면, 어디서 이 차이가 나올까",
+      "core_claim": "매장 수를 늘리는 대신 문을 닫는 점포의 고객을 인근 점주에게 넘겨 기존 배달망의 밀도를 유지하는 방법으로도 매출을 키울 수 있다",
+      "primary_case": "실버라이프(일본)",
+      "public_number": "반기 매출 80억7,100만엔(11.4퍼센트 증가), 가맹점 916곳(32곳 감소), 매장당 평균 매출 7.2퍼센트 증가",
+      "payer": "식재료를 구매하는 가맹점과 시설, 온라인 도시락 구매자",
+      "seven_day_action": "지역 배달 도시락 업체 2곳에 폐업 점포 고객 인계 절차와 인수 점주의 배송거리 변화를 묻는다",
+      "source_urls": [
+        "https://online.bci.co.jp/article/detail/4982?read_more=1",
+        "https://kabuyoho-sls-disclose.ifis.co.jp/70a/140120260313580717.pdf",
+        "https://news.livedoor.com/article/detail/32300802/"
+      ]
+    },
+    {
+      "title": "발 관리 6번을 묶어 팔았더니, 못 쓴 회차는 그냥 사라진다",
+      "hook": "몇 주에 한 번 받는 발 관리를 정기권으로 묶어 파는 회사는, 못 쓴 회차를 어떻게 처리할까",
+      "core_claim": "반복 방문 서비스를 정기권으로 만들 때는 할인 폭보다 못 쓴 회차의 처리 방식을 분명히 알려야 분쟁을 줄인다",
+      "primary_case": "Feet & Motion(영국)",
+      "public_number": "월 27.5파운드 또는 연 330파운드에 6회(8주 간격) 포함, 단건 가격 58파운드",
+      "payer": "민간 서비스를 구매하는 개인 이용자",
+      "seven_day_action": "국내 반복 방문형 서비스 사업자 2곳에 정기권 미사용 회차 처리 방식과 해지 문의 빈도를 묻는다",
+      "source_urls": [
+        "https://feetandmotion.co.uk/continuumcare/",
+        "https://feetandmotion.co.uk/prices/",
+        "https://www.bluecoatsports.co.uk/blog/bluecoat-sports-membership-benefits-exclusive-discounts/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "병원에서 요양시설로 옮긴 낙상감지 센서, 구독매출이 1년 만에 네 배로 뛰었다",
+      "body_md": "간호사로 일하던 마이클 왕은 병원에서 낙상 사고를 볼 때마다 같은 의문이 들었다. 왜 아무도 그 순간을 미리 알지 못했을까. 그는 병실 벽에 붙이는 센서로 이 문제를 풀려고 회사를 차렸다. 그런데 정작 이 기술이 크게 자란 곳은 병원이 아니라 요양시설과 시니어 리빙 커뮤니티였다.\n\n미국 Inspiren은 9월 10일 시리즈C로 7000만달러를 유치했다고 발표했다. NewView Capital이 투자를 이끌었고 Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek이 함께 참여했다. 이번 라운드로 누적 투자금은 2억2500만달러, 기업가치는 5억5000만달러가 됐다. 같은 시기 보도된 Forbes 취재(원문 접근이 막혀 야후 파이낸스 캐나다판 미러로 확인)에 따르면 구독 매출은 지난해 800만달러에서 올해 2900만달러로 늘었고, 계약을 기준으로 잡은 수입은 6000만달러를 넘었다. 회사는 500곳이 넘는 시니어 리빙 시설에서 입주자 약 4만명을 관찰하고 있으며, 비용은 입주자 한 명당 약 1000달러라고 밝혔다. 다만 이 금액이 한 달 기준인지 1년 기준인지, 설치비가 포함됐는지는 보도자료에서 확인되지 않는다.\n\n이 기술이 자리 잡은 건물의 80퍼센트 이상은 AEW, Sabra Healthcare REIT 같은 대형 시니어하우징 부동산 투자자가 소유하고 있다. 다만 이들은 Inspiren에 직접 돈을 넣은 투자자가 아니라, 자신들이 소유한 건물에 이 기술을 들인 고객이다. 실제 이번 시리즈C에 참여한 곳은 앞서 밝힌 NewView Capital 등 벤처캐피털 8곳이다. 투자자와 고객을 같은 문장에 섞으면 이 회사가 부동산 자본으로부터 직접 투자를 받은 것처럼 보이기 쉽지만, 둘은 서로 다른 역할이다.\n\nInspiren이 돈을 버는 방식은 단순히 센서를 파는 데서 끝나지 않는다. 창업자 왕은 이번 발표에서 문이 닫힌 방 안에서 입주자에게 무슨 일이 있었는지 아무도 모르는 상황을 10년 후에는 아무도 받아들이지 않을 것이라고 말했다. 이 말은 곧 사업의 방향이기도 하다. 회사는 벽면 센서로 낙상과 이상 징후를 감지하는 데서, 경보가 울린 뒤 누가 대응했는지, 어떤 조치를 했는지까지 기록하는 서비스로 상품을 넓혔다. 8월에는 양방향 음성과 담당자 표시 기능을 추가했다. 시설 입장에서는 기기 하나를 사는 게 아니라 직원의 대응 과정을 관리하는 소프트웨어를 구독하는 셈이 되고, 이 부분이 반복되는 구독 매출로 이어진다.\n\n이 사례에서 작은 사업자가 가져갈 방법은 두 가지다. 첫째, 기기나 정보를 제공하는 데서 사업이 끝난다면, 그 다음에 남는 확인과 기록 업무를 유료 서비스로 넓힐 수 있는지 살펴본다. 둘째, 처음 겨냥한 고객군에서 기대만큼 자라지 않는다면 같은 기술을 다른 고객군에 옮겨보되, 그 고객군이 실제로 어떤 문제를 겪는지부터 다시 확인한다. Inspiren은 병원에서 요양시설로 옮기면서 사업이 커졌지만, 이는 같은 기술을 다른 지불자에게 판 것이지 기술 자체를 바꾼 게 아니었다.\n\n다만 이 발표만으로 회사의 수익성을 판단하기는 이르다. 구독 매출과 계약 기준 수입, 기업가치는 모두 회사 발표 수치이며 독립 감사 결과는 아니다. 입주자당 비용도 정확한 기간과 포함 범위가 공개되지 않아 월 요금이나 연 요금으로 단정할 수 없다.\n\n출처: Inspiren 시리즈C 투자 유치 보도자료(PR Newswire, 2026년 9월 10일), Forbes 취재(2026년 9월 9일, 야후 파이낸스 캐나다판 미러로 확인).\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "간호사로 일하던 마이클 왕은 병원에서 낙상사고를 볼 때마다 같은 의문이 들었습니다. 왜 아무도 그 순간을 미리 몰랐을까. 그가 만든 낙상감지 센서 회사 Inspiren은 정작 병원이 아니라 요양시설에서 크게 자랐습니다. 9월 10일 시리즈C로 7000만달러를 유치했고 기업가치는 5억5000만달러가 됐습니다.",
+      "NewView Capital이 이끌고 Insight Partners 등 8곳이 참여해 누적 투자금은 2억2500만달러가 됐습니다. Forbes 취재에 따르면 구독 매출은 지난해 800만달러에서 올해 2900만달러로 늘었고, 계약 기준 수입은 6000만달러를 넘었습니다. 500곳 넘는 시설에서 입주자 약 4만명을 관찰 중이며 입주자 한 명당 비용은 약 1000달러입니다. 다만 이 기술이 쓰이는 건물의 80퍼센트 이상을 소유한 AEW, Sabra Healthcare REIT는 Inspiren에 투자한 곳이 아니라 기술을 들인 고객입니다.",
+      "Inspiren은 센서를 파는 데서 끝나지 않고, 경보 이후 누가 어떻게 대응했는지 기록하는 서비스로 상품을 넓혔습니다. 창업자는 문이 닫힌 방 안에서 입주자에게 무슨 일이 있었는지 아무도 모르는 상황을 10년 후에는 아무도 받아들이지 않을 것이라고 말했습니다. 기기 판매를 서비스 구독으로 넓힌 것이 매출이 네 배 가까이 뛴 이유로 보입니다. 출처: PR Newswire, Forbes."
+    ],
+    "instagram": {
+      "caption": "간호사 출신이 만든 낙상감지 센서 회사 Inspiren은 병원이 아니라 요양시설에서 크게 자랐습니다. 시리즈C 7000만달러를 유치하며 기업가치 5억5000만달러가 됐고, 구독 매출은 1년 새 800만달러에서 2900만달러로 늘었습니다. 건물의 80퍼센트 이상을 소유한 대형 부동산 자본은 투자자가 아니라 기술을 들인 고객이라는 점도 함께 확인했습니다. 출처는 카드 마지막 장에 표기했습니다.",
+      "hashtags": "#시니어비즈니스 #헬스케어스타트업 #에이징테크 #시니어리빙 #스타트업투자 #시리즈C #돌봄테크",
+      "cards": [
+        "병원 대신 요양시설에 판 낙상감지 센서, 구독매출이 1년 만에 4배 뛰었다",
+        "미국 Inspiren, 9월 10일 시리즈C 7000만달러 유치, 기업가치 5억5000만달러",
+        "구독매출 작년 800만달러에서 올해 2900만달러, 계약기준수입은 6000만달러 초과",
+        "500곳 넘는 시설에서 입주자 약 4만명 관찰, 1인당 비용 약 1000달러",
+        "이 건물의 80퍼센트 이상을 소유한 AEW, Sabra는 투자자가 아니라 기술을 들인 고객",
+        "센서 판매에서 대응 기록 서비스로, 상품을 넓힌 것이 매출 성장의 핵심",
+        "출처: PR Newswire(2026.09.10), Forbes(2026.09.09)"
+      ]
+    },
+    "youtube": {
+      "title": "병원 대신 요양시설에 판 낙상감지 센서, 매출이 1년 만에 4배 뛰었다",
+      "hook": "간호사로 일하던 사람이 만든 낙상감지 센서가, 병원이 아니라 요양시설에서 크게 자랐습니다.",
+      "script": "간호사로 일하던 마이클 왕은 병원에서 낙상 사고를 볼 때마다 같은 의문이 들었습니다. 왜 아무도 그 순간을 미리 알지 못했을까. 그는 병실 벽에 붙이는 센서로 이 문제를 풀려고 회사를 차렸습니다. 그런데 정작 이 기술이 크게 자란 곳은 병원이 아니라 요양시설과 시니어 리빙 커뮤니티였습니다.\n\n미국 Inspiren은 9월 10일 시리즈C로 7000만달러를 유치했다고 발표했습니다. 이번 라운드로 누적 투자금은 2억2500만달러, 기업가치는 5억5000만달러가 됐습니다. 구독 매출은 지난해 800만달러에서 올해 2900만달러로 늘었고, 계약 기준 수입은 6000만달러를 넘었습니다. 500곳이 넘는 시설에서 입주자 약 4만명을 관찰 중이며, 입주자 한 명당 비용은 약 1000달러입니다.\n\n이 기술이 쓰이는 건물의 80퍼센트 이상은 AEW, Sabra Healthcare REIT 같은 대형 시니어하우징 부동산 투자자가 소유합니다. 다만 이들은 Inspiren에 투자한 곳이 아니라 기술을 도입한 고객입니다. 실제 투자자는 NewView Capital이 이끈 벤처캐피털 8곳입니다.\n\nInspiren은 센서를 파는 데서 끝나지 않고, 경보가 울린 뒤 누가 어떻게 대응했는지 기록하는 서비스로 상품을 넓혔습니다. 창업자는 문이 닫힌 방 안에서 입주자에게 무슨 일이 있었는지 아무도 모르는 상황을 10년 후에는 아무도 받아들이지 않을 것이라고 말했습니다. 기기 판매를 서비스 구독으로 넓힌 것이 매출이 네 배 가까이 뛴 이유로 보입니다.\n\n다만 구독 매출과 기업가치는 모두 회사 발표 수치이고, 입주자당 비용의 정확한 기간도 아직 확인되지 않았습니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "PR Newswire(Inspiren 시리즈C 보도자료)",
+      "url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html"
+    },
+    {
+      "name": "Forbes(Inspiren 취재)",
+      "url": "https://www.forbes.com/sites/innovationrx/2026/09/09/the-550-million-startup-bringing-sensors-and-ai-to-senior-living-centers/"
+    },
+    {
+      "name": "Yahoo Finance Canada(Forbes 미러)",
+      "url": "https://ca.finance.yahoo.com/news/550-million-startup-bringing-sensors-160000155.html"
+    },
+    {
+      "name": "IFIS 공시(실버라이프 중간결산)",
+      "url": "https://kabuyoho-sls-disclose.ifis.co.jp/70a/140120260313580717.pdf"
+    },
+    {
+      "name": "일본유통산업신문(실버라이프 취재)",
+      "url": "https://online.bci.co.jp/article/detail/4982?read_more=1"
+    },
+    {
+      "name": "라이브도어(실버라이프 연간결산 보도)",
+      "url": "https://news.livedoor.com/article/detail/32300802/"
+    },
+    {
+      "name": "Feet & Motion 정기권 안내",
+      "url": "https://feetandmotion.co.uk/continuumcare/"
+    },
+    {
+      "name": "Feet & Motion 일반 가격표",
+      "url": "https://feetandmotion.co.uk/prices/"
+    },
+    {
+      "name": "Bluecoat Sports 제휴 안내",
+      "url": "https://www.bluecoatsports.co.uk/blog/bluecoat-sports-membership-benefits-exclusive-discounts/"
+    },
+    {
+      "name": "East Sussex Healthcare NHS Trust 발 진료 안내",
+      "url": "https://www.esht.nhs.uk/service/podiatry/"
+    },
+    {
+      "name": "SimplyBook.me",
+      "url": "https://simplybook.me/ko/"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약, 재구성한 정보 제공용이며, 특정 수익, 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
