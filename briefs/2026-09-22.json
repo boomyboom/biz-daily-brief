@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-22",
+  "generated_at_kst": "2026-09-22T12:05:08+09:00",
+  "mode": "new",
+  "headline": "보험료가 아니라, 작은 회사의 보험 행정을 끝내주는 서비스를 판다",
+  "insights": [
+    {
+      "title": "직원 한 명짜리 회사도 보험 브로커의 고객이 된다",
+      "summary": "Corridor는 1명에서 100명 규모 기업을 대상으로 사람 상담과 AI 행정 처리를 결합한 건강보험 브로커를 내놓았다. 의사 네트워크 확인, 견적 비교와 가입 일정처럼 반복되는 일을 줄이는 구조다. 고용주에게 무료로 제공하고 보험사 커미션으로 보상받는 방식은 회사 설명이다.",
+      "takeaway": "기능 목록보다 고객이 매년 반복하는 갱신 업무와 그 업무의 결제자를 먼저 적어라.",
+      "source_type": "media",
+      "source_name": "TechCrunch와 Corridor 공식 사이트",
+      "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+    },
+    {
+      "title": "시니어 안부 서비스의 결제자는 부모가 아니라 가족이다",
+      "summary": "BabuuTalk는 부모님이 기기를 조작하지 않아도 자동 영상통화와 AI 대화 요약이 작동하고, 가족은 LINE으로 확인하는 서비스다. 공식 요금은 스탠더드 월 1,980엔, 프리미엄 월 2,980엔, 14일 무료다. 낙상 감지나 긴급 출동 서비스는 아니라고 분명히 선을 긋는다.",
+      "takeaway": "사용자는 시니어, 결제자는 자녀, 책임 범위는 운영자라는 세 역할을 가격표와 안내문에서 분리하라.",
+      "source_type": "media",
+      "source_name": "BabuuTalk 공식 사이트와 PR TIMES",
+      "source_url": "https://babuutalk.com/"
+    },
+    {
+      "title": "재택 모니터링은 환자 앱보다 공공의료의 운영 계약에 가깝다",
+      "summary": "포르투갈 Hope Care는 환자의 측정 데이터를 의료진이 원격 확인하는 플랫폼을 공공의료기관과 함께 운영한다. 회사 발표 기준 15개 지역 보건의료기관에서 쓰이고, 회사는 2026년 상반기 매출이 전년 동기보다 2.5배라고 밝혔다. 600만유로 Series A는 신규 자금이라고 회사가 밝혔으며 독립 검증된 환자 결과와 반복 매출은 공개되지 않았다.",
+      "takeaway": "헬스케어에서 사용자는 환자여도 구매자는 병원과 지역 보건기관일 수 있으니 조달과 운영 흐름을 먼저 설계하라.",
+      "source_type": "media",
+      "source_name": "Hope Care 공식 발표",
+      "source_url": "https://hopecarehealth.com/linkedin-post/hope-care-fecha-serie-a-liderada-pela-iberis-capital-para-acelerar-expansao-europeia/"
+    },
+    {
+      "title": "무료 SNS 위에 크리에이터와 소상공인용 업무 구독을 얹는다",
+      "summary": "Meta One은 Instagram, Facebook, WhatsApp, Meta AI의 기본 경험은 무료로 유지하면서 크리에이터와 비즈니스에 인증, 예약 발행, 분석과 Meta Business Agent 사용량을 월 14.99달러부터 판매한다. Meta는 서비스 구독과 체험이 1,500만 건을 넘었다고 밝혔고, 결제 전환과 유지율은 공개하지 않았다.",
+      "takeaway": "무료 사용자를 막기보다 자주 쓰는 운영 기능과 응답 용량에 구독을 붙이는 방식을 시험하라.",
+      "source_type": "media",
+      "source_name": "Meta Newsroom과 Tom's Guide",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "헬스케어의 결제자는 실제 사용자와 달라진다",
+      "summary": "Corridor는 중소기업 고용주를 고객으로 삼고 보험사 커미션으로 보상받으며, BabuuTalk는 가족, Hope Care는 공공의료기관을 결제 구조의 중심에 둔다. 환자나 고령자가 서비스를 사용하는지보다 누가 보험료, 가족 안심 비용과 운영 예산을 집행하는지가 상품 구조를 결정한다.",
+      "why_now": "9월 14일부터 21일까지 공개된 신규 서비스와 투자 발표에서 사용자를 위한 기능보다 결제자와 운영 책임을 먼저 설명하는 사례가 이어졌다.",
+      "source_url": "https://corridoradvisors.com/about"
+    },
+    {
+      "theme": "AI 가격표가 기능 수에서 끝낸 업무로 이동한다",
+      "summary": "Corridor는 보험 갱신 행정, BabuuTalk는 매일의 안부 확인과 가족 보고, Meta One은 고객 응답과 콘텐츠 운영을 묶어 판다. 모델 성능을 앞세우기보다 사람이 반복하던 업무의 마지막 단계를 상품에 넣는 흐름이다.",
+      "why_now": "최근 공개된 서비스들이 AI를 별도 도구로 팔기보다 상담, 보고, 응답과 가입 같은 운영 흐름 안에 넣고 있다.",
+      "source_url": "https://babuutalk.com/"
+    },
+    {
+      "theme": "무료 진입 뒤 운영 기능만 유료화하는 층이 생긴다",
+      "summary": "Meta One은 기본 SNS 사용을 무료로 남겨 두고 인증, 예약 발행, 분석, 응답 용량 같은 사업 운영 기능을 구독으로 분리했다. 무료 사용자 전체의 접근을 막지 않으면서 자주 쓰는 기능에 가격을 붙이는 방식이다.",
+      "why_now": "Meta가 크리에이터와 비즈니스를 위한 월 14.99달러부터 499달러까지의 계층형 요금제를 공개했다.",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Corridor, 미국",
+      "what": "직원 1명에서 100명 기업의 건강보험 선택과 가입 행정을 돕는 AI 기반 보험 브로커",
+      "how": "AI가 의사 네트워크 확인, 견적 비교와 가입 일정 같은 반복 업무를 처리하고 사람 상담원이 중요한 판단을 맡는다. 공식 사이트는 고용주에게 무료로 제공하고 보험사 커미션으로 보상받는다고 설명한다.",
+      "numbers": "TechCrunch는 2026년 9월 21일 2,500만달러 시드라고 보도했고, Axios는 1,600만달러 시드와 900만달러 프리시드의 합계라고 설명했다. 공식 사이트는 1,100개 기업 지원과 평균 30퍼센트 절감을 회사 주장으로 제시하지만 산정 기준은 공개되지 않았다.",
+      "source_url": "https://corridoradvisors.com/about"
+    },
+    {
+      "who": "BabuuTalk, 일본 도쿄",
+      "what": "고령자가 조작하지 않아도 가족과 연결되고 AI 대화 요약을 보내는 안부 서비스",
+      "how": "Android 태블릿이 자동으로 영상통화에 응답하고, 가족은 LINE에서 통화, 사진, 게시판과 안부 확인을 관리한다. 회사는 낙상 감지, 긴급 출동과 통보 서비스가 아니라고 안내한다.",
+      "numbers": "공식 요금은 스탠더드 월 1,980엔, 프리미엄 월 2,980엔, 14일 무료 체험이다. 프리미엄은 월 통화 8시간과 가족 5명까지, 스탠더드는 월 통화 4시간과 가족 3명까지다.",
+      "source_url": "https://babuutalk.com/"
+    },
+    {
+      "who": "Hope Care, 포르투갈",
+      "what": "환자의 측정 데이터를 의료진에게 보내는 원격 환자 모니터링 플랫폼",
+      "how": "회사는 포르투갈과 프랑스에서 원격 모니터링 프로그램을 운영하고, 지역 보건의료기관이 환자 관리에 활용하는 구조를 제시한다. 환자용 앱 구독보다 의료기관의 도입과 운영이 중심이다.",
+      "numbers": "회사 발표 기준 2026년 9월 600만유로 Series A를 신규 자금으로 조달했고, 포르투갈 15개 지역 보건의료기관과 등록 국민의 약 45퍼센트에 해당하는 범위에서 사용된다고 밝혔다. 2026년 상반기 매출은 전년 동기보다 2.5배라고 했지만 독립 검증된 환자 결과와 반복 매출은 공개되지 않았다.",
+      "source_url": "https://hopecarehealth.com/linkedin-post/hope-care-fecha-serie-a-liderada-pela-iberis-capital-para-acelerar-expansao-europeia/"
+    },
+    {
+      "who": "Meta, 글로벌",
+      "what": "Instagram, Facebook, WhatsApp와 Meta AI 위에 크리에이터와 비즈니스용 업무 기능을 구독으로 얹은 Meta One",
+      "how": "기본 사용은 무료로 유지하고, 인증, 예약 발행, 분석, 계정 권한 관리와 Meta Business Agent 응답 용량을 요금제별로 제공한다. 운영 기능을 기존 고객 접점 안에 넣어 별도 앱 설치 없이 판매하는 구조다.",
+      "numbers": "Meta Newsroom 기준 크리에이터와 비즈니스 요금제는 월 14.99달러부터 시작하고, Advanced 49.99달러, Expert 149달러, Max 499달러부터다. Meta는 구독과 체험 1,500만 건과 50개 이상 기능을 발표했지만 유료 전환율과 유지율은 공개하지 않았다.",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Corridor 공식 보험 중개 안내",
+      "use": "직원 규모, 고용주와 보험사의 역할, 보험 갱신 행정을 어떤 범위로 상품화하는지 확인할 때 참고한다.",
+      "source_url": "https://corridoradvisors.com/about"
+    },
+    {
+      "name": "BabuuTalk 요금과 무료 체험 안내",
+      "use": "시니어 서비스에서 사용자인 부모, 결제자인 가족, 기능 한도와 최소 이용기간을 나누어 가격표를 설계할 때 참고한다.",
+      "source_url": "https://babuutalk.com/"
+    },
+    {
+      "name": "Hope Care 원격 모니터링 플랫폼",
+      "use": "환자용 기능보다 의료기관 조달, 의료진 확인과 지역 단위 운영이 중요한 헬스케어 사업의 흐름을 확인한다.",
+      "source_url": "https://hopecarehealth.com/en/"
+    },
+    {
+      "name": "Meta One 크리에이터와 비즈니스 요금제",
+      "use": "무료 접점은 유지하면서 인증, 예약 발행, 분석과 AI 응답 용량을 계층형 구독으로 나누는 가격 구조를 비교한다.",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    }
+  ],
+  "quote": {
+    "text": "The core experience across our apps and Meta AI will stay free.",
+    "author": "Meta Newsroom",
+    "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+  },
+  "newsletter": {
+    "title": "보험료를 낮춘다는 말보다, 작은 회사의 갱신 행정을 끝내는 사업",
+    "body_md": "작은 회사의 건강보험은 보험료보다 행정이 문제다. Corridor는 직원 1명에서 100명 규모의 고용주를 대상으로 사람 상담원과 AI 행정 처리를 결합한 보험 브로커를 시작했다. AI가 의사 네트워크 확인, 견적 비교, 가입 일정 같은 반복 업무를 처리하고 상담원이 중요한 판단을 맡는다. 고용주에게는 무료로 제공하고 보험사 커미션을 받는 구조라고 회사는 설명한다. 2026년 9월 21일 공개된 투자 규모는 TechCrunch가 2,500만달러 시드라고 보도했고, Axios는 1,600만달러 시드와 900만달러 프리시드의 합계라고 설명했다. 이 돈은 실적이 아니다. 독자가 볼 핵심은 보험을 싸게 판다는 약속이 아니라, 직원 수가 적어 기존 브로커가 외면하던 갱신 행정을 서비스 범위로 만든 점이다. 국내 사업자는 보험 모집을 바로 따라 하기보다 갱신일, 서류, 직원 질문과 비교표를 묶는 운영 대행부터 5개 회사에 시험해 볼 수 있다. 돈을 낼 고용주가 누구인지, 면허가 필요한 판단과 단순 행정을 어디서 나눌지 먼저 정한다. 출처: Corridor 공식 사이트, TechCrunch, Axios."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "직원 한 명짜리 회사의 보험 갱신을 AI와 사람이 함께 끝내는 브로커",
+      "hook": "보험료를 낮췄다는 말보다, 작은 회사의 보험 행정을 끝내준다는 말이 먼저 나왔다.",
+      "core_claim": "AI의 사업 가치는 답변 기능보다 작은 고용주가 매년 반복하는 보험 갱신 행정을 끝내는 운영 범위에 붙는다.",
+      "primary_case": "Corridor의 1명에서 100명 기업 대상 건강보험 브로커",
+      "public_number": "TechCrunch 보도 2,500만달러 시드, Axios 설명 1,600만달러 시드와 900만달러 프리시드 합계, 공식 사이트의 1,100개 기업 지원과 평균 30퍼센트 절감은 회사 주장",
+      "payer": "건강보험을 도입하는 중소기업 고용주와 보험사 커미션 구조",
+      "seven_day_action": "직원 2명에서 20명 회사 5곳의 갱신 과정을 인터뷰해 서류 수, 직원 질문 수, 비교에 걸린 시간과 반복 작업을 기록한다. 보험 판매가 아닌 행정 대행부터 검증한다.",
+      "source_urls": [
+        "https://corridoradvisors.com/about",
+        "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+        "https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures"
+      ]
+    },
+    {
+      "title": "부모님이 조작하지 않아도 가족이 매달 결제하는 안부 서비스",
+      "hook": "시니어가 쓰는 서비스라도 결제자는 자녀일 수 있다.",
+      "core_claim": "고령자 서비스는 사용자인 부모가 기기를 조작하지 않아도 되게 만들고, 가족에게 안심과 대화 기록을 구독으로 판매할 수 있다.",
+      "primary_case": "BabuuTalk의 자동 영상통화와 LINE 기반 가족 관리",
+      "public_number": "스탠더드 월 1,980엔, 프리미엄 월 2,980엔, 14일 무료, 추가 통화 1시간 500엔",
+      "payer": "멀리 사는 부모를 확인하려는 자녀와 가족",
+      "seven_day_action": "동의를 받은 5가구에서 사람이 먼저 하루 한 번 안부 전화를 하고, 통화 완료율, 가족의 요약 확인율과 다음 달 결제 의향을 기록한다. 긴급 출동을 약속하지 않는다.",
+      "source_urls": [
+        "https://babuutalk.com/",
+        "https://prtimes.jp/main/html/rd/p/000000003.000181484.html"
+      ]
+    },
+    {
+      "title": "환자가 아니라 공공의료기관이 돈을 내는 원격 모니터링",
+      "hook": "재택 건강관리의 고객은 환자가 아니라 지역 의료기관일 수 있다.",
+      "core_claim": "원격 모니터링의 사업성은 앱 다운로드보다 의료진 대시보드, 기기 운영과 공공 조달을 묶어 기관 계약으로 만드는 데 있다.",
+      "primary_case": "Hope Care의 포르투갈 지역 보건의료기관 도입",
+      "public_number": "회사 발표 기준 600만유로 Series A, 15개 지역 보건의료기관, 등록 국민의 약 45퍼센트 범위, 상반기 매출 전년 동기 대비 2.5배",
+      "payer": "지역 보건의료기관과 공공의료 조달기관",
+      "seven_day_action": "병원 행정 담당자와 간호 인력 3명에게 혈압, 산소포화도와 체중을 확인하는 업무 흐름을 묻고, 환자 모집 없이 등록, 기기 배송, 예외 알림과 보고서의 비용을 나눈다.",
+      "source_urls": [
+        "https://hopecarehealth.com/linkedin-post/hope-care-fecha-serie-a-liderada-pela-iberis-capital-para-acelerar-expansao-europeia/",
+        "https://hopecarehealth.com/en/"
+      ]
+    },
+    {
+      "title": "무료 SNS 위에 소상공인용 업무 구독을 얹은 Meta One",
+      "hook": "기본 도달은 무료로 남기고, 고객 응답과 분석에 가격을 붙인다.",
+      "core_claim": "플랫폼은 무료 사용자를 모두 막기보다 인증, 예약 발행, 분석과 AI 응답 용량처럼 사업자가 자주 쓰는 운영 기능을 계층형 구독으로 분리할 수 있다.",
+      "primary_case": "Meta One의 크리에이터와 비즈니스 요금제",
+      "public_number": "월 14.99달러부터 시작해 49.99달러, 149달러, 499달러 이상의 요금제를 제시했으며 Meta는 구독과 체험 1,500만 건을 밝혔다.",
+      "payer": "SNS로 고객을 모으고 운영하는 크리에이터와 소상공인",
+      "seven_day_action": "현재 무료로 제공하는 콘텐츠 제작, 고객 응답, 예약 발행 업무를 나누고, 가장 자주 쓰는 한 기능에만 7일 유료 실험을 붙여 실제 사용량과 해지 이유를 기록한다.",
+      "source_urls": [
+        "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+        "https://www.tomsguide.com/ai/i-bought-instagrams-new-meta-one-subscription-heres-what-usd7-99-actually-gets-you"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "보험료를 낮추기 전에, 작은 회사의 보험 행정을 끝내라",
+      "body_md": "<!-- DAILY_VISUAL_SKIP: 공식 페이지 이미지의 별도 재사용 조건을 확인하지 못해 외부 사진과 임의 표지를 사용하지 않음. -->\n\n# 보험료를 낮추기 전에, 작은 회사의 보험 행정을 끝내라\n\n직원 두 명인 회사가 건강보험을 고르는 날, 대표가 먼저 하는 일은 보험료 비교가 아니다. 어떤 병원이 네트워크에 들어가는지 확인하고, 직원의 질문에 답하고, 가입 서류와 일정을 맞추는 일이다. 미국의 Corridor는 이 반복 행정을 AI와 사람 상담원이 나눠 맡는 보험 브로커로 만들었다.\n\nCorridor는 직원 1명에서 100명 규모 기업을 대상으로 건강보험을 중개한다. AI가 의사 네트워크 확인, 견적 비교와 가입 일정 같은 사무 작업을 돕고, 사람 상담원은 중요한 선택과 예외 상황을 맡는다. 회사 공식 사이트는 고용주에게 별도 요금을 받지 않고 보험사 커미션으로 보상받는다고 설명한다. 사용자는 직원이지만 계약과 비용의 중심은 고용주와 보험사다.\n\n공개 숫자는 분리해서 봐야 한다. TechCrunch는 2026년 9월 21일 Corridor가 2,500만달러 시드를 받았다고 보도했다. Axios는 1,600만달러 시드와 900만달러 프리시드가 합쳐진 총액이라고 설명했다. 두 숫자는 투자 시점과 집계 방식이 다르므로 매출이나 이익으로 바꿔 쓸 수 없다. 공식 사이트는 1,100개 기업을 도왔고 평균 30퍼센트를 절감했다고 밝히지만, 절감률의 기준과 기간은 공개하지 않았다. 회사 주장으로 남겨야 하는 대목이다.\n\n그래도 이 사업이 흥미로운 이유는 분명하다. 작은 회사는 큰 회사보다 보험 중개 수수료가 작을 수 있지만, 상담과 서류에 드는 시간은 크게 줄지 않는다. Corridor는 그 틈을 AI가 반복 업무를 처리하고 사람이 판단하는 구조로 메우려 한다. 핵심 상품은 챗봇이 아니라 매년 되풀이되는 갱신 과정을 끝내주는 운영 범위다.\n\n작은 사업자가 적용할 방법은 두 가지다.\n\n첫째, 고객의 연간 업무를 날짜 순서로 적는다. 갱신일 확인, 직원 질문 수집, 비교표 작성, 병원 네트워크 확인, 가입 완료처럼 실제 손이 가는 단계를 나누고 각 단계에 걸린 시간과 재작업 횟수를 기록한다. 도구를 고르기 전에 어느 단계가 진짜 비용인지 알아야 한다.\n\n둘째, 면허가 필요한 판단과 단순 행정을 분리한다. 보험 모집과 자문은 국내 규정을 확인하고 자격 있는 전문가가 맡는다. 그 밖의 일정 알림, 서류 수집, 질문 정리와 비교표 작성은 운영 서비스로 묶어 5개 회사에 먼저 시험할 수 있다. 절감액을 약속하기보다 처리 시간, 누락 건수와 미해결 질문 수를 전후로 비교한다.\n\n가격은 기능 수에서 생기지 않는다. 고객이 매년 반복하는 업무를 어디서부터 어디까지 끝내줄지 정하고, 누가 돈을 낼지 분명하게 할 때 상품이 된다.\n\n출처: [Corridor 공식 사이트](https://corridoradvisors.com/about), [TechCrunch](https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/), [Axios](https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 보험료를 낮췄다는 약속보다, 작은 회사의 보험 갱신을 끝내준다는 말이 먼저 나왔습니다. 미국 Corridor는 직원 1명에서 100명 기업을 대상으로 사람 상담원과 AI 행정 처리를 결합한 건강보험 브로커를 시작했습니다. 고용주와 보험사 사이의 결제 구조와 반복 업무를 함께 잡은 사례입니다.",
+      "2. Corridor는 의사 네트워크 확인, 견적 비교와 가입 일정 같은 사무 작업을 AI가 돕고 사람 상담원이 중요한 판단을 맡습니다. 공식 사이트는 고용주에게 무료로 제공하고 보험사 커미션으로 보상받는다고 설명합니다. 이용자와 결제자와 판단 책임자를 나눈 셈입니다.",
+      "3. 투자금과 실적은 따로 봐야 합니다. TechCrunch는 2,500만달러 시드라고 보도했고, Axios는 1,600만달러 시드와 900만달러 프리시드의 합계라고 설명했습니다. 공식 사이트의 1,100개 기업 지원과 평균 30퍼센트 절감은 회사 주장이고 기준은 공개되지 않았습니다.",
+      "4. 국내 사업자는 보험 판매부터 따라 하기보다 갱신일, 서류, 직원 질문과 비교표를 묶는 운영 대행부터 시험할 수 있습니다. 면허가 필요한 판단과 단순 행정을 나누고, 절감액 대신 처리 시간과 누락 건수를 기록하면 됩니다. 출처: Corridor 공식 사이트, TechCrunch, Axios"
+    ],
+    "instagram": {
+      "caption": "보험료가 아니라, 작은 회사의 보험 행정을 끝내주는 서비스를 판다.\n\n미국 Corridor는 직원 1명에서 100명 규모 기업을 대상으로 사람 상담원과 AI 행정 처리를 결합한 건강보험 브로커를 시작했습니다. AI는 의사 네트워크 확인, 견적 비교와 가입 일정 같은 반복 업무를 돕고, 사람 상담원이 중요한 판단을 맡습니다.\n\n공식 사이트는 고용주에게 무료로 제공하고 보험사 커미션으로 보상받는다고 설명합니다. TechCrunch는 2,500만달러 시드를 보도했고, Axios는 1,600만달러 시드와 900만달러 프리시드의 합계라고 설명했습니다. 투자금은 실적이 아닙니다. 공식 사이트의 1,100개 기업 지원과 평균 30퍼센트 절감은 회사 주장으로, 산정 기준은 공개되지 않았습니다.\n\n작은 사업자는 보험 모집을 바로 시작하기보다 갱신일, 서류, 직원 질문과 비교표를 묶는 행정 대행부터 시험해 볼 수 있습니다. 절감액이 아니라 처리 시간과 누락 건수를 먼저 측정합니다.\n\n출처: Corridor 공식 사이트, TechCrunch, Axios",
+      "hashtags": "#비즈니스인사이트 #헬스케어비즈니스 #보험비즈니스 #AI비즈니스 #B2B #소상공인 #가격전략 #그사이",
+      "cards": [
+        "보험료가 아니라, 보험 행정을 판다",
+        "Corridor, 직원 1명에서 100명 기업 대상 보험 브로커",
+        "AI가 네트워크 확인, 견적 비교와 가입 일정을 돕는다",
+        "사람 상담원은 중요한 판단과 예외 상황을 맡는다",
+        "고용주 무료, 보험사 커미션 구조는 회사 설명",
+        "투자금과 회사 주장 절감률은 실적과 다르다",
+        "작은 사업자는 갱신 행정부터 5개 회사에 시험한다"
+      ]
+    },
+    "youtube": {
+      "title": "보험료보다 먼저 팔린 것, 작은 회사의 보험 행정",
+      "hook": "직원 두 명인 회사가 보험을 고를 때 가장 비싼 것은 보험료가 아니라 대표의 시간일 수 있습니다.",
+      "script": "직원 두 명인 회사가 건강보험을 고를 때 가장 비싼 것은 보험료가 아니라 대표의 시간일 수 있습니다.\n\n미국 Corridor는 직원 1명에서 100명 규모 기업을 대상으로 건강보험을 중개합니다. AI가 의사 네트워크 확인, 견적 비교와 가입 일정 같은 반복 업무를 돕고, 사람 상담원이 중요한 판단과 예외 상황을 맡습니다.\n\n회사 공식 사이트는 고용주에게 별도 요금을 받지 않고 보험사 커미션으로 보상받는다고 설명합니다. 사용자는 직원이지만 돈과 계약의 중심은 고용주와 보험사입니다. 작은 회사는 중개 수수료가 작아 기존 브로커가 충분한 시간을 쓰기 어렵지만, 서류와 질문에 드는 시간은 크게 줄지 않습니다. Corridor는 이 틈을 운영 상품으로 만든 셈입니다.\n\n공개 숫자는 조심해서 봐야 합니다. TechCrunch는 2,500만달러 시드를 보도했고, Axios는 1,600만달러 시드와 900만달러 프리시드의 합계라고 설명했습니다. 공식 사이트의 1,100개 기업 지원과 평균 30퍼센트 절감은 회사 주장이고 기준은 공개되지 않았습니다. 투자금과 절감 주장을 매출이나 이익으로 바꾸면 안 됩니다.\n\n국내 사업자가 가져갈 방법은 간단합니다. 보험 판매를 바로 따라 하기보다 갱신일, 서류 수집, 직원 질문, 비교표 작성처럼 반복 행정을 먼저 나눠 보세요. 면허가 필요한 판단은 전문가에게 맡기고, 나머지 운영을 5개 회사에 시험합니다. 측정할 것은 약속한 절감액이 아니라 처리 시간, 누락 건수와 미해결 질문 수입니다.\n\n가격은 기능 수보다 끝내주는 업무의 범위에서 생깁니다.\n\n출처: Corridor 공식 사이트, TechCrunch, Axios"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Corridor 공식 사이트",
+      "url": "https://corridoradvisors.com/about"
+    },
+    {
+      "name": "TechCrunch Corridor 투자 보도",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+    },
+    {
+      "name": "Axios Corridor 투자 보도",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures"
+    },
+    {
+      "name": "BabuuTalk 공식 사이트",
+      "url": "https://babuutalk.com/"
+    },
+    {
+      "name": "BabuuTalk 공식 보도자료",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000181484.html"
+    },
+    {
+      "name": "Hope Care Series A 공식 발표",
+      "url": "https://hopecarehealth.com/linkedin-post/hope-care-fecha-serie-a-liderada-pela-iberis-capital-para-acelerar-expansao-europeia/"
+    },
+    {
+      "name": "Hope Care 공식 플랫폼 안내",
+      "url": "https://hopecarehealth.com/en/"
+    },
+    {
+      "name": "Meta Newsroom Meta One 발표",
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    },
+    {
+      "name": "Tom's Guide Meta One 체험기",
+      "url": "https://www.tomsguide.com/ai/i-bought-instagrams-new-meta-one-subscription-heres-what-usd7-99-actually-gets-you"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
