@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-24",
+  "generated_at_kst": "2026-09-24T12:03:55+09:00",
+  "mode": "new",
+  "headline": "매출이 뛰자 약품 재고에 400만 파운드를 먼저 넣었다",
+  "insights": [
+    {
+      "title": "AI 약국의 첫 투자금은 광고보다 약품 재고로 갔다",
+      "summary": "영국 MedPal AI는 2026년 9월 21일 500만 파운드 자금 조달을 공시하면서 순조달금 약 470만 파운드 중 약 400만 파운드를 약품 재고에, 약 70만 파운드를 GLP-1 조제 라인 자동화에 쓰겠다고 밝혔다. 회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했고, 첫 주문 고객의 27퍼센트가 두 번째 주문을 했다. 연환산 매출 run rate는 짧은 기간의 월 매출을 12배 한 값이며 예측치가 아니다.",
+      "takeaway": "성장 사업은 광고비보다 먼저 고객 결제와 공급자 지급 사이의 현금 공백을 계산하라.",
+      "source_type": "media",
+      "source_name": "London Stock Exchange RNS, MedPal AI 9월 거래 업데이트",
+      "source_url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+    },
+    {
+      "title": "돌봄 SaaS는 기능이 아니라 청구되는 방문을 연결해 판다",
+      "summary": "영국 Birdie의 2026년 9월 22일 업그레이드된 Rostering은 반복 방문 일정을 돌봄 기록, 복약, 재원 정보와 연결하고 확정된 방문을 급여와 청구 흐름으로 넘긴다. 회사는 단계적 도입에서 160곳이 넘는 파트너, 310만 시간 이상의 돌봄과 170만 건의 방문을 처리했다고 설명하며, 영국 정부 Digital Marketplace에는 단위당 월 0.20파운드에서 0.40파운드 가격이 등록돼 있다. 시간 절감과 처리량은 회사와 고객 사례의 주장으로 표시해야 한다.",
+      "takeaway": "운영 도구의 가격을 기능 수가 아니라 고객이 청구하고 지급할 수 있는 작업 단위에 연결하라.",
+      "source_type": "blog",
+      "source_name": "Birdie 공식 출시 자료와 영국 Digital Marketplace",
+      "source_url": "https://www.birdie.care/blog/birdie-launches-upgraded-rostering"
+    },
+    {
+      "title": "적자 시니어 사업도 운영 연속성을 조건으로 넘긴다",
+      "summary": "Leopalace21은 유료 노인홈과 데이서비스를 운영하는 Azu Life Care와 Azu Residence의 전 주식을 일본혁신투자가 관여하는 SPC에 넘기기로 했다. Leopalace21 공식 공시의 별도 회사 수치에서 2026년 3월기 Azu Life Care 매출은 102억 3,500만 엔, 영업손실은 3억 7,400만 엔이며 Azu Residence는 매출이 없고 영업손실 2만 8,000엔이었다. 양도가는 비망가액으로 예정됐고 10월 말 거래 완료가 계획됐다. Azu 공식 공지는 주주 변경 뒤에도 직원, 서비스, 기존 계약과 시설 임대차를 유지한다고 밝혔다.",
+      "takeaway": "승계 가능성은 좋은 설명보다 사업별 손익과 직원, 고객, 임대차 계약을 분리해 정리한 기록에서 나온다.",
+      "source_type": "media",
+      "source_name": "Azu Life Care와 Azu Residence 공식 공지, 스트라이크",
+      "source_url": "https://contents.xj-storage.jp/xcontents/AS08193/38090084/b081/4cf2/ad88/bad12d8ce40c/140120260914536068.pdf"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "성장 사업의 병목이 고객 획득에서 현금 선지급으로 이동한다",
+      "summary": "MedPal은 주문과 재주문이 늘어도 약품을 먼저 매입한 뒤 지급과 환급을 기다려야 하므로 자금 조달을 재고와 자동화에 배분했다. 매출 성장률만으로 사업의 체력을 판단하기보다 현금이 빠져나가는 시점을 함께 봐야 한다.",
+      "why_now": "9월 21일 공시에서 단기간의 주문 증가와 500만 파운드 조달 목적이 같은 문서에 공개됐다. 연환산 수치와 실제 현금흐름을 섞지 않는 읽기가 필요하다.",
+      "source_url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+    },
+    {
+      "theme": "돌봄 소프트웨어의 과금 단위가 기능에서 운영량으로 이동한다",
+      "summary": "Birdie는 돌봄 기록과 일정, 급여와 청구를 하나의 흐름으로 연결하고 정부 조달 등록 가격을 월 단위 사용량으로 제시한다. 기관이 돈을 내는 이유는 AI라는 이름보다 더 많은 방문을 안전하게 배정하고 청구하는 운영 결과에 있다.",
+      "why_now": "신규 일정 기능이 2026년 9월 22일 공개됐고, 공공 조달 자료에는 단위당 월 가격과 지점별 지원비가 분리돼 있다.",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/126012328431224"
+    },
+    {
+      "theme": "시니어 사업의 M&A가 자산보다 운영 연속성을 거래한다",
+      "summary": "Azu의 주주 변경 공지는 거래 이후에도 직원, 이용자 서비스, 거래처 계약과 시설 임대차를 유지한다고 명시했다. 매수자는 적자 여부만 보는 것이 아니라 관계와 운영이 끊기지 않는 단위를 넘겨받을 수 있는지 확인한다.",
+      "why_now": "2026년 9월 기본합의가 공개됐고 10월 말 거래종결을 앞두고 있어, 매각 가격보다 사업 단위와 계약을 분리해 보여주는 방식이 드러났다.",
+      "source_url": "https://www.azumien.jp/news/pdf/20260915.pdf"
+    }
+  ],
+  "cases": [
+    {
+      "who": "MedPal AI, 영국",
+      "what": "New Health 체중관리 처방 사업과 NHS 처방, 돌봄기관용 eMARx를 함께 운영하는 디지털 헬스케어 및 약국 그룹",
+      "how": "온라인 상담과 임상 검토, 처방, 약품 조제와 배송, 재주문을 연결한다. 회사는 9월 자금의 대부분을 약품 재고와 조제 자동화에 쓰겠다고 밝혔으며, 이는 빠른 주문 증가가 운전자본 부담으로 이어지는 구조를 보여준다.",
+      "numbers": "2026년 9월 21일 회사 RNS 기준 500만 파운드 조달, 순조달금 약 470만 파운드 중 약품 재고 400만 파운드와 자동화 70만 파운드 배정, 9월 첫 19일 New Health 매출 150만 파운드 이상과 주문 1만 2,000건 이상, 마케팅 시작 뒤 고객 2만 5,000명 이상, 첫 주문 고객의 두 번째 주문 비율 27퍼센트. 연환산 매출 run rate는 관리회계 기준의 월 매출을 12배 한 값이며 예측치가 아니다.",
+      "source_url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+    },
+    {
+      "who": "Birdie, 영국",
+      "what": "홈케어 기관용 돌봄 관리, 일정, 복약, 재무와 가족 소통 플랫폼",
+      "how": "반복 방문 일정을 템플릿으로 만들고 돌봄 기록에 붙여 방문별 업무와 복약을 연결한다. 확정된 방문을 급여와 청구에 넘겨 같은 정보를 다시 입력하는 작업을 줄이는 구조다.",
+      "numbers": "Birdie 공식 출시 자료 기준 단계적 도입 파트너 160곳 이상, 처리한 돌봄 310만 시간 이상과 방문 170만 건 이상, 일정 설정 75퍼센트 빠름과 담당자 배정 40퍼센트 빠름은 회사 및 고객 사례의 주장이다. 영국 Digital Marketplace 등록 가격은 단위당 월 0.20파운드에서 0.40파운드이며 지점별 프리미엄 지원은 월 120파운드다.",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/126012328431224"
+    },
+    {
+      "who": "Azu Life Care와 Azu Residence, 일본",
+      "what": "Leopalace21의 유료 노인홈과 데이서비스 등 시니어 사업 자회사",
+      "how": "Leopalace21이 두 회사의 전 주식을 일본혁신투자가 관여하는 SPC에 양도하기로 기본합의했다. 공식 공지는 주주 변경 뒤에도 회사 운영, 직원, 서비스, 거래처 계약, 시설 임대차와 임대료를 기존대로 유지한다고 설명한다.",
+      "numbers": "Leopalace21 2026년 9월 14일 공식 공시의 대상회사 별도 기준으로 Azu Life Care 2026년 3월기 매출 102억 3,500만 엔, 영업손실 3억 7,400만 엔, 순자산 13억 1,700만 엔이다. Azu Residence는 매출 없음, 영업손실 2만 8,000엔, 순자산 160만 2,000엔이며 2025년 6월 설립이라 해당 결산기만 기재됐다. 양도가는 비망가액으로 예정됐고 2026년 10월 말 거래 완료 예정.",
+      "source_url": "https://contents.xj-storage.jp/xcontents/AS08193/38090084/b081/4cf2/ad88/bad12d8ce40c/140120260914536068.pdf"
+    }
+  ],
+  "tools": [
+    {
+      "name": "MedPal AI 9월 거래 업데이트 RNS",
+      "use": "매출 증가율과 자금 조달액을 분리하고, 재고 매입과 지급 시점이 현금흐름에 미치는 영향을 점검할 때 참고한다.",
+      "source_url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+    },
+    {
+      "name": "Birdie for Home Care 정부 조달 등록",
+      "use": "돌봄 소프트웨어가 일정, 기록, 복약과 청구를 어떤 단위와 가격으로 묶는지 비교할 때 참고한다.",
+      "source_url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/126012328431224"
+    },
+    {
+      "name": "Azu Life Care와 Azu Residence 사업 양도 공지",
+      "use": "직원, 고객 서비스, 거래처 계약과 시설 임대차를 유지하는 사업승계 체크리스트를 만들 때 참고한다.",
+      "source_url": "https://www.azumien.jp/news/pdf/20260915.pdf"
+    }
+  ],
+  "quote": {
+    "text": "빠른 성장은 자금이 필요하다.",
+    "author": "MedPal AI CEO Jason Drummond, 한국어 번역",
+    "source_url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+  },
+  "newsletter": {
+    "title": "매출보다 먼저 계산할 것은 현금이 빠져나가는 시점이다",
+    "body_md": "AI를 붙인 체중관리 처방 사업의 핵심 숫자가 매출만은 아니다. MedPal AI는 2026년 9월 21일 500만 파운드를 조달했고, 순조달금 약 470만 파운드 가운데 약 400만 파운드를 약품 재고에 배정했다. 회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했지만, 약품을 먼저 사서 조제한 뒤 NHS 지급과 공급자 리베이트, VAT 환급을 기다리는 현금 공백이 있다. New Health의 구매자는 민간 소비자이고 NHS 처방 사업의 지급자는 NHS라서 고객과 현금 유입 시점도 다르다. 독자는 의료행위를 모방할 것이 아니라 문의, 자격 확인, 결제, 공급자 지급, 배송과 재주문을 한 표에 놓고 어느 단계에서 돈이 묶이는지 7일 동안 기록하면 된다. 출처: [MedPal AI 9월 거래 업데이트](https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2)"
+  },
+  "newsletter_candidates": [
+    {
+      "title": "AI 약국의 첫 투자금은 약품 재고로 갔다",
+      "hook": "매출이 급증하자 이 회사가 먼저 산 것은 광고가 아니라 약품이었다.",
+      "core_claim": "반복 구매가 가능한 헬스케어 사업도 고객 주문과 약품 지급 사이의 현금 공백을 먼저 설계하지 않으면 성장 자체가 자금 부담이 된다.",
+      "primary_case": "MedPal AI의 New Health와 NHS 처방 사업",
+      "public_number": "2026년 9월 21일 회사 RNS 기준 500만 파운드 조달, 순조달금 약 470만 파운드 중 약품 재고 400만 파운드와 자동화 70만 파운드 배정. New Health 9월 첫 19일 매출 150만 파운드 이상, 주문 1만 2,000건 이상, 첫 주문 고객 두 번째 주문 비율 27퍼센트.",
+      "payer": "New Health는 민간 소비자, NHS 처방은 NHS, eMARx는 돌봄기관과 요양시설 운영자",
+      "seven_day_action": "문의부터 결제, 공급자 지급, 배송과 재주문까지 현금이 들어오고 나가는 날짜를 10건의 가상 주문에 기록해 자금이 묶이는 단계를 찾는다.",
+      "source_urls": [
+        "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2",
+        "https://www.lse.co.uk/rns/MPAL/august-trading-update-17jg70zb863z316.html?page=2"
+      ]
+    },
+    {
+      "title": "돌봄 소프트웨어는 되찾은 시간보다 청구되는 방문을 판다",
+      "hook": "돌봄기관이 사는 것은 일정표가 아니라 누락 없이 청구할 수 있는 방문의 흐름이다.",
+      "core_claim": "일정, 돌봄 기록, 복약과 청구를 한 흐름으로 연결하면 소프트웨어 가격을 기능 수가 아니라 사용량과 매출이 생기는 운영 단위에 붙일 수 있다.",
+      "primary_case": "Birdie의 Upgraded Rostering과 Birdie for Home Care",
+      "public_number": "회사 자료 기준 단계적 도입 파트너 160곳 이상, 310만 시간 이상의 돌봄과 170만 건 이상의 방문 처리. 영국 Digital Marketplace 가격은 단위당 월 0.20파운드에서 0.40파운드, 지점별 프리미엄 지원 월 120파운드.",
+      "payer": "홈케어 제공기관",
+      "seven_day_action": "한 지점의 일주일 방문표에서 배차, 복약 확인, 기록과 청구에 걸린 시간을 재고, 되찾은 시간으로 추가 수용 가능한 방문 수를 계산한다.",
+      "source_urls": [
+        "https://www.birdie.care/blog/birdie-launches-upgraded-rostering",
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/126012328431224"
+      ]
+    },
+    {
+      "title": "적자 시니어 사업의 매각은 운영 연속성을 함께 넘기는 일이다",
+      "hook": "거래가격이 공개되지 않아도, 어떤 계약과 직원이 그대로 남는지는 공지에 적힌다.",
+      "core_claim": "시니어 서비스의 사업승계는 자산 가격만의 문제가 아니라 직원, 이용자 서비스, 거래처와 시설 임대차를 끊지 않고 넘길 수 있는 운영 문서의 문제다.",
+      "primary_case": "Leopalace21의 Azu Life Care와 Azu Residence 양도",
+      "public_number": "Leopalace21 공식 공시의 별도 기준 Azu Life Care 2026년 3월기 매출 102억 3,500만 엔, 영업손실 3억 7,400만 엔, Azu Residence 매출 없음과 영업손실 2만 8,000엔. 양도가는 비망가액 예정, 2026년 10월 말 거래 완료 예정.",
+      "payer": "거래의 직접 매수자는 일본혁신투자가 관여하는 SPC이며, 시설별 자비와 개호보험 지급 비중은 공개 자료만으로 확인되지 않음",
+      "seven_day_action": "사업 단위별 매출과 비용, 직원 역할, 고객 계약, 시설 임대차와 핵심 운영절차를 한 장에 분리해 후계자 후보 세 명에게 검토받는다.",
+      "source_urls": [
+        "https://contents.xj-storage.jp/xcontents/AS08193/38090084/b081/4cf2/ad88/bad12d8ce40c/140120260914536068.pdf",
+        "https://www.azumien.jp/news/pdf/20260915.pdf",
+        "https://www.strike.co.jp/ma_news/detail.html?id=20260914f",
+        "https://www.leopalace21.co.jp/corporate/group/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "매출이 뛰자 약품 재고에 400만 파운드를 먼저 넣었다",
+      "body_md": "AI를 붙인 사업이라고 해서 성장의 병목이 자동으로 사라지는 것은 아니다. 영국 MedPal AI의 최근 공시는 매출이 빨리 늘수록 약품을 먼저 사야 하는 현금 문제가 커질 수 있다는 장면을 보여준다.\n\nMedPal AI는 New Health라는 민간 체중관리 처방 사업과 NHS 처방, 돌봄기관용 전자 복약 기록 서비스 eMARx를 함께 운영한다. 회사는 2026년 9월 21일 500만 파운드의 자금 조달을 공시했고, 순조달금 약 470만 파운드 가운데 약 400만 파운드를 약품 재고에, 약 70만 파운드를 GLP-1 조제 라인 자동화에 배정했다. 광고를 더 사기 전에 공급자에게 지급할 돈을 확보한 셈이다.\n\n수요가 약하다는 뜻은 아니다. 회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했다. 마케팅을 시작한 7월 이후 고객은 2만 5,000명을 넘었고, 첫 주문 고객의 27퍼센트가 두 번째 주문을 했다. 그룹의 9월 연환산 매출 run rate는 3,500만 파운드 이상으로 제시됐다. 다만 이 값은 짧은 기간의 관리회계 매출에 12를 곱한 값이며 예측치가 아니다. 순이익이나 현금흐름 흑자를 뜻하지도 않는다.\n\n돈이 되는 지점은 AI 상담 화면 하나가 아니다. 누가 결제하는지, 약품을 언제 사는지, 언제 조제하고 배송하는지, 다음 주문이 언제 들어오는지를 한 흐름으로 관리하는 데 있다. New Health의 구매자는 민간 소비자이고 NHS 처방 사업의 지급자는 NHS다. 같은 그룹 안에서도 고객과 지급 시점이 다르다. 회사는 약품을 먼저 매입한 뒤 NHS 지급, GLP-1 공급자 리베이트와 VAT 환급을 기다린다고 설명했다. 주문이 늘어날수록 매출과 함께 매출채권과 재고가 커질 수 있는 구조다.\n\n작은 사업자가 적용할 방법은 두 가지다.\n\n첫째, 매출표와 현금표를 나눈다. 문의, 자격 확인, 결제, 공급자 지급, 작업 완료, 환불과 재주문을 행으로 만들고 각 단계에서 돈이 들어오고 나가는 날짜를 적는다. 실제 의약품을 다루지 않아도 서비스 예약이나 주문 대행에서 같은 표를 시험할 수 있다.\n\n둘째, 첫 주문과 두 번째 주문을 따로 본다. 첫 주문은 고객을 데려오는 비용이 붙고, 재주문은 같은 고객이 다시 결제하는 장면이다. 재주문율만 보고 이익을 약속하지 말고, 재주문까지 걸린 날짜와 환불, 배송 지연, 고객 응대 시간을 함께 기록해야 한다.\n\n7일 동안 가상 주문 10건으로 이 표를 먼저 만들어 보면 된다. 매출이 늘 때 무엇이 먼저 부족해지는지, 고객이 아니라 공급자에게 언제 돈을 보내야 하는지, 반복 구매가 실제로 현금 부담을 줄이는지 확인할 수 있다.\n\nAI라는 이름이 붙어도 사업의 체력은 결국 결제자, 지급일과 재고 회전에서 드러난다. 빠른 매출을 자랑하기 전에 다음 주문을 처리할 현금이 남는지 계산하는 일이 먼저다.\n\n출처: [MedPal AI 9월 거래 업데이트 RNS](https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2), [MedPal AI 8월 거래 업데이트 RNS](https://www.lse.co.uk/rns/MPAL/august-trading-update-17jg70zb863z316.html?page=2)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 매출이 급증하자 이 회사가 먼저 산 것은 광고가 아니라 약품이었습니다. 영국 MedPal AI는 9월 21일 500만 파운드를 조달하면서 순조달금 약 470만 파운드 중 약 400만 파운드를 약품 재고에, 약 70만 파운드를 조제 라인 자동화에 배정했습니다. 성장의 병목이 고객 획득이 아니라 현금 선지급일 수 있다는 뜻입니다.",
+      "2. 회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했고, 7월 마케팅 시작 뒤 고객은 2만 5,000명을 넘었습니다. 첫 주문 고객의 27퍼센트가 두 번째 주문을 했지만, 연환산 매출 run rate는 짧은 기간 매출을 12배 한 값일 뿐 예측치가 아닙니다.",
+      "3. 이 구조의 결제자는 하나가 아닙니다. New Health는 민간 소비자가 결제하고, 그룹의 NHS 처방 사업은 NHS 지급을 기다립니다. 회사는 약품을 먼저 사고 난 뒤 지급, 공급자 리베이트와 VAT 환급을 받는다고 설명했습니다. 매출과 현금 유입 시점이 다르면 성장 속도 자체가 운전자본 부담이 됩니다.",
+      "4. 작은 사업자는 문의, 자격 확인, 결제, 공급자 지급, 배송, 재주문을 한 표에 놓고 7일 동안 현금이 묶이는 단계를 기록해 볼 수 있습니다. AI 기능을 늘리기 전에 누가 돈을 내고 언제 돈이 들어오는지 정리하는 것이 먼저입니다. 출처: MedPal AI 9월 거래 업데이트 RNS, MedPal AI 8월 거래 업데이트 RNS"
+    ],
+    "instagram": {
+      "caption": "매출이 급증하자, 이 회사가 먼저 산 것은 광고가 아니라 약품이었습니다.\n\n영국 MedPal AI는 2026년 9월 21일 500만 파운드를 조달하고 순조달금 약 470만 파운드 가운데 약 400만 파운드를 약품 재고에, 약 70만 파운드를 조제 라인 자동화에 배정했습니다.\n\n회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했습니다. 7월 마케팅 시작 이후 고객은 2만 5,000명을 넘었고, 첫 주문 고객의 27퍼센트가 두 번째 주문을 했습니다.\n\n하지만 연환산 매출 run rate는 짧은 기간의 매출을 12배 한 값입니다. 순이익이나 현금흐름 흑자를 뜻하지 않습니다. 회사는 약품을 먼저 매입한 뒤 NHS 지급, 공급자 리베이트와 VAT 환급을 기다리는 현금 공백을 설명했습니다.\n\n사업에 적용할 때는 문의, 결제, 공급자 지급, 배송과 재주문을 한 표에 놓고 돈이 묶이는 날짜부터 기록해야 합니다. 기능보다 현금의 순서를 먼저 설계하는 사례입니다.\n\n출처: MedPal AI 9월 거래 업데이트 RNS, MedPal AI 8월 거래 업데이트 RNS",
+      "hashtags": "#비즈니스인사이트 #헬스케어비즈니스 #디지털헬스케어 #약국비즈니스 #구독비즈니스 #현금흐름 #창업인사이트 #그사이",
+      "cards": [
+        "매출이 뛰자 약품 재고에 400만 파운드를 넣었다",
+        "MedPal AI, 9월 21일 500만 파운드 조달",
+        "순조달금 약 470만 파운드 중 약품 재고 400만 파운드",
+        "New Health, 9월 첫 19일 매출 150만 파운드 이상",
+        "주문 1만 2,000건 이상, 고객 2만 5,000명 이상",
+        "첫 주문 고객의 두 번째 주문 비율 27퍼센트",
+        "성장 전에 결제자와 지급일, 재고 회전을 먼저 적는다"
+      ]
+    },
+    "youtube": {
+      "title": "매출이 뛰자 약품 재고에 400만 파운드를 넣은 이유",
+      "hook": "AI 약국의 성장비용은 광고비만이 아니었습니다. 매출이 뛰자 약품을 먼저 살 현금이 필요했습니다.",
+      "script": "AI를 붙인 사업은 고객만 모으면 바로 커질까요?\n\n영국의 MedPal AI는 2026년 9월 21일 500만 파운드의 자금 조달을 공시했습니다. 순조달금 약 470만 파운드 가운데 약 400만 파운드는 약품 재고에, 약 70만 파운드는 GLP-1 조제 라인 자동화에 배정했습니다.\n\n수요는 빠르게 늘고 있었습니다. 회사 공시 기준 New Health는 9월 첫 19일에 150만 파운드 이상의 매출과 1만 2,000건 이상의 주문을 기록했습니다. 7월 마케팅 시작 이후 고객은 2만 5,000명을 넘었고, 첫 주문 고객의 27퍼센트가 두 번째 주문을 했습니다.\n\n그룹의 9월 연환산 매출 run rate는 3,500만 파운드 이상으로 제시됐습니다. 하지만 이 수치는 짧은 기간의 관리회계 매출을 12배 한 값입니다. 예측치가 아니고, 순이익이나 현금흐름 흑자를 뜻하지도 않습니다.\n\n회사는 약품을 먼저 매입하고 조제한 뒤 NHS 지급, 공급자 리베이트와 VAT 환급을 기다린다고 설명했습니다. New Health는 민간 소비자가 결제하지만, NHS 처방 사업의 지급자는 NHS입니다. 고객이 누구인지와 돈이 언제 들어오는지를 따로 봐야 하는 이유입니다.\n\n작은 사업자가 가져갈 방법은 두 가지입니다.\n\n첫째, 문의부터 결제, 공급자 지급, 작업 완료, 배송과 재주문까지 날짜를 적은 현금표를 만드세요.\n\n둘째, 첫 주문과 두 번째 주문을 나눠 보세요. 재주문율만으로 이익을 약속하지 말고, 재주문까지 걸린 날짜와 배송 지연, 환불과 응대 시간을 같이 기록하세요.\n\nAI 기능을 늘리기 전에 다음 주문을 처리할 현금이 남는지 계산하는 것, 이것이 이번 사례의 핵심입니다.\n\n출처: MedPal AI 9월 거래 업데이트 RNS, MedPal AI 8월 거래 업데이트 RNS"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "MedPal AI 9월 거래 업데이트 RNS",
+      "url": "https://www.lse.co.uk/rns/MPAL/issue-of-equity-and-trading-update-nusp6fl9o38phwf.html?page=2"
+    },
+    {
+      "name": "MedPal AI 8월 거래 업데이트 RNS",
+      "url": "https://www.lse.co.uk/rns/MPAL/august-trading-update-17jg70zb863z316.html?page=2"
+    },
+    {
+      "name": "Birdie 업그레이드된 Rostering 공식 출시 자료",
+      "url": "https://www.birdie.care/blog/birdie-launches-upgraded-rostering"
+    },
+    {
+      "name": "Birdie for Home Care 영국 Digital Marketplace 등록",
+      "url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/services/126012328431224"
+    },
+    {
+      "name": "Azu Life Care와 Azu Residence 공식 사업 양도 공지",
+      "url": "https://www.azumien.jp/news/pdf/20260915.pdf"
+    },
+    {
+      "name": "Leopalace21 공식 시니어 사업 양도 및 실적 공시",
+      "url": "https://contents.xj-storage.jp/xcontents/AS08193/38090084/b081/4cf2/ad88/bad12d8ce40c/140120260914536068.pdf"
+    },
+    {
+      "name": "스트라이크 Leopalace21 시니어 사업 양도 자료",
+      "url": "https://www.strike.co.jp/ma_news/detail.html?id=20260914f"
+    },
+    {
+      "name": "Leopalace21 그룹 회사 안내",
+      "url": "https://www.leopalace21.co.jp/corporate/group/"
+    },
+    {
+      "name": "MedPal AI 공식 사이트, 표지 이미지 확인",
+      "url": "https://medpal.co/"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장 또는 공시 기준이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
