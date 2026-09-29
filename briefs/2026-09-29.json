@@ -1,0 +1,300 @@
+{
+  "date": "2026-09-29",
+  "generated_at_kst": "2026-09-29T12:04:52+09:00",
+  "mode": "new",
+  "headline": "의사를 대신하지 않고 검사할 사람을 늘린 AI가 2,400만달러를 받았다",
+  "insights": [
+    {
+      "title": "UltraSight는 판독보다 검사를 맡길 사람의 범위를 넓혀 병원에 판다",
+      "summary": "UltraSight는 2026년 9월 23일 Series B2 2,400만달러를 발표했다. 회사 발표에 따르면 Echosystem은 10곳이 넘는 상업 사이트에 배치됐다. PubMed에 등재된 JAMA Cardiology 연구에서는 초보 운영자가 수행한 1,302건 가운데 96.6퍼센트가 자동 분석에 적합했고, AI 단독의 중등도 이상 대동맥판 협착 탐지 민감도는 93퍼센트, 특이도는 96퍼센트였다. 양성 또는 해석 불가 영상을 전문가가 다시 보는 절차가 함께 필요했다.",
+      "takeaway": "전문가를 대체한다는 약속보다 자격 있는 사람이 반복 업무를 수행하도록 범위를 넓히는 설계가 의료 B2B의 첫 판매 단위다.",
+      "source_type": "media",
+      "source_name": "UltraSight 공식 발표, JAMA Cardiology",
+      "source_url": "https://ultrasight.com/ultrasight-raises-24-million-to-scale-its-ai-guided-cardiac-workflow-platform-across-u-s-health-systems/"
+    },
+    {
+      "title": "Basalt Health는 70쪽 팩스의 대기시간을 입원 판단 시간으로 바꾼다",
+      "summary": "Basalt Health는 병원에서 온 의뢰서를 후기급성기 시설이 검토하고 입원 가능 여부를 판단하는 흐름을 다룬다. 2026년 9월 24일 2,000만달러 Series A를 발표했고 독립 보도는 누적 조달액을 약 2,450만달러로 전했다. 회사의 9개 테스트에서는 첫 페이지가 약 2분 안에 보이고 입원 결정 준비까지 약 8분이 걸렸으며, 기존 방식 대비 1.6배에서 13.2배 빠르다고 제시했다. 성능 수치는 회사 테스트다.",
+      "takeaway": "자동화 상품의 가격은 AI 기능 수보다 고객이 마지막 서류를 기다리며 잃는 시간에서 설명하라.",
+      "source_type": "media",
+      "source_name": "Basalt Health 공식 발표, MobiHealthNews",
+      "source_url": "https://basalt.health/basalt-series-a"
+    },
+    {
+      "title": "Welmo는 의료와 돌봄 AI 자금의 일부를 모델보다 현장 정착 인력에 넣었다",
+      "summary": "일본 Welmo는 2026년 6월 약 6억8,000만엔을 조달하면서 영업과 고객성공 인력 강화, AI 기능 고도화와 학술 연계를 자금 사용처로 밝혔다. 회사 발표 기준 2026년 5월 매출은 전년 동월 대비 503퍼센트 늘었고, 연간 개호 DX 실적은 4,000건에서 5,000건, 미ルモ 네트워크 사용자는 26,100개 사업소다. 9월에는 오사카 의료 혁신 거점에 사무실을 열고 지역 도입 지원을 시작했다. 수치는 회사 발표다.",
+      "takeaway": "고령자 현장의 AI는 모델 성능만으로 팔리지 않으며 도입, 교육과 정착을 맡을 지역 운영 조직까지 상품에 포함해야 한다.",
+      "source_type": "media",
+      "source_name": "Welmo 공식 발표",
+      "source_url": "https://welmo.co.jp/news/news-20260917/"
+    },
+    {
+      "title": "Modulate는 음성을 글로 바꾸는 대신 말의 상태를 API로 판다",
+      "summary": "Modulate는 2026년 9월 28일 2,500만달러 추가 투자를 발표하며 음성 AI의 이해 계층을 개발자와 보안, 고객경험 조직에 제공한다고 밝혔다. 회사 발표 기준 월 1,000만시간이 넘는 오디오를 분석하고 누적 6억시간 이상을 처리했으며, 100개가 넘는 전문 모델을 조합한다. 배치 전사 API 가격은 시간당 0.03달러로 공개됐다. 사용량과 기능을 나눠 개발자가 기존 음성 서비스 위에 붙일 수 있게 만든 구조다.",
+      "takeaway": "기반 모델을 직접 만들 수 없는 고객에게는 거대한 AI보다 한 가지 신호를 안정적인 사용량 가격으로 제공하는 편이 먼저 팔린다.",
+      "source_type": "media",
+      "source_name": "Modulate 공식 발표, FounderMag",
+      "source_url": "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai"
+    },
+    {
+      "title": "Outmarket은 첫 도입 뒤 옆 업무로 넓어지는 보험 AI를 만들었다",
+      "summary": "보험 중개사용 AI 플랫폼 Outmarket은 2026년 9월 25일 3,450만달러 Series B를 발표했다. 회사 발표 기준 300곳이 넘는 대리점과 1만명 이상의 사용자가 쓰고 있으며, 제안서 작성에서 보험 증명서, 보장 공백 확인과 계정 설정으로 업무 범위를 넓혔다. 새 Certificate Hub는 계약서와 보험 문서를 비교해 누락된 조건을 표시하고 ACORD 증명서 초안을 돕는다. 사용자 수와 업무량은 회사 주장이다.",
+      "takeaway": "B2B AI의 재구매는 새 기능을 더하는 데서 끝나지 않고 이미 신뢰를 얻은 업무 옆의 반복 작업까지 책임질 때 생긴다.",
+      "source_type": "media",
+      "source_name": "Outmarket 공식 발표, DevCuration",
+      "source_url": "https://outmarket.ai/blog/outmarket-raises-34.5-million-series-b-four-months-after-our-series-a"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "규제 산업의 AI가 전문가 대체보다 작업자 확장으로 시장에 들어간다",
+      "summary": "UltraSight 연구는 초보 운영자가 AI 안내를 받아 심장 초음파 영상을 취득할 수 있음을 보여줬지만 양성 및 해석 불가 결과에는 전문가 검토가 필요했다. AI가 사람을 없애는 제품이 아니라 제한된 전문 인력을 더 넓은 현장에 배치하는 보조 흐름으로 설계되고 있다.",
+      "why_now": "JAMA Cardiology 연구와 UltraSight의 상업 사이트 확대가 함께 발표되면서 임상 정확도, 감독 범위와 병원 도입 모델을 한 번에 따져야 하는 시점이 됐다.",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42661496/"
+    },
+    {
+      "theme": "헬스케어 AI의 성장 병목이 모델 개발에서 도입과 정착으로 이동한다",
+      "summary": "Welmo는 신규 자금을 영업과 고객성공 체계에 배분하고 일본 지역 거점을 넓혔다. Basalt도 기존 병원과 후기급성기 시설의 서류 흐름에 들어가는 방식으로 확장한다. 현장 업무에 맞춰 교육하고 책임 범위를 조정하는 운영이 제품의 일부가 되고 있다.",
+      "why_now": "의료와 돌봄 현장은 데이터보다 업무 절차, 자격, 개인정보와 책임 소재가 도입 속도를 좌우한다.",
+      "source_url": "https://welmo.co.jp/news/news-20260917/"
+    },
+    {
+      "theme": "음성 AI의 인프라가 전사 API에서 대화 신호 API로 세분화된다",
+      "summary": "Modulate는 전사뿐 아니라 감정, 의도, 합성 음성, 상담 실패와 위험 행동 같은 신호를 분리해 개발자에게 제공한다. 고객은 거대한 모델을 다시 만들지 않고 필요한 신호만 사용량 기준으로 붙일 수 있다.",
+      "why_now": "음성 에이전트가 늘면서 글의 정확도만으로는 사기, 불만, 안전과 품질을 판별하기 어려워졌고 오디오 자체를 분석하는 수요가 생겼다.",
+      "source_url": "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai"
+    },
+    {
+      "theme": "수직형 B2B AI가 한 업무에서 인접한 책임 업무로 확장된다",
+      "summary": "Outmarket은 보험 제안서에서 정책 확인과 증명서 발급 준비로 범위를 넓혔다. 원자료와 판단 책임을 유지한 채 반복 문서 업무를 옆으로 확장하는 방식은 고객의 기존 시스템을 바꾸지 않고 사용량을 늘리는 전략이다.",
+      "why_now": "전문직 고객은 새 채팅창보다 이미 검토한 문서와 시스템 안에서 다음 업무까지 이어지는 자동화를 선택할 가능성이 높다.",
+      "source_url": "https://outmarket.ai/blog/outmarket-raises-34.5-million-series-b-four-months-after-our-series-a"
+    }
+  ],
+  "cases": [
+    {
+      "who": "UltraSight, 미국과 이스라엘, CEO Davidi Vortman",
+      "what": "초보 의료진도 심장 초음파 영상을 취득하도록 실시간 AI 안내와 분석을 묶은 Echosystem",
+      "how": "병원과 의료시스템이 보유한 초음파 장비와 현장 인력을 활용하고, 자격 있는 의사의 감독 아래 집중 심장 초음파를 수행하게 한다. 양성 또는 해석 불가 영상은 전문가가 확인한다.",
+      "numbers": "2026년 9월 23일 회사 발표 기준 Series B2 2,400만달러, 상업 사이트 10곳 이상. JAMA Cardiology 연구의 초보 운영자 1,302건 중 96.6퍼센트가 자동 분석에 적합했고, AI 단독 민감도 93퍼센트, 특이도 96퍼센트였다. 회사와 연구의 실제 매출, 계약 단가와 환자 결과는 공개되지 않았다.",
+      "source_url": "https://ultrasight.com/ultrasight-raises-24-million-to-scale-its-ai-guided-cardiac-workflow-platform-across-u-s-health-systems/"
+    },
+    {
+      "who": "Basalt Health, 미국",
+      "what": "병원 의뢰서를 후기급성기 시설의 입원 검토와 보험 확인 업무로 연결하는 AI 플랫폼",
+      "how": "팩스, 포털과 EMR로 들어오는 자료를 읽어 시설의 임상 및 보험 기준에 맞는 입원 가능성 판단을 돕는다. 구매자는 환자보다 후기급성기 운영자와 의료시스템에 가깝고, 계약 단가는 공개되지 않았다.",
+      "numbers": "2026년 9월 24일 Series A 2,000만달러, 누적 조달액 약 2,450만달러. 회사의 9개 테스트에서는 첫 페이지가 약 2분, 입원 결정 준비가 약 8분으로 제시됐고 기존 방식보다 1.6배에서 13.2배 빠르다고 밝혔다. 회사 테스트와 고객 사례라는 한계가 있다.",
+      "source_url": "https://basalt.health/basalt-series-a"
+    },
+    {
+      "who": "Welmo, 일본 후쿠오카와 오사카",
+      "what": "개호사업자의 문서, 음성 기록, 케어플랜과 PC 업무를 묶은 의료와 돌봄 특화 AI 플랫폼",
+      "how": "개호사업자, 지방자치단체와 의료기관을 대상으로 미ルモ 시리즈를 제공하고 영업과 고객성공 인력으로 도입 후 정착을 지원한다. 2026년 9월 7일 오사카 의료 혁신 거점에 지역 사무실을 열었다.",
+      "numbers": "회사 발표 기준 2026년 6월 약 6억8,000만엔 조달, 누적 약 55억6,000만엔, 2026년 5월 매출 전년 동월 대비 503퍼센트, 연간 개호 DX 실적 4,000건에서 5,000건, 네트워크 사용자 26,100개 사업소. 모두 회사 발표이며 제품별 유료 고객과 매출은 공개되지 않았다.",
+      "source_url": "https://welmo.co.jp/news/20260618/"
+    },
+    {
+      "who": "Modulate, 미국 보스턴",
+      "what": "음성 대화의 감정, 의도, 합성 음성과 안전 신호를 분석하는 Velma와 API",
+      "how": "개발자, 보안팀, 음성 에이전트 운영자와 플랫폼 사업자가 필요한 오디오 신호만 사용량 기준으로 호출하도록 한다. 기존 음성 서비스 전체를 교체하지 않고 판단 계층을 추가하는 구조다.",
+      "numbers": "2026년 9월 28일 회사 발표 기준 신규 투자 2,500만달러, 누적 6,000만달러, 월 분석 오디오 1,000만시간 이상, 누적 6억시간 이상, 전문 모델 100개 이상, 배치 전사 API 시간당 0.03달러. 처리량과 정확도는 회사 발표다.",
+      "source_url": "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai"
+    }
+  ],
+  "tools": [
+    {
+      "name": "PubMed",
+      "use": "헬스케어 AI의 민감도, 특이도, 표본과 연구 한계를 원 논문 초록과 서지정보로 확인하는 공개 검색 도구",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/"
+    },
+    {
+      "name": "FDA 510(k) Premarket Notification Database",
+      "use": "의료기기 소프트웨어의 허가 범위와 제조사 제출 정보를 회사의 상업 발표와 분리해 확인하는 공개 데이터베이스",
+      "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm"
+    }
+  ],
+  "quote": {
+    "text": "When judgment is required, it brings the decision to the right person with the right context.",
+    "author": "Outmarket 공동창업자들",
+    "source_url": "https://outmarket.ai/blog/outmarket-raises-34.5-million-series-b-four-months-after-our-series-a"
+  },
+  "newsletter": {
+    "title": "전문가를 대체하지 않고, 전문가가 부족한 곳에 검사 인력을 늘리는 AI",
+    "body_md": "이번 주의 중심 주장은 의료 AI의 첫 구매 이유가 의사 대체가 아니라 부족한 전문 인력을 더 넓은 현장에 배치하는 데 있다는 것이다. UltraSight는 2,400만달러를 조달하고 10곳이 넘는 상업 사이트에 Echosystem을 배치했다고 밝혔다. JAMA Cardiology 연구에서는 초보 운영자 1,302건 중 96.6퍼센트가 자동 분석에 적합했지만 양성 및 해석 불가 영상에는 전문가 검토가 필요했다. 즉 고객은 환자가 아니라 병원과 의료시스템이며, 구매 대상은 모델이 아니라 검사 대기와 전문 인력 병목을 줄이는 업무 흐름이다. Basalt Health도 병원 의뢰서 검토 시간을 줄이는 플랫폼으로 2,000만달러를 조달했다. 독자가 해볼 일은 자신의 업무에서 전문가가 아니어도 수행할 수 있는 앞단 작업과 반드시 전문가가 확인해야 할 뒷단 작업을 나누고, 각각의 처리시간과 책임 범위를 가격표에 적어보는 것이다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "전문가를 대체하지 않고 검사할 사람을 늘린 심장 초음파 AI",
+      "hook": "의료 AI의 사업성은 의사를 없애는 데서보다, 의사가 꼭 봐야 할 검사만 남기는 데서 시작된다.",
+      "core_claim": "규제 산업의 AI는 진단 책임을 가져가는 대신 초보 운영자의 검사 취득을 보조하고 전문가 검토 범위를 줄이는 방식으로 병원의 구매 이유를 만든다.",
+      "primary_case": "UltraSight Echosystem",
+      "public_number": "Series B2 2,400만달러, 상업 사이트 10곳 이상, JAMA Cardiology 연구의 초보 운영자 1,302건, AI 단독 민감도 93퍼센트와 특이도 96퍼센트",
+      "payer": "병원과 의료시스템 운영자, 실제 계약 단가와 매출은 미공개",
+      "seven_day_action": "한 가지 전문 업무를 앞단 취득, 자동 분류, 전문가 확인으로 나누고 각 단계의 시간과 책임자를 측정한다.",
+      "source_urls": [
+        "https://ultrasight.com/ultrasight-raises-24-million-to-scale-its-ai-guided-cardiac-workflow-platform-across-u-s-health-systems/",
+        "https://pubmed.ncbi.nlm.nih.gov/42661496/",
+        "https://www.dotmed.com/news/story/66820"
+      ]
+    },
+    {
+      "title": "70쪽 팩스가 도착한 뒤의 한 시간을 입원 판단 상품으로 바꾼 Basalt Health",
+      "hook": "AI가 읽는 문서보다 더 비싼 것은 마지막 페이지가 올 때까지 아무도 판단하지 못하는 시간이다.",
+      "core_claim": "의료기관 사이의 팩스와 보험 확인을 연결하면 환자용 앱이 아니라 후기급성기 운영자의 병상과 인력 흐름을 줄이는 B2B 상품이 된다.",
+      "primary_case": "Basalt Health의 post-acute referral intake 플랫폼",
+      "public_number": "Series A 2,000만달러, 누적 약 2,450만달러, 회사 9개 테스트에서 첫 페이지 약 2분, 결정 준비 약 8분",
+      "payer": "후기급성기 시설과 의료시스템 운영자, 계약 단가와 매출은 미공개",
+      "seven_day_action": "개인정보가 없는 의뢰서 20건으로 접수, 누락 확인, 보험 검토와 최종 판단의 시간을 분리해 기록한다.",
+      "source_urls": [
+        "https://basalt.health/basalt-series-a",
+        "https://www.mobihealthnews.com/news/basalt-health-raises-20m-speed-post-acute-admissions",
+        "https://basalt.health/referral-intake-performance"
+      ]
+    },
+    {
+      "title": "Welmo가 의료와 돌봄 AI 자금을 고객성공 조직에 넣은 이유",
+      "hook": "개호 현장에서는 좋은 모델보다 누가 설치하고 가르치고 계속 쓰게 하는지가 먼저다.",
+      "core_claim": "고령자 비즈니스의 AI는 소프트웨어 라이선스만 팔 수 없고 현장 업무에 맞춘 도입과 정착 지원까지 포함해야 반복 매출을 만들 수 있다.",
+      "primary_case": "Welmo 미ルモ 시리즈와 2026년 오사카 거점",
+      "public_number": "2026년 6월 약 6억8,000만엔 조달, 회사 발표 기준 26,100개 사업소 네트워크와 연간 4,000건에서 5,000건의 개호 DX 실적",
+      "payer": "개호사업자, 지방자치단체와 의료기관, 제품별 유료 고객 수와 계약 단가는 미공개",
+      "seven_day_action": "작은 돌봄사업소 한 곳의 반복 문서 업무를 관찰하고 설치, 교육, 점검과 월 유지관리의 원가를 따로 적는다.",
+      "source_urls": [
+        "https://welmo.co.jp/news/20260618/",
+        "https://welmo.co.jp/news/news-20260917/",
+        "https://welmo.co.jp/news/001216/"
+      ]
+    },
+    {
+      "title": "음성 AI가 전사에서 대화 신호 API로 쪼개지는 순간",
+      "hook": "말을 글로 옮기는 것만으로는 사기, 불만과 에이전트 실패를 잡을 수 없다.",
+      "core_claim": "개발자는 전체 음성 모델을 다시 만들기보다 감정, 합성 음성과 상담 실패 같은 신호를 사용량 기준으로 구매할 수 있다.",
+      "primary_case": "Modulate Velma",
+      "public_number": "2026년 9월 28일 신규 투자 2,500만달러, 누적 6,000만달러, 누적 분석 오디오 6억시간 이상, 배치 전사 시간당 0.03달러",
+      "payer": "음성 서비스 개발자, 보안팀, 고객경험과 신뢰안전 운영자",
+      "seven_day_action": "고객 통화 30건에서 텍스트로 남지 않는 신호를 세 가지로 분류하고, 신호 하나만 API로 살 때의 비용과 업무 가치를 비교한다.",
+      "source_urls": [
+        "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai",
+        "https://foundermag.co/startup-spotlight/modulate/"
+      ]
+    },
+    {
+      "title": "폐경과 골반 건강을 개인 구독과 고용주 비용으로 나눠 파는 Blair Health",
+      "hook": "전문의 진료의 가격표가 환자 구독과 고용주 복지비로 동시에 나뉘면 구매자가 달라진다.",
+      "core_claim": "전문의가 설계한 평가와 진료를 앱에 넣되 개인에게는 기간형 구독으로, 기업에는 고정 PEPM으로 제안하면 이용자와 비용 부담자를 분리할 수 있다.",
+      "primary_case": "Blair Health의 미국 개인 가격과 기업용 PEPM 구조",
+      "public_number": "미국 개인 요금은 6개월 월 69.99달러, 12개월 월 49.99달러이며 기업 PEPM과 실제 절감액은 공개되지 않음",
+      "payer": "개인 고객과 고용주, 기업 계약 단가와 장기 유지율은 미공개",
+      "seven_day_action": "한 가지 전문 진료 경로에서 개인 결제와 고용주 결제를 각각 설계하고 필요한 진료, 행정과 개인정보 경계를 분리한다.",
+      "source_urls": [
+        "https://blairhealth.com/pricing/us",
+        "https://blairhealth.com/for-teams"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "의사를 대신하지 않고, 검사할 사람을 늘린 AI가 2,400만달러를 받았다",
+      "body_md": "AI가 의사를 대신했다는 발표보다 더 현실적인 장면이 있다. 병원에서 전문 검사를 할 수 있는 사람이 부족할 때, AI가 검사 장비를 잡은 사람의 손을 안내하고 의사가 꼭 확인해야 할 결과만 남기는 장면이다.\n\n대표 사례는 UltraSight다. 이 회사는 2026년 9월 23일 심장 초음파 플랫폼 Echosystem의 Series B2 투자 2,400만달러를 발표했다. 회사 발표에 따르면 제품은 10곳이 넘는 상업 사이트에 배치됐다. 이 회사가 파는 것은 환자용 진단 앱이 아니라 병원과 의료시스템이 가진 장비와 인력을 더 넓게 쓰게 하는 업무 흐름이다.\n\n숫자는 JAMA Cardiology 연구에서 더 선명해진다. 초보 운영자가 AI 안내를 받아 수행한 집중 심장 초음파 1,302건 가운데 96.6퍼센트가 자동 분석에 적합했다. AI 단독으로 중등도 이상 대동맥판 협착을 찾은 민감도는 93퍼센트, 특이도는 96퍼센트였다. 다만 양성 또는 해석 불가 영상을 전문가가 다시 보는 2단계 절차가 필요했다. 이 연구는 AI가 의사를 없앴다는 증명이 아니다. 오히려 전문가의 판단을 마지막 단계에 남겨두고 앞단 검사의 문턱을 낮췄다는 기록에 가깝다.\n\n이 구조에서 돈을 내는 사람은 환자보다 병원 운영자다. 병원은 검사를 더 많이 하겠다는 약속보다 대기, 재검과 전문 인력 병목을 줄이는 흐름에 비용을 배정한다. 제품도 모델 정확도만 말하지 않고 교육, 장비 연결, 의사 감독과 결과 전달을 함께 설명해야 한다.\n\n보조 사례인 Basalt Health도 같은 방향을 보여준다. 이 회사는 병원에서 팩스로 들어오는 후기급성기 의뢰서를 시설 운영자가 검토하고 입원 가능 여부를 판단하는 시간을 줄인다. 회사의 9개 테스트에서는 첫 페이지가 약 2분 안에 보이고 입원 결정 준비까지 약 8분이 걸렸다. 이 수치는 회사 테스트지만, 고객이 돈을 내는 단위가 AI 사용량이 아니라 마지막 서류를 기다리는 시간이라는 점을 보여준다.\n\n이 구조를 작은 사업에 적용하는 방법은 두 가지다. 첫째, 전문가만 할 수 있다고 뭉뚱그린 업무를 앞단 취득, 자동 분류, 전문가 확인으로 나눈다. 둘째, 각 단계의 처리시간과 책임자를 기록하고 그중 줄일 수 있는 시간만 가격에 반영한다. 의료와 돌봄처럼 책임이 큰 분야에서는 사람의 최종 판단을 지우지 않는 것이 약점이 아니라 도입 조건이다.\n\n출처\n- [UltraSight 공식 발표](https://ultrasight.com/ultrasight-raises-24-million-to-scale-its-ai-guided-cardiac-workflow-platform-across-u-s-health-systems/)\n- [JAMA Cardiology 연구, PubMed](https://pubmed.ncbi.nlm.nih.gov/42661496/)\n- [Basalt Health 공식 발표](https://basalt.health/basalt-series-a/)\n- [MobiHealthNews 보도](https://www.mobihealthnews.com/news/basalt-health-raises-20m-speed-post-acute-admissions)\n\n⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "병원 AI의 승부처는 의사를 없애는 데 있지 않습니다. 전문 검사를 할 사람이 부족한 곳에서, 자격 있는 사람이 검사를 수행하고 의사가 꼭 봐야 할 결과만 남기는 구조에 있습니다. UltraSight는 이 심장 초음파 흐름으로 2,400만달러를 조달했습니다.",
+      "JAMA Cardiology 연구에서 초보 운영자가 AI 안내를 받아 수행한 심장 초음파 1,302건 중 96.6퍼센트가 자동 분석에 적합했습니다. AI 단독 민감도는 93퍼센트, 특이도는 96퍼센트였습니다. 양성이나 해석 불가 영상에는 전문가 검토가 필요했습니다.",
+      "그래서 고객은 환자가 아니라 병원과 의료시스템입니다. 병원이 사는 것은 AI 사용량이 아니라 검사 대기와 전문 인력 병목을 줄이는 업무 흐름입니다. Basalt Health도 병원 의뢰서의 마지막 페이지를 기다리는 시간을 입원 판단 흐름으로 바꾸고 있습니다.",
+      "작은 사업에 적용하려면 한 가지 전문 업무를 앞단 취득, 자동 분류, 전문가 확인으로 나눠보세요. 줄일 수 있는 시간과 반드시 남겨야 할 책임을 분리하면 가격표가 기술 설명보다 먼저 보입니다. 출처는 브리핑과 블로그에 정리했습니다."
+    ],
+    "instagram": {
+      "caption": "의료 AI가 의사를 대신하지 않아도 병원에 팔리는 이유가 있습니다. 전문 검사를 할 사람이 부족한 곳에서, 자격 있는 사람이 더 넓은 현장에서 검사하도록 돕기 때문입니다.\n\nUltraSight는 2026년 9월 23일 심장 초음파 플랫폼으로 2,400만달러를 조달했다고 발표했습니다. 회사 발표 기준 상업 사이트는 10곳이 넘습니다. JAMA Cardiology 연구에서는 초보 운영자가 수행한 1,302건 중 96.6퍼센트가 자동 분석에 적합했고, AI 단독 민감도는 93퍼센트, 특이도는 96퍼센트였습니다. 양성 또는 해석 불가 결과는 전문가가 다시 봐야 했습니다.\n\n돈이 되는 지점은 AI가 진단을 독점하는 데 있지 않습니다. 병원이 가진 장비, 사람과 감독 절차를 함께 묶어 검사 대기와 전문 인력 병목을 줄이는 데 있습니다.\n\n작은 사업도 업무를 앞단 취득, 자동 분류, 전문가 확인으로 나눠보면 새로운 가격 단위가 보입니다.\n\n출처: UltraSight 공식 발표, JAMA Cardiology 연구, PubMed",
+      "hashtags": "#헬스케어AI #의료기술 #병원운영 #시니어비즈니스 #B2B #창업인사이트 #비즈니스모델",
+      "cards": [
+        "의료 AI는 의사를 없애지 않아도 팔립니다",
+        "전문 검사를 할 사람이 부족한 병원",
+        "UltraSight, 심장 초음파 AI에 2,400만달러 조달",
+        "초보 운영자 1,302건 중 96.6퍼센트 자동 분석 적합",
+        "AI 단독 민감도 93퍼센트, 특이도 96퍼센트",
+        "양성 결과는 전문가 검토, 사람의 책임은 남겨둠",
+        "고객이 사는 것은 모델이 아니라 검사 병목을 줄이는 흐름"
+      ]
+    },
+    "youtube": {
+      "title": "의사를 대신하지 않고 검사할 사람을 늘린 AI가 2,400만달러를 받은 이유",
+      "hook": "의료 AI의 가장 현실적인 성장법은 의사를 없애는 것이 아니라, 의사가 꼭 봐야 할 검사만 남기는 것입니다.",
+      "script": "의료 AI가 의사를 대신했다는 말은 자주 나오지만, 병원이 실제로 돈을 내는 장면은 조금 다릅니다.\n\n전문 검사를 할 사람이 부족할 때, 자격 있는 사람이 더 넓은 현장에서 검사를 수행하도록 돕는 것입니다. 미국의 UltraSight는 심장 초음파 플랫폼 Echosystem으로 2026년 9월 23일 2,400만달러 Series B2 투자를 발표했습니다. 회사 발표 기준 제품은 10곳이 넘는 상업 사이트에 배치됐습니다.\n\nJAMA Cardiology 연구에는 초보 운영자가 AI 안내를 받아 수행한 집중 심장 초음파 1,302건이 포함됐습니다. 이 가운데 96.6퍼센트가 자동 분석에 적합했고, AI 단독의 중등도 이상 대동맥판 협착 탐지 민감도는 93퍼센트, 특이도는 96퍼센트였습니다.\n\n하지만 중요한 조건이 있습니다. 양성 또는 해석 불가 영상은 전문가가 다시 확인해야 합니다. 이 제품은 의사의 판단을 없애는 도구가 아니라, 의사가 모든 검사를 직접 취득하지 않아도 되게 만드는 업무 흐름입니다.\n\n그래서 실제 고객은 환자보다 병원과 의료시스템 운영자에 가깝습니다. 병원이 사는 것은 AI 기능 목록이 아니라 검사 대기, 재검과 전문 인력 병목을 줄이는 결과입니다.\n\nBasalt Health도 비슷합니다. 이 회사는 병원에서 팩스로 들어오는 후기급성기 의뢰서를 시설 운영자가 검토하고 입원 가능 여부를 판단하는 시간을 줄입니다. 회사 테스트에서는 첫 페이지가 약 2분 안에 보이고 입원 결정 준비까지 약 8분이 걸렸습니다.\n\nAI 사업을 설계한다면 먼저 세 칸을 나눠보세요. 비전문가가 수행할 앞단 업무, AI가 분류할 업무, 전문가가 최종 확인할 업무입니다. 이 세 칸의 시간과 책임을 측정하면 기술보다 먼저 가격이 보입니다.\n\n출처는 UltraSight 공식 발표와 JAMA Cardiology 연구, Basalt Health 자료를 기준으로 확인했습니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "UltraSight 공식 발표",
+      "url": "https://ultrasight.com/ultrasight-raises-24-million-to-scale-its-ai-guided-cardiac-workflow-platform-across-u-s-health-systems/"
+    },
+    {
+      "name": "JAMA Cardiology 연구, PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661496/"
+    },
+    {
+      "name": "JAMA Cardiology DOI",
+      "url": "https://doi.org/10.1001/jamacardio.2026.3829"
+    },
+    {
+      "name": "Dotmed 독립 보도",
+      "url": "https://www.dotmed.com/news/story/66820"
+    },
+    {
+      "name": "Basalt Health 공식 발표",
+      "url": "https://basalt.health/basalt-series-a"
+    },
+    {
+      "name": "MobiHealthNews 보도",
+      "url": "https://www.mobihealthnews.com/news/basalt-health-raises-20m-speed-post-acute-admissions"
+    },
+    {
+      "name": "Basalt Health 성능 사례",
+      "url": "https://basalt.health/referral-intake-performance"
+    },
+    {
+      "name": "Welmo 2026년 9월 오사카 거점 발표",
+      "url": "https://welmo.co.jp/news/news-20260917/"
+    },
+    {
+      "name": "Welmo 2026년 6월 자금 조달 발표",
+      "url": "https://welmo.co.jp/news/20260618/"
+    },
+    {
+      "name": "Welmo milmo automation 가격 안내",
+      "url": "https://welmo.co.jp/news/001216/"
+    },
+    {
+      "name": "Modulate 공식 발표",
+      "url": "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai"
+    },
+    {
+      "name": "FounderMag Modulate 분석",
+      "url": "https://foundermag.co/startup-spotlight/modulate/"
+    },
+    {
+      "name": "Outmarket 공식 발표",
+      "url": "https://outmarket.ai/blog/outmarket-raises-34.5-million-series-b-four-months-after-our-series-a"
+    },
+    {
+      "name": "DevCuration Outmarket 분석",
+      "url": "https://devcuration.com/articles/company-spotlight-outmarket-ai"
+    },
+    {
+      "name": "Blair Health 미국 가격 페이지",
+      "url": "https://blairhealth.com/pricing/us"
+    },
+    {
+      "name": "Blair Health 기업용 안내",
+      "url": "https://blairhealth.com/for-teams"
+    },
+    {
+      "name": "FDA 510(k) 데이터베이스",
+      "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm"
+    },
+    {
+      "name": "UltraSight 공식 제품 이미지",
+      "url": "https://ultrasight.com/wp-content/uploads/2024/11/Homepage-_-our-solution-sectio-1024_760.jpg"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
