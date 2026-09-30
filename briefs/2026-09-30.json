@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-30",
+  "generated_at_kst": "2026-09-30T12:05:25+09:00",
+  "mode": "new",
+  "headline": "RelaiSanté는 퇴원 연결을 무료로 넓히고, 돌봄기관의 행정을 월 149유로에 판다",
+  "insights": [
+    {
+      "title": "RelaiSanté는 퇴원 연결을 무료로 넓히고, 돌봄기관의 행정을 월 149유로에 판다",
+      "summary": "프랑스 RelaiSanté는 병원과 환자가 재가 돌봄기관을 찾는 기본 연결을 무료로 제공하고, 기관의 의뢰서 정리, 견적, 지원금 계산, 전자서명과 가족 안내를 RelaiSanté Pro로 묶어 월 149유로 HT에 판다. 투자자 발표와 Dealroom 보도는 315개 의료기관, 12,000명 재가 전문가, 요청부터 가능한 인력 확인까지 평균 18분을 전했지만 실제 유료 기관 수와 매출은 공개하지 않았다.",
+      "takeaway": "무료 연결과 유료 완료 업무를 나누고, 매달 반복되는 행정의 실제 결제자를 가격표에 적어라.",
+      "source_type": "media",
+      "source_name": "RelaiSanté 공식 안내, Ventech와 Dealroom",
+      "source_url": "https://www.relaisante.com/relaisante-pro"
+    },
+    {
+      "title": "Tugboat는 가족의 돌봄 불안을 월 9.99달러의 90일 계획으로 바꾼다",
+      "summary": "미국 Tugboat Caregiving은 가족 돌봄자가 다음 90일에 준비할 일을 정리하는 Care Graph와 기술 선택 안내를 제공한다. 무료 탐색 도구와 첫 Care Graph를 열어두고, 무제한 가족 등록과 전망 갱신, 전체 안내를 월 9.99달러 창업자 멤버십으로 판매한다. 유료 회원 수, 매출과 유지율은 공개되지 않았다.",
+      "takeaway": "의료 판단을 대신한다고 약속하지 말고, 가족이 다음에 할 일을 작게 구독하게 하라.",
+      "source_type": "blog",
+      "source_name": "Tugboat Caregiving 공식 사이트와 All Home Care Matters",
+      "source_url": "https://tugboatcaregiving.com/help"
+    },
+    {
+      "title": "介護サプリ는 월 5,500엔 기록 앱에 연구 결과를 붙였다",
+      "summary": "일본 介護サプリ는 2026년 9월 29일부터 기존 케어 기록 앱 안에 Good Practice System을 기능으로 제공했다. 이용자와 직원의 속성, 케어 상황을 기록하고 축적 데이터에서 인지증 케어의 추천 행동을 보여주는 구조다. 기본 기록 앱은 초기비용 무료, iPad 1대당 월 5,500엔이며 기능이 실제 케어 결과를 개선한다는 성과는 아직 공개되지 않았다.",
+      "takeaway": "기록 시스템을 바꾸지 않고, 쌓인 데이터를 다음 현장 업무로 돌려보내는 확장 단위를 만들어라.",
+      "source_type": "media",
+      "source_name": "介護サプリ, 오사카공립대",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000139480.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "첫 연결은 무료로 열고 반복되는 운영 업무에 과금하는 돌봄 플랫폼",
+      "summary": "RelaiSanté는 환자와 병원의 연결을 무료로 유지하면서 재가 돌봄기관의 견적과 서명 행정을 유료화했고, Tugboat는 가족용 기본 탐색 뒤 90일 전망과 전체 안내를 구독으로 묶었다.",
+      "why_now": "돌봄 서비스는 이용자, 가족, 병원, 기관이 다르고 각자의 결제 이유도 다르므로 한 사람에게 모든 비용을 받는 모델보다 업무별 가격 설계가 선명해지고 있다.",
+      "source_url": "https://www.relaisante.com/saad-questions-reponses"
+    },
+    {
+      "theme": "현장 기록을 대체하지 않고 데이터의 다음 사용처를 판다",
+      "summary": "介護サプリ는 기존 케어 기록 앱 안에 Good Practice System을 넣어 별도 기록 시스템을 도입하지 않고 축적된 기록을 케어 힌트로 돌려보낸다.",
+      "why_now": "인력 부족 현장에서는 새 시스템을 배우는 비용이 크기 때문에 이미 입력하는 업무 안에서 다음 판단을 돕는 기능이 도입 장벽을 낮춘다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000139480.html"
+    },
+    {
+      "theme": "가족 돌봄자의 정보 정리도 직접 결제하는 비의료 구독이 된다",
+      "summary": "Tugboat는 병원이나 보험사 계약을 기다리지 않고 가족 돌봄자에게 예산에 맞는 기술 선택, 다음 행동과 90일 전망을 직접 판매한다.",
+      "why_now": "가족 돌봄자는 의료 전문가는 아니지만 서류, 기술 선택과 일정 조정을 동시에 맡아 정보 정리만으로도 반복적인 지불 이유가 생긴다.",
+      "source_url": "https://tugboatcaregiving.com/membership"
+    }
+  ],
+  "cases": [
+    {
+      "who": "RelaiSanté, 프랑스",
+      "what": "병원 퇴원 요청을 재가 돌봄기관과 방문 간호 인력의 가용성 확인으로 연결하는 플랫폼",
+      "how": "기본 매칭은 병원, 환자와 재가 지원기관에 무료로 제공하고, 기관용 Pro에서 의뢰서 정리, 견적, 지원금에 따른 본인 부담액 계산, 전자서명과 자동 연락을 묶는다.",
+      "numbers": "Ventech 투자자 발표와 Dealroom 보도 기준 시드 투자 600만 유로, 315개 의료기관, 12,000명 재가 전문가, 요청부터 가용 인력 식별까지 평균 18분이다. 공식 Pro 가격은 월 149유로 HT이며 2026년 9월 말까지 출시 무료 조건이 있었다. 실제 유료 기관 수와 매출은 공개되지 않았다.",
+      "source_url": "https://www.ventechvc.com/stories/relaisante-leve-6-meu-pour-batir-le-standard-de-la-continuite-des-soins-entre-lhopital-et-la-ville"
+    },
+    {
+      "who": "Tugboat Caregiving, 미국",
+      "what": "가족 돌봄자가 부모와 친척의 상황을 정리하고 다음 90일 준비 순서를 보는 AI 안내 서비스",
+      "how": "Caregiver Navigator와 기술 계획 등 기본 도구와 첫 Care Graph는 무료로 열고, 무제한 가족 등록, 전망 갱신, 월간 변경 알림과 전체 안내를 개인 구독으로 제공한다.",
+      "numbers": "창업자 John Regan은 86세 아버지와 친척을 8년 넘게 돌본 경험을 소개한다. 창업자 멤버십 가격은 월 9.99달러다. 유료 회원 수, 매출, 전환율과 해지율은 공개되지 않았다.",
+      "source_url": "https://tugboatcaregiving.com/membership"
+    },
+    {
+      "who": "株式会社介護サプリ, 일본",
+      "what": "介護 기록 앱에 인지증 케어 Good Practice를 입력하고 추천 행동을 보여주는 기능을 추가했다.",
+      "how": "기존 iPad와 모바일 기록 흐름 안에서 이용자와 직원 속성, 케어 상황을 함께 입력하고 축적 데이터에서 대상자에게 맞는 추천 GP를 표시한다.",
+      "numbers": "2026년 9월 29일 기능 제공을 시작했다. 케어 기록 앱은 초기비용 무료, iPad 1대당 월 5,500엔이며 최대 1개월 무료 체험을 안내한다. 오사카공립대 연구는 의료와 개호 종사자 724명의 응답에서 72개 Good Practice 항목을 정리했지만, 제품 도입 뒤의 건강 결과나 매출은 공개되지 않았다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000139480.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "오사카공립대 Good Practice 연구 자료",
+      "use": "인지증 케어에서 어떤 개입이 효과적이었다고 현장이 느꼈는지 724명 응답과 72개 행동 목록으로 확인하고, 기록 시스템에 넣을 업무 단위를 설계할 때 참고한다.",
+      "source_url": "https://www.omu.ac.jp/info/research_news/entry-22690.html"
+    },
+    {
+      "name": "Tugboat Caregiver Navigator",
+      "use": "가족 돌봄 상황을 오늘 할 일, 이번 주 준비와 다음 90일 전망으로 나누는 무료 탐색 도구다. 의료, 법률과 금융 판단을 대신하지 않는 정보 정리 용도로 참고한다.",
+      "source_url": "https://tugboatcaregiving.com/"
+    }
+  ],
+  "quote": {
+    "text": "당신이 선장이고, 우리는 예인선입니다.",
+    "author": "John Regan, Tugboat Caregiving",
+    "source_url": "https://tugboatcaregiving.com/"
+  },
+  "newsletter": {
+    "title": "돌봄 서비스는 연결과 반복 업무의 결제자를 나눠 설계한다",
+    "body_md": "이번 주 편집 메모입니다. 돌봄 서비스의 가격은 이용자에게 한 번에 받는 금액보다, 연결과 반복 업무의 결제자를 나누는 방식에서 선명해집니다. 대표 사례 RelaiSanté는 병원과 환자의 기본 연결을 무료로 열고, 재가 돌봄기관의 견적, 지원금 계산, 전자서명과 가족 안내를 월 149유로 HT에 묶었습니다. 투자자 발표와 Dealroom 보도는 600만 유로 투자, 315개 의료기관, 12,000명 전문가, 평균 18분을 전했지만 실제 유료 기관과 매출은 공개되지 않았습니다. Tugboat는 가족 돌봄자에게 월 9.99달러의 90일 전망을, 일본 介護サプリ는 기존 기록 앱에 월 5,500엔 기반의 Good Practice 기능을 붙였습니다. 세 사례의 공통점은 기술이 아니라 반복되는 다음 행동에 가격을 붙였다는 점입니다. 기능 이름보다 완료되는 장면과 결제자를 먼저 적는 방식입니다. 7일 동안 한 업무의 요청부터 완료까지 재입력과 승인 시간을 기록하고, 기본 접점과 유료 완료 업무를 나눠 가격표를 만들어봅니다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "퇴원 연결은 무료로 넓히고, 돌봄기관의 행정에 월 149유로를 붙인 RelaiSanté",
+      "hook": "환자에게 무료인 연결이 돌봄기관에는 월 구독이 되는 순간이 있다.",
+      "core_claim": "첫 연결의 마찰은 낮추고, 재가 돌봄기관이 매번 반복하는 견적, 지원금 계산, 서명과 가족 안내를 유료 운영 업무로 나누면 결제자가 선명해진다.",
+      "primary_case": "RelaiSanté의 병원 퇴원 후 재가 돌봄 연결과 RelaiSanté Pro",
+      "public_number": "시드 투자 600만 유로, 315개 의료기관, 12,000명 재가 전문가, 평균 18분, Pro 월 149유로 HT. 실제 유료 기관 수와 매출은 미공개.",
+      "payer": "기본 연결은 병원과 환자에게 무료이고, 월 구독은 재가 돌봄기관이 낸다. 환자는 선택한 기관의 돌봄 서비스 비용을 부담한다.",
+      "seven_day_action": "퇴원 또는 서비스 의뢰 다섯 건에서 요청, 정보 재입력, 견적, 서명과 시작까지 걸린 시간을 적고 가장 반복되는 완료 업무 하나에 가격을 붙인다.",
+      "source_urls": [
+        "https://www.relaisante.com/saad-questions-reponses",
+        "https://www.relaisante.com/relaisante-pro",
+        "https://www.ventechvc.com/stories/relaisante-leve-6-meu-pour-batir-le-standard-de-la-continuite-des-soins-entre-lhopital-et-la-ville",
+        "https://dealroom.co/news/156170-frances-relaisante-raises-6m-to-place-home-carers-in-18-minutes/"
+      ]
+    },
+    {
+      "title": "가족 돌봄자의 다음 90일을 월 9.99달러에 파는 Tugboat",
+      "hook": "돌봄자는 정보가 부족해서만 지치는 것이 아니라, 다음에 무엇을 해야 할지 정리할 시간이 없어서 지친다.",
+      "core_claim": "의료 조언을 대신하지 않는다는 선을 지키면서, 가족 돌봄자의 상황과 기술 선택, 다음 행동을 계속 갱신하는 개인 구독을 만들 수 있다.",
+      "primary_case": "Tugboat Caregiving의 Care Graph와 Caregiver Navigator",
+      "public_number": "창업자 멤버십 월 9.99달러, 90일 전망과 무제한 가족 등록을 유료 기능으로 제공. 유료 회원 수와 매출은 미공개.",
+      "payer": "병원이나 보험사가 아니라 가족 돌봄자 개인이 직접 결제한다.",
+      "seven_day_action": "퇴원 뒤 30일처럼 한 상황을 정하고, 가족 다섯 명에게 무료 체크리스트를 사용하게 한 뒤 완료율과 유료 전환 의사를 기록한다.",
+      "source_urls": [
+        "https://tugboatcaregiving.com/",
+        "https://tugboatcaregiving.com/help",
+        "https://tugboatcaregiving.com/membership",
+        "https://allhomecarematters.com/john-regan-founder-of-tugboat-caregiving/"
+      ]
+    },
+    {
+      "title": "기존 기록 앱에 인지증 케어의 다음 행동을 붙인 介護サプリ",
+      "hook": "현장 직원이 새 시스템을 배우게 하는 대신, 이미 쓰는 기록 화면에 다음 케어 힌트를 넣었다.",
+      "core_claim": "기록 업무의 월 구독을 유지하면서 축적 데이터를 추천 행동으로 되돌려 보내면 별도 도입 부담 없이 전문 기능을 확장할 수 있다.",
+      "primary_case": "介護サプリ의 케어 기록 앱과 Good Practice System",
+      "public_number": "2026년 9월 29일 기능 출시, 기반 앱은 초기비용 무료와 iPad 1대당 월 5,500엔, 최대 1개월 무료 체험. 오사카공립대 연구는 724명 응답과 72개 항목.",
+      "payer": "개호시설과 통소개호 등 운영 사업자가 기록 앱 이용료를 낸다. 기능 추가 뒤의 추가 매출과 케어 결과는 공개되지 않았다.",
+      "seven_day_action": "기존 기록에서 반복되는 판단 세 가지를 골라 직원 속성, 상황과 결과를 같은 형식으로 기록하고, 현장에 다시 보여줄 추천 규칙을 한 개 만든다.",
+      "source_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000010.000139480.html",
+        "https://kaigosapuri.com/carerecord/",
+        "https://www.omu.ac.jp/info/research_news/entry-22690.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "퇴원 연결은 무료로 넓히고, 돌봄기관의 행정에 월 149유로를 붙인 RelaiSanté",
+      "body_md": "# 퇴원 연결은 무료로 넓히고, 돌봄기관의 행정에 월 149유로를 붙인 RelaiSanté\n\n퇴원 결정이 내려졌다고 환자가 바로 집에 갈 수 있는 것은 아니다. 병원 사회복지팀은 방문 간호와 가사 지원이 가능한 기관을 찾고, 기관은 의뢰서를 읽고 견적을 만들고 가족에게 다시 설명해야 한다. 이 사이의 전화와 재입력은 환자에게는 보이지 않지만, 병원과 돌봄기관의 시간을 계속 잡아먹는다.\n\n프랑스의 RelaiSanté는 이 틈을 먼저 무료 연결로 열었다. 병원이나 환자가 한 번 요청하면 지역의 재가 돌봄기관과 간호 인력에게 동시에 보내고, 가능한 기관의 서비스, 가격과 시작 가능 시점을 비교하게 한다. 환자와 가족은 플랫폼 사용료를 내지 않고, 선택한 기관의 서비스 비용만 부담한다. 병원과 재가 지원기관도 기본 매칭 기능은 무료로 이용한다.\n\n돈을 받는 곳은 그 다음 단계다. RelaiSanté Pro는 재가 돌봄기관에 월 149유로의 부가 기능을 판다. 기관이 고객 정보를 다시 입력하고, 지원금과 본인 부담액을 계산하고, 계약서와 자동 독촉을 보내고, 가족과 서명을 주고받는 행정을 한 흐름으로 묶는다. 이 가격은 부가가치세를 제외한 월 요금이며, 공식 안내에는 2026년 9월 말까지 출시 무료라는 조건도 붙어 있다.\n\n규모를 보여주는 숫자도 있다. 투자자 발표와 Dealroom 보도에 따르면 RelaiSanté는 시드 투자 600만 유로를 받았고, 315개 의료기관과 12,000명의 재가 전문가를 연결했으며, 요청부터 가능한 인력을 확인하기까지 평균 18분이 걸린다고 밝혔다. 이 숫자는 회사와 투자자 측 발표를 바탕으로 한 것이다. 실제 유료 기관 수, 매출, 계약 단가와 18분의 독립 검증 결과는 공개되지 않았다. 공식 페이지마다 네트워크를 250개 이상 또는 350개 이상으로 다르게 적고 있어, 증가율을 계산하거나 성장 성과로 확대하지 않는 편이 맞다.\n\n이 사업의 핵심은 환자용 앱을 무료로 뿌렸다는 데 있지 않다. 첫 연결의 마찰을 낮춰 병원과 기관이 네트워크에 들어오게 한 뒤, 반복해서 발생하는 견적, 서류, 서명과 가족 안내를 운영자용 상품으로 분리했다는 점이다. 환자는 서비스를 선택하지만, 매달 소프트웨어 비용을 내는 사람은 돌봄기관이다. 이용자와 지불자를 다르게 설계하면 한쪽의 가격 부담 때문에 전체 서비스가 막히는 일을 줄일 수 있다.\n\n작은 사업에 적용하는 방법은 두 가지다. 첫째, 고객 요청부터 실제 서비스 시작까지를 다섯 건만 따라가며 누가 언제 같은 내용을 다시 입력하는지 기록한다. 둘째, 검색과 안내는 무료 또는 저가로 열고, 견적 작성, 승인, 서명, 후속 연락처럼 반복되는 마지막 업무만 유료 기능으로 묶는다. 한국의 병원과 돌봄 제도는 프랑스와 다르므로 의료정보를 그대로 옮기기보다, 개인정보를 빼고 퇴원 안내와 기관 응답 시간부터 시험해야 한다.\n\nRelaiSanté 사례가 주는 실전 힌트는 분명하다. 고객은 AI라는 이름에 돈을 내는 것이 아니라, 오늘 누가 처리해야 하는지 모호한 업무가 끝나는 데 돈을 낸다. 무료 접점과 유료 완료 업무를 나누고, 실제 결제자를 처음부터 가격표에 적어두면 작은 서비스도 훨씬 구체적으로 설명할 수 있다. 가격표에는 기능 이름만 적지 말고, 어떤 완료 장면을 줄이는지와 누가 결제하는지도 함께 적어야 한다. 결제자의 이름과 마감 장면을 같이 적으면 기술 설명보다 검증이 쉬워진다.\n\n출처\n\n- [RelaiSanté 공식 SAAD 질문과 답변](https://www.relaisante.com/saad-questions-reponses)\n- [RelaiSanté Pro 공식 안내](https://www.relaisante.com/relaisante-pro)\n- [Ventech 투자자 발표](https://www.ventechvc.com/stories/relaisante-leve-6-meu-pour-batir-le-standard-de-la-continuite-des-soins-entre-lhopital-et-la-ville)\n- [Dealroom 독립 보도](https://dealroom.co/news/156170-frances-relaisante-raises-6m-to-place-home-carers-in-18-minutes/)\n\n⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 퇴원 연결은 무료인데, 돌봄기관은 월 149유로를 냅니다. 프랑스 RelaiSanté는 병원과 재가 지원기관의 기본 매칭을 무료로 열고, 기관용 행정 기능을 RelaiSanté Pro로 분리했습니다. 투자자 발표와 Dealroom 보도 기준 315개 의료기관, 1만2,000명 재가 전문가, 요청부터 가능한 인력 확인까지 평균 18분입니다.",
+      "2. 돈을 내는 사람은 환자가 아닙니다. 재가 돌봄기관이 월 149유로 HT를 내고, 의뢰서 정리, 지원금에 따른 본인 부담액 계산, 전자서명, 자동 연락과 가족 안내를 한 흐름으로 씁니다. 환자와 가족은 플랫폼 사용료 없이 기관의 서비스 가격을 비교하고 선택합니다.",
+      "3. 다만 18분은 회사와 투자자 측 발표 수치이고, 실제 유료 기관 수와 매출은 공개되지 않았습니다. 공식 페이지의 연결 기관 수가 250개 이상과 350개 이상으로 다르게 적혀 있어 성장률도 계산하지 않았습니다. 투자금 600만 유로를 매출로 바꿔 쓰지 않는 이유입니다.",
+      "4. 작은 사업자는 고객 요청부터 서비스 시작까지 다섯 건을 따라가며 재입력, 승인, 서명과 후속 연락에 걸린 시간을 먼저 적어보면 됩니다. 첫 연결은 무료나 저가로 열고, 반복되는 마지막 업무만 유료 기능으로 묶는 구조를 시험할 수 있습니다. 출처는 RelaiSanté 공식 안내, Ventech와 Dealroom 자료입니다."
+    ],
+    "instagram": {
+      "caption": "퇴원 연결은 무료인데, 돌봄기관은 월 149유로를 냅니다.\n\n프랑스의 RelaiSanté는 병원이나 환자의 요청을 지역 재가 돌봄기관과 간호 인력에게 연결합니다. 환자와 가족은 플랫폼 사용료를 내지 않고, 선택한 기관의 서비스 비용만 부담합니다. 기본 매칭은 병원과 재가 지원기관에도 무료입니다.\n\n유료 기능은 돌봄기관용 행정입니다. 의뢰서와 고객 정보 정리, 견적, 지원금에 따른 본인 부담액 계산, 전자서명, 자동 연락과 가족 안내를 한 흐름으로 묶어 RelaiSanté Pro라는 월 구독으로 판매합니다. 공식 안내 가격은 월 149유로 HT이며, 출시 기간에는 2026년 9월 말까지 무료 조건이 붙었습니다.\n\n투자자 발표와 Dealroom 보도는 315개 의료기관, 1만2,000명 재가 전문가, 요청부터 가능한 인력 확인까지 평균 18분을 전했습니다. 모두 회사와 투자자 측 자료를 바탕으로 한 수치이며, 실제 유료 기관 수와 매출은 공개되지 않았습니다.\n\n돈 되는 지점은 AI 이름이 아닙니다. 누가 돈을 내는지 분리하고, 매번 반복되는 마지막 행정을 끝내주는 데 있습니다.\n\n출처: RelaiSanté 공식 안내, Ventech 투자자 발표, Dealroom 보도",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #돌봄서비스 #B2B구독 #가격설계 #비즈니스모델 #창업인사이트",
+      "cards": [
+        "1. 퇴원 연결은 무료인데, 돌봄기관은 월 149유로를 낸다",
+        "2. RelaiSanté는 병원과 재가 돌봄기관을 연결한다",
+        "3. 기본 매칭은 병원과 환자와 기관에 무료",
+        "4. 유료 기능은 견적, 지원금 계산, 서명과 가족 안내",
+        "5. 공식 가격은 월 149유로 HT, 출시 기간은 9월 말까지 무료",
+        "6. 315개 의료기관, 1만2,000명 전문가, 평균 18분은 발표 수치",
+        "7. 작은 사업자는 반복되는 마지막 행정부터 가격에 넣는다"
+      ]
+    },
+    "youtube": {
+      "title": "퇴원 연결은 무료인데, 돌봄기관은 왜 월 149유로를 낼까",
+      "hook": "환자에게는 무료로 열어둔 연결 서비스가, 돌봄기관에는 매달 149유로짜리 업무 도구가 됩니다. 돈이 붙는 순간은 연결이 아니라 그 다음 행정입니다.",
+      "script": "병원에서 퇴원 결정이 내려지면 일이 끝날까요?\n\n실제로는 그때부터 방문 간호가 가능한지, 가사 지원을 받을 수 있는지, 누가 언제 시작할 수 있는지 확인해야 합니다. 병원은 여러 기관에 연락하고, 돌봄기관은 의뢰서를 읽어 견적을 만들고, 가족에게 다시 설명합니다.\n\n프랑스의 RelaiSanté는 이 과정을 두 단계로 나눴습니다. 병원이나 환자가 요청을 올리면 지역의 재가 돌봄기관과 간호 인력에 연결하는 기본 기능은 무료입니다. 환자와 가족은 플랫폼 사용료를 내지 않고, 선택한 기관의 서비스 가격을 비교합니다.\n\n돈을 받는 곳은 돌봄기관용 Pro 기능입니다. 의뢰서 정리, 고객 정보 입력, 지원금에 따른 본인 부담액 계산, 견적, 전자서명, 자동 연락과 가족 안내를 한 흐름으로 묶습니다. 공식 안내 가격은 월 149유로 HT이고, 출시 조건에 따라 2026년 9월 말까지 무료로 제공됐습니다.\n\n투자자 발표와 Dealroom 보도에 따르면 RelaiSanté는 시드 투자 600만 유로를 받았고, 315개 의료기관과 1만2,000명의 재가 전문가를 연결했다고 밝혔습니다. 요청부터 가능한 인력을 확인하기까지 평균 18분이라는 수치도 제시했습니다.\n\n여기에는 주의할 점이 있습니다. 18분과 네트워크 숫자는 회사와 투자자 측 발표입니다. 실제 유료 기관 수, 매출, 계약 단가와 장기 유지율은 공개되지 않았습니다. 공식 페이지마다 연결 기관 수가 다르게 적혀 있어 성장률도 계산하지 않았습니다. 투자금은 매출이 아닙니다.\n\n그래도 사업 설계의 힌트는 분명합니다. 고객에게 처음부터 모든 기능의 값을 받으려 하지 않고, 시작을 막는 연결은 낮은 문턱으로 열어둡니다. 대신 매달 반복되는 견적과 서명, 독촉과 가족 안내처럼 운영자가 반드시 끝내야 하는 일을 유료 업무로 묶습니다.\n\n작은 사업자라면 먼저 다섯 건만 기록해보세요. 요청이 들어온 뒤 실제 서비스가 시작될 때까지 누가 같은 정보를 다시 입력하는지, 어느 단계에서 승인이 멈추는지, 가족에게 몇 번 설명하는지를 적습니다. 그중 가장 자주 반복되고 결과가 분명한 한 단계만 월 구독이나 건당 가격으로 제안하면 됩니다.\n\n출처는 RelaiSanté 공식 FAQ와 Pro 안내, Ventech 투자자 발표와 Dealroom 보도를 기준으로 확인했습니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "RelaiSanté 공식 SAAD 질문과 답변",
+      "url": "https://www.relaisante.com/saad-questions-reponses"
+    },
+    {
+      "name": "RelaiSanté 공식 환자와 가족 안내",
+      "url": "https://www.relaisante.com/aide/particuliers"
+    },
+    {
+      "name": "RelaiSanté Pro 공식 안내",
+      "url": "https://www.relaisante.com/relaisante-pro"
+    },
+    {
+      "name": "Ventech RelaiSanté 투자자 발표",
+      "url": "https://www.ventechvc.com/stories/relaisante-leve-6-meu-pour-batir-le-standard-de-la-continuite-des-soins-entre-lhopital-et-la-ville"
+    },
+    {
+      "name": "Dealroom RelaiSanté 보도",
+      "url": "https://dealroom.co/news/156170-frances-relaisante-raises-6m-to-place-home-carers-in-18-minutes/"
+    },
+    {
+      "name": "Tugboat Caregiving 공식 사이트",
+      "url": "https://tugboatcaregiving.com/"
+    },
+    {
+      "name": "Tugboat Caregiving 공식 도움말",
+      "url": "https://tugboatcaregiving.com/help"
+    },
+    {
+      "name": "Tugboat Caregiving 공식 멤버십 안내",
+      "url": "https://tugboatcaregiving.com/membership"
+    },
+    {
+      "name": "All Home Care Matters John Regan 인터뷰",
+      "url": "https://allhomecarematters.com/john-regan-founder-of-tugboat-caregiving/"
+    },
+    {
+      "name": "介護サプリ Good Practice System 출시 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000139480.html"
+    },
+    {
+      "name": "介護サプリ 케어 기록 앱 공식 가격",
+      "url": "https://kaigosapuri.com/carerecord/"
+    },
+    {
+      "name": "오사카공립대 Good Practice 연구",
+      "url": "https://www.omu.ac.jp/info/research_news/entry-22690.html"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
