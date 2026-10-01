@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-01",
+  "generated_at_kst": "2026-10-01T12:04:03+09:00",
+  "mode": "new",
+  "headline": "폐수 처리 회사가 지역 거점을 월 500위안 시니어 케어 구독으로 바꾸기 시작했다",
+  "insights": [
+    {
+      "title": "SunCare는 폐수 처리 회사의 지역 거점을 월 500위안 케어 구독으로 바꾼다",
+      "summary": "중국 Decent Holding의 SunCare가 9월 29일 월 500위안의 AI 기반 재택 시니어 케어 서비스 출시를 발표했다. 커뮤니티 거점에 건강 프로필, 웨어러블과 가정용 기기 데이터, AI 보조 건강 관리, 이상 알림과 가족 통지를 연결하는 구조다. 1,990위안과 2,990위안 상위 단계는 계획 중이며, 20만 명은 새 서비스 가입자가 아니라 회사가 추정한 기존 유료 회원 기반이다.",
+      "takeaway": "이미 가진 지역 접점을 집 안의 반복 업무와 연결하면 시설 이용료를 가정 단위 구독으로 넓힐 수 있다.",
+      "source_type": "media",
+      "source_name": "Decent Holding 공식 발표, SEC 공시와 Reuters 배포 보도",
+      "source_url": "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "title": "Lifelong은 개인이 아니라 가족 전체를 한 번에 과금한다",
+      "summary": "호주 Lifelong은 가족의 기록, 복약, 일정, 상태와 웨어러블 신호를 한 계정에 모으고 2주 무료 뒤 가구 전체에 월 24.99달러 또는 연 119.99달러를 받는다. 회사는 비공개 테스트 약 30가족, 공동 설계 14가구와 심층 인터뷰 85건 이상을 공개했지만 매출, 유료 전환율과 유지율은 확인되지 않았다.",
+      "takeaway": "가족이 함께 반복해서 해결하는 조정 업무라면 사람 수가 아니라 가구를 결제 단위로 시험할 수 있다.",
+      "source_type": "blog",
+      "source_name": "Lifelong 공식 Press Kit와 Apple App Store",
+      "source_url": "https://www.trylifelong.com/press"
+    },
+    {
+      "title": "일본 개호 사업자는 기술보다 2027년 수가와 기록 연결을 먼저 봐야 한다",
+      "summary": "일본 후생노동성은 9월 30일 제268회 개호급부비분과회를 열고 2027년도 개호보수 개정의 기본 관점을 논의했다. 의료와 개호 연계, 생애 말기 의료와 개호, 과학적 개호정보시스템 LIFE 등이 앞선 회의 자료에 포함됐다. 이는 개정 확정이나 수가 인상을 뜻하지 않으며, 현장 소프트웨어의 구매 이유를 급여 업무와 기록 흐름에 연결해야 한다는 신호로만 읽어야 한다.",
+      "takeaway": "돌봄 기술의 가격표를 만들 때 기능 수보다 어떤 기록과 청구 가능한 업무를 끝내는지부터 적는다.",
+      "source_type": "media",
+      "source_name": "일본 후생노동성 사회보장심의회 개호급부비분과회",
+      "source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "커뮤니티 거점을 가정 안의 반복 케어로 확장하는 시니어 구독",
+      "summary": "SunCare는 폐수 처리와 지역 거점 운영에서 출발해 장비, 건강 정보, 가족 알림과 현장 서비스를 월정액 구조로 묶으려 한다. 아직 새 구독의 가입자 수와 매출은 공개되지 않았고, 1,990위안과 2,990위안은 계획 단계다.",
+      "why_now": "고령자 케어가 시설에만 머물지 않고 집과 지역 서비스의 연결로 이동하는 시점에, 이미 확보한 거점과 회원을 반복 결제의 유통망으로 쓰려는 사례가 나왔다.",
+      "source_url": "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "theme": "가족 건강 서비스의 결제 단위가 개인에서 가구로 이동한다",
+      "summary": "Lifelong은 부모, 배우자와 자녀의 건강 기록을 따로 판매하지 않고 하나의 가구 이용권으로 묶는다. 가족마다 볼 수 있는 기록을 나누는 권한 설정은 남겨두고, 비용은 공유한다.",
+      "why_now": "돌봄 조정은 한 사람의 건강 문제로 시작해 여러 가족의 일정, 기록과 의사결정으로 이어지므로 개인 앱보다 가구 단위의 반복 사용 이유가 선명해질 수 있다.",
+      "source_url": "https://www.trylifelong.com/press"
+    },
+    {
+      "theme": "개호 소프트웨어의 구매 이유가 기능보다 수가와 기록 흐름에 가까워진다",
+      "summary": "일본 후생노동성의 2027년도 개호보수 개정 논의는 의료와 개호 연계, 생애 말기 지원과 LIFE를 함께 다룬다. 개정 결과가 나온 것은 아니지만 현장 소프트웨어는 기록과 청구 업무에서 어떤 시간을 줄이는지 설명해야 한다.",
+      "why_now": "9월 30일 공식 분과회가 기본 관점 논의를 시작해 시설과 공급자가 다음 제도 변화에 맞춘 운영 항목을 미리 점검할 이유가 생겼다.",
+      "source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Decent Holding의 SunCare, 중국 옌타이",
+      "what": "커뮤니티 기반 시니어 서비스에 가정용 모니터링과 AI 보조 건강 관리를 붙여 월정액 케어로 확장한다.",
+      "how": "Ruilan International의 장비와 기술 인프라를 커뮤니티 네트워크와 가정에 배포하고, 건강 프로필, 웨어러블과 가정용 기기 데이터, 이상 알림, 가족 통지와 지역 서비스를 연결한다. 의료 진단과 치료는 직접 제공하지 않는다고 회사가 밝혔다.",
+      "numbers": "2026년 9월 29일 발표에서 입문 서비스는 월 500위안, 상위 단계는 약 1,990위안과 2,990위안으로 계획됐다. 약 20만 명은 새 서비스 가입자가 아닌 기존 유료 회원 기반의 회사 추정치다. SEC Exhibit 99.1은 2026년 6월 30일 기준 약 15만 명과 약 480개 거점을 기록했다. 같은 공시의 2026년 4월 30일까지 6개월 총매출은 1,858만5,525달러, Training Services 매출은 350만2,890달러이며 구독 매출로 제시되지 않았다.",
+      "source_url": "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "who": "Lifelong, 호주 시드니",
+      "what": "가족의 건강 기록과 복약, 진료 일정, 상태와 웨어러블 신호를 하나의 가구용 앱으로 묶는다.",
+      "how": "2주 무료 사용 뒤 가족 전체가 하나의 Plus 이용권을 공유하고, 가족 구성원별로 기록 공개 범위를 설정한다. AI 보조자 Alo는 사용자가 허용한 가족 건강 맥락을 바탕으로 기록과 질문을 정리하지만 진단이나 처방을 대신하지 않는다고 안내한다.",
+      "numbers": "공식 Press Kit 기준 월 24.99달러 또는 연 119.99달러, 비공개 사용 약 30가족, 14개 다세대 가구와 4개월 공동 설계, 심층 인터뷰 85건 이상이다. App Store에는 2026년 9월 확인 시 평가 1건이 표시됐다. 매출, 유료 전환율과 30일 유지율은 공개되지 않았다.",
+      "source_url": "https://www.trylifelong.com/press"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Decent Holding SEC Form 6-K Exhibit 99.1",
+      "use": "커뮤니티 거점과 회원 수, 전체 매출과 Training Services 매출을 구독 매출과 섞지 않고 읽을 때 사용한다.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526003233/dxstex99-1.htm"
+    },
+    {
+      "name": "일본 후생노동성 개호급부비분과회 자료",
+      "use": "2027년도 개호보수 개정 논의의 공식 일정과 기본 관점의 범위를 확인하고, 돌봄 서비스의 기록과 청구 업무를 점검할 때 참고한다.",
+      "source_url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
+    }
+  ],
+  "quote": {
+    "text": "노인 돌봄은 전통적인 시설을 넘어 점점 가정으로 이동하고 있습니다.",
+    "author": "쉬하이청, Decent Holding 최고경영자 번역",
+    "source_url": "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+  },
+  "newsletter": {
+    "title": "폐수 처리 회사가 월 500위안 시니어 케어 구독을 시작한 이유",
+    "body_md": "Decent Holding은 폐수 처리와 지역 거점 사업에서 출발해 SunCare의 가정용 시니어 케어를 월 500위안에 출시했다. 건강 프로필, 웨어러블과 가정용 기기, 이상 알림, 가족 통지를 지역 서비스와 묶는 구조다. 회사가 말한 20만 명은 새 구독자가 아니라 기존 유료 회원 추정치이며, SEC 공시의 2026년 6월 말 수치는 약 15만 명과 약 480개 거점이다. 공시의 4월 말 6개월 총매출 1,858만5,525달러와 Training Services 매출 350만2,890달러는 회사 전체 수치라 구독 매출로 읽을 수 없다. 실제 월 500위안의 결제자와 새 가입자 수는 공개되지 않았다. Lifelong은 가족 전체에 월 24.99달러를 받으며 가구를 결제 단위로 삼는 초기 사례다. 두 사례의 공통점은 기술보다 기존 접점과 가족의 반복 조정 업무를 결제 단위로 바꾼 점이다. 작은 사업자는 가족이 반복해서 돈을 낼 업무 하나를 골라, 무료 안내와 유료 완료 업무를 나누는 7일 실험을 작게 시작해볼 수 있다. 첫 결제와 중단 이유까지 함께 적는다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "폐수 처리 회사가 지역 거점을 월 500위안 시니어 케어 구독으로 바꾼다",
+      "hook": "지역 거점이 이미 있다면, 다음 매출은 시설 이용료가 아니라 집 안의 반복 케어에서 나올 수 있다.",
+      "core_claim": "SunCare는 커뮤니티 네트워크와 기존 유료 회원을 가정용 모니터링, 가족 알림과 지역 서비스로 연결해 반복 결제 구조를 만들려 한다.",
+      "primary_case": "Decent Holding의 SunCare 월 500위안 Essential Health Management",
+      "public_number": "월 500위안 출시, 상위 단계 계획 1,990위안과 2,990위안, 기존 유료 회원 약 20만 명은 회사 추정치이며 새 서비스 가입자 수가 아님. SEC 공시의 2026년 6월 30일 기준은 약 15만 명과 약 480개 거점.",
+      "payer": "기존 회원 본인 또는 가족으로 보이지만 실제 결제자 비중과 새 구독 가입자 수는 공개되지 않음.",
+      "seven_day_action": "한 지역에서 가족 10명을 인터뷰하고 생활 확인, 가족 알림과 이동 지원 중 하나만 묶은 월 이용권의 대기 신청과 결제 의향을 비교한다.",
+      "source_urls": [
+        "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html",
+        "https://kr.investing.com/news/company-news/article-93CH-2110313",
+        "https://www.sec.gov/Archives/edgar/data/1958133/000118518526003233/dxstex99-1.htm",
+        "https://www.nasdaq.com/press-release/decent-holding-announces-planned-tiered-subscription-service-model-suncare-platform"
+      ]
+    },
+    {
+      "title": "가족 전체를 한 계정으로 묶어 월 24.99달러를 받는 Lifelong",
+      "hook": "부모님 건강 앱의 결제자는 부모님이 아니라 가족 전체일 수 있다.",
+      "core_claim": "Lifelong은 건강 기록과 일정의 이용자를 가족으로 묶고, 사람 수가 아닌 가구 단위 구독으로 가격을 설계했다.",
+      "primary_case": "호주 Lifelong의 가족 건강 플랫폼과 Plus 구독",
+      "public_number": "2주 무료 뒤 월 24.99달러 또는 연 119.99달러, 비공개 테스트 약 30가족, 공동 설계 14가구, 인터뷰 85건 이상. 매출과 유료 유지율은 미공개.",
+      "payer": "부모와 자녀가 함께 쓰는 가족 가구가 결제 단위이며, 구성원별 기록 공개 권한은 나눌 수 있음.",
+      "seven_day_action": "실제 건강정보를 받지 않고 세 가구에 가상 기록과 공동 체크리스트를 써보게 한 뒤, 두 명 이상이 반복 사용하고 유료 파일럿을 수락하는지 본다.",
+      "source_urls": [
+        "https://www.trylifelong.com/press",
+        "https://apps.apple.com/us/app/lifelong-family-health/id6758003611",
+        "https://www.trylifelong.com/faq"
+      ]
+    },
+    {
+      "title": "2027년 개호보수 논의가 시작되면 돌봄 기술의 가격표도 기록부터 바뀐다",
+      "hook": "돌봄 기술은 기능 목록보다 어떤 기록과 청구 업무를 끝내는지가 먼저다.",
+      "core_claim": "일본의 공식 개호보수 개정 논의는 의료와 개호 연계, 생애 말기 지원과 LIFE를 점검하고 있어, 공급자는 기술을 현장 기록과 제도상 업무의 결과로 설명해야 한다.",
+      "primary_case": "일본 후생노동성 사회보장심의회 개호급부비분과회 제268회 회의",
+      "public_number": "2026년 9월 30일 제268회 회의에서 2027년도 개호보수 개정 기본 관점안을 논의. 수가 인상이나 최종 개정안은 아직 확정되지 않음.",
+      "payer": "개호사업자와 관련 서비스 공급자가 제도 변화의 영향을 받지만, 해당 회의에서 제품 구매자와 가격이 정해진 것은 아님.",
+      "seven_day_action": "돌봄 현장의 반복 기록 5개를 적고, 각 업무가 급여 청구, 인수인계 또는 의료 연계 중 무엇을 돕는지 표시한 뒤 가격 기준을 하나로 좁힌다.",
+      "source_urls": [
+        "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "폐수 처리 회사가 지역 거점을 월 500위안 시니어 케어 구독으로 바꾸기 시작했다",
+      "body_md": "# 폐수 처리 회사가 지역 거점을 월 500위안 시니어 케어 구독으로 바꾸기 시작했다\n\n시설을 운영하고 회원을 모았다고 매출이 자동으로 반복되지는 않습니다. 고객이 집으로 돌아간 뒤에도 필요한 일을 가격표에 넣어야 구독이 됩니다.\n\nDecent Holding의 SunCare는 9월 29일 월 500위안의 AI 기반 재택 시니어 케어 서비스 출시를 발표했습니다. 회사는 기존 커뮤니티 거점을 장비 배포와 건강 관리의 지역 노드로 쓰고, 가정용 모니터링 기기와 웨어러블, AI 보조 건강 정보 분석, 이상 상태 알림, 가족 통지와 지역 서비스를 연결하겠다고 설명했습니다. 의료 진단과 치료를 직접 제공하는 서비스는 아니라고 밝혔습니다.\n\n가격은 세 단계입니다. 입문 단계인 Essential Health Management는 월 약 500위안이고, 상위 두 단계는 약 1,990위안과 2,990위안으로 계획됐습니다. 여기서 중요한 숫자 하나를 분리해야 합니다. 회사가 말한 약 20만 명은 새 월 500위안 서비스 가입자가 아니라 SunCare의 기존 유료 회원 기반 추정치입니다. SEC 공시에는 2026년 6월 30일 기준 약 15만 명과 약 480개 거점이 적혀 있습니다. 공시의 4월 말 6개월 총매출은 1,858만5,525달러지만, Training Services 매출 350만2,890달러를 포함한 회사 전체 수치라 새 구독 매출로 볼 수 없습니다.\n\n이 사업의 돈 되는 지점은 AI라는 단어가 아닙니다. SunCare는 이미 가진 지역 접점과 회원을 집 안의 반복 업무에 연결하려고 합니다. 가족이 건강 상태를 확인하고, 기기 데이터를 모으고, 이상 상황을 알리고, 지역 서비스를 요청하는 장면이 매달 반복되면 시설 이용을 한 번 판매하는 것보다 구독을 설명하기 쉬워집니다. 다만 실제 결제자와 새 서비스 가입자, 구독 매출은 아직 공개되지 않았습니다.\n\n호주의 Lifelong은 같은 문제를 가족 가구 단위로 풀려 합니다. 2주 무료 뒤 가족 전체에 월 24.99달러 또는 연 119.99달러를 받고, 기록과 일정은 한곳에 모으되 공개 범위는 구성원별로 나눕니다. 회사는 비공개 테스트 약 30가족과 85건 이상의 심층 인터뷰를 공개했지만, 앱스토어 평가는 1건이고 매출과 유지율은 미공개입니다. 규모보다 결제 단위를 먼저 설계한 초기 사례로 보는 편이 정확합니다.\n\n작은 사업자가 적용할 방법은 두 가지입니다. 첫째, 지역에서 만나는 고객 다섯 명의 집 안 장면을 따라가며 누가 어떤 확인과 연락을 반복하는지 적습니다. 둘째, 생활 확인과 가족 알림 중 하나만 골라 무료 안내와 유료 완료 업무를 나눕니다. 첫 달에는 실제 결제자, 사용 빈도와 중단 이유를 기록합니다. 회원 수를 구독자 수로 바꾸어 쓰지 않는 것도 같은 실험의 일부입니다.\n\n출처\n\n- [SunCare 공식 출시 발표](https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html)\n- [SunCare 관련 Reuters 배포 보도](https://kr.investing.com/news/company-news/article-93CH-2110313)\n- [Decent Holding SEC Form 6-K Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1958133/000118518526003233/dxstex99-1.htm)\n- [Lifelong 공식 Press Kit](https://www.trylifelong.com/press)\n- [Lifelong Apple App Store](https://apps.apple.com/us/app/lifelong-family-health/id6758003611)\n\n⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 폐수 처리 회사가 월 500위안짜리 시니어 케어 구독을 시작했습니다. 중국 Decent Holding의 SunCare는 지역 커뮤니티 거점에 가정용 기기, AI 보조 건강 관리, 이상 알림과 가족 통지를 붙입니다. 시설 안의 회원을 집 안의 반복 서비스로 확장하는 모델입니다.",
+      "2. 돈을 내는 사람은 아직 선명하게 공개되지 않았습니다. SunCare가 말한 약 20만 명은 새 서비스 가입자가 아니라 기존 유료 회원 기반의 회사 추정치입니다. 실제 월 500위안 결제자, 새 구독자 수와 구독 매출은 확인되지 않았습니다.",
+      "3. 숫자 기준도 나눠 봐야 합니다. SEC 공시는 2026년 6월 30일 기준 약 15만 명과 약 480개 거점을 적었습니다. 2026년 4월 말까지 6개월 총매출 1,858만5,525달러와 Training Services 매출 350만2,890달러는 회사 전체 공시 수치이지 새 구독 매출이 아닙니다.",
+      "4. 작은 사업자는 지역 접점에서 가족이 반복해서 요청하는 장면 하나를 고르면 됩니다. 생활 확인, 가족 알림과 이동 지원 중 하나만 먼저 유료화하고, 가입자 수와 실제 결제자 수를 따로 기록해야 합니다. 출처는 SunCare 공식 발표, Reuters 배포 보도와 SEC 공시입니다."
+    ],
+    "instagram": {
+      "caption": "폐수 처리 회사가 월 500위안짜리 시니어 케어 구독을 시작했습니다.\n\n중국 Decent Holding의 SunCare는 지역 커뮤니티 거점을 가정용 시니어 케어의 서비스 노드로 쓰려 합니다. 웨어러블과 가정용 기기 데이터, AI 보조 건강 관리, 이상 알림, 가족 통지와 지역 서비스를 묶어 월 500위안의 입문 서비스를 출시했습니다.\n\n상위 단계는 월 약 1,990위안과 2,990위안으로 계획됐습니다. 다만 회사가 말한 약 20만 명은 새 서비스 가입자가 아니라 기존 유료 회원 기반의 추정치입니다. SEC 공시의 2026년 6월 30일 기준은 약 15만 명과 약 480개 거점입니다. 새 서비스의 실제 가입자, 결제자와 구독 매출은 공개되지 않았습니다.\n\n돈 되는 지점은 AI 이름이 아니라 이미 가진 지역 접점을 집 안의 반복 업무와 연결하는 데 있습니다.\n\n출처: SunCare 공식 발표, Reuters 배포 보도, SEC 공시",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #돌봄서비스 #구독비즈니스 #가격설계 #비즈니스모델 #창업인사이트",
+      "cards": [
+        "폐수 처리 회사가 월 500위안 시니어 케어 구독을 시작했다",
+        "Decent Holding의 SunCare는 지역 거점을 집 안의 케어로 연결한다",
+        "입문 서비스는 월 약 500위안",
+        "건강 프로필, 웨어러블과 가정용 기기, 이상 알림, 가족 통지를 묶는다",
+        "상위 단계는 월 약 1,990위안과 2,990위안으로 계획됐다",
+        "약 20만 명은 새 가입자가 아니라 기존 유료 회원 기반의 회사 추정치다",
+        "작은 사업자는 지역 접점에서 반복되는 가족 업무 하나부터 가격에 넣는다"
+      ]
+    },
+    "youtube": {
+      "title": "폐수 처리 회사가 월 500위안 시니어 케어 구독을 시작한 이유",
+      "hook": "시설을 운영해 회원을 모은 회사가, 이제 고객의 집 안에 월정액 케어를 넣기 시작했습니다.",
+      "script": "폐수 처리 회사가 왜 시니어 케어 구독을 팔까요?\n\n중국 Decent Holding의 SunCare는 지역 커뮤니티 거점을 가정용 시니어 케어의 서비스 노드로 바꾸려 합니다. 9월 29일 발표한 입문 서비스는 월 약 500위안입니다. 건강 프로필, 웨어러블과 가정용 모니터링 기기, AI 보조 건강 정보 분석, 이상 상태 알림, 가족 통지와 지역 서비스를 묶습니다. 의료 진단과 치료를 직접 제공하는 서비스는 아니라고 회사는 설명했습니다.\n\n더 높은 단계는 월 약 1,990위안과 2,990위안으로 계획됐습니다. 여기서 회원 숫자를 조심해서 읽어야 합니다. 회사가 말한 약 20만 명은 새 월정액 서비스 가입자가 아니라 SunCare의 기존 유료 회원 기반 추정치입니다. SEC 공시에는 2026년 6월 30일 기준 약 15만 명과 약 480개 거점이 기록돼 있습니다.\n\n또 하나의 숫자도 구분해야 합니다. SEC 공시의 2026년 4월 말까지 6개월 총매출 1,858만5,525달러와 Training Services 매출 350만2,890달러는 회사 전체 실적입니다. 새 시니어 케어 구독 매출로 바꿔 쓸 수 없습니다.\n\n그래도 사업 설계의 방향은 보입니다. 이미 확보한 지역 접점과 회원을 집 안의 반복 업무에 연결하면, 시설에서 한 번 만나는 서비스를 가족이 매달 확인하는 서비스로 넓힐 수 있습니다. 작은 사업자라면 생활 확인, 가족 알림과 이동 지원 중 하나만 골라 실제 결제자와 사용 빈도를 먼저 측정해보면 됩니다.\n\n출처는 SunCare 공식 출시 발표, Reuters 배포 보도와 미국 SEC 공시입니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Decent Holding SunCare 공식 출시 발표, GlobeNewswire",
+      "url": "https://www.globenewswire.com/en/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "name": "SunCare 관련 Reuters 배포 보도, Investing.com 한국어판",
+      "url": "https://kr.investing.com/news/company-news/article-93CH-2110313"
+    },
+    {
+      "name": "Decent Holding SEC Form 6-K Exhibit 99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526003233/dxstex99-1.htm"
+    },
+    {
+      "name": "Decent Holding 계획형 구독 모델 발표, Nasdaq 배포",
+      "url": "https://www.nasdaq.com/press-release/decent-holding-announces-planned-tiered-subscription-service-model-suncare-platform"
+    },
+    {
+      "name": "Lifelong 공식 Press Kit",
+      "url": "https://www.trylifelong.com/press"
+    },
+    {
+      "name": "Lifelong Apple App Store 등록 정보",
+      "url": "https://apps.apple.com/us/app/lifelong-family-health/id6758003611"
+    },
+    {
+      "name": "Lifelong 공식 FAQ",
+      "url": "https://www.trylifelong.com/faq"
+    },
+    {
+      "name": "일본 후생노동성 사회보장심의회 개호급부비분과회 제268회 안내",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html"
+    },
+    {
+      "name": "SunCare 공식 보도자료 기업 로고",
+      "url": "https://www.globenewswire.com/en/Attachment/LogoDisplay/1322855?filename=1322855.jpg"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
