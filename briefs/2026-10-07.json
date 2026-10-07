@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-07",
+  "generated_at_kst": "2026-10-07T12:03:09+09:00",
+  "mode": "new",
+  "headline": "검사비 99달러보다, 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는다",
+  "insights": [
+    {
+      "title": "검사비 99달러보다 이어지는 기록에 월 구독이 붙는다",
+      "summary": "SPHERE HEALTH는 검사와 전문의 검토를 포함한 99달러 일회성 상품에서 월 149달러와 349달러 구독으로 이어지는 가격표를 공개했다. 첫 결과가 다음 진료의 기준으로 남는다는 점이 사업의 중심이며, 실제 결제자 수와 전환율은 공개되지 않았다.",
+      "takeaway": "첫 결제의 문턱을 낮추고 다음 판단에 다시 쓰이는 기록의 관리비를 월정액으로 설계한다.",
+      "source_type": "media",
+      "source_name": "SPHERE HEALTH 공식 가격 페이지",
+      "source_url": "https://spherehealth.com/how-it-works"
+    },
+    {
+      "title": "안부 확인이 미래의 보증 문제를 준비하는 월 구독으로 바뀐다",
+      "summary": "일본 세컨드라이프파트너스는 기존 안부 확인 서비스에 입원과 시설 입소 때 필요한 신원 보증 지원을 결합한 これからパートナー를 2026년 10월 1일 시작했다. 월 3,980엔과 5년 연속 이용 조건은 회사 발표이며 실제 고객 수와 보증 이행 건수는 공개되지 않았다.",
+      "takeaway": "평소에는 작게 쓰지만 위기 때 큰 비용이 되는 업무를 일상 구독의 다음 단계로 설계할 수 있다.",
+      "source_type": "media",
+      "source_name": "PR TIMES 세컨드라이프파트너스 공식 발표",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000178056.html"
+    },
+    {
+      "title": "돌봄 기록을 멈추지 않고 만드는 월 3만엔 SaaS",
+      "summary": "일본 NAGARA는 돌봄 중 말한 내용을 기록으로 바꾸는 ながらかいご를 한 사업소당 월 30,000엔부터 공개했다. 식사와 수분, 배설과 활력징후 등 20개가 넘는 기록을 지원하며, 회의록 서비스는 월 4,980엔이다.",
+      "takeaway": "AI를 도입한다고 말하기 전에 현장 직원이 멈추는 기록 업무 하나를 정하고 운영 단위로 가격을 붙인다.",
+      "source_type": "blog",
+      "source_name": "NAGARA 공식 서비스 페이지",
+      "source_url": "https://nagarainc.com/service"
+    },
+    {
+      "title": "보험 대신 월 회비를 받는 직접 진료가 늘어난다",
+      "summary": "미국 Ahadi Health는 30분에서 60분 진료와 의사 직접 연락을 포함한 직접 결제형 1차 진료 회원제를 2026년 10월 5일 시작한다고 안내했다. 보험을 받지 않고 개인과 고용주를 별도 결제자로 두는 구조라 진료 시간과 비용을 함께 가격표에 적는다.",
+      "takeaway": "서비스의 기능보다 고객이 실제로 확보하는 시간과 접근성을 월 회비의 단위로 설명한다.",
+      "source_type": "blog",
+      "source_name": "Ahadi Health 공식 사이트",
+      "source_url": "https://ahadihealth.com/direct-primary-care"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "헬스케어의 첫 결제와 지속 결제가 분리된다",
+      "summary": "SPHERE HEALTH는 첫 검사와 전문의 검토를 99달러로 열고, 이후 월 149달러와 349달러의 지속 관리로 확장한다. 한 번의 진단보다 기준 기록과 다음 행동을 반복 관리하는 쪽에 구독료를 붙이는 설계다.",
+      "why_now": "현금 결제형 건강 서비스가 보험 계약보다 먼저 가격을 공개하면서, 고객이 첫 결제 뒤 무엇을 계속 받는지 비교할 수 있게 됐다.",
+      "source_url": "https://spherehealth.com/how-it-works"
+    },
+    {
+      "theme": "시니어 서비스가 위기 때의 큰 비용을 평소 구독으로 나눈다",
+      "summary": "세컨드라이프파트너스는 안부 확인을 입원과 시설 입소 때 필요한 신원 보증 지원의 입구로 다시 설계했다. 소비자청은 고령자 종신 지원 사업의 계약 내용을 확인할 수 있도록 사업자 가이드라인과 체크리스트를 제공한다.",
+      "why_now": "평소에는 필요성이 낮아 보이지만 입원과 주거 이동 때 갑자기 커지는 지원 비용을 사전에 설명할 수 있는 시장이 열리고 있다.",
+      "source_url": "https://www.caa.go.jp/policies/policy/consumer_policy/caution/caution_018/"
+    },
+    {
+      "theme": "돌봄 AI의 가격 단위가 기능 수에서 운영 단위로 이동한다",
+      "summary": "NAGARA는 음성에서 기록을 만드는 서비스를 사업소 단위로 과금하고, 후생노동성 위탁 CARISO 행사에서 돌봄 기록과 ICT 스타트업을 함께 소개한다. 가격의 중심은 모델의 성능보다 현장 기록이 끝나는 범위다.",
+      "why_now": "돌봄 현장의 생산성 논의가 새 기기 구매보다 기록 시간과 정보 연결을 줄이는 운영 문제로 옮겨가고 있다.",
+      "source_url": "https://cariso-su.mhlw.go.jp/topics_page/20260910-01/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "SPHERE HEALTH, 미국",
+      "what": "여성의 호르몬과 대사 건강을 다루는 현금 결제형 가상 진료 플랫폼",
+      "how": "Clarity로 검사와 전문의 검토를 한 번 제공한 뒤, Continuum과 Constant에서 월간 진료, 기준 검사, 메시지 상담과 케어 내비게이션을 반복 제공한다. 회사는 AI가 정보를 정리하고 임상 판단은 전문의가 한다고 안내한다.",
+      "numbers": "공식 가격표 기준 Clarity 99달러 일회성, Continuum 월 149달러, Constant 월 349달러. 약값은 별도이며 초기 모집 단계라 실제 매출과 전환율은 공개되지 않았다.",
+      "source_url": "https://spherehealth.com/how-it-works"
+    },
+    {
+      "who": "세컨드라이프파트너스, 일본 도쿄",
+      "what": "안부 확인과 입원, 시설 입소 때의 신원 보증 지원을 결합한 고령자 생활 지원 서비스",
+      "how": "전력 사용량 모니터링, 정기 AI 전화와 직원 소통을 제공하고, 회사가 정한 기간을 계속 이용하면 미래의 시설 입소와 입원 때 보증 지원을 무상 제공한다고 발표했다. 실제 보증 재원과 법률 제휴 범위는 추가 확인이 필요하다.",
+      "numbers": "회사 발표 기준 월 3,980엔, 5년 연속 이용 조건. 60만엔에서 100만엔의 시장 상당액은 회사 설명이며 독립 검증 수치가 아니다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000178056.html"
+    },
+    {
+      "who": "NAGARA, 일본 나고야",
+      "what": "돌봄 현장의 음성을 돌봄 기록과 회의록으로 바꾸는 B2B SaaS",
+      "how": "직원이 돌봄 중 말한 내용을 식사, 수분, 배설과 활력징후 등 20개가 넘는 기록으로 정리하고, 별도 회의록 서비스도 제공한다. 구매자는 이용자 가족이 아니라 돌봄 사업소 운영자다.",
+      "numbers": "공식 서비스 페이지 기준 ながらかいご는 1사업소당 월 30,000엔부터, ながらかいご議事録은 1사업소당 월 4,980엔이다.",
+      "source_url": "https://nagarainc.com/service"
+    }
+  ],
+  "tools": [
+    {
+      "name": "SPHERE HEALTH 공식 가격표",
+      "use": "일회성 검사, 월간 진료, 약값 별도 여부를 한 화면에서 비교하는 가격 설계 참고 자료",
+      "source_url": "https://spherehealth.com/how-it-works"
+    },
+    {
+      "name": "NAGARA ながらかいご",
+      "use": "현장 기록을 말하기, 초안 정리, 검수와 보관의 흐름으로 나눠 운영 단위 가격을 계산하는 참고 서비스",
+      "source_url": "https://nagarainc.com/service"
+    },
+    {
+      "name": "고령자 등 종신 지원 사업자 체크리스트",
+      "use": "고령자 생활 지원과 보증 서비스를 조사할 때 계약 범위와 사업자 설명을 확인하는 공공 점검 자료",
+      "source_url": "https://www.caa.go.jp/policies/policy/consumer_policy/caution/caution_018/"
+    }
+  ],
+  "quote": {
+    "text": "AI는 정리하고, 의사가 결정합니다.",
+    "author": "SPHERE HEALTH 공식 FAQ의 설명",
+    "source_url": "https://www.spherehealth.com/faq"
+  },
+  "newsletter": {
+    "title": "검사 뒤에 월정액이 붙는 건강 서비스의 가격표",
+    "body_md": "핵심 주장은 헬스케어 구독의 가치가 검사 결과 자체보다 다음 진료에서 기록을 다시 쓰는 과정에 붙는다는 것이다. SPHERE HEALTH는 99달러 일회성 검사와 전문의 검토를 입구로 두고, Continuum은 월 149달러, Constant는 월 349달러를 받는다. 약값은 별도이며 초기 모집 단계라 실제 매출과 전환율은 공개되지 않았다. 돈을 내는 사람은 보험사가 아니라 미국의 성인 이용자다. AI는 정보를 정리하지만 임상 판단은 전문의가 맡는다고 안내한다. 독자는 자신의 서비스에도 첫 점검과 반복 관리의 가격을 분리하고, 첫 결과가 다음 행동에 어떻게 쓰이는지 7일 안에 적어볼 수 있다. 보조 후보로 일본 NAGARA의 1사업소 월 30,000엔 기록 SaaS와 세컨드라이프파트너스의 월 3,980엔 보증 결합 서비스를 비교한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "검사비 99달러보다 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는다",
+      "hook": "검사 한 번의 가격보다, 다음 방문에서 처음부터 다시 설명하지 않아도 되는 기록에 월 구독료가 붙기 시작했다.",
+      "core_claim": "헬스케어 구독은 AI 기능보다 첫 결과를 다음 전문의 판단과 관리 계획으로 이어주는 지속성에 가격을 붙인다.",
+      "primary_case": "SPHERE HEALTH의 Clarity, Continuum과 Constant",
+      "public_number": "Clarity 99달러 일회성, Continuum 월 149달러, Constant 월 349달러, 약값 별도",
+      "payer": "미국의 성인 이용자, 보험을 받지 않는 현금 결제자",
+      "seven_day_action": "고객이 처음 작성하는 점검표 하나를 정하고, 그 결과를 다음 상담에서 다시 쓰는 과정을 설계한 뒤 5명에게 첫 점검과 반복 관리의 가격을 따로 물어본다.",
+      "source_urls": [
+        "https://spherehealth.com/how-it-works",
+        "https://www.spherehealth.com/faq",
+        "https://www.prnewswire.com/news-releases/as-pcos-becomes-pmos-sphere-health-launches-care-that-follows-women-through-every-hormonal-stage-302896554.html"
+      ]
+    },
+    {
+      "title": "안부 확인을 미래의 보증 준비로 바꾼 월 3,980엔 서비스",
+      "hook": "평소에는 필요성을 느끼기 어려운 안부 확인이 입원과 시설 입소 때의 큰 문제를 준비하는 구독으로 바뀌었다.",
+      "core_claim": "시니어 생활 지원은 위기 때의 큰 비용을 평소의 작은 구독으로 나눌 수 있지만, 보증 재원과 계약 범위를 먼저 검증해야 한다.",
+      "primary_case": "세컨드라이프파트너스의 これからパートナー",
+      "public_number": "회사 발표 기준 월 3,980엔, 5년 연속 이용 조건, 60만엔에서 100만엔 시장 상당액은 회사 설명",
+      "payer": "원거리에서 부모를 돕는 가족 또는 혼자 사는 고령자",
+      "seven_day_action": "입원 준비, 서류 정리, 가족 연락, 전문기관 연결을 나눠 실제로 누가 승인하고 비용을 부담하는지 5명에게 확인한다.",
+      "source_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000004.000178056.html",
+        "https://www.caa.go.jp/policies/policy/consumer_policy/caution/caution_018/",
+        "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/miyorinonaihitohenotaiou.html"
+      ]
+    },
+    {
+      "title": "돌봄 기록을 멈추지 않고 만드는 월 3만엔 SaaS",
+      "hook": "돌봄 시설이 돈을 내는 이유는 AI가 말을 잘해서가 아니라 직원이 돌봄 중 손을 멈추지 않게 하기 위해서다.",
+      "core_claim": "돌봄 AI는 모델 사용량보다 한 사업소의 기록 업무를 끝내는 운영 단위로 팔릴 때 가격을 설명하기 쉽다.",
+      "primary_case": "NAGARA의 ながらかいご",
+      "public_number": "공식 가격 기준 1사업소 월 30,000엔부터, 20개가 넘는 기록 유형, 회의록 서비스 월 4,980엔",
+      "payer": "일본의 돌봄 사업소 운영자",
+      "seven_day_action": "개인정보를 제외한 기록 10건의 작성 시간과 수정 횟수를 재고, 기존 방식과 음성 초안 방식의 월 지불 의향을 비교한다.",
+      "source_urls": [
+        "https://nagarainc.com/service",
+        "https://note.com/nagarainc/n/n88c8043a5417",
+        "https://cariso-su.mhlw.go.jp/topics_page/20260910-01/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "검사비 99달러보다, 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는다",
+      "body_md": "# 검사비 99달러보다, 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는다\n\n<!-- DAILY_VISUAL_START -->\n![SPHERE HEALTH 공식 사이트의 여성 건강 대표 사진](assets/daily-cover-source.jpg)\n<!-- DAILY_VISUAL_END -->\n\n건강 서비스를 팔 때 첫 결제를 검사 한 번으로 끝낼지, 다음 진료까지 이어지는 관계의 시작으로 만들지는 전혀 다른 선택입니다. 미국 SPHERE HEALTH는 99달러짜리 첫 검사를 월정액 진료로 이어 붙이는 가격표를 공개했습니다. 돈을 받는 대상은 AI 기능이 아니라 같은 기록으로 다시 시작하지 않아도 되는 과정입니다.\n\n## 99달러로 시작해 149달러로 이어진다\n\nSPHERE HEALTH는 2026년 10월 1일 초기 이용자 모집을 시작했습니다. Clarity는 호르몬과 대사 관련 검사와 전문의 검토를 포함한 일회성 상품으로 99달러입니다. 그 다음 단계인 Continuum은 월 149달러를 받고 매달 전문의 진료, 기준 검사와 메시지 상담을 제공합니다. Constant는 월 349달러로 검사 범위, 일부 지역의 방문 채혈과 전담 케어 내비게이터를 더합니다. 약값은 구독료와 별도로 표시됩니다.\n\n이 가격표에서 중요한 것은 검사 금액이 아닙니다. 첫 검사 결과가 다음 진료의 기준으로 남고, 상태와 증상에 따라 계획을 조정한다는 구조입니다. 고객은 매번 처음부터 설명하는 수고를 줄이고, 회사는 한 번의 주문을 반복 관리 관계로 바꿀 기회를 얻습니다. 다만 현재는 대기 명단 중심의 초기 단계라 실제 결제자 수, 전환율과 매출은 공개되지 않았습니다.\n\n## 돈이 되는 지점은 AI가 아니라 이어지는 기록이다\n\nSPHERE HEALTH는 현금 결제 방식이라 보험을 받지 않습니다. 돈을 내는 사람은 미국에 있는 성인 이용자입니다. 회사는 AI가 검사와 이력을 정리하지만 임상 판단은 전문의가 한다고 안내합니다. 이 구분 덕분에 상품의 중심이 챗봇이 아니라 전문의의 지속적인 검토와 기록의 연결에 놓입니다.\n\n작은 사업자도 같은 방식으로 가격을 설계할 수 있습니다. 첫째, 고객이 지금 당장 살 수 있는 진단이나 점검을 작게 만듭니다. 둘째, 첫 결과가 다음 상담과 관리 계획에 어떻게 쓰이는지 미리 적고, 반복 비용에 포함되는 범위를 공개합니다. 일회성 보고서만 팔면 다음 주문은 다시 광고에서 찾아야 하지만, 기록이 다음 행동을 줄이면 관리비를 설명할 근거가 생깁니다.\n\nSPHERE HEALTH가 실제로 장기 고객을 만들었는지는 아직 검증되지 않았습니다. 그러나 검사, 전문 판단, 기록의 재사용을 한 가격표 안에 넣은 설계는 분명합니다. 건강 사업에서 월 구독을 만들고 싶다면 기능을 더하기 전에 고객이 다음 방문에서 다시 설명하지 않아도 되는 부분부터 정해야 합니다.\n\n## 출처\n\n1. [SPHERE HEALTH 공식 가격 페이지](https://spherehealth.com/how-it-works)\n2. [SPHERE HEALTH 공식 FAQ](https://www.spherehealth.com/faq)\n3. [SPHERE HEALTH 출시 발표](https://www.prnewswire.com/news-releases/as-pcos-becomes-pmos-sphere-health-launches-care-that-follows-women-through-every-hormonal-stage-302896554.html)\n\n※ 가격과 서비스 범위는 회사가 공개한 초기 이용 안내 기준입니다. 실제 매출, 전환율과 건강 효과를 뜻하지 않습니다.\n\nSPHERE HEALTH 공식 사이트에서 내려받은 대표 사진입니다. 생성 이미지는 아니며, 상업적 재사용 조건은 회사 페이지 기준으로 별도 확인이 필요합니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)\n\n<!-- DAILY_NEWSLETTER_CTA_START -->\n*SPHERE HEALTH 공식 사이트에서 내려받은 대표 사진입니다. 생성 이미지는 아니며, 상업적 재사용 조건은 회사 페이지 기준으로 별도 확인이 필요합니다.*\n\n---\n## 더 깊은 돈 이야기는 월요일에 보냅니다\n\n매일 모은 사례 가운데 실제로 사업에 써먹을 만한 한 가지를 골라, 숫자와 실행 방법까지 더 깊게 정리합니다.\n\n[부미붐의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)\n<!-- DAILY_NEWSLETTER_CTA_END -->"
+    },
+    "threads": [
+      "헬스케어의 첫 결제를 검사 한 번으로 끝내지 않는 회사가 나왔습니다. 미국 SPHERE HEALTH는 99달러 일회성 검사에서 월 149달러 전문의 진료 구독으로 이어지는 가격표를 공개했습니다. 첫 결과가 다음 상담의 기준으로 남는 구조라, 고객이 매번 처음부터 설명하는 시간을 줄이는 것이 핵심입니다.",
+      "SPHERE HEALTH의 Clarity는 검사와 전문의 검토를 포함해 99달러입니다. Continuum은 월 149달러로 매달 전문의 진료, 기준 검사와 메시지 상담을 제공하고, Constant는 월 349달러로 검사 범위와 일부 지역의 방문 채혈, 전담 케어 내비게이터를 더합니다. 약값은 별도입니다. 보험사가 아니라 미국의 성인 이용자가 직접 결제하는 현금 결제 모델이며, 실제 결제자 수와 전환율은 공개되지 않았습니다.",
+      "작은 사업자도 첫 점검을 작게 만들고, 그 결과가 다음 관리에 어떻게 쓰이는지와 반복 비용의 범위를 미리 적어볼 수 있습니다. 일회성 보고서만 팔면 다음 주문은 광고에서 다시 찾아야 하지만, 기록이 다음 행동을 줄이면 관리비를 설명할 근거가 생깁니다. SPHERE HEALTH는 AI가 정보를 정리하고 임상 판단은 전문의가 한다고 안내합니다.\n\n출처: https://spherehealth.com/how-it-works\nhttps://www.spherehealth.com/faq\nhttps://www.prnewswire.com/news-releases/as-pcos-becomes-pmos-sphere-health-launches-care-that-follows-women-through-every-hormonal-stage-302896554.html\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "헬스케어의 첫 결제를 검사 한 번으로 끝내지 않는 회사가 나왔습니다.\n\n미국 SPHERE HEALTH는 2026년 10월 1일 초기 이용자 모집을 시작하고, 검사와 전문의 검토를 포함한 99달러 일회성 상품에서 월 149달러와 349달러 구독으로 이어지는 가격표를 공개했습니다.\n\n핵심은 AI가 아닙니다. 첫 검사 결과가 다음 상담의 기준으로 남고, 같은 기록으로 계속 관리받는 구조입니다. 돈을 내는 사람은 보험사가 아니라 미국의 성인 이용자입니다. 약값은 별도이며, 실제 결제자 수와 전환율은 공개되지 않았습니다.\n\n사업에 적용할 때는 첫 점검을 작게 만들고, 그 결과가 다음 관리에 어떻게 쓰이는지와 반복 비용의 범위를 미리 적어보세요. 일회성 보고서보다 이어지는 기록에 가격을 붙이는 방식입니다.\n\n출처는 카드와 프로필 링크에서 확인할 수 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#헬스케어비즈니스 #여성건강 #구독비즈니스 #디지털헬스 #사업모델 #비즈니스인사이트",
+      "cards": [
+        "검사비 99달러보다, 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는다",
+        "SPHERE HEALTH는 99달러 일회성 검사로 시작한다",
+        "검사와 전문의 검토가 Clarity 한 상품에 포함된다",
+        "Continuum은 월 149달러, 매달 전문의 진료와 메시지 상담",
+        "Constant는 월 349달러, 검사 범위와 케어 내비게이터 추가",
+        "보험사가 아니라 미국의 성인 이용자가 직접 결제",
+        "첫 결과가 다음 관리로 이어지는지부터 가격을 설계한다"
+      ]
+    },
+    "youtube": {
+      "title": "검사비 99달러보다 기록이 다음 진료로 이어지는 월 구독에 돈이 붙는 이유",
+      "hook": "미국의 한 헬스케어 회사는 검사비 99달러를 받는 데서 멈추지 않고, 다음 달부터 149달러를 받는 구조를 공개했습니다.",
+      "script": "미국 SPHERE HEALTH는 2026년 10월 1일 초기 이용자 모집을 시작했습니다.\n\n첫 상품인 Clarity는 99달러입니다. 호르몬과 대사 관련 검사에 전문의 검토를 포함한 일회성 상품입니다.\n\n다음 단계인 Continuum은 월 149달러입니다. 매달 전문의 진료와 메시지 상담을 받고, 기준 검사와 관리 계획을 이어 갑니다. Constant는 월 349달러로 검사 범위, 일부 지역의 방문 채혈과 전담 케어 내비게이터를 더합니다. 약값은 구독료와 별도입니다.\n\n여기서 돈이 붙는 지점은 AI 기능이 아닙니다. 첫 검사 결과가 다음 진료의 기준으로 남아서, 고객이 매번 처음부터 설명하지 않아도 되는 기록의 연결입니다. 회사는 AI가 검사와 이력을 정리하지만 임상 판단은 전문의가 한다고 안내합니다.\n\n돈을 내는 사람은 보험사가 아니라 미국에 있는 성인 이용자입니다. 따라서 이 회사가 먼저 검증해야 할 것은 환자 수가 아니라, 첫 99달러 결제가 월 구독으로 이어지는지입니다. 현재는 초기 모집 단계라 실제 결제자 수와 전환율은 공개되지 않았습니다.\n\n작은 사업자도 같은 구조를 시험할 수 있습니다. 첫 점검을 작게 만들고, 그 결과가 다음 상담과 관리 계획에 어떻게 쓰이는지 적습니다. 반복 비용에 포함되는 범위도 함께 공개합니다.\n\n일회성 보고서보다 이어지는 기록에 가격을 붙이는 방식입니다.\n\n출처는 SPHERE HEALTH 공식 가격 페이지와 FAQ, 2026년 10월 1일 출시 발표입니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "SPHERE HEALTH 공식 가격 페이지",
+      "url": "https://spherehealth.com/how-it-works"
+    },
+    {
+      "name": "SPHERE HEALTH 공식 FAQ",
+      "url": "https://www.spherehealth.com/faq"
+    },
+    {
+      "name": "SPHERE HEALTH 출시 발표",
+      "url": "https://www.prnewswire.com/news-releases/as-pcos-becomes-pmos-sphere-health-launches-care-that-follows-women-through-every-hormonal-stage-302896554.html"
+    },
+    {
+      "name": "Ahadi Health 공식 사이트",
+      "url": "https://ahadihealth.com/direct-primary-care"
+    },
+    {
+      "name": "PR TIMES 세컨드라이프파트너스 공식 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000178056.html"
+    },
+    {
+      "name": "일본 소비자청 고령자 등 종신 지원 안내",
+      "url": "https://www.caa.go.jp/policies/policy/consumer_policy/caution/caution_018/"
+    },
+    {
+      "name": "NAGARA 공식 서비스 페이지",
+      "url": "https://nagarainc.com/service"
+    },
+    {
+      "name": "후생노동성 위탁 CARISO 행사 안내",
+      "url": "https://cariso-su.mhlw.go.jp/topics_page/20260910-01/"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
