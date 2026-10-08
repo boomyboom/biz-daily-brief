@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-08",
+  "generated_at_kst": "2026-10-08T12:02:21+09:00",
+  "mode": "new",
+  "headline": "시니어 주거 운영자가 월 599달러를 내는 이유는 AI가 아니라 놓친 전화다",
+  "insights": [
+    {
+      "title": "월 599달러 AI 전화의 상품은 통화가 아니라 투어 연결이다",
+      "summary": "미국 Jonson은 시니어 주거 운영자에게 Pilot 월 349달러, Operator 월 599달러, Portfolio 월 1,499달러의 요금제를 공개했다. Operator에는 최대 500통, 24시간 응답, 투어 준비 문의 라우팅과 야간 단계별 전달이 들어간다. 결제자는 거주자나 가족이 아니라 시설장과 입주 상담팀이며, 긴급하거나 임상적인 통화는 사람에게 넘기는 구조다.",
+      "takeaway": "AI를 팔고 싶다면 대화량 대신 사람이 다음에 해야 할 업무와 연결하라.",
+      "source_type": "blog",
+      "source_name": "Jonson AI 공식 가격 페이지",
+      "source_url": "https://jonson.ai/pricing"
+    },
+    {
+      "title": "시니어 케어의 첫 매출 누수는 광고가 아니라 전화 응답률이다",
+      "summary": "Invoca의 2026 보고서가 자사 플랫폼 고객군을 분석한 결과, 사람과 연결되는 시니어 케어 전화는 53퍼센트였다. 연결된 통화 중 29퍼센트가 리드였고 그중 41퍼센트가 통화에서 전환됐다. 이 평균은 Jonson의 성과가 아니며 전체 산업 통계도 아니지만, 통화 수보다 연결률과 투어 예약을 따로 관리해야 할 이유를 보여준다.",
+      "takeaway": "전화 건수 대신 연결률, 리드율, 통화 전환율을 따로 측정하라.",
+      "source_type": "media",
+      "source_name": "Invoca Senior Care Lead Conversion Benchmarks Report 2026",
+      "source_url": "https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026"
+    },
+    {
+      "title": "의료 AI의 첫 고객은 환자가 아니라 감사 책임자다",
+      "summary": "Zivian Health는 2026년 10월 7일 다주 임상 인력의 차트 검토와 감사 이력을 한 흐름으로 묶는 Elevate를 출시했다. CRH Healthcare를 초기 고객으로 소개했으며, 구매자는 환자가 아니라 의료 운영, 컴플라이언스, 법무와 의료 책임자다. 차트당 수작업 13달러와 AI 보조 1달러 비교, 약 4,000개 주별 규칙과 50개 주 지원은 회사 발표 수치로 독립 검증되지 않았다.",
+      "takeaway": "의료 AI는 진단보다 규정 준수, 검토 이력과 책임 흐름에 먼저 가격을 붙여라.",
+      "source_type": "blog",
+      "source_name": "Zivian Health",
+      "source_url": "https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/"
+    },
+    {
+      "title": "일본의 돌봄 DX는 소프트웨어보다 도입 뒤 효과 검증까지 묶는다",
+      "summary": "일본 도요나카시는 선정된 요양시설에 문제 분석, 기기 요건 정리와 기기 선정을 동행 지원하고 ICT와 로봇 도입 보조금으로 연결하는 사업을 진행한다. 동행 지원은 2026년 10월 이후, 보조금 신청은 2027년 4월부터 6월, 효과 검증은 2027년 6월부터 10월 말까지로 잡혀 있다. 실제 지급과 성과는 아직 확정되지 않았다.",
+      "takeaway": "돌봄 시장에 들어갈 때 도입, 교육과 효과 측정 일정을 상품에 함께 넣어라.",
+      "source_type": "media",
+      "source_name": "도요나카시 개호 DX 도입 동행 지원 사업",
+      "source_url": "https://www.city.toyonaka.osaka.jp/kenko/kaigo_hukushi/kaigohoken/kaigo_jigyosya/sisetu/ict_robotto.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "입주 문의를 운영 데이터로 바꾸는 시니어 주거",
+      "summary": "HubSpot과 SmartBug가 100명 이상의 시니어 주거 의사결정자를 조사한 보고서는 입주율이 90퍼센트를 넘은 상황에서도 영업, 마케팅과 운영 시스템을 완전히 통합한 운영자가 4곳 중 1곳뿐이라고 전한다. AI를 글쓰기에서 리드 점수, 예측과 문의 응답으로 옮기는 흐름은 신규 수요보다 누락된 문의를 회수하는 문제와 맞닿아 있다.",
+      "why_now": "공급이 빠르게 늘기 어려운 환경에서 새 시설을 짓기보다 문의와 투어 사이의 이탈을 줄이는 운영 투자가 먼저 보이기 시작했다.",
+      "source_url": "https://www.hubspot.com/2026-state-of-industry-report-senior-living"
+    },
+    {
+      "theme": "돌봄 기술의 구매 결정이 도입과 검증의 묶음으로 이동",
+      "summary": "도요나카시 사업은 기기 구매만 지원하지 않고 현장 과제 분석과 선정 이후의 효과 검증까지 일정을 공개한다. 공공 도입에서는 제품 기능보다 누가 문제를 정의하고 언제 결과를 측정할지가 예산과 확산을 좌우할 수 있다.",
+      "why_now": "2026년 10월부터 현장 동행을 시작하고 2027년에 보조금과 효과 검증을 이어가는 일정이 잡혔다.",
+      "source_url": "https://www.city.toyonaka.osaka.jp/kenko/kaigo_hukushi/kaigohoken/kaigo_jigyosya/sisetu/ict_robotto.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Jonson AI, 미국 시니어 케어 운영용 음성 AI",
+      "what": "시니어 주거 시설의 야간 입주 문의를 받고 투어 예약과 긴급 통화를 사람에게 넘긴다.",
+      "how": "시설의 기존 전화선을 전달받아 문의 정보를 구조화해 상담팀에 넘기고, 낙상 신고나 병원 퇴원 서류처럼 판단이 필요한 통화는 온콜 팀으로 라우팅한다. 돈을 내는 쪽은 입주 상담팀과 운영자다.",
+      "numbers": "Pilot 월 349달러, Operator 월 599달러, Portfolio 월 1,499달러. Operator는 최대 500통과 24시간 응답, 투어 준비 문의 라우팅을 포함한다. 한 채 입주로 월 4,500달러에서 7,500달러의 private-pay 매출이 난다는 설명은 회사 주장이다.",
+      "source_url": "https://jonson.ai/pricing"
+    },
+    {
+      "who": "Zivian Health와 초기 고객으로 소개된 CRH Healthcare, 미국",
+      "what": "다주 임상 인력의 차트 검토와 감사 이력을 한 흐름으로 묶는 Elevate를 2026년 10월 7일 출시했다.",
+      "how": "EHR 기록을 불러와 표본을 고르고, 주별 규칙에 따라 검토자를 배정하고, 점수와 서명을 남겨 감사나 보험자 검토에 내보낸다. 구매자는 환자가 아니라 의료 운영과 컴플라이언스 책임자다.",
+      "numbers": "약 4,000개 주별 규칙과 50개 주 지원, 차트당 수작업 13달러와 AI 보조 1달러 비교는 회사 주장이다. 공개 가격과 독립 성과 검증은 확인하지 못했다.",
+      "source_url": "https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Invoca Senior Care Lead Conversion Benchmarks Report 2026",
+      "use": "전화 응답률, 리드율과 통화 전환율을 분리해 기록하는 기준표로 활용한다. 수치는 Invoca 플랫폼 고객군 평균으로 표시한다.",
+      "source_url": "https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026"
+    },
+    {
+      "name": "도요나카시 개호 DX 도입 동행 지원 일정",
+      "use": "돌봄 기술을 문제 분석, 도입 지원, 보조금과 효과 검증으로 나누는 운영 일정 참고 자료로 활용한다.",
+      "source_url": "https://www.city.toyonaka.osaka.jp/kenko/kaigo_hukushi/kaigohoken/kaigo_jigyosya/sisetu/ict_robotto.html"
+    }
+  ],
+  "quote": {
+    "text": "모두가 같은 기준으로 평가하게 됐습니다.",
+    "author": "Pam Reid, CRH Healthcare, 영문 발언 번역",
+    "source_url": "https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/"
+  },
+  "newsletter": {
+    "title": "시니어 주거 운영자가 월 599달러를 내는 이유는 AI가 아니라 놓친 전화다",
+    "body_md": "월 599달러짜리 AI 전화의 가격표를 보면, 이 서비스가 파는 것은 대화가 아니라 다음 행동이다. 미국 Jonson은 시니어 주거 운영자에게 Pilot 349달러, Operator 599달러, Portfolio 1,499달러를 공개하고, Operator에는 24시간 응답, 투어 문의 라우팅과 긴급 통화 단계별 전달을 넣었다. 돈을 내는 사람은 보험사나 거주자가 아니라 시설장과 입주 상담팀이다. Invoca의 2026 고객군 평균은 사람과 연결되는 전화 53퍼센트, 연결된 통화 중 리드 29퍼센트, 그중 통화 전환 41퍼센트였다. Jonson의 성과가 아니라 시장의 누수 지점이다. 작은 사업자는 7일 동안 시간대별 응답률과 투어 예약률을 기록하고, 사람에게 넘겨야 할 임상 및 긴급 통화 규칙을 먼저 정하면 된다. Zivian의 차트 검토 사례도 같은 방향이다. 의료 운영자는 진단보다 감사 이력과 책임 흐름을 먼저 산다. AI 기능을 더하기 전에 돈이 새는 인수인계 한 곳을 정하고, 가격표와 측정법을 함께 공개하는 편이 낫다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "신규 후보: AI 전화는 입주 문의 한 건을 회수할 때 가격이 붙는다",
+      "hook": "월 599달러의 구매자는 챗봇 이용자가 아니라 시니어 주거 시설의 입주 상담팀이다.",
+      "core_claim": "시니어 케어 AI의 가격은 대화량보다 놓친 문의를 투어 예약과 다음 업무로 연결하는 운영 결과에 붙는다.",
+      "primary_case": "Jonson AI의 Pilot, Operator, Portfolio 요금제와 야간 투어 문의 라우팅",
+      "public_number": "Operator 월 599달러, 최대 500통. Invoca 플랫폼 고객군 평균 사람 연결 53퍼센트, 연결된 통화 중 리드 29퍼센트, 리드 중 통화 전환 41퍼센트.",
+      "payer": "미국 시니어 주거 운영자, 시설장, 입주 상담팀",
+      "seven_day_action": "시간대별 수신 통화, 실제 리드와 투어 예약을 기록하고 야간 누수만 따로 가격화한다.",
+      "source_urls": [
+        "https://jonson.ai/pricing",
+        "https://jonson.ai/senior-living/assisted-living",
+        "https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026",
+        "https://www.hubspot.com/2026-state-of-industry-report-senior-living"
+      ]
+    },
+    {
+      "title": "신규 후보: 의료 AI의 구매자는 환자가 아니라 감사 책임자다",
+      "hook": "진단을 대신하지 않아도 차트 검토의 책임 흐름을 정리하면 의료 운영팀이 돈을 낼 수 있다.",
+      "core_claim": "다주 임상 인력 조직은 AI 기능보다 주별 규칙, 검토 이력과 감사 대응을 한 흐름으로 관리하는 운영 도구를 먼저 구매한다.",
+      "primary_case": "Zivian Health Elevate와 초기 고객으로 소개된 CRH Healthcare",
+      "public_number": "차트당 1달러와 13달러 비교, 약 4,000개 규칙과 50개 주 지원은 회사 주장. 공개 가격과 독립 성과 검증은 없음.",
+      "payer": "다주 urgent care, 재택의료와 post-acute 조직의 의료 운영, 컴플라이언스와 법무 책임자",
+      "seven_day_action": "비식별 가상 기록 20건으로 표본 선정, 검토자 배정, 피드백과 감사용 내보내기에 걸리는 시간을 측정한다.",
+      "source_urls": [
+        "https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/",
+        "https://dailyaibrief.com/news/zivian-health-launches-elevate-ai-chart-review-tool-oOorLvrC"
+      ]
+    },
+    {
+      "title": "신규 후보: 돌봄 DX 도입비는 소프트웨어가 아니라 효과 검증 일정까지 판다",
+      "hook": "일본 지자체의 돌봄 DX 사업은 기기 선정에서 끝나지 않고 다음 해의 효과 검증까지 예산에 넣는다.",
+      "core_claim": "돌봄 기술의 공공 구매에서는 제품 기능보다 현장 과제 분석, 도입 동행과 측정 가능한 종료 조건을 묶는 운영 설계가 중요해진다.",
+      "primary_case": "도요나카시 개호 DX 도입 동행 지원 사업",
+      "public_number": "동행 지원은 2026년 10월 이후, 보조금 신청은 2027년 4월부터 6월, 효과 검증은 2027년 6월부터 10월 말까지 예정.",
+      "payer": "지자체 예산과 보조금으로 도입하는 요양시설 운영자",
+      "seven_day_action": "도입 전에 해결할 현장 문제와 효과 지표, 측정 시점, 자료 제출 책임자를 한 장으로 정리한다.",
+      "source_urls": [
+        "https://www.city.toyonaka.osaka.jp/kenko/kaigo_hukushi/kaigohoken/kaigo_jigyosya/sisetu/ict_robotto.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "시니어 주거 운영자가 월 599달러를 내는 이유는 AI가 아니라 놓친 전화다",
+      "body_md": "<!-- DAILY_VISUAL_START -->\n![Jonson AI 공식 로고, 시니어 주거 전화 응대 서비스](assets/daily-cover-logo.png)\n<!-- DAILY_VISUAL_END -->\n\n밤 6시 15분에 걸려온 입주 문의 한 통이 다음 달 매출을 바꿀 수 있다면, 시설이 먼저 사는 것은 더 똑똑한 광고가 아니라 전화를 놓치지 않는 운영입니다. 미국 Jonson은 시니어 주거 운영자에게 AI 전화 응답을 월 요금으로 공개하고 있습니다. 핵심 상품은 말을 잘하는 챗봇이 아니라, 가족의 문의를 투어 예약과 다음날 상담팀의 업무로 넘기는 연결입니다.\n\n## 월 599달러의 구매자\n\nJonson의 가격표에는 Pilot 월 349달러, Operator 월 599달러, Portfolio 월 1,499달러가 있습니다. Operator는 최대 500통, 24시간 응답, 투어 준비 문의 라우팅, 야간 단계별 전달을 포함합니다. Portfolio는 여러 시설의 전화 흐름과 CRM, EHR 연결을 묶습니다. 결제자는 입주자나 가족이 아니라 시설장과 입주 상담팀입니다.\n\n회사는 한 채가 입주하면 private-pay 기준 월 4,500달러에서 7,500달러의 매출이 생길 수 있다고 설명합니다. 이 숫자와 한 통의 문의가 1년 요금을 회수한다는 계산은 Jonson의 주장입니다. 실제 고객 수와 전환율은 공개되지 않았으므로, 손익분기 사례로 확정할 수는 없습니다.\n\n## 전화가 돈이 되는 이유\n\n시니어 케어 전화의 누수는 생각보다 구체적입니다. Invoca의 2026 보고서가 자사 플랫폼 고객군을 분석한 결과, 사람과 연결되는 전화는 53퍼센트였습니다. 연결된 통화 중 29퍼센트가 리드였고, 그중 41퍼센트가 통화에서 전환됐습니다. 시설의 성과가 아니라 업계 플랫폼 고객군의 평균이지만, 광고가 전화를 만들고도 사람이 받지 못하는 구간을 보여줍니다.\n\n그래서 이 시장에서 AI의 가격은 대화량만으로 설명하기 어렵습니다. 전화를 받았는지, 투어 예약으로 넘어갔는지, 긴급한 통화를 사람에게 넘겼는지가 돈의 흐름을 결정합니다. Jonson도 낙상 신고나 병원 퇴원 서류처럼 사람이 판단해야 하는 통화는 온콜 팀으로 연결한다고 안내합니다.\n\n## 작은 사업자가 적용하는 두 가지\n\n첫째, 7일 동안 시간대별로 수신 통화, 실제 리드, 투어 예약을 따로 기록하세요. 전체 통화 수만 보면 광고비 문제인지 응답 문제인지 알 수 없습니다. 저녁과 주말의 누수부터 보면 작은 범위의 대행 상품이나 예약 회수 서비스를 만들 수 있습니다.\n\n둘째, 자동화 경계를 가격표와 함께 공개하세요. 자주 묻는 요금과 일정은 자동 응답하되, 건강 상태, 낙상, 퇴원처럼 책임이 생기는 통화는 누구에게 몇 분 안에 넘길지 정합니다. 의료 운영용 차트 검토를 내놓은 Zivian도 비슷합니다. 이 회사는 AI가 표본 선정과 기록을 돕고, 최종 검토와 책임 흐름은 의료진과 관리자가 맡는 구조를 소개했습니다. 차트당 1달러와 수작업 13달러라는 비교는 회사 주장이고, 독립 검증이나 공개 가격은 확인되지 않았습니다.\n\n시니어 주거와 헬스케어에서 먼저 가격이 붙는 곳은 거창한 AI가 아닙니다. 놓친 문의, 끊긴 기록, 확인되지 않은 책임처럼 다음 사람이 다시 처리해야 하는 지점입니다. 자동화할 기능보다 누가 다음 행동을 책임지는지부터 정하면, 월 요금의 근거가 선명해집니다.\n\n## 출처\n\n1. [Jonson AI 공식 가격 페이지](https://jonson.ai/pricing)\n2. [Jonson AI 시니어 주거 서비스 설명](https://jonson.ai/senior-living/assisted-living)\n3. [Invoca Senior Care Lead Conversion Benchmarks Report 2026](https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026)\n4. [Zivian Health Elevate 출시 설명](https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/)\n\nJonson 공식 사이트에서 내려받은 로고입니다. 생성 이미지는 아니며, 사용 조건은 회사 페이지 기준입니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 시니어 주거 시설이 월 599달러를 내는 AI 전화가 나왔습니다. 이 서비스가 파는 것은 대화가 아니라 놓친 입주 문의를 투어 예약과 다음날 상담팀의 업무로 넘기는 연결입니다. Jonson의 Operator 요금제는 시설장과 입주 상담팀을 결제자로 두고 24시간 응답과 투어 문의 라우팅을 제공합니다.",
+      "2. Jonson은 Pilot 월 349달러, Operator 월 599달러, Portfolio 월 1,499달러를 공개했습니다. Operator는 최대 500통과 야간 단계별 전달을 포함합니다. 한 채 입주로 월 4,500달러에서 7,500달러의 private-pay 매출이 난다는 설명은 회사 주장이고, 실제 고객 수와 전환율은 공개되지 않았습니다.",
+      "3. Invoca의 2026 플랫폼 고객군 평균은 사람과 연결되는 전화 53퍼센트, 연결된 통화 중 리드 29퍼센트, 리드 중 통화 전환 41퍼센트였습니다. 작은 사업자도 통화 수보다 연결률, 리드율과 투어 예약률을 먼저 기록해야 합니다. 출처: https://jonson.ai/pricing https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "시니어 주거 시설의 AI 전화가 파는 것은 대화가 아닙니다.\n\n미국 Jonson은 Pilot 월 349달러, Operator 월 599달러, Portfolio 월 1,499달러의 요금제를 공개했습니다. Operator에는 최대 500통, 24시간 응답, 투어 문의 라우팅과 야간 단계별 전달이 들어갑니다. 돈을 내는 사람은 거주자나 가족이 아니라 시설장과 입주 상담팀입니다.\n\nInvoca의 2026 플랫폼 고객군 평균은 사람과 연결되는 전화 53퍼센트, 연결된 통화 중 리드 29퍼센트, 그중 통화 전환 41퍼센트였습니다. 이 수치는 Jonson의 성과가 아니라 시장의 평균입니다.\n\nAI의 가격을 대화량으로만 정하지 말고, 놓친 문의가 투어 예약과 다음 업무로 이어졌는지 측정해 보세요. 긴급하거나 임상적인 통화는 사람에게 넘길 경계도 가격표와 함께 공개해야 합니다.\n\n출처는 카드와 프로필 링크에서 확인할 수 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #AI전화 #돌봄산업 #구독비즈니스 #사업모델 #비즈니스인사이트",
+      "cards": [
+        "시니어 주거 운영자가 월 599달러를 내는 이유는 AI가 아니라 놓친 전화다",
+        "Jonson Operator 요금제는 월 599달러",
+        "최대 500통, 24시간 응답, 투어 문의 라우팅",
+        "돈을 내는 사람은 시설장과 입주 상담팀",
+        "Invoca 플랫폼 고객군 평균, 사람과 연결되는 전화 53퍼센트",
+        "연결된 통화 중 리드 29퍼센트, 그중 통화 전환 41퍼센트",
+        "AI의 가격은 대화량보다 다음 행동으로 설명한다"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 주거 운영자가 월 599달러를 내는 이유는 AI가 아니라 놓친 전화다",
+      "hook": "시니어 주거 시설에 월 599달러를 받는 AI 전화가 나왔습니다. 이 회사가 파는 것은 대화가 아니라 놓친 입주 문의의 회수입니다.",
+      "script": "미국 Jonson은 시니어 주거 운영자에게 AI 전화 응답을 월 요금으로 공개했습니다.\n\nPilot은 월 349달러, Operator는 월 599달러, Portfolio는 월 1,499달러입니다. Operator에는 최대 500통, 24시간 응답, 투어 준비 문의 라우팅과 야간 단계별 전달이 들어갑니다.\n\n돈을 내는 사람은 거주자나 가족이 아닙니다. 시설장과 입주 상담팀입니다. Jonson은 가족의 문의 정보를 정리해 다음날 상담팀에 넘기고, 낙상 신고나 병원 퇴원 서류처럼 판단이 필요한 통화는 온콜 팀으로 연결한다고 안내합니다.\n\n이 가격이 보이는 이유는 전화가 바로 매출의 입구이기 때문입니다. Invoca의 2026 보고서가 자사 플랫폼 고객군을 분석한 결과, 사람과 연결되는 시니어 케어 전화는 53퍼센트였습니다. 연결된 통화 중 29퍼센트가 리드였고, 그중 41퍼센트가 통화에서 전환됐습니다. 이 수치는 Jonson의 성과가 아니라 플랫폼 고객군 평균입니다.\n\n작은 사업자는 먼저 7일 동안 시간대별 수신 통화, 실제 리드와 투어 예약을 따로 기록해 볼 수 있습니다. 그 다음 자동화할 범위와 사람이 책임질 통화를 나눕니다.\n\n의료 운영에서도 같은 흐름이 보입니다. Zivian Health는 차트 검토 AI를 내놓으며 주별 규칙과 감사 이력을 한 흐름으로 묶었습니다. 차트당 1달러와 수작업 13달러라는 비교는 회사 주장입니다.\n\nAI의 기능을 더하기 전에, 놓친 문의와 끊긴 기록처럼 다음 사람이 다시 처리해야 하는 지점을 찾는 것. 거기서부터 가격표를 만들 수 있습니다.\n\n출처는 Jonson 공식 가격 페이지, Invoca 2026 보고서와 Zivian Health 공식 출시 설명입니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Jonson AI 공식 가격 페이지",
+      "url": "https://jonson.ai/pricing"
+    },
+    {
+      "name": "Jonson AI 시니어 주거 서비스 설명",
+      "url": "https://jonson.ai/senior-living/assisted-living"
+    },
+    {
+      "name": "Jonson AI 공식 로고",
+      "url": "https://jonson.ai/logo.png"
+    },
+    {
+      "name": "Invoca Senior Care Lead Conversion Benchmarks Report 2026",
+      "url": "https://www.invoca.com/reports/the-invoca-senior-care-lead-conversion-benchmarks-report-2026"
+    },
+    {
+      "name": "Zivian Health Elevate 출시 설명",
+      "url": "https://zivianhealth.com/blog/introducing-elevate-ai-chart-review-clinical-oversight/"
+    },
+    {
+      "name": "AI Brief의 Zivian 출시 정리",
+      "url": "https://dailyaibrief.com/news/zivian-health-launches-elevate-ai-chart-review-tool-oOorLvrC"
+    },
+    {
+      "name": "도요나카시 개호 DX 도입 동행 지원 사업",
+      "url": "https://www.city.toyonaka.osaka.jp/kenko/kaigo_hukushi/kaigohoken/kaigo_jigyosya/sisetu/ict_robotto.html"
+    },
+    {
+      "name": "HubSpot 2026 State of Industry Report, Senior Living",
+      "url": "https://www.hubspot.com/2026-state-of-industry-report-senior-living"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약, 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
