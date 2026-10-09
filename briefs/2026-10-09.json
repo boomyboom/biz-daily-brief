@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-09",
+  "generated_at_kst": "2026-10-09T12:03:54+09:00",
+  "mode": "new",
+  "headline": "AI 기능보다 예방과 운영 결과에 가격을 붙일 때 결제 이유가 선명해진다",
+  "insights": [
+    {
+      "title": "Wally는 예방 치과를 연 249달러 멤버십으로 묶는다",
+      "summary": "미국 Wally는 보험 없이 연 249달러를 내는 개인 고객과 가족에게 예방 클리닝, 검사와 예약 경험을 묶어 판다. 2,500만달러 Series A는 운영 매출이 아니며, 회원 수는 회사 발표와 공식 홈페이지가 달라 성과 숫자로 확정하지 않았다.",
+      "takeaway": "일회성 치료를 반복 관리로 바꿀 때는 다음 방문을 예약할 이유와 포함 범위를 먼저 가격표에 넣는다.",
+      "source_type": "media",
+      "source_name": "Wally 공식 발표와 공식 홈페이지",
+      "source_url": "https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html"
+    },
+    {
+      "title": "Healthleap은 병원 기록의 누락을 우선순위와 계약으로 바꾼다",
+      "summary": "Healthleap은 성인 입원환자의 전자의무기록을 매일 훑어 영양 위험 신호를 우선순위로 보여주는 임상 의사결정 지원 도구를 판다. 진단을 대신하지 않고, 병상 수 기준 3년 계약과 병원 재무팀이 검증한 결과를 가격 기준으로 삼는다고 설명한다.",
+      "takeaway": "헬스케어 AI는 판단을 대신한다고 말하기보다 누락된 검토 대상을 줄이고 다음 담당자의 시간을 아끼는 결과부터 증명한다.",
+      "source_type": "media",
+      "source_name": "Healthleap 공식 자료와 Applied Clinical Informatics",
+      "source_url": "https://www.healthleap.ai/"
+    },
+    {
+      "title": "Mitast는 돌봄 AI가 답을 쓰는 대신 회의 전 초안을 판다",
+      "summary": "일본 최중屋의 Mitast는 LIFE 제출 데이터와 다직종 코멘트로 케어플랜 원안을 만들고 최종 결정은 사람이 하도록 설계했다. 5개 시설의 개발 단계 측정에서 모니터링 시간이 줄었지만 상태 평가는 늘어, 절약한 시간을 판단에 다시 배분하는 구조가 드러난다.",
+      "takeaway": "돌봄 자동화는 사람을 없애는 약속보다 회의 전 준비시간과 사람이 다시 확인할 지점을 함께 공개할 때 신뢰를 얻는다.",
+      "source_type": "media",
+      "source_name": "最中屋 공식 발표와 AMED 자료",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000044.000131802.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "예방 관리가 일회성 치료를 반복 결제로 바꾼다",
+      "summary": "Wally는 보험 청구와 치료 발생 뒤 결제에 의존하지 않고, 예방 클리닝과 검사에 연회비를 붙였다. 고객이 다음 방문을 예약하도록 만드는 반복성이 첫 결제의 핵심이 된다.",
+      "why_now": "2026년 10월 7일 Wally의 투자 발표와 공식 가격표가 동시에 공개되며 소비자 직접 결제형 치과 모델의 가격과 유통 계획이 드러났다.",
+      "source_url": "https://www.carebywally.com/"
+    },
+    {
+      "theme": "헬스케어 AI의 가격 기준이 진단에서 운영 결과로 이동한다",
+      "summary": "Healthleap은 진단을 내리는 대신 매일 위험 환자를 우선순위화하고, 병원은 추가 검토와 청구, 병상 운영 결과를 확인한다. 연구 성능과 회사가 제시한 재정 효과를 분리해서 봐야 한다.",
+      "why_now": "2026년 10월 투자 발표와 임상 연구 공개가 맞물리면서 기술 정확도, 사람의 검토 책임, 병원 재무팀의 구매 기준이 한 화면에 놓였다.",
+      "source_url": "https://healthleap.ai/clinical-use-safety"
+    },
+    {
+      "theme": "돌봄 AI는 자동 결정이 아니라 준비시간 절감과 사람의 승인으로 팔린다",
+      "summary": "Mitast는 기존 LIFE 데이터와 다직종 코멘트에서 회의용 원안을 만들고, 최종 케어플랜은 사람이 결정한다. 모니터링 시간이 줄어도 상태 평가 시간이 늘어난 점은 자동화의 이익이 판단 업무의 재배분일 수 있음을 보여준다.",
+      "why_now": "일본 돌봄 현장에서 2026년 10월 선행 도입 접수가 시작됐고, 정부 지원 실증의 종료 조건과 도입 뒤 재측정 일정까지 공개됐다.",
+      "source_url": "https://www.amed.go.jp/koubo/12/02/1202C_00058.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Wally, 미국",
+      "what": "보험 없이 예방 치과를 연간 멤버십으로 판매",
+      "how": "연 249달러 멤버십으로 무제한 클리닝, 치과 검사, 엑스레이와 3D 스캔을 묶고 고객이 앱에서 예약하도록 한다. 결제자는 개인 고객과 가족이다.",
+      "numbers": "공식 발표 기준 연 249달러 멤버십, 2026년 10월 7일 2,500만달러 Series A, 15개 지점, 회원 5만명 이상과 회원당 연 3회 방문은 회사 주장이다. 공식 홈페이지에는 회원 3만명 이상과 클리닝 40만건 이상이 표시되어 회원 수가 서로 달라 운영 성과로 확정하지 않는다.",
+      "source_url": "https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html"
+    },
+    {
+      "who": "Healthleap, 미국과 남아프리카공화국",
+      "what": "병원 전자의무기록에서 영양 위험 환자를 매일 우선순위화하는 임상 의사결정 지원",
+      "how": "매일 성인 입원환자 차트의 구조화 데이터와 임상 기록을 읽고 위험 점수를 기존 EHR 흐름에 보여준다. 병상 수 기준 3년 계약과 성과연동 가격을 병행한다고 회사가 설명했으며 구매자는 병원 시스템이다.",
+      "numbers": "동료심사 연구는 166,841건 입원과 106,449명 환자, 약 3.75년 자료에서 입원 첫날 AUROC 0.92, 입원 중 최고 위험 점수 AUROC 0.95를 보고했다. TechCrunch가 전한 3년 계약, 50개 이상 병원과 3,800만달러 투자는 회사 또는 기사 확인이며 Penn의 2,380만달러 연환산 재정 효과는 회사 사례 수치다.",
+      "source_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+    },
+    {
+      "who": "最中屋의 Mitast, 일본",
+      "what": "LIFE 제출 데이터와 다직종 코멘트로 케어플랜 원안을 만드는 돌봄 지원 시스템",
+      "how": "시설이 이미 보유한 자료로 회의 전 원안을 만들고 최종 결정은 케어플랜 회의의 사람이 한다. 요양시설 운영 법인이 지불자이며 가격은 공개되지 않았다.",
+      "numbers": "2026년 10월 1일 선행 도입 접수 발표. 전국 5개 시설 실증에서 상담직 모니터링 평균 19.9분에서 9.4분으로 52.8% 줄었고, 이용자와 가족에 대한 설명과 동의는 22.7분에서 16.8분으로 26% 줄었다. 상태 평가는 13.3분에서 17.6분으로 32.3% 늘었다. 회사 발표가 인용한 2026년 3월 성과보고서, 유효 샘플 1,267인일, 개발 단계 측정이며 장기 성과나 계약 매출은 공개되지 않았다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000044.000131802.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Healthleap Clinical Use and Safety",
+      "use": "임상 AI를 진단 도구로 오해하지 않도록 사용 범위, 사람 검토와 안전 한계를 확인하는 공개 자료",
+      "source_url": "https://healthleap.ai/clinical-use-safety"
+    },
+    {
+      "name": "Mitast for Care Process Management",
+      "use": "LIFE 제출 데이터와 다직종 코멘트로 회의 전 케어플랜 원안을 정리하는 돌봄 운영 도구",
+      "source_url": "https://mitasuto.monakaya.com/"
+    },
+    {
+      "name": "Applied Clinical Informatics 연구",
+      "use": "임상 AI의 표본, 기간, AUROC와 비교 기준을 확인하는 공개 연구 자료",
+      "source_url": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/a-2635-3158.pdf"
+    }
+  ],
+  "quote": {
+    "text": "The AI in Healthleap stands for actionable insights.",
+    "author": "Richard Riggs, MD",
+    "source_url": "https://www.healthleap.ai/"
+  },
+  "newsletter": {
+    "title": "AI 기능보다 예방과 운영 결과에 돈을 받는 회사들",
+    "body_md": "이번 주 후보의 공통점은 AI 기능이 아니라 반복되는 예방과 운영 결과에 가격을 붙였다는 점이다. Wally는 보험 없이 개인과 가족에게 연 249달러를 받고 무제한 클리닝과 검사를 묶는다. 다만 회사 발표의 회원 5만명과 공식 홈페이지의 3만명은 기준이 달라 성과 숫자로 확정하지 않는다. Healthleap은 병원에 매일 위험 환자 우선순위를 보여주고 병상 수와 검증된 ROI를 계약 기준으로 삼는다. 동료심사 연구는 166,841건 입원 자료의 AUROC 0.92와 0.95를 보고했지만 병원 재정 효과는 회사 사례다. 일본 Mitast는 5개 시설에서 회의 전 준비시간을 줄였고 최종 결정은 사람이 한다. 독자는 반복 업무 한 가지를 골라 선결제, 재방문율, 다음 담당자의 검토 시간 중 하나를 먼저 측정한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "연 249달러 치과 멤버십은 치료보다 예방을 판다",
+      "hook": "치과에 먼저 돈을 내게 만드는 것은 AI가 아니라 다음 방문을 예약할 이유다.",
+      "core_claim": "Wally는 예방 클리닝과 검사를 연회비로 묶어 보험 밖의 개인 고객과 가족에게 반복 결제를 받는 구조를 시험한다.",
+      "primary_case": "미국 Wally의 연 249달러 예방 치과 멤버십",
+      "public_number": "연 249달러 멤버십, 회사 발표의 2,500만달러 Series A와 15개 지점. 회원 수는 회사 발표 5만명과 공식 홈페이지 3만명 이상이 달라 확정하지 않음.",
+      "payer": "미국의 개인 고객과 가족, 보험사가 아닌 직접 결제자",
+      "seven_day_action": "기존 일회성 서비스에서 30일 안에 반복되는 예방 업무 한 가지를 골라 10명에게 선결제 상품으로 제안하고 예약금과 재방문 예약을 기록한다.",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html",
+        "https://www.carebywally.com/",
+        "https://www.beckersdental.com/dentists/oral-care-platform-lands-25m-in-fundraising-round/"
+      ]
+    },
+    {
+      "title": "병원 AI는 진단보다 놓친 검토를 먼저 판다",
+      "hook": "병원은 AI가 진단을 대신해서가 아니라, 매일 놓치는 위험 환자를 먼저 보여주기 때문에 돈을 낼 수 있다.",
+      "core_claim": "Healthleap은 병원 전자의무기록에서 위험 신호를 우선순위화하고, 병상 수와 병원 재무팀이 확인한 결과를 계약과 성과연동 가격에 연결한다.",
+      "primary_case": "Healthleap의 매일 반복되는 입원환자 위험 선별",
+      "public_number": "동료심사 연구의 166,841건 입원과 AUROC 0.92, 0.95. 3,800만달러 투자, 50개 이상 병원과 Penn의 2,380만달러 연환산 효과는 회사 또는 기사 수치.",
+      "payer": "환자가 아니라 병원 시스템의 임상 운영팀과 재무팀",
+      "seven_day_action": "비식별 업무 20건에서 기존 처리 순서와 우선순위 규칙을 비교하고, 처리 시작 시간과 놓친 항목을 기록한다.",
+      "source_urls": [
+        "https://www.healthleap.ai/",
+        "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+        "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/a-2635-3158.pdf",
+        "https://healthleap.ai/clinical-use-safety"
+      ]
+    },
+    {
+      "title": "돌봄 AI는 정답 대신 회의 전 초안을 판다",
+      "hook": "돌봄 현장에서 AI의 첫 상품은 사람을 빼는 시스템이 아니라 회의 전에 자료를 정리하는 시간일 수 있다.",
+      "core_claim": "Mitast는 LIFE 데이터와 다직종 코멘트로 케어플랜 원안을 만들고 최종 결정은 사람에게 남겨, 절약한 준비시간을 상태 평가로 돌리는 구조를 보여준다.",
+      "primary_case": "일본 최중屋의 Mitast for Care Process Management",
+      "public_number": "5개 시설 실증, 모니터링 19.9분에서 9.4분, 52.8% 감소. 설명과 동의 26% 감소, 상태 평가 32.3% 증가. 회사 발표가 인용한 성과보고서의 개발 단계 측정.",
+      "payer": "일본 개호노인보건시설 운영 법인과 돌봄 관리 조직",
+      "seven_day_action": "가상 또는 비식별 자료 10건으로 회의 전 원안 작성시간, 사람의 수정시간과 누락 항목을 따로 잰다.",
+      "source_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000044.000131802.html",
+        "https://www.amed.go.jp/koubo/12/02/1202C_00058.html",
+        "https://www.amed.go.jp/content/000151770.pdf",
+        "https://mitasuto.monakaya.com/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "Wally는 예방 치과를 연 249달러 멤버십으로 판다",
+      "body_md": "치과를 아플 때 한 번 쓰는 곳으로 두면 결제도 한 번으로 끝납니다. 미국 Wally는 예방 방문을 연 249달러 멤버십으로 묶었습니다. 보험에 가입하지 않아도 무제한 클리닝, 치과 검사, 엑스레이와 3D 스캔, 미백 서비스를 이용하게 하는 구조입니다. 첫 상품은 AI가 아니라 다음 방문을 예약할 이유입니다.\n\n## 연 249달러의 구매자\n\n돈을 내는 사람은 보험사나 병원이 아니라 개인 고객과 가족입니다. Wally는 코워킹 공간에 진료 거점을 만들고 앱 예약을 붙여 방문 과정을 짧게 만들겠다고 설명합니다. 멤버십은 예방 관리를 묶고, 교정과 나이트가드 같은 항목은 별도 치료 혜택으로 안내합니다. 이 구조는 매번 아픈 환자를 새로 설득하는 대신, 아직 큰 치료가 필요하지 않은 고객에게 먼저 결제를 받는 방식입니다.\n\n회사가 공개한 숫자는 구분해서 봐야 합니다. 2026년 10월 7일 발표는 2,500만달러 시리즈A 투자, 15곳 지점, 회원 5만명 이상, 회원당 연 3회 방문을 제시했습니다. 그런데 현재 공식 홈페이지에는 회원 3만명 이상과 클리닝 40만건 이상이라고 적혀 있습니다. 기준일과 집계 범위가 달라질 수 있어 회원 수와 방문 횟수는 확정 실적이 아니라 회사가 서로 다르게 공개한 수치로 남겨야 합니다. 투자금도 운영 매출이 아닙니다.\n\n## 왜 돈이 되는가\n\nWally가 시험하는 것은 치과를 치료비 중심 서비스에서 반복 관리 서비스로 바꾸는 일입니다. 가입자가 다음 예약을 잡고, 이용 횟수와 검사 기록이 쌓이면 회사는 고객 관계를 한 번의 치료보다 길게 가져갈 수 있습니다. 다만 이 모델의 수익성은 지점당 손익, 해지율, 추가 치료 전환율이 공개돼야 판단할 수 있습니다. 지금 확인되는 것은 가격과 운영 방식이지 순이익이 아닙니다.\n\n## 작은 사업자가 적용하는 두 가지\n\n첫째, 일회성 상담을 곧바로 구독으로 바꾸지 말고 30일 안에 반복되는 예방 업무 하나를 골라 10명에게 선결제 상품으로 제안합니다. 둘째, 가입자 수보다 재방문 예약률, 포함 서비스 이용 횟수, 추가 결제율과 해지율을 따로 기록합니다. 가격을 낮추는 것보다 고객이 다음 행동을 예약하는지가 반복 결제를 증명합니다.\n\n## 출처\n\n1. [Wally 투자 발표](https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html)\n2. [Wally 공식 홈페이지](https://www.carebywally.com/)\n3. [Becker's Dental Review 독립 보도](https://www.beckersdental.com/dentists/oral-care-platform-lands-25m-in-fundraising-round/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1. 치과 멤버십이 연 249달러인 이유는 AI가 싸서가 아닙니다. 미국 Wally는 보험 없이 예방 클리닝과 검사, 엑스레이와 3D 스캔을 묶어 개인 고객과 가족에게 선결제 받습니다. 파는 것은 한 번의 치료가 아니라 다음 방문을 예약할 이유입니다.",
+      "2. Wally의 10월 7일 발표에는 15곳 지점, 회원 5만명 이상, 회원당 연 3회 방문이 적혔습니다. 그런데 공식 홈페이지에는 회원 3만명 이상과 클리닝 40만건 이상이라고 적혀 있습니다. 같은 회사 숫자도 기준일과 집계 범위를 먼저 확인해야 합니다. 2,500만달러 투자금은 매출이 아닙니다.",
+      "3. 작은 사업자라면 일회성 상담 중 30일 안에 반복되는 예방 업무 하나를 골라 선결제 상품으로 시험해 보세요. 가입자 수만 보지 말고 재방문 예약률, 이용 횟수, 추가 결제율과 해지율을 기록합니다. 출처: https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html https://www.carebywally.com/"
+    ],
+    "instagram": {
+      "caption": "연 249달러 치과 멤버십이 파는 것은 AI가 아닙니다.\n\n미국 Wally는 보험 없이 예방 클리닝과 치과 검사, 엑스레이와 3D 스캔, 미백 서비스를 멤버십에 묶어 개인 고객과 가족에게 판매합니다. 결제 이유는 병이 생긴 뒤의 치료가 아니라 다음 방문을 미리 잡는 관리입니다.\n\n다만 숫자는 구분해야 합니다. 회사 발표는 2,500만달러 Series A, 15곳 지점, 회원 5만명 이상과 회원당 연 3회 방문을 제시했습니다. 공식 홈페이지에는 회원 3만명 이상과 클리닝 40만건 이상이라고 적혀 있습니다. 회원 수는 확정 성과로 쓰지 않았습니다.\n\n사업에 적용할 때는 반복되는 예방 업무 하나를 골라 선결제 테스트를 하고, 재방문 예약률과 해지율을 따로 기록하세요.\n\n출처는 카드와 프로필 링크에서 확인할 수 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#헬스케어비즈니스 #치과비즈니스 #구독비즈니스 #예방관리 #고객재방문 #사업모델 #비즈니스인사이트",
+      "cards": [
+        "Wally는 치과를 연 249달러 멤버십으로 판다",
+        "보험 없이 예방 클리닝과 검사를 묶는다",
+        "개인 고객과 가족이 결제자다",
+        "연 249달러, 클리닝, 검사, 엑스레이와 3D 스캔",
+        "회원 수는 발표 5만명, 홈페이지 3만명 이상으로 다르다",
+        "반복 결제를 증명할 숫자, 재방문 예약률과 해지율"
+      ]
+    },
+    "youtube": {
+      "title": "연 249달러 치과 멤버십, Wally가 파는 것은 AI가 아니다",
+      "hook": "치과에 연 249달러를 먼저 내는 사람이 있습니다. 미국 Wally가 파는 것은 AI가 아니라 다음 방문을 예약하는 예방 관리입니다.",
+      "script": "치과는 아플 때 한 번 가는 곳이라는 생각이 익숙합니다. 그러면 결제도 치료가 생긴 날 한 번으로 끝납니다.\n\n미국 Wally는 이 흐름을 바꿔 보려 합니다. 보험 없이 연 249달러를 내면 예방 클리닝과 치과 검사, 엑스레이와 3D 스캔, 미백 서비스를 이용하고 앱에서 다음 예약을 잡을 수 있습니다. 돈을 내는 사람은 보험사가 아니라 개인 고객과 가족입니다.\n\n회사는 2026년 10월 7일 2,500만달러 Series A와 15곳 지점, 회원 5만명 이상, 회원당 연 3회 방문을 공개했습니다. 하지만 현재 공식 홈페이지에는 회원 3만명 이상과 클리닝 40만건 이상이 표시됩니다. 기준일과 집계 범위가 다를 수 있으니 회원 수는 확정 실적이 아니라 회사가 공개한 수치로만 다뤄야 합니다. 투자금도 매출이 아닙니다.\n\n이 모델이 돈이 되는 이유는 예방 관리가 다음 예약과 기록을 남기기 때문입니다. 회사는 아픈 고객이 생길 때까지 기다리지 않고, 아직 큰 치료가 필요하지 않은 고객에게 먼저 결제를 받습니다. 실제 수익성은 지점당 손익, 해지율과 추가 치료 전환율이 공개돼야 판단할 수 있습니다.\n\n작은 사업자는 30일 안에 반복되는 예방 업무 하나를 골라 10명에게 선결제 상품으로 제안해 볼 수 있습니다. 가입자 수보다 재방문 예약률, 이용 횟수와 해지율을 따로 기록해야 합니다.\n\n출처는 Wally 공식 발표, 공식 홈페이지와 Becker's Dental Review입니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Wally 공식 투자 발표",
+      "url": "https://www.prnewswire.com/news-releases/wally-raises-25-million-to-scale-nations-fastest-growing-oral-care-membership-with-unlimited-cleanings--diagnostics-302901486.html"
+    },
+    {
+      "name": "Wally 공식 홈페이지",
+      "url": "https://www.carebywally.com/"
+    },
+    {
+      "name": "Becker's Dental Review 독립 보도",
+      "url": "https://www.beckersdental.com/dentists/oral-care-platform-lands-25m-in-fundraising-round/"
+    },
+    {
+      "name": "Healthleap 공식 플랫폼 설명",
+      "url": "https://www.healthleap.ai/"
+    },
+    {
+      "name": "Healthleap 임상 사용과 안전 안내",
+      "url": "https://healthleap.ai/clinical-use-safety"
+    },
+    {
+      "name": "TechCrunch Healthleap 투자 보도",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+    },
+    {
+      "name": "Applied Clinical Informatics 동료심사 연구",
+      "url": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/a-2635-3158.pdf"
+    },
+    {
+      "name": "最中屋 Mitast 공식 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000131802.html"
+    },
+    {
+      "name": "AMED 개호 DX 사업 자료",
+      "url": "https://www.amed.go.jp/koubo/12/02/1202C_00058.html"
+    },
+    {
+      "name": "AMED 개호 DX 성과보고서",
+      "url": "https://www.amed.go.jp/content/000151770.pdf"
+    },
+    {
+      "name": "Mitast 공식 제품 페이지",
+      "url": "https://mitasuto.monakaya.com/"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익, 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
