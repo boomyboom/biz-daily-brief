@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-15",
+  "generated_at_kst": "2026-10-15T12:08:30+09:00",
+  "mode": "new",
+  "headline": "헬스케어 사업은 기능 수가 아니라 책임 비용에 돈을 붙인다",
+  "insights": [
+    {
+      "title": "호주 요양시설 지원 단가는 인건비와 운영 조건을 함께 반영한다",
+      "summary": "호주 정부는 2026년 10월 1일부터 주거형 노인돌봄의 AN-ACC 가격을 거주자 하루 295.64달러에서 303.19달러로 올리고 평균 지원금을 317달러에서 325달러로 조정했다. 정부는 간호사 임금 인상 관련 1.91달러와 관련 보건 인력 임금 인상 관련 0.05달러를 따로 설명했고, 일상생활 서비스 보충금은 22.15달러로 유지했다. 이는 시설 이익이나 매출이 아니라 정부 보조금 단가다.",
+      "takeaway": "단가가 오를 때 총액과 함께 어떤 원가를 보전하는지, 돌봄 의무가 바뀌었는지를 따로 적어라.",
+      "source_type": "media",
+      "source_name": "호주 정부 주거형 노인돌봄 지원 안내",
+      "source_url": "https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care"
+    },
+    {
+      "title": "돌봄 가격은 기능 목록보다 실제 비용 자료에서 만들어진다",
+      "summary": "호주 IHACPA는 주거형 노인돌봄 가격 자문에 비용 수집, 연간 재무 보고, 분기 재무 보고, 독립 원가 조사와 검증을 사용한다고 설명한다. 가격 자문은 등록 제공자가 돌봄을 제공하는 데 드는 비용과 일상생활 서비스 수입의 차이를 파악하는 자료로도 쓰인다.",
+      "takeaway": "규제 산업의 가격을 설계할 때는 기능 수보다 실제 제공 비용과 보고 가능한 단위를 먼저 모아라.",
+      "source_type": "media",
+      "source_name": "호주 IHACPA 주거형 노인돌봄 가격 자문",
+      "source_url": "https://www.ihcpa.gov.au/aged-care/residential/pricing-advice"
+    },
+    {
+      "title": "PocketHealth는 API 밖의 승인과 예외 처리를 자동화 대상으로 삼는다",
+      "summary": "캐나다 PocketHealth는 2026년 10월 14일 검사 프로토콜 작성, 판독실 업무 목록 확인, 보험 자격 확인, 사전승인 제출과 거절 라우팅을 기존 Conductor 플랫폼에 추가한다고 발표했다. 최소 권한 계정과 감사 추적을 사용한다고 설명하며, 900곳 이상 의료 시스템과 50퍼센트 이상의 사무 인건비 감소를 제시하지만 이는 회사 주장이다. 가격과 매출은 공개되지 않았다.",
+      "takeaway": "헬스케어 자동화는 모델 호출 수보다 승인, 예외, 감사 기록이 끝나는 결과 단위로 설명하라.",
+      "source_type": "media",
+      "source_name": "PocketHealth 공식 발표",
+      "source_url": "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "시니어 돌봄 가격이 인건비와 일상생활 원가로 분해된다",
+      "summary": "호주 정부는 AN-ACC 단가, 임금 인상 반영액과 일상생활 서비스 보충금을 나눠 공지하고, IHACPA는 비용 자료와 재무 보고를 이용해 매년 가격을 권고한다.",
+      "why_now": "2026년 10월 단가가 조정됐지만 돌봄 시간 의무와 분류 가중치는 그대로다. 지원금 총액과 실제 운영 여력을 같은 말로 쓰지 않아야 한다.",
+      "source_url": "https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care"
+    },
+    {
+      "theme": "헬스케어 자동화가 API 밖의 책임 업무로 이동한다",
+      "summary": "PocketHealth는 기존 시스템 안에서 보험 자격 확인, 사전승인, 거절 예외 처리와 감사 추적을 묶는다고 발표했다. 자동화의 경계는 모델 기능이 아니라 사람이 책임을 넘겨받는 지점으로 설명된다.",
+      "why_now": "병원과 영상의학 기관은 새 화면보다 기존 포털의 승인 지연과 재입력을 줄여야 한다. 가격을 정할 때도 호출량보다 처리 완료와 예외 비율이 더 가까운 기준이 된다.",
+      "source_url": "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+    },
+    {
+      "theme": "지원금과 사업자 이익을 분리하는 단위 경제가 필요하다",
+      "summary": "호주 정부 안내는 시설에 지급하는 보조금과 보충금, 거주자의 비용 부담, 시설의 월별 청구를 구분한다. 단가 상승은 운영 자금의 변화이지 순이익의 증명이 아니다.",
+      "why_now": "고령친화 사업은 인건비, care minutes, 식사와 세탁 같은 생활 서비스, 감사와 청구 업무가 서로 다른 원가를 만든다. 하나의 월정액이나 총액으로 묶으면 책임 범위가 흐려진다.",
+      "source_url": "https://www.health.gov.au/news/residential-aged-care-funding-update?language=aus-N82"
+    }
+  ],
+  "cases": [
+    {
+      "who": "호주 정부의 주거형 노인돌봄 지원체계",
+      "what": "등록 주거형 노인돌봄 시설에 거주자별 돌봄 필요와 시설 특성을 반영한 AN-ACC 보조금과 보충금을 지급한다.",
+      "how": "정부가 매년 AN-ACC 단가를 정하고, 등록 시설은 거주자별로 매달 청구한다. 임금, 임상 및 비임상 돌봄, 일상생활 서비스와 일부 의무를 서로 다른 단위로 반영한다.",
+      "numbers": "2026년 10월 1일부터 AN-ACC 가격은 거주자 하루 295.64달러에서 303.19달러, 평균 지원금은 317달러에서 325달러다. 간호사 임금 인상 관련 1.91달러, 관련 보건 인력 임금 인상 관련 0.05달러가 따로 제시됐고, hotelling supplement는 22.15달러로 유지됐다. 이는 정부 보조금 단가이며 시설 매출이나 이익이 아니다.",
+      "source_url": "https://www.health.gov.au/news/residential-aged-care-funding-update?language=aus-N82"
+    },
+    {
+      "who": "PocketHealth, 캐나다",
+      "what": "병원과 영상의학 기관의 비임상 운영 업무를 기존 의료 시스템 안에서 자동화하는 Conductor 플랫폼을 확장한다.",
+      "how": "검사 프로토콜 작성과 판독실 업무 목록 확인, 보험 자격 확인, 사전승인 제출 및 추적, 거절 예외 라우팅을 최소 권한 계정과 감사 추적으로 묶는다고 발표했다.",
+      "numbers": "회사는 900곳 이상 의료 시스템과 50퍼센트 이상 사무 인건비 감소를 제시하지만 회사 주장이다. 공개 가격, 매출, 재계약률과 독립 성능 검증은 확인되지 않았다.",
+      "source_url": "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "AN-ACC 주거형 노인돌봄 지원 안내",
+      "use": "거주자 하루 단가, 임금 반영액, care minutes와 일상생활 서비스 보충금을 분리해 사업자 단위 경제표를 만들 때 참고한다.",
+      "source_url": "https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care"
+    },
+    {
+      "name": "IHACPA 주거형 노인돌봄 가격 자문",
+      "use": "기능 목록이 아니라 비용 수집, 재무 보고와 독립 원가 조사를 바탕으로 가격을 검증하는 순서를 참고한다.",
+      "source_url": "https://www.ihcpa.gov.au/aged-care/residential/pricing-advice"
+    },
+    {
+      "name": "PocketHealth Conductor 업무 확장 발표",
+      "use": "정상 처리, 승인 지연, 예외 라우팅, 감사 기록처럼 자동화 가격을 결과 단위로 나누는 체크리스트로 활용한다.",
+      "source_url": "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+    }
+  ],
+  "quote": {
+    "text": "돌봄을 제공하는 데 드는 비용이 자금 지원을 직접 결정하게 한다.",
+    "author": "IHACPA 안내 문구, 영문 번역",
+    "source_url": "https://www.ihcpa.gov.au/aged-care/residential/pricing-advice"
+  },
+  "newsletter": {
+    "title": "헬스케어 사업의 가격표는 기능보다 책임 비용을 먼저 보여준다",
+    "body_md": "이번 주 후보의 핵심 주장은 헬스케어 가격을 기능 수가 아니라 실제 비용과 책임 단위로 설계해야 한다는 점이다. 호주 정부는 2026년 10월 1일부터 주거형 노인돌봄 AN-ACC 가격을 거주자 하루 295.64달러에서 303.19달러로, 평균 지원금을 317달러에서 325달러로 조정했다. 간호사 임금 관련 1.91달러, 관련 보건 인력 임금 관련 0.05달러를 따로 적었고, 돌봄 시간 의무는 그대로다. PocketHealth는 병원과 영상의학 기관의 보험 자격 확인, 사전승인과 거절 라우팅을 자동화 대상으로 제시했지만 가격과 매출은 공개하지 않았다. 독자는 7일 동안 업무 10건의 정상 처리, 재작업, 예외와 최종 확인자를 기록해 결과 단위와 책임 비용을 가격표로 옮긴다. 지원금과 회사 매출, 회사 주장과 독립 검증은 분리해 읽는다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양시설 단가가 올라도 이익은 자동으로 늘지 않는다",
+      "hook": "거주자 하루 단가가 올랐다는 소식에서 가장 먼저 봐야 할 숫자는 총액이 아니라 원가별 반영액이다.",
+      "core_claim": "호주 AN-ACC 가격은 임금, 돌봄 필요와 생활 서비스 원가를 나눠 반영하므로 사업자는 지원금과 이익을 같은 말로 쓰지 않아야 한다.",
+      "primary_case": "호주 정부의 2026년 10월 주거형 노인돌봄 AN-ACC 가격 조정",
+      "public_number": "AN-ACC 295.64달러에서 303.19달러, 평균 지원금 317달러에서 325달러, hotelling supplement 22.15달러 유지. 간호사 임금 관련 1.91달러와 관련 보건 인력 임금 관련 0.05달러가 별도 제시됨.",
+      "payer": "호주 정부가 등록 시설에 지급하는 보조금과 보충금, 거주자의 재정 상황에 따른 일부 비용 부담",
+      "seven_day_action": "사업의 하루 또는 건당 단위를 정하고 인건비, 비임금 원가, 재작업, 감사와 미수금 위험을 분리해 7일치 단위 경제표를 만든다.",
+      "source_urls": [
+        "https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care",
+        "https://www.health.gov.au/news/residential-aged-care-funding-update?language=aus-N82",
+        "https://www.ihcpa.gov.au/aged-care/residential/pricing-advice"
+      ]
+    },
+    {
+      "title": "API가 없는 보험자 포털이 헬스케어 자동화의 다음 시장이다",
+      "hook": "의료 AI가 가장 비싼 업무를 만나는 곳은 모델 화면이 아니라 사람이 로그인하던 승인 포털일 수 있다.",
+      "core_claim": "PocketHealth는 기존 의료 시스템과 보험자 포털 안에서 자격 확인, 사전승인과 거절 예외 처리를 자동화 대상으로 제시하며, 결과와 감사 추적을 구매 단위로 만든다.",
+      "primary_case": "PocketHealth Conductor의 방사선과와 수익 주기 업무 확장",
+      "public_number": "회사 발표 기준 900곳 이상 의료 시스템, 50퍼센트 이상 사무 인건비 감소. 회사 주장이고 가격, 매출과 재계약률은 공개되지 않음.",
+      "payer": "병원과 영상의학 기관 운영자",
+      "seven_day_action": "승인 업무 10건에서 로그인, 대기, 재입력, 예외와 최종 승인 시간을 기록하고 건당 처리 비용과 사람이 넘겨받는 기준을 만든다.",
+      "source_urls": [
+        "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "헬스케어 사업은 기능 수가 아니라 책임 비용에 돈을 붙인다",
+      "body_md": "# 헬스케어 사업은 기능 수가 아니라 책임 비용에 돈을 붙인다\n\n<!-- DAILY_VISUAL_START -->\n![PocketHealth 공식 로고, 기존 의료 시스템 안에서 업무를 연결하는 헬스케어 운영 자동화](assets/daily-cover-logo.png)\n<!-- DAILY_VISUAL_END -->\n\n헬스케어 서비스의 가격표를 보면 기능 수와 AI 모델부터 적고 싶어집니다. 하지만 실제 구매자는 기능의 개수보다 누가 어떤 업무를 끝내고 어떤 비용을 책임지는지를 봅니다. 호주의 주거형 노인돌봄 단가와 캐나다 PocketHealth의 최근 발표가 같은 방향을 보여줍니다.\n\n## 호주 단가표가 먼저 적은 것은 원가다\n\n호주 정부는 2026년 10월 1일부터 주거형 노인돌봄의 AN-ACC 가격을 거주자 하루 295.64달러에서 303.19달러로 올렸습니다. 평균 지원금은 317달러에서 325달러가 됩니다. 정부는 인상분 가운데 간호사 임금 관련 1.91달러와 관련 보건 인력 임금 관련 0.05달러를 따로 설명했습니다. 일상생활 서비스 보충금은 22.15달러로 유지되고, 돌봄 시간 의무와 분류 가중치도 바뀌지 않았습니다.\n\n이 숫자는 시설의 이익이나 매출이 아니라 정부 보조금 단가입니다. 등록 시설이 거주자별로 청구하는 돈과 거주자가 부담하는 비용을 구분해야 합니다. 총액이 올라도 원가와 의무가 함께 바뀌지 않았다면 서비스 범위가 자동으로 커지는 것은 아닙니다.\n\nIHACPA는 가격 자문에 비용 수집, 연간 재무 보고, 분기 재무 보고, 독립 원가 조사와 검증을 사용한다고 설명합니다. 기능 목록이 아니라 실제 제공 비용과 보고 가능한 단위를 가격에 넣는 방식입니다.\n\n## AI가 돈을 받는 곳도 화면 밖의 책임 업무다\n\n캐나다 PocketHealth는 10월 14일 Conductor 플랫폼을 검사 프로토콜 작성, 판독실 업무 목록 확인, 보험 자격 확인, 사전승인 제출과 거절 라우팅으로 확장한다고 발표했습니다. API가 없는 보험자 포털에도 최소 권한 계정으로 로그인하고 감사 추적을 남기는 구조라고 설명합니다.\n\n회사는 900곳 이상 의료 시스템과 50퍼센트 이상 사무 인건비 감소를 제시하지만 회사 주장입니다. 가격, 매출과 재계약률은 공개되지 않았습니다. 이 사례에서 볼 것은 성공 숫자가 아니라 병원과 영상의학 기관이 승인 지연, 재입력과 예외 처리를 줄이는 결과에 돈을 낼 수 있다는 설계입니다.\n\n작은 사업자는 두 가지부터 점검하면 됩니다. 첫째, 거주자 하루, 승인 한 건, 검토 완료 한 건처럼 결과 단위를 정합니다. 둘째, 기본 처리와 예외 처리를 나눠 인건비, 비임금 원가, 재작업, 감사 기록과 최종 확인자를 따로 적습니다. AI 사용량보다 일이 끝났다는 증거가 다음 가격표의 근거가 됩니다.\n\n대표 이미지는 PocketHealth 공식 로고입니다. 문자 중심 발표 이미지는 표지로 사용하지 않았고, 로고의 별도 재사용 조건은 확인이 필요합니다.\n\n## 출처\n\n1. [호주 정부 주거형 노인돌봄 지원 안내](https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care)\n2. [호주 정부 2026년 주거형 노인돌봄 지원금 변경 안내](https://www.health.gov.au/news/residential-aged-care-funding-update?language=aus-N82)\n3. [호주 IHACPA 주거형 노인돌봄 가격 자문](https://www.ihcpa.gov.au/aged-care/residential/pricing-advice)\n4. [PocketHealth Conductor 업무 확장 발표](https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "10월 1일 호주 요양시설의 AN-ACC 단가가 거주자 하루 295.64달러에서 303.19달러로 올랐습니다. 평균 지원금은 317달러에서 325달러가 됐지만 돌봄 시간 의무와 분류 가중치는 그대로입니다. 단가 상승을 곧 이익 증가로 읽을 수 없는 이유입니다.",
+      "이번 조정에서 정부는 간호사 임금 인상분 1.91달러와 관련 보건 인력 임금 인상분 0.05달러를 따로 설명했습니다. 일상생활 서비스에 붙는 hotelling supplement는 거주자 하루 22.15달러로 유지됐습니다. 늘어난 돈과 그대로인 의무를 분리한 가격표입니다.",
+      "IHACPA는 단가를 기능 목록으로 정하지 않습니다. 실제 비용 수집, 연간 재무 보고, 분기 재무 보고, 독립 원가 조사와 검증을 사용한다고 밝힙니다. 작은 사업도 기능 수가 아니라 실제 제공 비용과 보고 가능한 단위로 가격을 다시 써야 합니다.",
+      "PocketHealth는 10월 14일 API가 없는 보험자 포털까지 로그인해 자격 확인, 사전승인 제출, 상태 추적과 거절 라우팅을 하겠다고 발표했습니다. 회사는 900곳 이상 의료 시스템과 50퍼센트 이상 사무 인건비 감소를 제시하지만 회사 주장입니다. 가격과 매출은 공개되지 않았습니다.",
+      "헬스케어 자동화의 구매자는 AI 사용량이 아니라 끝난 업무를 확인합니다. 정상 처리, 재작업, 예외, 최종 확인자를 따로 기록하고 거주자 하루나 승인 한 건처럼 결과 단위로 가격을 만들면 책임 비용이 보입니다. 출처: https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care https://www.ihcpa.gov.au/aged-care/residential/pricing-advice https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/",
+      "[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "헬스케어 사업의 가격표는 기능 수보다 책임 비용을 먼저 보여줘야 합니다.\n\n호주 정부는 2026년 10월 1일부터 주거형 노인돌봄 AN-ACC 가격을 거주자 하루 295.64달러에서 303.19달러로 올렸습니다. 평균 지원금은 317달러에서 325달러가 됐지만 돌봄 시간 의무와 분류 가중치는 그대로입니다.\n\n인상분 가운데 간호사 임금 관련 금액은 1.91달러, 관련 보건 인력 임금 관련 금액은 0.05달러로 따로 안내됐습니다. 일상생활 서비스 보충금은 거주자 하루 22.15달러로 유지됐습니다.\n\nIHACPA는 실제 비용 수집, 재무 보고와 독립 원가 조사를 바탕으로 단가를 권고합니다. PocketHealth도 검사 승인, 보험 자격 확인과 거절 라우팅처럼 사람이 책임져야 하는 업무를 자동화 대상으로 제시했습니다. 회사의 900곳 이상 의료 시스템과 50퍼센트 이상 인건비 감소 수치는 회사 주장이고, 가격과 매출은 공개되지 않았습니다.\n\n기능을 늘리기 전에 결과 단위를 정해 보세요. 거주자 하루, 승인 한 건, 검토 완료 한 건처럼 정상 처리와 예외 비용을 나누면 가격의 근거가 보입니다.\n\n출처는 카드와 프로필 링크에서 확인할 수 있습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#헬스케어비즈니스 #시니어비즈니스 #노인돌봄 #가격설계 #단위경제 #의료자동화 #비즈니스인사이트",
+      "cards": [
+        "헬스케어 사업은 기능 수가 아니라 책임 비용에 돈을 붙인다",
+        "호주 AN-ACC 단가, 거주자 하루 295.64달러에서 303.19달러",
+        "평균 지원금 317달러에서 325달러, 돌봄 시간 의무는 그대로",
+        "간호사 임금 1.91달러, 관련 보건 인력 0.05달러를 따로 반영",
+        "일상생활 서비스 보충금은 거주자 하루 22.15달러로 유지",
+        "PocketHealth는 보험 자격 확인과 거절 라우팅까지 자동화 대상으로 제시",
+        "기능 수가 아니라 결과 단위와 예외 비용을 가격표에 적어라"
+      ]
+    },
+    "youtube": {
+      "title": "요양시설 단가가 올라도 이익은 자동으로 늘지 않는 이유",
+      "hook": "호주 요양시설 단가가 올랐습니다. 그런데 돌봄 시간이 늘어난 것도, 시설 이익이 보장된 것도 아닙니다.",
+      "script": "호주 요양시설 단가가 올랐습니다. 그런데 돌봄 시간이 늘어난 것도, 시설 이익이 보장된 것도 아닙니다.\n\n호주 정부는 2026년 10월 1일부터 주거형 노인돌봄의 AN-ACC 가격을 거주자 하루 295.64달러에서 303.19달러로 올렸습니다. 평균 지원금은 317달러에서 325달러가 됐습니다.\n\n여기서 숫자를 매출이나 순이익으로 읽으면 안 됩니다. 정부는 인상분 가운데 간호사 임금 인상 관련 금액 1.91달러, 관련 보건 인력 임금 인상 관련 금액 0.05달러를 따로 밝혔습니다. 일상생활 서비스에 붙는 hotelling supplement는 거주자 하루 22.15달러로 유지됐고, 돌봄 시간 의무와 분류 가중치도 바뀌지 않았습니다.\n\n호주 가격 자문기관 IHACPA는 실제 비용 수집, 연간 재무 보고, 분기 재무 보고와 독립 원가 조사를 바탕으로 단가를 권고한다고 설명합니다. 기능이 몇 개인지보다 실제로 어떤 비용이 들고, 누가 보고하고, 어떤 의무를 지는지가 가격의 출발점입니다.\n\n최근 헬스케어 자동화도 비슷한 방향입니다. 캐나다 PocketHealth는 검사 프로토콜 작성과 판독실 업무 목록 확인뿐 아니라 보험 자격 확인, 사전승인 제출과 추적, 거절 건의 예외 라우팅을 자동화 대상으로 제시했습니다. API가 없는 포털에 최소 권한 계정으로 로그인하고 감사 추적을 남기는 구조입니다.\n\n회사는 900곳이 넘는 의료 시스템과 50퍼센트 이상의 사무 인건비 감소를 제시하지만 회사 주장입니다. 가격, 매출과 재계약률은 공개되지 않았습니다. 이 사례에서 볼 것은 성공 숫자가 아니라 병원과 영상의학 기관이 무엇에 돈을 낼지입니다. AI 대화량이 아니라 승인 지연, 재입력과 예외 처리를 줄이는 결과입니다.\n\n작은 사업자는 최근 업무 10건을 골라 정상 처리 시간, 재작업 시간, 예외 이유와 최종 확인자를 기록해 보세요. 거주자 하루, 승인 한 건, 검토 완료 한 건처럼 고객이 결과를 확인할 수 있는 단위를 정하면 기능보다 책임 비용을 먼저 가격에 넣을 수 있습니다.\n\n출처는 호주 정부 주거형 노인돌봄 지원 안내, IHACPA 가격 자문, PocketHealth 공식 발표입니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "호주 정부 주거형 노인돌봄 지원 안내",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/funding/about-funding-for-residential-aged-care"
+    },
+    {
+      "name": "호주 정부 2026년 주거형 노인돌봄 지원금 변경 안내",
+      "url": "https://www.health.gov.au/news/residential-aged-care-funding-update?language=aus-N82"
+    },
+    {
+      "name": "호주 IHACPA 주거형 노인돌봄 가격 자문",
+      "url": "https://www.ihcpa.gov.au/aged-care/residential/pricing-advice"
+    },
+    {
+      "name": "PocketHealth Conductor 업무 확장 발표",
+      "url": "https://www.pockethealth.com/news/pockethealth-extends-agentic-automation-into-protocoling-reading-room-and-revenue-cycle/"
+    },
+    {
+      "name": "PocketHealth 공식 로고",
+      "url": "https://www.pockethealth.com/wp-content/uploads/2023/01/cropped-512x512-2-192x192.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약, 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
