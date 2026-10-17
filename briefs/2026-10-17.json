@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-17",
+  "generated_at_kst": "2026-10-17T12:02:31+09:00",
+  "mode": "new",
+  "headline": "제품을 한 번 팔고 끝내지 않으려면 다음 판단까지 설계해야 한다",
+  "insights": [
+    {
+      "title": "Intero는 미니 장기보다 다음 실험을 판다",
+      "summary": "미국 Intero Biosystems는 약 1밀리미터 인간 장 오가노이드 GastroScreen을 제약, 바이오, 식품, 화학 연구팀에 공급한다. TechCrunch 보도에 따르면 오가노이드만 보내는 것이 아니라 배양 재료와 맞춤 실험, 결과 데이터까지 제공하고 데이터 라이선스도 계획한다. 제품 판매를 고객의 다음 연구 결정으로 연장하는 구조다.",
+      "takeaway": "제품 단가보다 고객이 다음 실험을 결정하는 데 필요한 소모품과 해석을 함께 설계하라.",
+      "source_type": "media",
+      "source_name": "TechCrunch와 Intero Biosystems 공식 자료",
+      "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+    },
+    {
+      "title": "KAERU는 카드보다 통제 가능한 자율성을 판다",
+      "summary": "일본 KAERU의 개인 카드는 월 528엔으로, 충전한 범위 안에서만 사용하고 일일 또는 주간 한도와 이용 기록을 남긴다. 시설용 KAERU Biz는 가족, 이용자, 직원이 잔액과 내역을 확인하도록 설계됐고, 2026년 10월 6일에는 신청서 일괄 입력과 SMS 인증을 통한 월 충전 한도 5만엔에서 10만엔 상향 기능을 공개했다. 시설 계약료와 실제 활성 카드 수는 공개되지 않았다.",
+      "takeaway": "자율성을 지키는 한도, 기록, 동의 절차를 기능이 아니라 운영 상품으로 묶어라.",
+      "source_type": "blog",
+      "source_name": "KAERU 공식 가격 페이지와 KAERU Biz",
+      "source_url": "https://kaeru-inc.co.jp/lp/web"
+    },
+    {
+      "title": "NTT DATA는 말벗을 케어 판단 자료로 연결한다",
+      "summary": "NTT DATA는 2026년 10월부터 고령자 대화 서비스 보이스타!의 새 모델을 제공한다. 2026년 9월 발표 기준 전국 약 1,200명이 이용 중이며, 실증에서는 1명당 하루 평균 3.4회 대화, 1회 평균 6.9턴이 기록됐다. 대화 내용은 케어 지원 AI 보고서로 정리돼 직원의 말걸기와 케어 플랜 검토를 돕는다. 매출과 가격은 공개되지 않았다.",
+      "takeaway": "대화를 수집하는 데서 멈추지 말고 담당자가 다음 행동을 고르는 문서까지 연결하라.",
+      "source_type": "media",
+      "source_name": "NTT DATA 공식 발표",
+      "source_url": "https://leo-cd01.nttdata.com/global/ja/news/topics/2026/091800/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "헬스케어 제품이 실험과 기록의 묶음으로 넓어진다",
+      "summary": "Intero는 오가노이드와 배양 재료, 맞춤 실험과 데이터로 이어지는 연구 흐름을 제시한다. KAERU는 카드와 한도, 이용 기록, 시설 보고를 묶고 NTT DATA는 대화와 케어 지원 AI 보고서를 연결한다.",
+      "why_now": "미국 FDA는 2026년 9월 적절한 경우 비동물 방법을 활용할 수 있도록 규정을 정비했고, 2026년 3월 초안 지침에서 새로운 시험법의 검증 설계와 보고 원칙을 제시했다. 규제와 현장 운영 모두 제품 뒤의 기록을 요구한다.",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing"
+    },
+    {
+      "theme": "개인 사용자와 운영 기관의 역할을 한 상품 안에서 나눈다",
+      "summary": "KAERU는 이용자에게 선택권을 남기면서 가족과 시설에는 한도, 내역과 감사 기록을 제공한다. NTT DATA의 보이스타!도 고령자와 직접 대화하지만 실제 활용 장면은 케어 사업자, 의료법인과 직원의 업무에 연결된다.",
+      "why_now": "사용자와 결제자, 실제 결과를 쓰는 담당자가 다를수록 한 기능을 누구에게 팔지 분리해야 한다. 두 서비스 모두 시설 계약료나 매출을 공개하지 않으므로 구조와 성과를 같은 말로 쓰지 않아야 한다.",
+      "source_url": "https://kaeru-inc.co.jp/services/care"
+    },
+    {
+      "theme": "반복성은 사용량보다 다음 의사결정이 생기는 빈도로 측정한다",
+      "summary": "Intero의 맞춤 실험과 데이터, NTT DATA의 하루 대화와 보고서, KAERU의 지속적인 이용 내역은 고객이 다음 결정을 내려야 할 때 다시 쓰이는 지점을 만든다. 이것은 반복 매출의 증명이 아니라 반복 사용을 설계하는 관찰이다.",
+      "why_now": "기술의 사용량만 세면 고객이 실제로 무엇을 결정했는지 빠진다. 연구, 돌봄과 금전관리 모두 결과를 확인하고 다음 행동으로 넘기는 시간이 구매 이유에 더 가깝다.",
+      "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Intero Biosystems, 미국 덴버",
+      "what": "iPSC에서 만든 인간 장 오가노이드 GastroScreen을 연구용으로 공급",
+      "how": "제약, 바이오, 식품과 화학 기업에 약 1밀리미터 오가노이드를 보내고, 배양용 영양분과 실험용 화학물질, 맞춤 실험과 결과 데이터를 함께 제공한다. 장기적으로 생물학 데이터 라이선스도 계획한다고 밝혔다.",
+      "numbers": "TechCrunch가 공동창업자 겸 CEO의 발언을 인용한 기준으로 직원 7명, 고객 10곳 미만, 2025년 4분기부터 2026년 3분기까지 매출 40만달러 이상, 지난해 프리시드 투자금 230만달러다. 매출은 감사된 재무자료가 아닌 대표 발언이며 투자금과 실적은 별개다. 공식 플랫폼은 생체 오가노이드 100개 이상을 담은 바이얼과 60개가 넘는 iPSC 계통을 안내한다.",
+      "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+    },
+    {
+      "who": "KAERU, 일본",
+      "what": "고령자와 장애인, 복지시설의 금전관리를 위한 선불카드와 KAERU Biz를 운영",
+      "how": "개인 카드는 충전한 금액 안에서만 사용하고 일일 또는 주간 한도, 이용 내역과 파트너 지원을 제공한다. 시설용은 가족, 이용자와 직원이 잔액과 기록을 확인하며, 2026년 10월 6일에는 신청서 일괄 입력과 SMS 인증을 통한 충전 한도 조정 기능을 추가했다.",
+      "numbers": "개인 카드는 카드 1장당 월 528엔이며 카드 발급월의 다음 달 말까지 무료 체험이다. 10월 6일 업데이트는 시설 직원의 월 충전 한도를 5만엔에서 10만엔으로 올릴 수 있게 했다. 시설 계약료, 활성 카드 수와 매출은 공개되지 않았다.",
+      "source_url": "https://kaeru-inc.co.jp/lp/web"
+    },
+    {
+      "who": "NTT DATA의 보이스타!, 일본",
+      "what": "고령자의 일상 대화를 케어 지원 AI 보고서와 직원의 케어 플랜 검토로 연결하는 플랫폼",
+      "how": "介護 사업자, 의료법인과 지방자치단체를 통해 서비스를 제공하고, 대화 내용에서 관심사와 생활 변화를 정리해 직원의 말걸기, 활동 제안과 정보 공유에 활용한다. 개인정보는 본인 설명과 동의, 열람 범위 설정을 전제로 하며 의료 진단을 대체하지 않는다.",
+      "numbers": "NTT DATA의 2026년 9월 발표 기준 전국 약 1,200명이 이용 중이고, 2026년 5월부터 9월까지 3개 법인, 이용자 9명과 직원 12명이 참여한 실증을 진행했다. 실증에서 1명당 하루 평균 3.4회, 1회 평균 6.9턴 대화가 기록됐다. 2028년도 말 10만명 규모 제공 목표는 회사 계획이며 매출과 가격은 공개되지 않았다.",
+      "source_url": "https://leo-cd01.nttdata.com/global/ja/news/topics/2026/091800/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Intero GastroScreen 플랫폼 페이지",
+      "use": "오가노이드 형식, 세포 구성, 실험 적용 범위와 맞춤 협업 항목을 확인하는 원자료로 사용한다.",
+      "source_url": "https://www.interobiosystems.com/platform/"
+    },
+    {
+      "name": "FDA NAM 검증 초안 지침",
+      "use": "비동물 시험법의 검증 설계와 규제 제출 원칙을 확인하되 특정 제품 승인이나 구속력 있는 규정으로 해석하지 않는다.",
+      "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-use-new-approach-methodologies-drug-development"
+    },
+    {
+      "name": "KAERU Biz 시설 금전관리 페이지",
+      "use": "현금 관리, 한도, 실시간 이용 내역과 직원 감사 기록을 비교하고 시설 계약료는 별도 문의 항목으로 남긴다.",
+      "source_url": "https://kaeru-inc.co.jp/services/care"
+    },
+    {
+      "name": "NTT DATA 보이스타! 실증 발표",
+      "use": "동의, 개인정보, 사람의 확인과 대화 데이터를 케어 플랜에 연결하는 흐름을 점검하는 자료로 사용한다.",
+      "source_url": "https://leo-cd01.nttdata.com/global/ja/news/topics/2026/091800/"
+    }
+  ],
+  "quote": {
+    "text": "Most drugs fail clinical trials, and I think it’s pretty easy to appreciate that we are neither mice nor flat layers of cells.",
+    "author": "Madeline Eiken, Intero Biosystems 공동창업자 겸 CTO",
+    "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+  },
+  "newsletter": {
+    "title": "다음 판단까지 묶어야 작은 헬스케어 제품이 반복된다",
+    "body_md": "편집 메모\n\n핵심 주장은 제품을 한 번 공급하는 데서 멈추지 않고 고객의 다음 판단까지 묶을 때 작은 팀도 반복 구매의 이유를 만든다는 것이다. 대표 사례는 미국 Intero Biosystems다. 약 1밀리미터 인간 장 오가노이드 GastroScreen을 제약, 바이오, 식품과 화학 기업에 공급하고 배양 재료, 맞춤 실험과 결과 데이터까지 연결한다.\n\n공개 숫자는 직원 7명, 고객 10곳 미만, 2025년 4분기부터 2026년 3분기까지 매출 40만달러 이상이다. 이 매출과 230만달러 프리시드 투자금은 공시가 아닌 대표 발언이다. 돈을 내는 쪽은 연구개발팀이다. 독자는 단품 대신 다음 의사결정을 정하고 소모품, 분석과 보고서 중 반복 구매가 생기는 지점을 7일간 측정해볼 수 있다. FDA의 비동물 시험법 확대는 기회를 만들지만 Intero는 아직 검증 중이며 FDA가 제품을 승인한 것은 아니다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "직원 7명이 미니 장기를 반복 구매의 흐름으로 만드는 법",
+      "hook": "약 1밀리미터 인간 장을 우편으로 보내는 회사가 매출의 다음 단계를 함께 판다.",
+      "core_claim": "Intero Biosystems는 오가노이드 단품에 배양 재료, 맞춤 실험과 결과 데이터를 붙여 연구팀의 다음 결정을 지원하는 구조를 만들고 있다.",
+      "primary_case": "미국 덴버의 Intero Biosystems와 GastroScreen",
+      "public_number": "직원 7명, 고객 10곳 미만, 2025년 4분기부터 2026년 3분기까지 대표 발언 기준 매출 40만달러 이상, 프리시드 투자금 230만달러",
+      "payer": "제약, 바이오, 식품과 화학 기업의 연구개발팀",
+      "seven_day_action": "고객이 멈추는 실험 판단 하나를 정하고, 샘플, 소모품, 맞춤 분석과 결과 보고서 중 다음 구매를 부르는 항목을 인터뷰로 확인한다.",
+      "source_urls": [
+        "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+        "https://www.interobiosystems.com/platform/",
+        "https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
+        "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-use-new-approach-methodologies-drug-development"
+      ]
+    },
+    {
+      "title": "월 528엔 카드가 현금관리 업무로 넓어지는 과정",
+      "hook": "카드 한 장의 가격보다 가족과 시설이 확인할 수 있는 한도와 기록에 결제 이유가 붙는다.",
+      "core_claim": "KAERU는 개인에게는 월 528엔 선불카드를, 시설에는 현금관리와 감사 기록을 묶은 운영 구조를 제공한다.",
+      "primary_case": "일본 KAERU와 KAERU Biz",
+      "public_number": "개인 카드 월 528엔, 카드 발급 다음 달 말까지 무료 체험, 2026년 10월 6일 시설 월 충전 한도 5만엔에서 10만엔 상향 기능",
+      "payer": "개인 카드 이용자와 가족, 시설용 계약은 시설 운영자이며 계약료는 공개되지 않음",
+      "seven_day_action": "현금 인출, 용돈 전달, 영수증 확인과 분실 대응에 걸리는 시간을 기록하고 한도와 보고서만으로 유료 운영 대행의 가치를 시험한다.",
+      "source_urls": [
+        "https://kaeru-inc.co.jp/lp/web",
+        "https://kaeru-inc.co.jp/services/care",
+        "https://kaeru-inc.co.jp/news/release-notes-2026-10-06"
+      ]
+    },
+    {
+      "title": "고령자 AI 말벗이 케어 플랜 자료가 되는 순간",
+      "hook": "고령자와 나눈 대화를 보관하는 것과 직원의 다음 행동으로 바꾸는 것은 다른 상품이다.",
+      "core_claim": "NTT DATA의 보이스타!는 매일의 대화를 케어 지원 AI 보고서와 케어 플랜 검토로 연결해 기관이 활용할 수 있는 자료로 만들려 한다.",
+      "primary_case": "NTT DATA의 보이스타! 플랫폼과 3개 법인 실증",
+      "public_number": "전국 약 1,200명 이용, 실증 이용자 9명과 직원 12명, 1명당 하루 평균 3.4회 대화와 1회 평균 6.9턴, 2028년도 말 10만명 규모 제공 목표",
+      "payer": "介護 사업자, 의료법인과 지방자치단체가 주요 도입 주체로 제시되지만 가격과 실제 지불자는 공개되지 않음",
+      "seven_day_action": "대화나 상담 기록을 모으기 전에 담당자가 다음 방문이나 케어 계획에서 실제로 쓸 한 줄 보고서의 형식을 먼저 정한다.",
+      "source_urls": [
+        "https://leo-cd01.nttdata.com/global/ja/news/topics/2026/091800/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "미니 장기를 파는 Intero가 함께 파는 것은 다음 실험이다",
+      "body_md": "## 시작점은 장기 한 개가 아니라 실험실의 멈춤이다\n\n실험실에서 만든 약 1밀리미터짜리 인간 장 조직을 우편으로 보내는 회사가 있습니다. 미국 덴버의 Intero Biosystems입니다. 대표 제품 GastroScreen은 약물과 화합물이 사람의 장에 어떤 영향을 주는지 살피는 오가노이드입니다. 고객은 제약사와 바이오 기업뿐 아니라 식품과 화학 기업의 연구개발팀입니다.\n\n## 제품 뒤에 붙인 네 가지 결제 지점\n\nIntero는 오가노이드만 보내지 않습니다. TechCrunch 보도에 따르면 한 튜브에 약 100개를 보내고, 배양에 필요한 영양분과 실험용 화학물질도 제공합니다. 고객이 직접 실험하기 어려우면 맞춤 실험을 설계하고 결과 데이터를 건넵니다. 회사는 장기적으로 이 생물학 데이터를 제약사와 AI 기업에 라이선스하는 계획도 말했습니다. 한 번의 샘플 판매를 소모품, 서비스, 데이터로 이어지는 연구 흐름으로 늘린 셈입니다.\n\n공개된 숫자는 작지만 장면은 선명합니다. Intero는 7명의 직원과 10곳이 안 되는 고객으로 운영되고 있습니다. 대표가 TechCrunch에 밝힌 기준으로 2025년 4분기부터 2026년 3분기까지 매출은 40만달러를 넘었고, 지난해 프리시드 투자금은 230만달러였습니다. 이 두 숫자는 공시된 재무제표가 아니라 대표 발언과 보도에 따른 수치입니다. 매출과 투자금을 같은 성과로 섞어 쓰면 안 됩니다.\n\n## 왜 지금 돈이 되는가\n\n미국 FDA는 2026년 9월 비동물 방법을 적절한 경우 사용할 수 있다는 규정 정비를 알렸습니다. 2026년 3월 초안 지침은 새로운 시험법을 규제 제출에 쓰려면 검증 설계와 보고 원칙이 필요하다고 설명합니다. FDA가 GastroScreen을 승인하거나 추천한 것은 아닙니다. Intero도 세 단계 검증 중 두 번째 단계라고 밝혔습니다. 그러므로 이 사업의 핵심은 장기를 잘 만들었다는 주장보다 고객이 기존 동물실험과 임상 자료를 비교해 다음 결정을 내릴 수 있느냐에 있습니다.\n\n## 작은 팀이 적용할 방법\n\n첫째, 제품을 단품으로 정의하지 말고 고객이 멈추는 다음 판단을 정합니다. 시약, 맞춤 분석, 해석 보고서 중 무엇이 시간을 줄이는지 먼저 확인합니다.\n\n둘째, 검증 단계를 가격표에 넣습니다. 어떤 질문에 어떤 결과를 주는지, 사람의 검토가 어디에 들어가는지, 다음 구매를 부르는 주기가 무엇인지 기록해야 합니다. 매출을 아직 공개할 수 없다면 고객 수, 재구매 간격, 결과 전달 시간을 먼저 측정하면 됩니다.\n\nIntero의 사례가 주는 교훈은 화려한 기술이 아닙니다. 작은 제품도 고객의 다음 행동까지 책임지는 순간 연구용 샘플에서 반복되는 사업으로 바뀔 수 있다는 점입니다.\n\n출처: [TechCrunch](https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/), [Intero Biosystems 공식 플랫폼](https://www.interobiosystems.com/platform/), [미국 FDA 규정 안내](https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing), [FDA NAM 초안 지침](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-use-new-approach-methodologies-drug-development)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "미니 장기를 파는 미국 Intero Biosystems가 실제로 파는 것은 다음 실험입니다.\n\n약 1밀리미터 인간 장 오가노이드 GastroScreen을 제약, 바이오, 식품, 화학 연구팀에 보내고, 고객이 다음 결정을 내릴 때 필요한 재료와 맞춤 실험, 결과 데이터까지 이어 붙입니다.",
+      "TechCrunch에 따르면 직원은 7명, 고객은 10곳이 안 됩니다. 대표가 밝힌 매출은 2025년 4분기부터 2026년 3분기까지 40만달러 이상이고, 프리시드 투자금은 230만달러입니다.\n\n매출과 투자금은 다른 숫자이며, 매출은 감사된 재무자료가 아닙니다.",
+      "미국 FDA는 2026년 9월 적절한 경우 비동물 시험법을 쓸 수 있도록 규정을 정비했습니다. 3월 초안 지침은 검증 설계와 보고 원칙을 요구합니다. Intero 제품을 승인했다는 뜻은 아닙니다.\n\n회사는 아직 세 단계 검증 중 두 번째라고 설명합니다.",
+      "작은 사업자에게 남는 방법은 두 가지입니다.\n\n첫째, 단품 대신 고객의 다음 판단을 정합니다. 둘째, 소모품, 분석, 보고서 중 반복 구매가 생기는 지점을 따로 측정합니다.\n\n출처: https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "제품을 한 번 팔고 끝내지 않으려면, 고객의 다음 판단까지 설계해야 합니다.\n\n미국 Intero Biosystems는 약 1밀리미터 인간 장 오가노이드 GastroScreen을 제약, 바이오, 식품과 화학 기업의 연구개발팀에 공급합니다. 오가노이드만 보내지 않고 배양 재료, 맞춤 실험과 결과 데이터까지 연결합니다.\n\nTechCrunch 보도 기준 직원 7명, 고객 10곳 미만, 2025년 4분기부터 2026년 3분기까지 매출 40만달러 이상입니다. 모두 대표 발언에 따른 수치이며 감사된 재무자료는 아닙니다.\n\n미국 FDA는 비동물 시험법을 적절한 경우 활용할 수 있도록 규정을 정비했지만, Intero 제품을 승인한 것은 아닙니다. 작은 사업자라면 고객이 멈추는 다음 판단 하나를 정하고, 샘플과 분석과 보고서 중 반복 구매 지점을 먼저 시험해보세요.\n\n출처: https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#헬스케어 #바이오스타트업 #오가노이드 #사업모델 #제품전략 #연구개발 #비즈니스인사이트",
+      "cards": [
+        "미니 장기를 파는 회사가 실제로 파는 것은 다음 실험입니다",
+        "Intero Biosystems의 GastroScreen\n약 1밀리미터 인간 장 오가노이드",
+        "누가 돈을 내나\n제약, 바이오, 식품, 화학 기업의 연구개발팀",
+        "공개된 숫자\n직원 7명, 고객 10곳 미만, 대표 발언 기준 매출 40만달러 이상",
+        "규제의 기회와 한계\nFDA는 비동물 시험법을 열었지만 특정 제품을 승인한 것은 아닙니다",
+        "작게 적용하기\n단품이 아니라 다음 판단에 필요한 소모품, 분석, 보고서를 설계합니다"
+      ]
+    },
+    "youtube": {
+      "title": "직원 7명 바이오 스타트업이 미니 장기를 파는 방법",
+      "hook": "1밀리미터짜리 인간 장을 우편으로 보내는 회사가 있습니다. 그런데 매출의 핵심은 장기 한 개가 아닙니다.",
+      "script": "1밀리미터짜리 인간 장을 우편으로 보내는 회사가 있습니다. 미국 덴버의 Intero Biosystems입니다.\n\n이 회사의 GastroScreen은 약물과 화합물이 사람의 장에 어떤 영향을 주는지 살피는 오가노이드입니다. 고객은 제약사와 바이오 기업뿐 아니라 식품과 화학 기업의 연구개발팀입니다.\n\nIntero는 오가노이드만 팔지 않습니다. 한 튜브에 약 100개를 보내고, 배양 재료와 실험용 화학물질을 제공합니다. 맞춤 실험을 설계하고 결과 데이터도 건넵니다. 다음에는 이 생물학 데이터를 제약사와 AI 기업에 라이선스하는 계획까지 말하고 있습니다.\n\nTechCrunch가 대표 발언을 인용한 기준으로 직원은 7명, 고객은 10곳 미만입니다. 2025년 4분기부터 2026년 3분기까지 매출은 40만달러를 넘었고, 프리시드 투자금은 230만달러입니다. 매출은 감사된 재무자료가 아니며 투자금과 실적은 다른 숫자입니다.\n\n미국 FDA는 적절한 경우 비동물 시험법을 쓸 수 있도록 규정을 정비했습니다. 다만 특정 제품을 승인한 것은 아니고, Intero도 세 단계 검증 중 두 번째라고 설명합니다.\n\n작은 사업자에게 남는 교훈은 단순합니다. 제품을 한 번 팔고 끝내지 않으려면 고객이 멈추는 다음 판단을 먼저 찾으세요. 그 판단에 필요한 소모품, 분석과 보고서를 묶으면 단품보다 오래 쓰이는 사업이 됩니다.\n\n출처: TechCrunch, Intero Biosystems 공식 플랫폼, 미국 FDA. 자세한 글과 무료 레터는 https://maily.so/boomyboom 에서 확인할 수 있습니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "TechCrunch Intero Biosystems 보도",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+    },
+    {
+      "name": "Intero Biosystems GastroScreen 공식 플랫폼",
+      "url": "https://www.interobiosystems.com/platform/"
+    },
+    {
+      "name": "TechCrunch Startup Battlefield 2026 결과",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"
+    },
+    {
+      "name": "미국 FDA 비동물 시험법 규정 안내",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing"
+    },
+    {
+      "name": "미국 FDA NAM 검증 초안 지침",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-considerations-use-new-approach-methodologies-drug-development"
+    },
+    {
+      "name": "KAERU 개인용 카드 공식 가격 페이지",
+      "url": "https://kaeru-inc.co.jp/lp/web"
+    },
+    {
+      "name": "KAERU Biz 시설 금전관리 페이지",
+      "url": "https://kaeru-inc.co.jp/services/care"
+    },
+    {
+      "name": "KAERU Biz 2026년 10월 6일 업데이트",
+      "url": "https://kaeru-inc.co.jp/news/release-notes-2026-10-06"
+    },
+    {
+      "name": "NTT DATA 보이스타! 케어 지원 플랫폼 발표",
+      "url": "https://leo-cd01.nttdata.com/global/ja/news/topics/2026/091800/"
+    },
+    {
+      "name": "Intero Biosystems 공식 제품 이미지",
+      "url": "https://www.interobiosystems.com/wp-content/uploads/2025/08/InteroBiosystems-Technical-Organoid-sm.jpg"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 정리한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장 또는 공개 계획이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
