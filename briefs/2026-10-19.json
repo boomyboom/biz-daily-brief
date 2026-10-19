@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-19",
+  "generated_at_kst": "2026-10-19T12:04:55+09:00",
+  "mode": "new",
+  "headline": "시니어 헬스케어는 기존 센터에서 구독을 만든다",
+  "insights": [
+    {
+      "title": "Suncare는 기존 커뮤니티 센터를 월 구독의 시작점으로 바꾼다",
+      "summary": "중국 Decent Holding의 Suncare는 커뮤니티 서비스 센터와 회원 기반을 먼저 넓힌 뒤 가정용 건강관리 구독을 붙이는 구조를 내놨다. 2026년 9월 29일 회사 발표에서 월 500위안 기본 상품 출시를 알렸고, 월 1,990위안과 월 2,990위안 상품은 계획 단계로 남겼다. 10월 1일 회사는 9월 말 기준 약 700개 센터와 약 24만명 유료 회원을 추정했지만 내부 검증과 대조가 남아 있다. 이 수치는 매출이나 구독 전환율이 아니다.",
+      "takeaway": "새 서비스를 팔기 전에 이미 신뢰를 얻은 오프라인 접점과 그곳의 반복 이용자를 먼저 세어라.",
+      "source_type": "media",
+      "source_name": "Decent Holding Suncare 공식 발표와 SEC 공시",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "title": "예방형 헬스케어는 연간 선결제로 관계를 묶는다",
+      "summary": "미국 Humanaut Health는 신규 회원에게 월 249달러, 연간 2,999달러 선결제를 제시한다. 700개 이상 바이오마커 측정, 종합 진단일, 연간 4시간의 제공자 상담과 50회 클리닉 치료를 묶었고, 49달러 보증금으로 295달러 가입비를 면제한다고 안내한다. 회사가 말하는 연 10,500달러 가치는 판매 페이지의 가치 표현이지 실제 절감액이나 수익이 아니다.",
+      "takeaway": "건강관리 구독은 서비스 목록보다 결제 기간과 갱신 시점, 결과 책임을 먼저 명확히 하라.",
+      "source_type": "blog",
+      "source_name": "Humanaut Health 공식 멤버십 안내",
+      "source_url": "https://humanauthealth.com/memberships/founding"
+    },
+    {
+      "title": "돌봄 AI는 시설 전체가 아니라 실제 쓰는 직원 수로 과금한다",
+      "summary": "일본 True North의 NexWell은 개호시설용 네 가지 앱을 한 계약에 묶고 1인당 월 1,000엔, 최소 5명부터 받는다. 무료 사용 뒤 유료 전환을 열고, 앱이 늘어도 같은 계약 안에서 쓰게 하는 구조다. 등록 사용자 1,500명은 무료 사용자를 포함한 누적 수치이며 유료 고객 수와 유지율은 공개되지 않았다.",
+      "takeaway": "초기 가격은 시설 전체가 아니라 실제 쓰는 최소 팀과 월별 활성 사용자에 맞춰 시험하라.",
+      "source_type": "blog",
+      "source_name": "True North NexWell 공식 가격 페이지",
+      "source_url": "https://www.t-north.jp/nexwell"
+    },
+    {
+      "title": "일본 개호보수 개정 논의가 서비스별 가격표로 들어갔다",
+      "summary": "일본 후생노동성은 2026년 10월 19일 제271회 사회보장심의회 개호급부비분과회를 열고 2027년도 개호보수 개정을 위해 방문개호, 방문입욕, 방문간호, 방문재활, 거택요양관리지도와 거택개호지원을 다뤘다. 이날 자료가 공개됐지만 최종 수가와 사업자별 영향은 아직 정해지지 않았다.",
+      "takeaway": "돌봄 사업의 가격표를 만들 때 민간 결제와 공적 수가의 변화를 별도로 모델링하라.",
+      "source_type": "media",
+      "source_name": "일본 후생노동성 개호급부비분과회 자료",
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_76626.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "오프라인 센터가 시니어 디지털 구독의 유통망이 된다",
+      "summary": "Suncare는 커뮤니티 서비스 센터를 건강 프로필, 웨어러블과 가정 센서, 가족 통지와 집에서 받는 서비스의 연결점으로 설명한다. 디지털 기능만 따로 판매하는 대신 기존 회원 접점을 구독의 시작점으로 삼는 방식이다.",
+      "why_now": "2026년 9월 29일 기본 월 500위안 상품 발표와 10월 1일 센터 확장 업데이트가 이어졌다. 다만 센터 수와 회원 수는 회사 추정치이며 새 상품의 가입률은 공개되지 않았다.",
+      "source_url": "https://rss.globenewswire.com/news-release/2026/10/01/3373028/0/en/decent-holding-provides-operational-update-senior-care-operation-centers-expand-to-approximately-700-locations.html"
+    },
+    {
+      "theme": "건강관리 서비스의 결제 단위가 개인 선결제와 기관 인원 과금으로 갈린다",
+      "summary": "Humanaut는 개인 회원에게 연간 선결제를 제시하고, NexWell은 개호시설의 실제 이용 직원 수에 따라 월 요금을 붙인다. 같은 헬스케어라도 누가 비용을 부담하고 사용량을 관리하는지에 따라 가격 단위가 달라진다.",
+      "why_now": "두 공식 가격 페이지 모두 금액과 포함 범위를 공개하지만 유지율, 이익과 실제 전환율은 공개하지 않는다. 가격표는 시장 성과의 증거가 아니라 과금 설계의 참고 자료로 읽어야 한다.",
+      "source_url": "https://humanauthealth.com/memberships/founding"
+    },
+    {
+      "theme": "일본 돌봄 기술 도입은 2027년 개호보수 논의와 함께 읽어야 한다",
+      "summary": "일본 후생노동성의 10월 19일 자료는 방문개호와 방문간호 등 서비스별 개호보수 개정 논의를 공개했다. 돌봄 사업자가 기술 구독료를 낼 수 있는지는 인력 비용과 공적 수가의 변화에도 영향을 받는다.",
+      "why_now": "2027년도 개호보수 개정 논의가 서비스별 자료 단계로 진행 중이며 최종 금액은 정해지지 않았다. 민간 구독 매출과 공적 수가를 같은 숫자로 합치지 않는 검토가 필요하다.",
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_76626.html"
+    },
+    {
+      "theme": "의료와 비의료의 책임 경계가 시니어 구독 상품에 들어간다",
+      "summary": "Suncare의 SEC 공시는 일부 건강관리와 가족 통지 기능은 운영되거나 개발 중이며, 플랫폼은 의료 진단과 치료를 제공하지 않고 자격을 갖춘 의료진이 의료 책임을 진다고 설명한다. 상품 범위를 좁히는 일이 규제와 비용 구조를 함께 나누는 방식이다.",
+      "why_now": "월 구독에 건강 데이터, 이상 상태 알림과 가정 내 지원을 넣는 모델이 늘면서 누가 판단하고 누가 책임지는지 가격표에 적어야 한다. 회사 공시는 초기 단계와 AI 오류 위험도 함께 적고 있다.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526004577/dxst424b5100426.htm"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Decent Holding의 Suncare, 중국",
+      "what": "커뮤니티 센터와 가정 서비스를 연결하는 시니어 건강관리 구독 플랫폼",
+      "how": "커뮤니티 서비스 센터를 접점으로 건강 프로필, 웨어러블과 가정 센서, 생활 알림, 이상 상태 알림과 가족 통지를 묶고 자격을 갖춘 제3자 의료와 돌봄 제공자와 연결하는 구조를 제시한다. 기본 월 구독은 발표됐지만 상위 상품은 계획 단계다.",
+      "numbers": "2026년 9월 29일 회사 발표 기준 기본 상품은 월 500위안, 월 1,990위안과 월 2,990위안 상품은 계획 단계다. 10월 1일 회사는 9월 30일 기준 약 700개 센터와 약 24만명 유료 회원을 추정했지만 내부 검증 전 수치다. SEC 공시의 8월 14일 약 623개 센터와 약 20만명 유료 회원도 회사 추정치다. 새 상품 가입률, 유지율과 실제 결제자는 공개되지 않았다.",
+      "source_url": "https://rss.globenewswire.com/news-release/2026/10/01/3373028/0/en/decent-holding-provides-operational-update-senior-care-operation-centers-expand-to-approximately-700-locations.html"
+    },
+    {
+      "who": "Humanaut Health, 미국",
+      "what": "예방형 진단과 생활관리 서비스를 묶은 개인 멤버십",
+      "how": "개인이 연간으로 선결제하고 종합 진단일, 바이오마커 측정, 제공자 상담, 클리닉 치료와 앱 메시지를 이용한다. 공식 안내는 기존 주치의를 대체하지 않는다고 설명한다.",
+      "numbers": "신규 회원 가격은 월 249달러이며 연간 2,999달러로 청구된다. 49달러 보증금은 295달러 가입비를 면제한다고 안내한다. 700개 이상 바이오마커 측정, 연간 4시간의 제공자 상담과 50회 클리닉 치료가 포함되며, 연 10,500달러 가치는 회사가 제시한 가치 표현이다.",
+      "source_url": "https://humanauthealth.com/memberships/founding"
+    },
+    {
+      "who": "True North의 NexWell, 일본",
+      "what": "개호시설의 문제 발견, 회의록, 음성 입력과 보고서 작성을 한 계약에 묶은 SaaS",
+      "how": "무료로 기능을 시험한 뒤 실제 사용하는 직원만 월 단위로 추가한다. 네 가지 앱을 한 계약에서 사용하고 새 앱이 추가돼도 같은 계약에 넣는 구조를 공식 가격 페이지에 안내한다.",
+      "numbers": "세금 별도 1인당 월 1,000엔, 최소 5명 월 5,000엔부터다. 계약 기간 제한이 없고 인원은 월별로 조정할 수 있다. 등록 사용자 1,500명은 무료 사용자를 포함한 누적 수치이며 유료 전환율과 유지율은 공개되지 않았다.",
+      "source_url": "https://www.t-north.jp/nexwell"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Suncare 단계형 시니어 구독 발표",
+      "use": "커뮤니티 센터 기반 구독의 가격 단계, 제3자 제공자 구조와 의료 진단을 제공하지 않는다는 범위를 함께 확인한다.",
+      "source_url": "https://www.nasdaq.com/press-release/decent-holding-announces-planned-tiered-subscription-service-model-suncare-platform"
+    },
+    {
+      "name": "Humanaut Health founding membership",
+      "use": "개인 건강관리 상품의 연간 선결제, 포함 서비스와 판매 페이지의 가치 표현을 분리해 가격 구조를 검토한다.",
+      "source_url": "https://humanauthealth.com/memberships/founding"
+    },
+    {
+      "name": "NexWell 공식 가격 페이지",
+      "use": "개호시설용 서비스의 최소 인원, 직원당 요금, 무료 시험과 앱 묶음 방식을 확인한다.",
+      "source_url": "https://www.t-north.jp/nexwell"
+    },
+    {
+      "name": "일본 후생노동성 개호급부비분과회 10월 19일 자료",
+      "use": "2027년도 개호보수 개정에서 방문개호와 방문간호 등 어떤 서비스가 논의되는지 확인하고 공적 수가와 민간 가격을 분리한다.",
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_76626.html"
+    }
+  ],
+  "quote": {
+    "text": "Pathfinding membership works alongside your primary care, not in place of it.",
+    "author": "Humanaut Health",
+    "source_url": "https://humanauthealth.com/memberships/founding"
+  },
+  "newsletter": {
+    "title": "시니어 헬스케어는 기존 센터에서 구독을 만든다",
+    "body_md": "편집 메모\n\n핵심 주장은 시니어 헬스케어 구독은 기능을 먼저 만들고 이용자를 찾는 방식보다, 이미 신뢰가 쌓인 센터와 회원 관계를 먼저 구독으로 바꾸는 방식이 돈의 흐름을 만들기 쉽다는 것이다. 대표 사례는 중국 Suncare다. 회사는 2026년 9월 말 약 700개 센터와 약 24만명 유료 회원을 추정했지만 내부 검증 전 수치다. 9월 29일 공개한 기본 상품은 월 500위안이고, 월 1,990위안과 월 2,990위안 상품은 계획 단계다. 결제자는 회원 또는 가족 중 누구인지 공개되지 않았다. SEC 공시는 Suncare가 의료 진단과 치료를 제공하지 않고 자격 보유자가 의료 책임을 진다고 적는다. 독자는 사용자가 모이는 오프라인 접점, 실제 결제자, 허가가 필요한 업무를 나눈 뒤 7일짜리 최소 구독과 갱신 지표를 설계할 수 있다. Humanaut의 연간 2,999달러 선결제와 NexWell의 직원당 월 1,000엔은 서로 다른 지불자에게 맞춘 가격 단위의 예다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "센터를 늘린 뒤 구독을 붙이는 시니어 헬스케어",
+      "hook": "시니어에게 AI 앱을 새로 설치해달라고 설득하기보다 이미 다니는 센터에서 월 요금을 제안하는 편이 쉽다.",
+      "core_claim": "Suncare는 커뮤니티 센터와 회원 기반을 가정용 건강관리 구독으로 확장하려 한다. 다만 회원 수와 구독 전환은 검증되지 않았다.",
+      "primary_case": "Decent Holding의 Suncare",
+      "public_number": "회사 발표 기준 기본 상품 월 500위안, 월 1,990위안과 월 2,990위안 상위 상품은 계획 단계, 2026년 9월 말 약 700개 센터와 약 24만명 유료 회원은 회사 추정",
+      "payer": "회원 또는 가족으로 보이지만 실제 결제 주체는 공개되지 않음",
+      "seven_day_action": "오프라인 접점에서 사용자를 만나는 시간, 결제자와 규제 책임자를 분리해 7일짜리 비의료 구독을 설계하고 갱신 의향을 측정한다.",
+      "source_urls": [
+        "https://www.globenewswire.com/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html",
+        "https://rss.globenewswire.com/news-release/2026/10/01/3373028/0/en/decent-holding-provides-operational-update-senior-care-operation-centers-expand-to-approximately-700-locations.html",
+        "https://www.sec.gov/Archives/edgar/data/1958133/000118518526004577/dxst424b5100426.htm"
+      ]
+    },
+    {
+      "title": "예방형 건강관리 멤버십은 왜 연간 결제를 먼저 받을까",
+      "hook": "검진을 한 번 파는 것과 매년 관리받는 관계를 파는 것은 가격표가 다르다.",
+      "core_claim": "Humanaut Health는 진단과 상담, 치료를 한 연간 멤버십으로 묶어 개인 결제자가 계속 이용할 이유를 만든다.",
+      "primary_case": "미국 Humanaut Health founding membership",
+      "public_number": "월 249달러, 연간 2,999달러 선결제, 700개 이상 바이오마커 측정, 연간 4시간 제공자 상담과 50회 클리닉 치료",
+      "payer": "개인 회원, HSA와 FSA 사용 가능하다고 안내되지만 실제 갱신률과 건강 결과는 공개되지 않음",
+      "seven_day_action": "반복 건강관리 서비스에서 첫 방문, 정기 보고와 갱신 시점을 하나의 연간 가격표로 묶고 실제 결제 의향을 확인한다.",
+      "source_urls": [
+        "https://humanauthealth.com/memberships/founding"
+      ]
+    },
+    {
+      "title": "개호시설 AI는 직원 5명부터 가격을 붙인다",
+      "hook": "시설 전체를 설득하기 전에 실제로 쓸 다섯 명의 업무부터 줄이는 가격표가 있다.",
+      "core_claim": "NexWell은 개호시설용 여러 앱을 직원 수 기준으로 묶고 무료 시험 뒤 최소 5명 유료 계약으로 전환하게 한다.",
+      "primary_case": "일본 True North의 NexWell",
+      "public_number": "세금 별도 1인당 월 1,000엔, 최소 5명 월 5,000엔, 등록 사용자 1,500명은 무료 사용자 포함",
+      "payer": "개호시설과 돌봄 사업자, 유료 전환율과 유지율은 공개되지 않음",
+      "seven_day_action": "직원 전체가 아니라 실제 사용 팀을 정하고 무료 기능과 유료 기능의 경계를 나눈 뒤 주간 사용률과 업무 시간 변화를 측정한다.",
+      "source_urls": [
+        "https://www.t-north.jp/nexwell"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "시니어 헬스케어 구독은 기존 센터에서 시작된다",
+      "body_md": "## 새 앱보다 먼저 봐야 할 것은 센터다\n\n시니어 헬스케어 사업자가 먼저 풀어야 하는 문제는 기능보다 처음 만날 사람을 어디서 찾느냐입니다. 중국의 Suncare는 이 순서를 거꾸로 하지 않았습니다. 커뮤니티 센터와 회원 접점을 만든 뒤, 그 관계를 집 안 건강관리 구독으로 넓히려 합니다.\n\nDecent Holding의 2026년 10월 1일 발표에 따르면 회사는 9월 30일 기준 센터 약 700곳과 유료 회원 약 24만명을 추정했습니다. 회사 스스로 내부 검증과 대조가 남아 있다고 밝혔으므로 성과나 매출로 읽으면 안 됩니다. 미국 증권거래위원회에 제출한 공시에는 8월 14일 기준 약 623개 센터와 약 20만명도 회사 추정치로 기록됐습니다. 날짜가 다른 수치를 합쳐 성장률을 만들지 않는 것이 안전합니다.\n\n상품은 2026년 9월 29일 발표에서 더 구체적으로 보입니다. 기본 건강관리 상품은 월 500위안으로 소개됐고, 월 1,990위안과 월 2,990위안 상품은 계획 단계입니다. 회사 설명상 기본 상품에는 건강 프로필, 웨어러블과 가정 센서 데이터, 생활 알림, 이상 상태 알림과 가족 통지가 들어갑니다. 실제로 몇 명이 새 상품에 가입했는지, 회원 본인과 가족 중 누가 결제하는지는 공개되지 않았습니다.\n\n이 구조가 돈이 되는 이유는 AI라는 이름보다 기존 접점에 있습니다. 이미 회원을 만나는 센터가 있으면 새로운 광고로 첫 만남을 모두 사지 않고도 집에서 필요한 관리와 알림을 제안할 수 있습니다. 다만 Suncare는 의료 진단과 치료를 제공하지 않는다고 SEC 공시에 적었고, 의료는 자격을 갖춘 전문가가 책임진다고 밝혔습니다. 건강관리 구독과 규제 대상 진료를 나누는 선이 가격표와 책임 범위를 함께 결정합니다.\n\n개인 결제 모델에서도 비슷한 선택이 보입니다. 미국 Humanaut Health는 신규 회원에게 월 249달러를 연간 2,999달러로 선결제하게 하고, 700개 이상 바이오마커 측정, 종합 진단일, 연간 4시간의 제공자 상담과 50회 클리닉 치료를 묶었습니다. 회사가 말하는 연 10,500달러의 가치는 판매 페이지의 표현이지 실제 절감액이나 수익이 아닙니다. 이 사례는 건강관리 상품이 기능 수보다 결제 기간과 관계 유지 방식을 먼저 설계할 수 있다는 점을 보여줍니다.\n\n작은 사업자는 두 가지부터 적용할 수 있습니다. 첫째, 사용자, 실제 결제자와 책임지는 제공자를 한 표에 나눠 적습니다. 가족이 쓰는 제품이라도 기관이 사는지, 본인이 사는지에 따라 설명과 가격이 달라집니다. 둘째, 한 달짜리 최소 상품과 갱신 지표를 먼저 만듭니다. 방문 횟수, 알림 확인률, 가족 보고의 재사용률처럼 다음 결제를 설명하는 숫자를 정하고, 회원 수 추정치와 매출을 섞지 않습니다.\n\n시니어 헬스케어의 구독은 새 앱을 설치시키는 데서 시작하지 않습니다. 신뢰가 이미 쌓인 센터와 서비스 경계를 먼저 정하고, 그 위에 누가 얼마를 어떤 기간 동안 낼지 올리는 데서 시작됩니다.\n\n출처: [Decent Holding Suncare 9월 29일 발표](https://www.globenewswire.com/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html), [Decent Holding 10월 1일 운영 업데이트](https://rss.globenewswire.com/news-release/2026/10/01/3373028/0/en/decent-holding-provides-operational-update-senior-care-operation-centers-expand-to-approximately-700-locations.html), [Decent Holding SEC 공시](https://www.sec.gov/Archives/edgar/data/1958133/000118518526004577/dxst424b5100426.htm), [Humanaut Health 멤버십 안내](https://humanauthealth.com/memberships/founding)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "시니어 헬스케어는 새 앱보다 이미 드나드는 센터에서 구독을 만들 수 있습니다.\n\n중국 Suncare는 커뮤니티 센터와 회원 접점을 바탕으로 월 500위안 건강관리 상품을 내놨습니다. 집에서 받는 관리와 가족 통지를 기존 오프라인 관계 위에 붙인 구조입니다.",
+      "공개 자료를 대조하면 숫자의 성격이 먼저 보입니다.\n\n회사 발표는 2026년 9월 말 약 700개 센터와 약 24만명 유료 회원을 추정했지만 내부 검증 전 수치입니다. SEC 공시의 8월 14일 수치도 약 623개 센터와 약 20만명이라는 회사 추정치입니다. 매출이나 새 구독 전환율이 아닙니다.",
+      "Suncare의 기본 상품은 월 500위안입니다. 월 1,990위안과 월 2,990위안 상품은 계획 단계입니다.\n\nSEC 공시에는 의료 진단과 치료를 제공하지 않고, 의료는 자격을 갖춘 전문가가 책임진다고 적혀 있습니다. 회원과 가족 중 누가 실제 결제하는지도 공개되지 않았습니다.",
+      "작은 사업자는 사용자, 결제자와 책임 주체를 먼저 나눠 적어야 합니다.\n\n오프라인 접점에서 7일짜리 최소 상품을 시험하고, 알림 확인률과 갱신 의향을 측정해보세요. 회원 수 추정치를 매출이나 수익으로 바꾸지 않는 것이 첫 번째 검수입니다.\n\n출처: https://www.sec.gov/Archives/edgar/data/1958133/000118518526004577/dxst424b5100426.htm\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "시니어 헬스케어 구독은 새 앱보다 기존 센터에서 시작될 수 있습니다.\n\n중국 Suncare는 커뮤니티 센터와 회원 관계를 바탕으로 가정용 건강관리 상품을 붙였습니다. 회사 발표 기준 기본 상품은 월 500위안이고, 월 1,990위안과 월 2,990위안 상품은 계획 단계입니다.\n\n2026년 9월 말 약 700개 센터와 약 24만명 유료 회원이라는 숫자도 공개됐지만 회사 추정치이며 내부 검증 전입니다. SEC 공시의 8월 14일 수치 역시 회사 추정치입니다. 이 숫자를 매출이나 새 구독 가입률로 읽으면 안 됩니다.\n\n또 하나 중요한 점은 책임의 경계입니다. Suncare는 의료 진단과 치료를 제공하지 않고, 의료는 자격을 갖춘 전문가가 책임진다고 공시했습니다. 실제 결제자가 회원인지 가족인지는 공개되지 않았습니다.\n\n작은 사업자라면 사용자, 결제자와 책임 주체를 나눠 가격표를 만들어보세요. 기존 센터나 커뮤니티에서 7일짜리 최소 상품을 시험하고 알림 확인률과 갱신 의향을 측정하면 다음 결제의 근거가 생깁니다.\n\n출처: https://www.globenewswire.com/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #헬스케어 #구독모델 #돌봄비즈니스 #수익화 #서비스기획",
+      "cards": [
+        "시니어 헬스케어 구독은 기존 센터에서 시작된다",
+        "Suncare의 기본 상품\n월 500위안 건강관리 구독",
+        "회사 최신 추정\n2026년 9월 말 약 700개 센터와 약 24만명 유료 회원\n내부 검증 전 수치",
+        "상위 상품은 계획 단계\n월 1,990위안과 월 2,990위안",
+        "의료와 건강관리의 경계\n진단과 치료는 제공하지 않는다고 공시",
+        "작게 적용하기\n사용자, 결제자와 책임 주체를 나눠 7일 상품을 시험합니다"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 헬스케어 구독은 왜 기존 센터에서 시작될까",
+      "hook": "시니어에게 새 AI 앱을 설치해달라고 설득하기보다, 이미 드나드는 센터에서 월 요금을 제안하는 편이 쉽습니다.",
+      "script": "시니어에게 새 AI 앱을 설치해달라고 설득하기보다, 이미 드나드는 센터에서 월 요금을 제안하는 편이 쉽습니다.\n\n중국 Suncare가 이 구조를 보여줍니다. Suncare는 커뮤니티 센터와 회원 접점을 바탕으로 집에서 받는 건강관리와 가족 통지를 연결하려 합니다.\n\n2026년 9월 29일 회사 발표에서 기본 상품은 월 500위안으로 소개됐습니다. 월 1,990위안과 월 2,990위안 상품은 계획 단계입니다. 10월 1일 회사는 9월 말 기준 약 700개 센터와 약 24만명 유료 회원을 추정했지만, 내부 검증과 대조가 남아 있는 회사 수치입니다.\n\n미국 증권거래위원회 공시의 8월 14일 수치도 약 623개 센터와 약 20만명 유료 회원이라는 회사 추정치입니다. 날짜가 다른 수치를 합쳐 성장률이나 매출을 만들면 안 됩니다.\n\nSuncare가 파는 것은 의료 진단이 아닙니다. SEC 공시에는 플랫폼이 의료 진단과 치료를 제공하지 않고, 의료는 자격을 갖춘 전문가가 책임진다고 적혀 있습니다. 실제 결제자가 회원인지 가족인지도 공개되지 않았습니다.\n\n작은 사업자라면 사용자, 결제자와 책임 주체를 먼저 나눠 적어보세요. 기존 센터나 커뮤니티에서 7일짜리 최소 상품을 시험하고, 알림 확인률과 갱신 의향을 측정하면 다음 결제의 근거가 생깁니다.\n\n출처: Decent Holding Suncare 발표, Decent Holding SEC 공시. 자세한 글과 무료 레터는 https://maily.so/boomyboom 에서 확인할 수 있습니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Decent Holding Suncare 2026년 9월 29일 발표",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370998/0/en/decent-holding-s-suncare-launches-ai-powered-in-home-senior-care-service-through-strategic-collaboration-with-ruilan-international.html"
+    },
+    {
+      "name": "Decent Holding 2026년 10월 1일 운영 업데이트",
+      "url": "https://rss.globenewswire.com/news-release/2026/10/01/3373028/0/en/decent-holding-provides-operational-update-senior-care-operation-centers-expand-to-approximately-700-locations.html"
+    },
+    {
+      "name": "Decent Holding SEC Form 424B5 공시",
+      "url": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526004577/dxst424b5100426.htm"
+    },
+    {
+      "name": "Decent Holding Suncare 단계형 구독 계획 발표",
+      "url": "https://www.nasdaq.com/press-release/decent-holding-announces-planned-tiered-subscription-service-model-suncare-platform"
+    },
+    {
+      "name": "Decent Holding 투자자관계 뉴스 릴리스 목록",
+      "url": "https://ir.dxshengtai.com/News-Releases.html"
+    },
+    {
+      "name": "Humanaut Health founding membership",
+      "url": "https://humanauthealth.com/memberships/founding"
+    },
+    {
+      "name": "True North NexWell 공식 가격 페이지",
+      "url": "https://www.t-north.jp/nexwell"
+    },
+    {
+      "name": "일본 후생노동성 개호급부비분과회 2026년 10월 19일 자료",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76626.html"
+    },
+    {
+      "name": "Decent Holding 공식 로고",
+      "url": "https://ir.dxshengtai.com/images/logo.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 정리한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장 또는 공개 계획이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
