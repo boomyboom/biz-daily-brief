@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-20",
+  "generated_at_kst": "2026-10-20T12:02:45+09:00",
+  "mode": "new",
+  "headline": "돌봄 AI는 새 기기보다 익숙한 전화에 가격을 붙인다",
+  "insights": [
+    {
+      "title": "Loved는 가족에게 월 29.99달러로 하루 통화 120분을 판다",
+      "summary": "미국 Kindable의 Loved는 어르신에게 새 기기를 설치하지 않고 기존 전화로 AI 음성 비서 Claire가 매일 안부를 묻는다. Premium은 월 29.99달러에 월 120분 통화와 가족 공유 요약을 제공한다. 회사는 웰니스 정보가 자기보고에 기반하며 의료 조언이 아니라고 안내한다.",
+      "takeaway": "새 앱을 익히게 하기 전에 고객이 이미 쓰는 채널에서 끝나는 작은 책임 단위를 정해라",
+      "source_type": "media",
+      "source_name": "Loved 공식 제품과 가격 페이지",
+      "source_url": "https://loved.co/"
+    },
+    {
+      "title": "Kindable은 말벗과 가족의 후속 업무를 한 상품으로 묶었다",
+      "summary": "2026년 10월 8일 출시 발표에서 Loved는 매일 통화, 웰니스 요약, 가족 업무 생성, 부재중 통화 알림을 함께 제시했다. 새 기기 없이 기존 전화로 시작하게 해 어르신의 학습 부담과 가족의 관리 부담을 한 흐름으로 연결한다. 고객 수와 매출은 공개되지 않았다.",
+      "takeaway": "사용자의 편안함과 구매자의 관리 부담을 같은 상품 안에서 연결해라",
+      "source_type": "media",
+      "source_name": "Kindable Loved 출시 발표",
+      "source_url": "https://www.prnewswire.com/news-releases/kindable-launches-loved-an-ai-powered-care-app-that-calls-seniors-daily--keeps-families-connected-302901363.html"
+    },
+    {
+      "title": "미르모 오토메이션은 돌봄기관의 반나절 서류를 월 7천 엔부터 줄인다",
+      "summary": "웰모는 기존 개호 소프트웨어와 연결되는 RPA와 설정 대행을 재택형 사업소 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터의 캠페인 가격으로 제시한다. NextValue 사례에서는 7종류 약 80장의 서류 출력과 인쇄가 반나절 업무에서 버튼 한 번의 작업으로 바뀌었다고 설명한다.",
+      "takeaway": "기관용 자동화는 범용 AI보다 매달 반복되는 한 업무의 시간을 먼저 가격표에 올려라",
+      "source_type": "media",
+      "source_name": "웰모 미르모 오토메이션 공식 가격과 도입 사례",
+      "source_url": "https://lp.automation.milmo.jp/"
+    },
+    {
+      "title": "홈케어 기관이 AI에 요구하는 것은 경쟁력보다 뒷단 운영이다",
+      "summary": "HHAeXchange가 465개 홈케어 기관을 조사한 2026년 자료에서 규정 준수가 2년 연속 가장 큰 사업 우선순위였고 행정 부담 축소가 다음 순위였다. 52.1퍼센트는 정책이나 상환 압력이 운영에 부정적 영향을 줬다고 답했고, 57.1퍼센트는 AI를 사용하거나 시험하거나 평가 중이라고 답했다. 이는 해당 업체 고객 기반 조사이지 업계 전체 통계는 아니다.",
+      "takeaway": "AI 영업 문구를 대단한 지능 대신 규정 준수, 기록, 청구와 일정으로 번역해라",
+      "source_type": "media",
+      "source_name": "HHAeXchange 2026 Homecare Insights 조사",
+      "source_url": "https://www.hhaexchange.com/2026-homecare-insights-provider-survey"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄 AI가 새 기기보다 기존 전화와 기존 업무 화면에 붙는다",
+      "summary": "Loved는 기존 전화로 가족 안부를 이어가고, 미르모는 이미 쓰는 개호 소프트웨어의 반복 입력과 출력 업무를 자동화한다. 구매자가 새 행동을 배우는 비용을 줄이는 방향이다.",
+      "why_now": "홈케어 기관 조사에서 규정 준수와 행정 부담이 경쟁사보다 앞선 우선순위로 나타났다.",
+      "source_url": "https://www.hhaexchange.com/2026-homecare-insights-provider-survey"
+    },
+    {
+      "theme": "가족과 기관은 같은 돌봄 문제를 서로 다른 지불 단위로 산다",
+      "summary": "Loved는 가족 보호자에게 월 단위로 통화와 요약을 팔고, 미르모는 사업소에 초기 설정비와 월 이용료를 받는다. 사용자, 구매자와 업무 결과를 분리해서 설계하는 방식이다.",
+      "why_now": "두 사례 모두 AI 기능의 개수보다 누가 반복되는 부담을 줄이고 싶은지를 먼저 가격표에 반영한다.",
+      "source_url": "https://loved.co/"
+    },
+    {
+      "theme": "돌봄 AI의 안전한 시작점은 의료판단이 아닌 관찰과 후속 조율이다",
+      "summary": "Loved는 자기보고 기반 웰니스 정보와 가족 알림을 의료 조언과 구분한다. 통화에서 나온 이동, 약속과 생활 과제를 가족 업무로 넘기는 범위가 현재 공개된 서비스의 경계다.",
+      "why_now": "가족과 기관이 AI를 도입할 때 책임 범위를 먼저 설명해야 과장된 건강 효과 약속을 피할 수 있다.",
+      "source_url": "https://loved.co/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Kindable의 Loved, 미국",
+      "what": "AI 음성 비서 Claire가 어르신에게 매일 전화하고, 가족 돌봄 모임에 통화 요약과 할 일을 공유하는 자가부담 서비스",
+      "how": "가족 보호자가 Premium을 결제하고 어르신은 새 앱이나 기기 없이 기존 전화로 통화한다. 가족은 일정, 업무 목록과 알림을 함께 사용한다. 회사는 웰니스 정보가 자기보고 기반이며 의료 조언이 아니라고 안내한다.",
+      "numbers": "공식 가격 기준 Premium은 월 29.99달러, Claire 통화 월 120분, 7일 무료 체험이다. 무료 요금제는 통화가 포함되지 않는다. 고객 수, 매출과 30일 이후 유지율은 공개되지 않았다.",
+      "source_url": "https://loved.co/"
+    },
+    {
+      "who": "웰모의 미르모 오토메이션과 NextValue, 일본 오이타현",
+      "what": "방문요양 사업소의 서비스 제공표, 모니터링표와 실적 기록 등 7종류 약 80장 서류 출력과 인쇄를 RPA로 자동화한 사례",
+      "how": "웰모가 기존 개호 소프트웨어에 맞춰 자동화 설정을 대신하고, 사업자는 시험 후 계약을 판단한다. 공식 사례에서 약 60명 이용자에게 서비스를 제공하는 두 사업소의 반복 업무가 기존 반나절 작업에서 버튼 한 번의 작업으로 바뀌었다고 설명한다.",
+      "numbers": "공식 캠페인 가격은 재택형 사업소 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터다. 이는 캠페인 가격이며 고객별 계약 단가, 절감 시간이 모든 사업소에 같다는 근거는 없다.",
+      "source_url": "https://lp.automation.milmo.jp/case/nextvalue"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Loved Premium",
+      "use": "기존 전화 기반 가족 안부 확인, 통화 요약과 돌봄 업무 공유",
+      "source_url": "https://loved.co/"
+    },
+    {
+      "name": "milmo automation",
+      "use": "개호 소프트웨어와 연결되는 서류 출력, 입력과 반복 사무 RPA",
+      "source_url": "https://lp.automation.milmo.jp/"
+    },
+    {
+      "name": "HHAeXchange 2026 Homecare Insights",
+      "use": "홈케어 기관의 규정 준수, 행정 부담과 AI 도입 우선순위 확인",
+      "source_url": "https://www.hhaexchange.com/2026-homecare-insights-provider-survey"
+    }
+  ],
+  "quote": {
+    "text": "AI has moved from curiosity to practice.",
+    "author": "HHAeXchange 2026 Homecare Insights",
+    "source_url": "https://www.hhaexchange.com/2026-homecare-insights-provider-survey"
+  },
+  "newsletter": {
+    "title": "돌봄 AI가 팔아야 하는 것은 대화가 아니라 비어 있는 시간",
+    "body_md": "돌봄 AI의 결제 이유는 모델이 사람처럼 말한다는 사실보다 가족과 기관의 반복 부담을 줄이는 데 있다. Kindable의 Loved는 기존 전화로 어르신에게 매일 연락하고, 가족 보호자에게 월 29.99달러로 월 120분 통화와 요약을 판다. 고객 수와 유지율은 공개되지 않아 수요가 입증됐다고 쓰지 않는다.\n\n일본 웰모의 미르모 오토메이션은 재택형 월 7,000엔부터 기존 개호 소프트웨어의 반복 서류를 자동화한다. NextValue는 약 80장 출력과 인쇄가 반나절에서 버튼 한 번으로 바뀌었다고 설명한다.\n\n작은 사업자는 방문 사이 안부, 가족 보고, 월말 서류 중 하나를 골라 7일 동안 수동 제공하고 소요 시간과 재결제 의향을 기록한다. 의료판단과 응급 대응은 별도 책임이다. 출처: Loved, Kindable 출시 발표, 미르모 공식 사례와 HHAeXchange 조사."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "어르신에게 앱을 배우게 하지 않고 월 29.99달러를 받는 법",
+      "hook": "가족이 돈을 내는 이유는 AI가 똑똑해서가 아니라 어르신이 새 기기를 배우지 않아도 매일 연락이 끝나기 때문이다.",
+      "core_claim": "기존 전화와 가족 공유를 묶은 작은 책임 단위를 만들면 돌봄 AI의 구매자와 사용자를 분리하면서도 가격을 설명할 수 있다.",
+      "primary_case": "Kindable의 Loved가 기존 전화로 매일 통화하고 가족에게 요약과 할 일을 보내는 Premium 서비스",
+      "public_number": "월 29.99달러, Claire 통화 월 120분, 7일 무료 체험",
+      "payer": "미국의 가족 보호자와 돌봄 모임 관리자",
+      "seven_day_action": "기존 전화나 메시지로 가족 안부 확인 5건을 수동 운영하고 통화 시간, 후속 업무 수와 월 지불 의향을 기록한다.",
+      "source_urls": [
+        "https://loved.co/",
+        "https://www.prnewswire.com/news-releases/kindable-launches-loved-an-ai-powered-care-app-that-calls-seniors-daily--keeps-families-connected-302901363.html"
+      ]
+    },
+    {
+      "title": "반나절 서류를 월 7천 엔짜리 업무로 자르는 돌봄 자동화",
+      "hook": "돌봄기관이 원하는 AI는 멋진 대화보다 매달 반복되는 80장 서류를 없애는 버튼일 수 있다.",
+      "core_claim": "기관용 자동화는 범용 AI 구독보다 기존 시스템에 맞춘 설정과 반복 업무 한 가지를 묶을 때 지불 단위가 선명해진다.",
+      "primary_case": "웰모 미르모 오토메이션과 일본 방문요양 사업자 NextValue의 서류 출력 자동화",
+      "public_number": "재택형 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터, 약 80장 서류 사례",
+      "payer": "일본 방문요양 사업소와 개호시설 운영자",
+      "seven_day_action": "월말 서류 한 종류를 가상 데이터로 자동화해 설정 시간, 운영 시간과 유지보수 시간을 따로 기록한다.",
+      "source_urls": [
+        "https://lp.automation.milmo.jp/",
+        "https://lp.automation.milmo.jp/case/nextvalue",
+        "https://welmo.co.jp/news/001216/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "어르신에게 앱을 배우게 하지 않는 돌봄 AI의 가격표",
+      "body_md": "부모님께 새 앱을 깔아 드리는 순간, 서비스의 첫 비용은 구독료가 아니라 학습과 설명의 수고가 된다. 미국 Kindable의 Loved는 이 순서를 바꾼다. 어르신에게 새 기기를 주는 대신 이미 쓰는 전화로 AI 음성 비서 Claire가 매일 연락한다. 가족 보호자는 Premium을 월 29.99달러에 결제하고 월 120분 통화, 일정과 할 일 공유, 통화 요약을 받는다.\\n\\n이 상품이 파는 것은 AI와 대화하는 경험만이 아니다. 가족이 직접 확인하지 못한 하루의 빈틈을 일정한 전화로 메우고, 통화에서 나온 교통편 요청이나 집안일을 가족 업무로 넘기는 운영이다. Loved의 무료 요금제에는 Claire 통화가 없고, Premium에만 통화와 요약이 들어간다. 가격 단위가 기능 목록이 아니라 반복되는 책임에 맞춰져 있다는 뜻이다. 다만 회사는 고객 수, 매출과 유지율을 공개하지 않았다. 이 가격표만으로 가족의 실제 지불 의향이나 사업의 수익성을 확정할 수는 없다. 웰니스 정보도 자기보고에 기반하며 의료 조언이 아니라고 안내한다.\\n\\n일본의 웰모는 같은 원리를 기관 업무에 적용한다. 미르모 오토메이션은 기존 개호 소프트웨어와 연결되는 RPA 설정을 대신하고 재택형 사업소 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터의 캠페인 가격을 제시한다. 공식 사례에서 방문요양 사업자 NextValue는 서비스 제공표와 모니터링표 등 7종류 약 80장의 서류를 출력하고 인쇄하는 일이 다른 업무와 겹치면 반나절이 걸렸다고 설명했다. 도입 뒤에는 버튼 한 번으로 처리하는 흐름으로 바뀌었다는 회사 사례다. 모든 사업소에 같은 절감이 보장된다는 뜻은 아니다.\\n\\n두 사례의 공통점은 AI를 크게 약속하지 않고, 이미 있는 전화나 업무 화면 안에서 반복되는 부담을 잘라 가격을 붙였다는 데 있다. 작은 사업자가 따라 해볼 방법은 두 가지다. 첫째, 방문 사이 안부 확인, 가족 보고, 월말 서류처럼 구매자가 바로 알아보는 한 가지 책임만 고른다. 둘째, 7일 동안 수동으로 운영하면서 실제 소요 시간, 사람의 재확인이 필요한 상황과 두 번째 결제 의향을 기록한다. 의료판단과 응급 대응은 별도 책임으로 남겨야 한다.\\n\\n출처: [Loved 공식 가격](https://loved.co/), [Kindable 출시 발표](https://www.prnewswire.com/news-releases/kindable-launches-loved-an-ai-powered-care-app-that-calls-seniors-daily--keeps-families-connected-302901363.html), [미르모 공식 서비스](https://lp.automation.milmo.jp/), [NextValue 도입 사례](https://lp.automation.milmo.jp/case/nextvalue), [HHAeXchange 조사](https://www.hhaexchange.com/2026-homecare-insights-provider-survey)\\n\\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "돌봄 AI의 가격표에서 먼저 봐야 할 것은 모델 이름이 아니다. 어르신이 새 앱을 배우지 않아도 되는지, 가족이나 기관이 매달 반복되는 부담을 실제로 줄이는지다. Kindable의 Loved는 기존 전화로 매일 안부를 묻고 가족에게 요약과 할 일을 보낸다.",
+      "Loved Premium은 월 29.99달러에 Claire 통화 월 120분을 제공한다. 무료 요금제에는 통화가 없다. 고객 수와 유지율은 공개되지 않았으므로 성공 사례가 아니라 가격 설계 사례로 읽어야 한다. 회사는 웰니스 정보가 의료 조언이 아니라고 구분한다.",
+      "기관 쪽에는 일본 웰모의 미르모 오토메이션이 있다. 재택형 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터다. 공식 사례의 방문요양 사업자는 약 80장 서류 출력과 인쇄가 반나절 걸리던 일을 버튼 한 번의 흐름으로 바꿨다고 설명한다.",
+      "작은 사업자는 AI 기능을 늘리기 전에 방문 사이 안부, 가족 보고, 월말 서류 중 하나를 골라 7일 동안 수동 운영해 볼 수 있다. 실제 소요 시간과 재결제 의향을 남기면 가격표가 먼저 생긴다. 출처는 Loved, Kindable, 웰모와 HHAeXchange 조사다."
+    ],
+    "instagram": {
+      "caption": "돌봄 AI가 팔아야 하는 것은 대화 자체가 아니라 비어 있는 시간입니다.\\n\\n미국 Kindable의 Loved는 어르신에게 새 기기를 설치하지 않고 기존 전화로 매일 안부를 묻습니다. 가족 보호자가 내는 Premium은 월 29.99달러, 월 120분 통화입니다. 통화 요약과 할 일 공유가 붙지만, 고객 수와 유지율은 공개되지 않았습니다.\\n\\n일본 웰모의 미르모 오토메이션은 돌봄기관의 반복 서류를 겨냥합니다. 재택형 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터입니다. 공식 사례에서는 약 80장 서류 출력과 인쇄가 반나절 업무가 되던 문제를 버튼 한 번의 흐름으로 바꿨다고 설명합니다.\\n\\n핵심은 AI를 크게 약속하지 않는 것입니다. 이미 쓰는 전화와 업무 화면에서 반복되는 책임 하나를 고르고, 누가 돈을 내는지와 사람이 다시 확인할 범위를 먼저 정하면 가격이 선명해집니다.\\n\\n출처는 Loved, Kindable 출시 발표, 웰모 미르모 오토메이션과 HHAeXchange 2026 조사입니다.\\n\\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #돌봄AI #구독모델 #업무자동화 #사업인사이트",
+      "cards": [
+        "돌봄 AI는 새 기기보다 익숙한 전화에 가격을 붙인다",
+        "Loved는 기존 전화로 매일 어르신에게 연락한다",
+        "Premium은 월 29.99달러, 통화 월 120분이다",
+        "미르모는 돌봄기관의 반복 서류를 자동화한다",
+        "재택형 월 7,000엔부터, 시설형 월 25,000엔부터다",
+        "AI 기능보다 반복되는 책임 하나를 먼저 가격표에 올려라"
+      ]
+    },
+    "youtube": {
+      "title": "돌봄 AI가 월 구독을 받는 진짜 이유",
+      "hook": "어르신에게 새 앱을 배우게 하지 않아도 가족에게 월 29.99달러를 제시할 수 있습니다.",
+      "script": "돌봄 AI의 결제 이유는 AI가 사람처럼 말한다는 사실이 아닙니다. 가족과 기관이 반복 부담을 덜 수 있다는 데 있습니다.\\n\\n미국 Kindable의 Loved는 AI 음성 비서 Claire가 기존 전화로 어르신에게 매일 연락합니다. 가족 보호자는 Premium을 월 29.99달러에 결제하고 월 120분 통화, 통화 요약과 가족 업무 공유를 사용합니다. 새 기기를 설치하지 않아도 된다는 점이 핵심입니다. 다만 고객 수와 유지율은 공개되지 않았고, 웰니스 정보는 의료 조언이 아닙니다.\\n\\n기관용 사례도 있습니다. 일본 웰모의 미르모 오토메이션은 재택형 사업소 월 7,000엔부터, 시설형 월 25,000엔부터, 초기 비용 40,000엔부터의 캠페인 가격을 제시합니다. 공식 사례의 방문요양 사업자는 약 80장 서류 출력과 인쇄가 반나절 걸리던 문제를 버튼 한 번의 작업으로 바꿨다고 설명합니다.\\n\\n작은 사업자가 적용할 방법은 간단합니다. 방문 사이 안부 확인이나 월말 서류처럼 반복되는 책임 하나를 고르고, 7일 동안 수동 운영하며 실제 소요 시간과 재결제 의향을 기록하세요. AI 기능보다 구매자가 바로 이해하는 부담의 단위가 먼저입니다. 자세한 출처는 설명란에 남깁니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Loved 공식 제품과 가격 페이지",
+      "url": "https://loved.co/"
+    },
+    {
+      "name": "Kindable Loved 출시 발표",
+      "url": "https://www.prnewswire.com/news-releases/kindable-launches-loved-an-ai-powered-care-app-that-calls-seniors-daily--keeps-families-connected-302901363.html"
+    },
+    {
+      "name": "웰모 미르모 오토메이션 공식 가격과 기능",
+      "url": "https://lp.automation.milmo.jp/"
+    },
+    {
+      "name": "웰모 미르모 오토메이션 NextValue 도입 사례",
+      "url": "https://lp.automation.milmo.jp/case/nextvalue"
+    },
+    {
+      "name": "웰모 미르모 오토메이션 출시 발표",
+      "url": "https://welmo.co.jp/news/001216/"
+    },
+    {
+      "name": "HHAeXchange 2026 Homecare Insights 조사",
+      "url": "https://www.hhaexchange.com/2026-homecare-insights-provider-survey"
+    },
+    {
+      "name": "HHAeXchange 2026 조사 발표",
+      "url": "https://www.hhaexchange.com/press-releases/2026-hhaexchange-survey-homecare-providers-investing-in-stability"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
