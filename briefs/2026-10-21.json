@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-21",
+  "generated_at_kst": "2026-10-21T12:03:24+09:00",
+  "mode": "new",
+  "headline": "요양시설은 호출벨이 아니라 기록 가능한 돌봄 시간을 산다",
+  "insights": [
+    {
+      "title": "Teton E-Call은 호출벨을 시간표로 바꿔 야간 인력 판단을 돕는다",
+      "summary": "Teton은 요양시설의 호출을 직원이 수락한 알림으로 끝내지 않고 요청 내용, 대응자와 실제 도착 시간을 남기는 업무 기록으로 만든다. 미국 한 시설의 4개월 자료에서 저녁 수요가 몰리는 시간과 반복 호출자가 드러났지만 인건비 절감이나 돌봄 결과 개선은 아직 확인되지 않았다.",
+      "takeaway": "호출을 받은 시각과 실제 도착 시각을 따로 기록해야 인력 배치에 가격을 붙일 수 있다.",
+      "source_type": "blog",
+      "source_name": "Teton AI Wynwood House 4개월 자료와 독립 검토",
+      "source_url": "https://www.teton.ai/blog/introducing-teton-e-call"
+    },
+    {
+      "title": "미타스트는 케어플랜을 결정하지 않고 결정 전 시간을 줄인다",
+      "summary": "일본 모나카야의 미타스트는 LIFE에 제출한 데이터와 다직종 기록으로 케어플랜 원안을 만들고 최종 결정은 케어플랜 회의의 사람에게 남긴다. 5개 시설 실증에서 모니터링과 가족 설명 시간은 줄었지만 아세스먼트 시간은 늘었다. 효율화와 이용자 상태 파악을 같은 숫자로 합치지 않은 점이 핵심이다.",
+      "takeaway": "민감한 업무의 AI는 사람을 대체한다고 말하기보다 사람의 최종 판단 앞단을 측정해 팔아야 한다.",
+      "source_type": "media",
+      "source_name": "모나카야 미타스트 공식 선행 도입 발표",
+      "source_url": "https://monakaya.com/mitasuto-early-adoption/"
+    },
+    {
+      "title": "Even Healthcare는 월 400루피 회비와 치료비와 보험 관계를 분리한다",
+      "summary": "인도 Even Healthcare는 공식 페이지에서 Even Care 월 400루피, Even Essential 월 690루피, Even Plus 월 896루피부터의 가격을 제시한다. 의료 제공자인 Even과 보험 파트너를 구분하고, 월 회비, 치료비와 보험사 관계를 한 상품군 안에서 나눠 설명한다. TechCrunch 보도는 병원 직접 운영과 환자 치료비 중심의 수익 구조를 전했지만, 이번 브리핑에서는 회사가 공개한 가격과 역할 구분만 사용한다.",
+      "takeaway": "헬스케어 구독은 누가 가입하는지뿐 아니라 진료비와 보험료가 어디서 결제되는지까지 따로 설계해야 한다.",
+      "source_type": "media",
+      "source_name": "Even Healthcare 공식 요금과 FAQ, TechCrunch 보도",
+      "source_url": "https://even.in/join/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄 기술이 알림에서 기록과 재평가로 이동한다",
+      "summary": "Teton은 호출을 방에서 벌어진 도움 요청의 기록으로 만들고, 반복 호출과 시간대별 수요를 케어플랜 재검토와 교대 인력 계획에 연결한다. 소프트웨어가 사람의 손을 대체한다는 주장이 아니라, 흩어진 돌봄 시간을 운영자가 읽을 수 있게 만드는 방향이다.",
+      "why_now": "2026년 9월 공개된 첫 4개월 자료와 10월 독립 검토가 수락 시간과 실제 도착 시간을 구분해 보여줬다.",
+      "source_url": "https://www.teton.ai/blog/introducing-teton-e-call"
+    },
+    {
+      "theme": "케어 AI의 도입 기준이 정확도보다 책임 경계가 된다",
+      "summary": "모나카야는 새 입력을 늘리지 않고 기존 LIFE 데이터와 기록을 사용하며, AI가 만드는 범위를 원안까지로 제한한다. 모니터링 시간 단축과 아세스먼트 시간 증가를 함께 공개해 효율화가 곧 돌봄 품질이나 이익이라는 식의 비약을 피한다.",
+      "why_now": "2026년 10월 1일 선행 도입 접수가 시작됐고, 10월 19일 공개 자료에서 사람의 최종 결정과 실측 방식이 함께 설명됐다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000048.000131802.html"
+    },
+    {
+      "theme": "헬스케어 사업의 결제 단위가 회비, 치료비와 보험으로 나뉜다",
+      "summary": "Even은 개인과 가족이 가입하는 월 요금, 의료 제공자와 병원 운영, 보험 파트너를 같은 브랜드 안에서 분리해 설명한다. 가입자가 내는 회비와 환자 치료비, 보험사가 부담하는 비용을 하나의 매출로 읽지 않아야 사업 구조가 보인다.",
+      "why_now": "2026년 10월 19일 Series B 보도가 병원 직접 운영과 수익 구조를 다시 조명했지만, 투자금은 실적이나 이익이 아니므로 별도로 남겨야 한다.",
+      "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Teton E-Call과 Wynwood House, 미국",
+      "what": "요양시설의 호출벨을 직원의 모바일 수락, 실제 도착, 요청 유형과 대응 기록으로 연결하는 시스템",
+      "how": "Wynwood House에서 2026년 5월 1일부터 8월 31일까지 호출을 기록하고, 시간대와 반복 호출자를 확인해 저녁 인력 계획과 케어플랜 검토에 활용했다.",
+      "numbers": "Teton 공개 자료 기준 37명이 6,396회 호출했고 직원이 방에 도착한 시간의 중앙값은 2.9분이었다. 오후 7시부터 자정까지 1,904회, 10시 428회, 7명이 전체 호출의 약 3분의 2였다. 야간 기록 중 배변 도움은 53%였지만 독립 검토는 요청 사유가 전체 호출의 약 13%만 기록됐다고 지적했다. 인건비 절감과 돌봄 결과 개선은 공개되지 않았다.",
+      "source_url": "https://www.teton.ai/blog/introducing-teton-e-call"
+    },
+    {
+      "who": "모나카야의 미타스트, 일본",
+      "what": "LIFE에 제출한 데이터와 다직종 기록을 바탕으로 사람이 검토할 케어플랜 원안을 만드는 지원 시스템",
+      "how": "전국 5개 시설 실증에서 기존 데이터를 다시 입력하지 않는 흐름을 만들고, 도입 전후 업무 시간을 측정했다. AI는 원안 중 일부를 정리하고 최종 결정은 케어플랜 회의에 남겼다.",
+      "numbers": "유효 샘플 1,267인일, 총 레코드 48,831건에서 이상치를 제외했다. 모니터링은 19.9분에서 9.4분으로 52.8% 줄었고 이용자와 가족 설명 및 동의는 22.7분에서 16.8분으로 26.0% 줄었다. 아세스먼트는 13.3분에서 17.6분으로 32.3% 늘었고 도입 후 측정은 3개 시설이었다. 가격과 도입 조건은 공개되지 않았다.",
+      "source_url": "https://monakaya.com/mitasuto-early-adoption/"
+    },
+    {
+      "who": "Even Healthcare, 인도",
+      "what": "개인과 가족에게 관리형 의료 서비스를 제공하고 선택형 단체보험과 자체 병원 이용을 연결하는 헬스케어 플랫폼",
+      "how": "Even Care는 개인과 가족의 관리형 의료를 맡고, FAQ는 보험이 Even Healthcare가 아니라 보험 파트너를 통해 제공된다고 구분한다. Even Infinite는 방갈루루의 파트너 보험 가입자를 병원 서비스 프로그램으로 연결한다.",
+      "numbers": "공식 가격 페이지 기준 Even Care 월 400루피, Even Essential 월 690루피, Even Plus 월 896루피부터다. 공식 페이지는 단체보험 가족 보장 한도를 최대 1,000만 루피로 표시한다. 회원 수, 매출, 유지율과 병원별 손익은 이번 브리핑의 사례 수치로 사용하지 않았다.",
+      "source_url": "https://even.in/join/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Teton E-Call",
+      "use": "호출 수락과 실제 도착, 요청 유형과 교대별 수요를 기록해 요양시설의 인력 계획과 케어플랜 검토에 쓰는 도구",
+      "source_url": "https://www.teton.ai/e-call"
+    },
+    {
+      "name": "미타스트와 하카르토",
+      "use": "기존 LIFE 데이터와 다직종 기록으로 케어플랜 원안을 만들고 도입 전후 업무 시간을 측정하는 조합",
+      "source_url": "https://monakaya.com/mitasuto-early-adoption/"
+    },
+    {
+      "name": "Even Care",
+      "use": "월 회비와 선택형 보험, 관리형 의료의 역할을 분리해 헬스케어 결제 구조를 확인하는 사례",
+      "source_url": "https://even.in/join/"
+    },
+    {
+      "name": "Even Infinite",
+      "use": "기존 보험 가입자를 병원 서비스와 지속 관리에 연결하는 구조를 확인하는 참고 자료",
+      "source_url": "https://hospitals.even.in/infinite/"
+    }
+  ],
+  "quote": {
+    "text": "AI에 맡겨도 되는 것은 케어플랜 원안까지이고, 최종 결정은 사람이 한다.",
+    "author": "모나카야 유키 타카시 CEO",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000048.000131802.html"
+  },
+  "newsletter": {
+    "title": "돌봄 AI는 사람을 대신하기보다 다음 판단을 기록할 때 돈이 된다",
+    "body_md": "이번 주 편집 메모\n\n핵심 주장은 돌봄 AI가 사람 대신 판단한다고 말할 때보다, 사람이 책임질 다음 행동을 기록할 때 돈의 흐름이 선명해진다는 것이다. Teton E-Call은 미국 Wynwood House에서 37명이 2026년 5월부터 8월까지 6,396회 호출한 기록을 바탕으로 도착 중앙값 2.9분과 저녁 7시부터 자정까지 1,904회의 수요를 보여줬다. 돈을 내는 사람은 거주자가 아니라 assisted living과 memory care 운영자다. 다만 앱 수락 51초와 실제 도착 2.9분은 다르고, 돌봄 결과나 인건비 절감은 확인되지 않았다. 일본 모나카야의 미타스트도 5개 시설에서 모니터링 시간을 19.9분에서 9.4분으로 줄였지만 아세스먼트 시간은 늘렸다. 독자는 7일간 요청 시각, 유형, 수락, 도착과 처리 완료를 기록해 인력 감축이 아닌 다음 판단의 비용부터 계산해 볼 수 있다.\n\n출처: [Teton 공식 자료](https://www.teton.ai/blog/introducing-teton-e-call), [독립 검토](https://www.assistedlivingchannel.com/articles/teton-resident-call-system-response-times-2026-10-15.html), [모나카야 공식 발표](https://monakaya.com/mitasuto-early-adoption/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+  },
+  "newsletter_candidates": [
+    {
+      "title": "호출벨을 데이터로 바꾸면 요양시설의 야간 인력표가 달라진다",
+      "hook": "요양시설은 호출을 빨리 받았다는 기록보다 실제 도착과 요청 내용을 알아야 한다.",
+      "core_claim": "돌봄 테크의 가격은 알림 자체가 아니라 반복되는 현장 업무를 기록하고 다음 인력 판단에 쓰게 만드는 데서 설득된다.",
+      "primary_case": "Teton E-Call과 미국 Wynwood House의 첫 4개월 호출 기록",
+      "public_number": "37명, 4개월, 6,396회 호출, 실제 도착 중앙값 2.9분, 오후 7시부터 자정까지 1,904회",
+      "payer": "미국 assisted living, memory care와 independent living 운영자",
+      "seven_day_action": "호출 시각, 요청 유형, 직원 수락 시각, 실제 도착 시각과 처리 완료를 익명으로 기록해 시간대별 수요표를 만든다.",
+      "source_urls": [
+        "https://www.teton.ai/blog/introducing-teton-e-call",
+        "https://www.assistedlivingchannel.com/articles/teton-resident-call-system-response-times-2026-10-15.html"
+      ]
+    },
+    {
+      "title": "케어플랜 AI는 사람을 없애기보다 결정 전 시간을 측정한다",
+      "hook": "AI가 케어플랜을 결정하지 않아도 시설은 업무 시간을 줄일 수 있다.",
+      "core_claim": "민감한 헬스케어 업무의 상품 가치는 자동 생성량보다 기존 기록을 재입력하지 않게 하고 사람의 최종 결정을 남기는 운영 설계에서 나온다.",
+      "primary_case": "모나카야 미타스트의 전국 5개 시설 실증",
+      "public_number": "유효 샘플 1,267인일, 모니터링 19.9분에서 9.4분으로 52.8% 단축, 아세스먼트 13.3분에서 17.6분으로 32.3% 증가",
+      "payer": "일본 개호노인보건시설 운영 법인",
+      "seven_day_action": "개인정보 없는 가상 케어 기록 10건으로 원안 작성 시간, 사람의 수정 시간과 최종 회의 시간을 따로 측정한다.",
+      "source_urls": [
+        "https://monakaya.com/mitasuto-early-adoption/",
+        "https://prtimes.jp/main/html/rd/p/000000048.000131802.html"
+      ]
+    },
+    {
+      "title": "월 회비와 치료비를 한 장의 가격표에서 분리하는 헬스케어",
+      "hook": "헬스케어 구독의 고객과 보험료를 내는 주체가 항상 같지는 않다.",
+      "core_claim": "의료 서비스는 가입자의 월 회비, 환자의 치료비와 보험 파트너의 지불을 분리해 설계해야 성장과 수익성을 혼동하지 않는다.",
+      "primary_case": "인도 Even Healthcare의 Even Care, Even Essential과 Even Plus",
+      "public_number": "월 400루피, 690루피와 896루피부터, 단체보험 가족 보장 최대 1,000만 루피",
+      "payer": "개인과 가족 회원, 의료 이용에 따른 환자와 보험 파트너",
+      "seven_day_action": "서비스의 각 기능을 가입자, 환자, 보험사와 병원 중 누가 결제하는지 한 줄씩 나눠 가격표 초안을 만든다.",
+      "source_urls": [
+        "https://even.in/join/",
+        "https://even.in/faq/",
+        "https://hospitals.even.in/infinite/",
+        "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "요양시설은 호출벨이 아니라 기록 가능한 돌봄 시간을 산다",
+      "body_md": "요양시설의 호출벨은 오래전부터 있었지만, 호출이 몇 시에 몰렸고 누가 얼마나 기다렸는지는 교대가 끝나면 사라지기 쉽다. 덴마크 Teton은 이 빈틈을 알림 장치가 아니라 운영 데이터로 바꾸려 한다. 직원이 호출을 수락한 시각, 방에 도착한 시각, 요청 내용과 대응자를 한 건으로 남긴다. 운영자가 돈을 내는 이유는 AI가 직원을 대신해서가 아니라, 이미 쓰고 있는 인력의 시간을 어디에 배치할지 판단할 자료를 얻기 위해서다.\n\n미국 펜실베이니아 State College의 Wynwood House에서 2026년 5월 1일부터 8월 31일까지 37명이 6,396회 도움을 요청했다. Teton 공식 자료에 따르면 직원이 방에 도착한 시간의 중앙값은 2.9분이다. 오후 7시부터 자정까지 1,904회, 10시가 428회로 가장 바빴고, 7명이 전체 호출의 약 3분의 2를 차지했다. 야간 기록 중 배변 도움은 53%였다.\n\n여기서 중요한 것은 2.9분과 51초를 섞지 않는 일이다. 독립 매체가 확인한 51초는 직원이 앱에서 호출을 수락한 시간이고, 2.9분은 실제 방 도착의 중앙값이다. 요청 사유가 기록된 것도 전체의 약 13%뿐이다. 아직 인건비 감소나 돌봄 결과 개선을 증명한 비교 자료도 없다. 숫자가 있다는 이유로 성공 사례로 포장할 수 없다.\n\n그럼에도 사업이 되는 지점은 선명하다. 시설 운영자는 호출벨을 바꾸는 비용보다 야간 수요가 어느 시간에 몰리는지, 한두 명에게 호출이 집중되는지, 케어플랜을 다시 볼 신호가 있는지를 얻는다. Teton E-Call 자체 가격은 공개되지 않았다. 지불자는 거주자가 아니라 시설 운영자이며, 구매 판단은 직원의 업무 흐름과 기록의 신뢰도에서 나온다.\n\n일본 모나카야의 미타스트도 같은 방향이다. 이미 LIFE에 제출한 데이터와 다직종 기록으로 케어플랜 원안을 만들고, AI가 최종 결정을 하지 않는다. 전국 5개 시설 실증에서 상담직 모니터링 시간은 19.9분에서 9.4분으로 52.8% 줄었지만, 아세스먼트는 13.3분에서 17.6분으로 32.3% 늘었다. 줄어든 시간을 사람의 상태 파악에 다시 썼다는 설명이다. 가격과 도입 조건은 문의형이라 실제 반복 매출은 확인되지 않는다.\n\n작은 사업자가 따라 할 방법은 두 가지다. 첫째, 호출, 문의, 방문 요청 중 하나를 골라 7일 동안 시각, 유형, 수락, 도착과 처리 완료를 익명으로 기록한다. 둘째, 기록을 곧바로 인력 감축표로 바꾸지 말고 언제 사람이 더 필요했고 어떤 이용자의 케어플랜을 다시 봐야 했는지 표시한다. 가격은 AI 기능 수가 아니라 이 다음 판단을 누가 맡고 얼마의 시간을 절약하는지에 붙인다.\n\n출처: [Teton 공식 자료](https://www.teton.ai/blog/introducing-teton-e-call), [Teton 제품 페이지](https://www.teton.ai/e-call), [Assisted Living Channel 독립 검토](https://www.assistedlivingchannel.com/articles/teton-resident-call-system-response-times-2026-10-15.html), [모나카야 미타스트 공식 발표](https://monakaya.com/mitasuto-early-adoption/), [모나카야 H.C.R.2026 공개 자료](https://prtimes.jp/main/html/rd/p/000000048.000131802.html)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "요양시설이 호출벨에 돈을 쓰는 이유는 더 빨리 울리게 하려는 데 있지 않다. 누가 언제 어떤 도움을 요청했고 직원이 언제 도착했는지를 남겨 야간 인력과 케어플랜을 다시 짜기 위해서다. 덴마크 Teton의 E-Call은 호출을 운영 데이터로 바꾼다.",
+      "미국 Wynwood House에서는 2026년 5월부터 8월까지 37명이 6,396회 호출했다. 직원이 방에 도착한 시간의 중앙값은 2.9분, 오후 7시부터 자정까지 호출은 1,904회였다. 7명이 전체 호출의 약 3분의 2를 차지했다. 돈을 내는 사람은 거주자가 아니라 시설 운영자다.",
+      "다만 앱에서 호출을 수락하는 데 걸린 51초와 방에 도착한 2.9분은 다른 숫자다. 독립 검토에 따르면 요청 사유가 기록된 것은 전체 호출의 약 13%였고, 인건비 절감이나 돌봄 결과 개선은 아직 공개되지 않았다. 기록이 생겼다고 성과가 자동으로 생기는 것은 아니다.",
+      "작은 사업자는 7일 동안 요청 시각, 유형, 수락 시각, 실제 도착과 처리 완료를 익명으로 적어볼 수 있다. 그 기록을 인력 감축이 아니라 다음 케어플랜 판단과 교대 배치에 먼저 쓰면, AI 기능보다 구매자가 지불할 책임 단위가 선명해진다. 출처는 Teton과 Assisted Living Channel이다."
+    ],
+    "instagram": {
+      "caption": "호출벨을 바꾸는 진짜 이유는 알림 속도가 아닙니다. 돌봄 시설이 돈을 내는 지점은 누가 언제 무엇을 요청했고, 직원이 실제로 언제 도착했는지를 남기는 운영 기록입니다. Teton E-Call의 한 시설 자료에서 37명이 4개월 동안 6,396회 호출했고, 직원이 방에 도착한 시간의 중앙값은 2.9분이었습니다. 저녁 7시부터 자정까지 호출은 1,904회, 7명이 전체 호출의 약 3분의 2를 차지했습니다.\n\n앱에서 수락한 51초와 실제 도착 2.9분은 다릅니다. 인건비 절감이나 돌봄 결과 개선도 아직 확인되지 않았습니다. 작은 사업자는 7일 동안 요청 시각, 유형, 수락, 도착과 처리 완료를 따로 기록해 다음 인력 배치에 쓸 수 있는 자료부터 만들면 됩니다.\n\n출처: Teton AI, Assisted Living Channel, 모나카야 미타스트 공식 자료\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #돌봄테크 #에이징테크 #AI사업 #요양시설 #비즈니스인사이트",
+      "cards": [
+        "호출벨은 왜 데이터가 되어야 할까",
+        "Teton E-Call, 37명과 4개월",
+        "6,396회 호출, 실제 도착 중앙값 2.9분",
+        "오후 7시부터 자정까지 1,904회",
+        "7명이 전체 호출의 약 3분의 2",
+        "기록이 바꾸는 것은 인력이 아니라 인력 배치의 순서",
+        "단, 돌봄 결과와 인건비 절감은 아직 확인되지 않음"
+      ]
+    },
+    "youtube": {
+      "title": "요양시설이 호출벨에 돈을 쓰는 진짜 이유",
+      "hook": "요양시설은 호출벨을 더 빨리 울리게 하려고 바꾸지 않습니다. 야간 인력표를 다시 짤 데이터를 얻으려고 바꿉니다.",
+      "script": "요양시설의 호출벨은 울리고 직원은 달려가지만, 교대가 끝나면 중요한 정보가 사라집니다. 누가 언제 호출했는지, 어떤 도움을 요청했는지, 직원이 실제로 언제 도착했는지가 남지 않는 경우가 많기 때문입니다.\n\n덴마크 Teton의 E-Call은 이 호출을 운영 기록으로 바꿉니다. 미국 Wynwood House에서 2026년 5월부터 8월까지 37명이 6,396회 호출했습니다. 직원이 방에 도착한 시간의 중앙값은 2.9분이었고, 오후 7시부터 자정까지 호출은 1,904회였습니다. 7명이 전체 호출의 약 3분의 2를 차지했습니다.\n\n이 숫자가 알려주는 것은 단순한 속도가 아닙니다. 어느 시간대에 사람이 더 필요한지, 반복 호출이 케어플랜을 다시 볼 신호인지 판단하게 해줍니다. 돈을 내는 사람은 거주자가 아니라 시설 운영자입니다.\n\n단, 앱에서 호출을 수락한 51초와 방에 도착한 2.9분은 다른 숫자입니다. 독립 검토는 요청 사유가 전체 호출의 약 13%만 기록됐고, 인건비 절감과 돌봄 결과 개선은 아직 증명되지 않았다고 지적했습니다.\n\n작은 사업자라면 7일 동안 요청 시각, 유형, 수락, 실제 도착과 처리 완료를 익명으로 기록해 보세요. AI를 사기 전에 다음 판단에 필요한 데이터가 무엇인지 먼저 정리하는 방식입니다.\n\n출처는 Teton AI와 Assisted Living Channel입니다. 더 깊은 돈 이야기는 [그사이의 돈 되는 레터](https://maily.so/boomyboom)에서 정리합니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Teton AI 공식 E-Call 제품 페이지",
+      "url": "https://www.teton.ai/e-call"
+    },
+    {
+      "name": "Teton AI Wynwood House 4개월 자료",
+      "url": "https://www.teton.ai/blog/introducing-teton-e-call"
+    },
+    {
+      "name": "Assisted Living Channel의 Teton E-Call 독립 검토",
+      "url": "https://www.assistedlivingchannel.com/articles/teton-resident-call-system-response-times-2026-10-15.html"
+    },
+    {
+      "name": "모나카야 미타스트 공식 선행 도입 발표",
+      "url": "https://monakaya.com/mitasuto-early-adoption/"
+    },
+    {
+      "name": "PR TIMES 모나카야 H.C.R.2026 AMED 성과 세미나 공개 자료",
+      "url": "https://prtimes.jp/main/html/rd/p/000000048.000131802.html"
+    },
+    {
+      "name": "Even Healthcare 공식 요금 페이지",
+      "url": "https://even.in/join/"
+    },
+    {
+      "name": "Even Healthcare 공식 FAQ",
+      "url": "https://even.in/faq/"
+    },
+    {
+      "name": "Even Infinite 공식 병원 프로그램 안내",
+      "url": "https://hospitals.even.in/infinite/"
+    },
+    {
+      "name": "TechCrunch Even Healthcare Series B 보도",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+    },
+    {
+      "name": "Teton AI 공식 E-Call 제품 이미지",
+      "url": "https://www.teton.ai/images/solutions/ecall/hero.webp?v=6dd388b3"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다."
+}
