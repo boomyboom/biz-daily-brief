@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-22",
+  "generated_at_kst": "2026-10-22T12:01:47+09:00",
+  "mode": "new",
+  "headline": "Petunia는 시니어 주거시설 검색 70시간을 회사 복지로 만들고 가족에게 200달러를 받는다",
+  "insights": [
+    {
+      "title": "Petunia는 시니어 주거시설 검색을 회사 복지로 옮기고 가족에게 일회성 200달러를 받는다",
+      "summary": "Petunia는 가족이 시니어 주거시설과 메모리 케어 시설을 비교하는 과정을 회사 복지로 제공한다. 무료 자가진단 뒤 해당 서비스가 필요하다고 판단한 가족은 전체 플랫폼에 1회 200달러를 낸다. 회사 안내 페이지가 제시한 시설 검색 시간은 70시간 이상이며, 회사 자체 조사 수치다. 고용주 도입 가격은 공개되지 않았고 시설은 추천 수수료를 내지 않는다.",
+      "takeaway": "복지 상품은 기능 목록보다 누가 언제 결제하고 어떤 이해상충을 없애는지 먼저 보여줘라.",
+      "source_type": "blog",
+      "source_name": "Petunia 공식 회사 소개와 가족 안내",
+      "source_url": "https://usepetunia.com/employee-experience"
+    },
+    {
+      "title": "돌봄 복지의 구매자는 가족에서 고용주까지 넓어진다",
+      "summary": "Care.com의 2026 Future of Benefits Report는 복지 의사결정자 600명과 직원 1,000명을 조사했다. 직원의 53퍼센트가 돌봄 문제로 일을 빠뜨렸고 48퍼센트가 돌봄을 찾거나 관리하느라 생산성이 낮아졌다고 답했다. 85퍼센트는 이직에 영향을 줄 돌봄 복지가 하나 이상 있다고 답했지만, 이는 기업 자체 조사 결과이지 복지 도입의 인과 효과를 증명한 자료는 아니다.",
+      "takeaway": "직장인 대상 돌봄 서비스는 사용자, 가족 결제자와 회사 복지 담당자를 한 가격표에서 분리해라.",
+      "source_type": "media",
+      "source_name": "Care.com 2026 Future of Benefits Report",
+      "source_url": "https://www.care.com/about/press/new-care-com-research-reveals-a-critical-visibility-gap-in-a-modern-workforce-that-runs-on-caregiving/"
+    },
+    {
+      "title": "방문요양 이동은 차량 판매 전에 측정 서비스가 된다",
+      "summary": "일본 Tansomans GX는 도쿄 분쿄구 방문요양 사업소 약 4곳에 전기바이크와 소형 전기 모빌리티를 1개월에서 2개월씩 빌려주고 이동시간, 방문 건수, 지연, 신체적 부담, 비용과 안전성을 비교하는 실증을 시작했다. 차량과 보험은 회사가 부담하고 전기료와 주차료는 사업소가 부담한다. 아직 실증 결과나 판매 가격은 공개되지 않았다.",
+      "takeaway": "장비를 팔기 전에 이동시간과 방문 건수, 부담과 안전 데이터를 묶어 도입 근거를 만들어라.",
+      "source_type": "media",
+      "source_name": "Tansomans GX와 미사키미라이 전기바이크 실증 발표",
+      "source_url": "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/"
+    },
+    {
+      "title": "Carevo는 가족에게 무료로 연결하고 제공자에게 월 499달러부터 받는다",
+      "summary": "호주 Carevo는 가족과 이용자에게 비용을 받지 않고 돌봄 제공자 구독으로 운영한다고 공개했다. 무료 등록은 연결이 없고, Growth는 월 499달러에 월 20건, Enterprise는 월 749달러에 월 40건의 연결을 포함한다. 회사는 건당 수수료와 성공 수수료가 없다고 설명하며 직접 돌봄이나 자격 판단은 하지 않는다고 명시한다.",
+      "takeaway": "매칭 플랫폼은 이용자 무료보다 제공자에게 어떤 연결량을 주고 책임 경계를 어디에 두는지가 핵심이다.",
+      "source_type": "blog",
+      "source_name": "Carevo 공식 요금과 작동 방식",
+      "source_url": "https://carevo.com.au/about/how-carevo-works"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄 의사결정 자체가 회사 복지의 구매 단위가 된다",
+      "summary": "Petunia는 가족이 시설을 고르는 비교와 기록을 회사 복지로 제공하고, 가족이 필요할 때 일회성 이용료를 낸다. Care.com 조사도 돌봄 문제가 결근과 생산성 저하로 이어질 수 있음을 보여준다.",
+      "why_now": "돌봄을 개인의 사적인 시간으로만 보던 방식에서 벗어나 고용주가 직원의 판단 지연과 업무 이탈을 줄이는 복지로 보기 시작했지만, 실제 도입 가격과 효과는 아직 공개 자료가 제한적이다.",
+      "source_url": "https://usepetunia.com/employee-experience"
+    },
+    {
+      "theme": "장비보다 운영 마찰을 측정하는 실증이 먼저 나온다",
+      "summary": "Tansomans GX는 전기 모빌리티가 좋은지 단정하지 않고 방문요양 현장에서 이동시간, 방문 건수, 주차와 직원 부담을 비교한다. 제품보다 어떤 업무 조건에서 효과가 나는지를 먼저 확인하는 방식이다.",
+      "why_now": "실증 기간과 대상 사업소, 비용 부담 주체가 공개돼 장비 가격을 바로 약속하기보다 도입 조건을 측정하는 사업 모델을 볼 수 있다.",
+      "source_url": "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/"
+    },
+    {
+      "theme": "돌봄 매칭 플랫폼이 공급자 구독으로 과금 단위를 만든다",
+      "summary": "Carevo는 가족에게 무료로 접근시키고 제공자에게 월 구독료와 연결 수량을 청구한다. 호주 정부가 Support at Home 서비스 가격을 공개하고 이용자와 합의하도록 요구하는 환경에서는 매칭 비용과 실제 돌봄 가격을 분리하는 설명이 필요하다.",
+      "why_now": "제공자 구독의 월 가격과 연결 수량이 공개돼 이용자 무료 모델이 실제로 누구의 마케팅 비용으로 유지되는지 비교할 수 있다.",
+      "source_url": "https://www.health.gov.au/our-work/support-at-home/charging-for-support-at-home-services/prices-for-support-at-home-participants?language=aus-C7"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Petunia, 미국",
+      "what": "고용주 복지로 가족의 시니어 주거시설과 메모리 케어 시설 선택을 돕는 의사결정 플랫폼",
+      "how": "가족은 무료 자가진단으로 필요와 재정 준비도를 확인하고, 시설이 맞다고 판단하면 가족 대시보드, 방문 기록과 비공개 이메일이 포함된 전체 플랫폼을 이용한다. 시설은 추천 수수료를 내지 않는다.",
+      "numbers": "회사 안내 페이지는 시설 검색에 평균 70시간 이상이 든다고 제시한다. 가족의 전체 플랫폼 이용료는 1회 200달러이고, 고용주 도입 가격은 공개되지 않았다. 회사는 창업자가 30곳 이상의 시설을 둘러보고 70곳 이상의 가족을 인터뷰했다고 설명한다. 자체 조사와 회사 설명으로 구분해야 한다.",
+      "source_url": "https://usepetunia.com/employee-experience"
+    },
+    {
+      "who": "Tansomans GX와 분쿄구 방문요양 실증, 일본",
+      "what": "전기바이크와 소형 전기 모빌리티를 방문요양 업무에 빌려주고 이동 부담과 업무 조건을 측정하는 실증",
+      "how": "2026년 10월부터 2027년 3월까지 분쿄구 사업소 약 4곳을 대상으로 차량을 1개월에서 2개월씩 대여한다. 사업소는 최소 10회 이상 방문 업무에 사용하고 운행 기록과 무기명 설문에 참여한다.",
+      "numbers": "차량비와 보험료 등 기본 비용은 Tansomans GX가 부담하고 전기료와 주차료는 협력 사업소가 부담한다. 이동시간, 주행거리, 방문 건수, 지연, 직원 부담, 비용과 안전성을 비교할 예정이며 아직 결과와 실제 판매 가격은 공개되지 않았다.",
+      "source_url": "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/"
+    },
+    {
+      "who": "Carevo, 호주",
+      "what": "NDIS와 노인돌봄 제공자를 가족의 요청과 연결하고 제공자 구독으로 수익을 얻는 플랫폼",
+      "how": "가족과 이용자는 무료로 요청을 보내고, 제공자는 무료 등록 또는 유료 구독을 선택한다. 유료 구독자는 지역과 서비스가 맞는 요청의 연락처를 받을 수 있으며 Carevo는 직접 돌봄이나 자격 판단을 하지 않는다.",
+      "numbers": "무료 등록은 연결이 없고, Growth는 월 499달러에 월 20건, Enterprise는 월 749달러에 월 40건의 연결을 포함한다. 회사는 건당 수수료와 성공 수수료가 없다고 밝힌다. 유료 제공자 수, 유지율과 실제 돌봄 시작률은 공개되지 않았다.",
+      "source_url": "https://carevo.com.au/pricing"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Petunia 가족 의사결정 플랫폼",
+      "use": "시설 비교, 가족 대시보드, 방문 기록과 재정 준비도 확인을 한 흐름으로 묶어 돌봄 선택의 시간을 측정할 때 참고한다.",
+      "source_url": "https://usepetunia.com/employee-experience"
+    },
+    {
+      "name": "Tansomans GX 방문요양 EV 실증 체크리스트",
+      "use": "이동시간, 방문 건수, 주차시간, 직원 부담, 비용과 안전성을 도입 전후로 기록할 때 참고한다.",
+      "source_url": "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/"
+    },
+    {
+      "name": "Carevo 제공자 구독 가격표",
+      "use": "무료 이용자와 유료 공급자의 역할을 분리하고 월 구독료를 연결량과 함께 설계할 때 참고한다.",
+      "source_url": "https://carevo.com.au/pricing"
+    },
+    {
+      "name": "미국 노동통계국 무급 노인돌봄 통계",
+      "use": "돌봄이 가족의 사적 시간에서 노동시장과 복지의 문제로 확장되는 규모를 확인할 때 참고한다.",
+      "source_url": "https://www.bls.gov/news.release/pdf/elcare.pdf"
+    }
+  ],
+  "quote": {
+    "text": "Families, participants and carers never pay Carevo.",
+    "author": "Carevo 공식 안내, 영문 원문",
+    "source_url": "https://carevo.com.au/about/how-carevo-works"
+  },
+  "newsletter": {
+    "title": "돌봄의 가장 비싼 비용은 서비스가 아니라 결정 지연이다",
+    "body_md": "돌봄 시장에서 가족이 먼저 돈을 내는 순간은 서비스를 이미 고른 뒤가 아니라, 무엇을 고를지 정리할 때일 수 있다. Petunia는 고용주 복지로 들어가 가족에게 무료 자가진단을 제공하고, 시니어 주거시설이 필요하다고 판단하면 전체 플랫폼 이용료로 1회 200달러를 받는다. 회사가 제시한 평균 검색 시간은 70시간 이상이며, 시설은 추천 수수료를 내지 않는다. Care.com 조사에서 직원의 53퍼센트는 돌봄 문제로 일을 빠뜨렸고 48퍼센트는 생산성 저하를 경험했다고 답했다. 핵심 구매자는 가족, 고용주와 시설 운영자로 나뉜다. 작은 사업자는 지역 시설 비교표, 가족 회의 기록과 방문 메모를 묶어 일회성 진단과 회사 복지 중 어느 쪽이 결제되는지 7일 동안 시험할 수 있다. Petunia의 고용주 가격과 실제 유료 전환율은 공개되지 않았으므로 수익 모델의 가능성과 검증된 성과를 분리해 기록한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양시설 검색 70시간을 회사 복지로 바꾸고 가족에게 200달러를 받는 법",
+      "hook": "가족이 시니어 주거시설을 찾는 데 70시간을 쓴다면, 시설보다 선택 과정을 먼저 팔 수 있다.",
+      "core_claim": "Petunia는 고용주 복지로 가족을 유입하고, 가족에게 일회성 플랫폼 이용료를 받으며, 시설 추천 수수료를 없애 이해상충을 상품의 핵심으로 삼는다.",
+      "primary_case": "Petunia의 가족용 시니어 주거시설 의사결정 플랫폼",
+      "public_number": "회사 안내 기준 시설 검색 70시간 이상, 전체 플랫폼 1회 200달러, 시설 추천 수수료 0달러. 고용주 도입 가격과 전환율은 공개되지 않음.",
+      "payer": "고용주가 복지로 제공하고, 가족이 전체 플랫폼 이용 시 1회 결제한다. 시설은 결제하지 않는다.",
+      "seven_day_action": "지역 시설 다섯 곳의 가격과 조건을 비교표로 만들고 가족 회의 기록을 수동 운영해 개인 결제와 회사 복지 도입 중 어느 쪽에서 실제 예약이 나오는지 측정한다.",
+      "source_urls": [
+        "https://usepetunia.com/company",
+        "https://usepetunia.com/employee-experience",
+        "https://usepetunia.com/senior-living-operators",
+        "https://www.care.com/about/press/new-care-com-research-reveals-a-critical-visibility-gap-in-a-modern-workforce-that-runs-on-caregiving/",
+        "https://www.bls.gov/news.release/pdf/elcare.pdf"
+      ]
+    },
+    {
+      "title": "가족은 무료로 두고 돌봄 제공자에게 월 499달러를 받는 플랫폼",
+      "hook": "돌봄 매칭에서 가족이 무료라는 말만으로는 부족하다. 연결을 받는 제공자가 무엇을 사는지 봐야 한다.",
+      "core_claim": "Carevo는 가족과 이용자에게 비용을 받지 않고 제공자에게 연결 수량이 포함된 월 구독료를 받으며, 직접 돌봄과 자격 판단은 하지 않는다고 선을 긋는다.",
+      "primary_case": "Carevo의 무료 등록, Growth와 Enterprise 제공자 구독",
+      "public_number": "Growth 월 499달러에 20건, Enterprise 월 749달러에 40건의 연결. 유료 제공자 수와 연결 후 계약률은 공개되지 않음.",
+      "payer": "호주 NDIS와 노인돌봄 제공자",
+      "seven_day_action": "공개 등록정보로 지역 제공자 10곳의 서비스와 지역을 정리한 뒤 가상 문의 3건을 전달하고 월 구독 의사를 묻는다.",
+      "source_urls": [
+        "https://carevo.com.au/about/how-carevo-works",
+        "https://carevo.com.au/pricing",
+        "https://www.health.gov.au/our-work/support-at-home/charging-for-support-at-home-services/prices-for-support-at-home-participants?language=aus-C7"
+      ]
+    },
+    {
+      "title": "방문요양 사업자는 전기바이크보다 이동시간 데이터를 먼저 산다",
+      "hook": "전기 모빌리티를 팔기 전에 어떤 방문에서 시간이 줄고 직원 부담이 낮아지는지부터 측정한다.",
+      "core_claim": "Tansomans GX는 차량을 먼저 판매하지 않고 약 4개 사업소에 무상 대여해 방문시간, 건수, 주차, 부담과 안전성의 조건을 찾는 실증을 진행한다.",
+      "primary_case": "도쿄 분쿄구 방문요양 EV 모빌리티 실증",
+      "public_number": "약 4개 사업소, 사업소당 1개월에서 2개월 대여, 최소 10회 이용. 차량과 보험은 회사 부담, 전기료와 주차료는 사업소 부담.",
+      "payer": "실제 구매 단계에서는 방문요양 사업소가 구매자가 될 가능성이 있지만 실증 단계의 판매 가격과 회수 기간은 공개되지 않음.",
+      "seven_day_action": "방문 20회의 이동시간, 주차시간, 지연과 직원 부담을 기록하고 장비 도입 전 손익분기점을 계산한다.",
+      "source_urls": [
+        "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/",
+        "https://mfh.co.jp/lnoa-bunkyo-care-demonstration/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "요양시설 검색 70시간을 회사 복지로 만든 서비스의 돈 흐름",
+      "body_md": "부모님이 혼자 살기 어려워진 순간, 가족은 하루아침에 소비자가 된다. 어디에 모실지, 얼마를 감당할지, 형제자매가 어떤 정보를 믿을지 짧은 시간 안에 정해야 한다. 이때 가장 먼저 팔리는 것은 시설 자체가 아니라 선택을 정리해 주는 시간일 수 있다.\n\n미국 Petunia는 이 판단 과정을 회사 복지로 넣었다. 가족은 무료 자가진단으로 돌봄 필요, 일정과 재정 준비도를 먼저 확인한다. 시니어 주거시설이 맞다고 판단하면 가족 전체가 쓰는 플랫폼에 일회성 200달러를 낸다. 회사 안내 페이지는 시설을 찾는 데 평균 70시간 이상이 든다고 제시한다. 이 수치는 Petunia의 자체 조사이지 시장 전체의 독립 통계는 아니다.\n\n돈의 흐름이 이 서비스의 핵심이다. 고용주는 Petunia를 직원 복지로 제공하지만 도입 가격은 공개되지 않았다. 가족이 200달러를 결제하고, 시설은 추천 수수료와 입점비를 내지 않는다. Petunia는 창업자가 두 부모의 시설을 찾으며 30곳 이상을 둘러보고, 같은 경험을 한 가족 70곳 이상을 인터뷰했다고 설명한다. 가족이 무엇을 원하는지 모은 뒤, 가족 대시보드, 시설 방문 기록과 비공개 이메일을 한 상품으로 묶은 셈이다.\n\n이 구조가 회사에 팔릴 이유는 돌봄이 업무시간 안으로 들어오기 때문이다. Care.com의 2026년 조사에서 직원 1,000명 가운데 53퍼센트가 돌봄 문제로 일을 빠뜨렸고, 48퍼센트가 돌봄을 찾거나 관리하느라 생산성이 떨어졌다고 답했다. 85퍼센트는 이직을 고민하게 할 수 있는 돌봄 복지가 하나 이상 있다고 답했다. 이 조사는 Care.com이 600명의 복지 의사결정자와 1,000명의 직원을 대상으로 진행한 자체 조사다. 고용주 복지가 생산성을 실제로 높였다고 증명하는 결과는 아니다.\n\n미국 노동통계국은 2023년과 2024년 평균 기준으로 65세 이상을 돕는 무급 돌봄 제공자가 3,820만 명이라고 집계했다. 돌봄을 가족의 사적인 문제로만 보면 이 시간은 공짜처럼 보이지만, 회사 입장에서는 결근과 판단 지연으로 나타난다. Petunia는 이 공백을 의료 조언이 아니라 비교표, 가족 회의와 방문 기록으로 좁힌다. 시설을 대신 평가한다고 말하지 않고, 가족이 더 준비된 상태로 직접 연락하게 만든다는 점도 중요하다.\n\n따라 할 방법은 두 가지다. 첫째, 지역 시설 다섯 곳의 가격, 거리, 운영기간, 서비스 범위를 한 장 비교표로 만들고 가족이 반드시 물어볼 질문을 정한다. 둘째, 가족이 여러 번 방문하거나 전화하지 않도록 사진, 메모와 결정 이유를 공동 기록으로 묶는다. 이 자료를 개인에게 일회성 진단으로 팔지, 회사 복지로 묶을지, 시설 운영자에게는 무료로 열어둘지는 각각 따로 실험해야 한다. 핵심은 이용자와 결제자, 그리고 추천으로 이익을 얻는 주체를 한 문장 안에서 분리하는 일이다.\n\n출처: [Petunia 가족 안내](https://usepetunia.com/employee-experience), [Petunia 회사 소개](https://usepetunia.com/company), [Care.com 2026 Future of Benefits Report](https://www.care.com/about/press/new-care-com-research-reveals-a-critical-visibility-gap-in-a-modern-workforce-that-runs-on-caregiving/), [미국 노동통계국 무급 노인돌봄 통계](https://www.bls.gov/news.release/pdf/elcare.pdf)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1번. 가족이 시니어 주거시설을 찾는 데 평균 70시간 이상을 쓴다면, 시설보다 선택 과정을 먼저 팔 수 있다. 미국 Petunia는 회사 복지로 제공되고, 무료 자가진단 뒤 가족이 필요하다고 판단하면 전체 플랫폼에 1회 200달러를 낸다. 시설은 추천 수수료를 내지 않는다. 70시간은 회사가 제시한 자체 조사 수치다. 가족 대시보드, 방문 메모와 비공개 이메일을 묶어 여러 형제자매가 같은 기록을 보게 한다. 고용주 도입 가격과 실제 유료 전환율은 공개되지 않았다.",
+      "2번. 돈의 흐름을 나누면 이 사업의 구매자가 보인다. 고용주는 복지로 Petunia를 제공하고, 가족은 필요할 때 결제하며, 시설은 비용을 내지 않는다. Care.com 조사에서도 직원의 53퍼센트가 돌봄 문제로 일을 빠뜨렸고 85퍼센트는 돌봄 복지가 이직에 영향을 줄 수 있다고 답했다. 조사 결과가 서비스의 인과 효과를 증명하는 것은 아니다. 미국 노동통계국은 2023년과 2024년 평균으로 무급 노인돌봄 제공자를 3,820만 명으로 집계했다. 가족의 시간은 복지와 생산성 문제로 이어진다.",
+      "3번. 작은 사업자가 시험할 방법은 두 가지다. 지역 시설 다섯 곳의 가격과 조건을 한 장 비교표로 만들고, 가족 회의와 방문 메모를 공동 기록으로 묶는다. 그 자료를 가족의 일회성 진단으로 팔지, 회사 복지로 제안할지 따로 실험한다. 이용자, 결제자와 추천으로 이익을 얻는 주체를 분리하면 가격표가 선명해진다. 비교표를 만드는 사람과 시설 추천으로 돈을 버는 사람을 분리하면 신뢰를 가격에 넣을 수 있다. Petunia가 시설에서 추천 수수료를 받지 않는다고 강조하는 이유다."
+    ],
+    "instagram": {
+      "caption": "돌봄 서비스의 첫 구매자는 환자가 아닐 수 있습니다.\n\n미국 Petunia는 시니어 주거시설을 찾는 가족의 비교와 기록을 회사 복지로 제공합니다. 가족은 무료 자가진단 뒤 필요하다고 판단하면 전체 플랫폼에 1회 200달러를 냅니다. 시설은 추천 수수료를 내지 않습니다.\n\n회사는 시설 검색에 평균 70시간 이상이 든다고 안내합니다. 이 숫자는 Petunia 자체 조사입니다. Care.com 조사에서는 직원의 53퍼센트가 돌봄 문제로 일을 빠뜨렸고, 85퍼센트가 돌봄 복지가 이직에 영향을 줄 수 있다고 답했습니다.\n\n돈 되는 포인트는 기능이 아니라 돈의 흐름입니다. 고용주가 복지로 제공하고, 가족이 필요할 때 결제하고, 시설은 추천 수수료에서 벗어나는 구조입니다.\n\n출처: Petunia 공식 안내, Care.com 2026 Future of Benefits Report, 미국 노동통계국\n\n⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다.\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#시니어비즈니스 #돌봄복지 #헬스케어비즈니스 #비즈니스모델 #가족돌봄 #고령친화 #그사이",
+      "cards": [
+        "돌봄 서비스의 첫 구매자는 환자가 아닐 수 있다",
+        "Petunia는 시니어 주거시설 선택을 회사 복지로 만든다",
+        "가족은 무료 자가진단 뒤 전체 플랫폼에 1회 200달러를 낸다",
+        "회사는 시설 검색에 평균 70시간 이상이 든다고 안내한다. 자체 조사 수치다",
+        "고용주는 복지로 제공하고, 시설은 추천 수수료를 내지 않는다",
+        "이용자, 결제자와 추천으로 이익을 얻는 주체를 가격표에서 나눠라"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 주거시설 찾는 70시간을 회사 복지로 만든 서비스의 돈 흐름",
+      "hook": "가족이 부모님의 시니어 주거시설을 찾는 데 70시간 이상을 쓴다면, 누가 이 시간을 줄이는 서비스에 돈을 낼까요? 미국 Petunia는 회사 복지로 들어가 가족에게 1회 200달러를 받습니다.",
+      "script": "가족이 부모님의 시니어 주거시설을 찾는 데 70시간 이상을 쓴다면, 누가 이 시간을 줄이는 서비스에 돈을 낼까요? 미국 Petunia는 회사 복지로 들어가 가족에게 1회 200달러를 받습니다.\n\n가족은 먼저 무료 자가진단으로 돌봄 필요와 재정 준비도를 확인합니다. 시니어 주거시설이 맞다고 판단하면 가족 대시보드, 방문 기록과 비공개 이메일이 포함된 전체 플랫폼을 이용합니다. 회사 안내 페이지가 말하는 검색 시간은 70시간 이상이지만, 이 수치는 Petunia의 자체 조사입니다.\n\n돈의 흐름은 세 갈래입니다. 고용주는 직원 복지로 서비스를 제공하지만 도입 가격은 공개되지 않았습니다. 가족은 필요할 때 200달러를 한 번 내고, 시설은 추천 수수료와 입점비를 내지 않습니다. 회사는 창업자가 30곳 이상의 시설을 둘러보고 70곳 이상의 가족을 인터뷰했다고 설명합니다.\n\n왜 회사가 관심을 가질까요? Care.com의 2026년 조사에서 직원의 53퍼센트가 돌봄 문제로 일을 빠뜨렸고, 48퍼센트가 돌봄을 찾거나 관리하느라 생산성이 떨어졌다고 답했습니다. 85퍼센트는 돌봄 복지가 이직에 영향을 줄 수 있다고 답했습니다. 다만 자체 설문 결과를 실제 복지 도입의 효과로 확대하면 안 됩니다.\n\n작은 사업자는 지역 시설 다섯 곳의 가격과 조건을 비교표로 만들고, 가족의 방문 메모와 결정 이유를 공동 기록으로 묶어볼 수 있습니다. 이를 개인에게 일회성 진단으로 팔지, 회사 복지로 제안할지 따로 시험하면 됩니다. 핵심은 기능보다 누가 이용하고, 누가 결제하고, 누가 추천으로 이익을 얻는지 나누는 것입니다.\n\n출처는 Petunia 공식 안내, Care.com 2026 Future of Benefits Report와 미국 노동통계국 자료입니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Petunia 가족 안내",
+      "url": "https://usepetunia.com/employee-experience"
+    },
+    {
+      "name": "Petunia 회사 소개",
+      "url": "https://usepetunia.com/company"
+    },
+    {
+      "name": "Petunia 시니어 주거시설 운영자 안내",
+      "url": "https://usepetunia.com/senior-living-operators"
+    },
+    {
+      "name": "Care.com 2026 Future of Benefits Report",
+      "url": "https://www.care.com/about/press/new-care-com-research-reveals-a-critical-visibility-gap-in-a-modern-workforce-that-runs-on-caregiving/"
+    },
+    {
+      "name": "미국 노동통계국 무급 노인돌봄 통계",
+      "url": "https://www.bls.gov/news.release/pdf/elcare.pdf"
+    },
+    {
+      "name": "Tansomans GX 방문요양 EV 실증 발표",
+      "url": "https://corp.tanso-man.com/news/bunkyo-ev-kaigo/"
+    },
+    {
+      "name": "미사키미라이 L-noa 실증 발표",
+      "url": "https://mfh.co.jp/lnoa-bunkyo-care-demonstration/"
+    },
+    {
+      "name": "Carevo 작동 방식",
+      "url": "https://carevo.com.au/about/how-carevo-works"
+    },
+    {
+      "name": "Carevo 가격표",
+      "url": "https://carevo.com.au/pricing"
+    },
+    {
+      "name": "호주 보건부 Support at Home 가격 규정",
+      "url": "https://www.health.gov.au/our-work/support-at-home/charging-for-support-at-home-services/prices-for-support-at-home-participants?language=aus-C7"
+    },
+    {
+      "name": "Petunia 공식 로고",
+      "url": "https://usepetunia.com/logos/petunia-logo-wide.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
