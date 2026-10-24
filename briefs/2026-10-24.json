@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-24",
+  "generated_at_kst": "2026-10-24T12:02:48+09:00",
+  "mode": "new",
+  "headline": "Baba는 AI를 환자 구독이 아니라 Medicare 보장과 결과 지급의 흐름에 얹는다",
+  "insights": [
+    {
+      "title": "Baba는 환자에게 구독료보다 보장되는 케어 업무를 판다",
+      "summary": "미국 Baba는 Medicare 가입자의 예약, 보험 서류, 처방과 퇴원 후 확인을 간호사, 사회복지사와 AI로 돕는다. 공식 사이트는 적격 가입자의 서비스가 Medicare로 보장되며 대부분 본인부담이 없다고 설명한다. 10,000명 이상 지원, 15,000시간 이상 지원과 평균 상담까지 24시간 미만은 회사가 공개한 운영 수치다. CMS의 ACCESS Model은 10년 동안 기술 기반 만성질환 관리에 결과 연동 지급을 시험한다. Baba의 투자금과 실제 보험자 계약 단가는 공개 실적과 분리해야 한다.",
+      "takeaway": "헬스케어 기능을 만들기 전에 실제로 돈을 내는 보험자와 측정할 결과를 먼저 정하라.",
+      "source_type": "media",
+      "source_name": "Baba 공식 사이트, FirstMark Capital, CMS ACCESS Model",
+      "source_url": "https://www.callbaba.com/"
+    },
+    {
+      "title": "Channel Talk은 AI를 답변 도구가 아니라 실행 예산으로 묶는다",
+      "summary": "Channel Works AI Edition은 AI CoS가 고객 대화와 데이터를 분석해 다음 전략을 제안하고, ALF Marketing이 구매 가능성이 높은 고객에게 먼저 대화하도록 설계됐다. 회사는 2026년에 출시된 채널 기준 고객 문의의 평균 80%를 ALF가 해결한다고 밝혔다. 새 요금제는 기능별 사용량을 따로 세기보다 서비스 크레딧과 선불 추가 구매로 비용을 보이게 한다.",
+      "takeaway": "AI 가격표를 기능 수가 아니라 고객에게 실제로 실행한 업무와 서비스 크레딧으로 설명하라.",
+      "source_type": "blog",
+      "source_name": "Channel Talk 공식 AI Edition 공지",
+      "source_url": "https://docs.channel.io/updates/en/articles/%EA%B3%B5%EC%A7%80-10%EC%9B%94-16%EC%9D%BC-%EC%B1%84%EB%84%90%EC%9B%8D%EC%8A%A4-AI-%EC%97%90%EB%94%94%EC%85%98-%EC%B6%9C%EC%8B%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%95%88%EB%82%B4-%EA%B8%B0%EC%A1%B4-%ED%94%8C%EB%9E%9C%EC%9A%94%EA%B8%88-%EC%9C%A0%EC%A7%80-b3dbef91"
+    },
+    {
+      "title": "Superwall은 결제 화면보다 실험과 승인 루프를 판다",
+      "summary": "Superwall은 결제 화면을 코드에 두고 SQL API, 광고 유입 추적과 앱에서 웹으로 이어지는 결제를 묶었다. 2026년 10월 22일 발표에서 고객의 에이전트가 결제 화면을 만들고 실험을 시작해 결과를 읽는 흐름을 소개했고, Status AI는 매일 오전 9시에 유지할 테스트와 중단할 테스트를 고른 뒤 Slack 승인 후 배포한다고 설명했다. 회사 데이터상 새 가입자의 70%는 첫 앱을 만들고 있으며 그중 앱스토어에 도달하는 비율은 10%다.",
+      "takeaway": "앱 수익화 도구는 결제 화면 하나보다 실험, 분석, 배포와 사람 승인을 한 흐름으로 팔아라.",
+      "source_type": "blog",
+      "source_name": "Superwall 2026 Keynote",
+      "source_url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+    },
+    {
+      "title": "AstraZeneca와 Oracle은 의료 AI를 공동 실증으로 시장에 넣는다",
+      "summary": "AstraZeneca와 Oracle Health and Life Sciences는 임상시험 대상자 찾기, 조기 진단, 안전성 모니터링과 진료 지침 적용을 함께 시험하는 글로벌 협력을 발표했다. 첫 프로그램은 아부다비에서 M42와 함께 조절되지 않는 고혈압 환자를 찾고 임상시험 모집을 돕는 방식이다. 미국, 중동과 유럽의 여러 프로젝트를 예고했지만 계약 금액과 매출은 공개되지 않았다.",
+      "takeaway": "규제 산업에 들어갈 때 단품 기능보다 현장 파트너, 첫 실증 지역과 책임 경계를 먼저 설계하라.",
+      "source_type": "media",
+      "source_name": "AstraZeneca와 Oracle 공식 발표",
+      "source_url": "https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-oracle-launch-global-ai-collaboration-advance-clinical-trial-optimisation-support-better-patient-outcomes.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "헬스케어 AI의 결제 단위가 환자 이용료에서 결과와 보험 흐름으로 이동한다",
+      "summary": "Baba는 적격 Medicare 가입자에게 본인부담이 거의 없는 케어 지원을 제공하고, CMS ACCESS는 활동량이 아니라 결과를 기준으로 한 반복 지급을 시험한다. 이는 Baba의 매출이나 계약 성과를 증명하는 자료가 아니라 지불 구조가 바뀌는 방향에 대한 관찰이다.",
+      "why_now": "CMS는 2026년 7월부터 10년간 ACCESS를 시작했고, 2026년 10월 20일 기준 160곳 이상의 의료 조직이 참여한다고 밝혔다. 회사와 모델의 공개 수치는 실제 계약 단가와 구분해야 한다.",
+      "source_url": "https://www.cms.gov/priorities/innovation/access-model-participants"
+    },
+    {
+      "theme": "AI SaaS가 답변량보다 실행 예산을 가격표에 올린다",
+      "summary": "Channel Talk은 문의 해결, 고객 분석과 구매 대화까지 서비스 크레딧으로 묶고, Superwall은 결제 화면과 실험, 분석과 배포를 하나의 운영 루프로 만든다. 기능 수보다 어떤 업무를 끝냈는지가 가격의 설명 단위가 된다.",
+      "why_now": "생성 AI 기능이 비슷해질수록 고객은 답변 개수보다 매출 회복, 실험 완료와 승인 기록을 비교하게 된다. 다만 두 회사 모두 이 구조가 매출 증가를 만들었다는 독립 검증 수치를 공개하지 않았다.",
+      "source_url": "https://docs.channel.io/updates/en/articles/%EA%B3%B5%EC%A7%80-10%EC%9B%94-16%EC%9D%BC-%EC%B1%84%EB%84%90%EC%9B%8D%EC%8A%A4-AI-%EC%97%90%EB%94%94%EC%85%98-%EC%B6%9C%EC%8B%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%95%88%EB%82%B4-%EA%B8%B0%EC%A1%B4-%ED%94%8C%EB%9E%9C%EC%9A%94%EA%B8%88-%EC%9C%A0%EC%A7%80-b3dbef91"
+    },
+    {
+      "theme": "앱 수익화가 코드와 에이전트가 반복하는 실험으로 내려간다",
+      "summary": "Superwall은 결제 화면을 코드에 두고 에이전트가 실험을 만들고 결과를 읽는 구조를 제시했다. Status AI 사례에서는 사람 승인 전에는 배포하지 않는 운영 경계도 함께 보여준다.",
+      "why_now": "앱을 만드는 사람이 늘어도 앱스토어까지 가는 비율은 낮다. 회사가 공개한 새 가입자와 출시 비율은 특정 서비스의 내부 데이터이므로 시장 전체의 전환율로 확대하면 안 된다.",
+      "source_url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+    },
+    {
+      "theme": "헬스케어 AI의 초기 판매는 대형 기업과 지역 운영자의 공동 실증으로 열린다",
+      "summary": "AstraZeneca는 과학과 규제 경험을, Oracle은 데이터와 클라우드와 임상 업무 기능을, M42는 아부다비 현장 접근을 맡는 협력 구조를 공개했다. 첫 프로그램의 문제와 지역이 선명할수록 기능 목록보다 도입 이유를 설명하기 쉽다.",
+      "why_now": "임상 연구와 진료 흐름은 데이터, 규제와 현장 책임이 동시에 필요하다. 이번 발표는 협력 계획을 보여주지만 실제 환자 결과, 계약 단가와 매출을 보여주지는 않는다.",
+      "source_url": "https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-oracle-launch-global-ai-collaboration-advance-clinical-trial-optimisation-support-better-patient-outcomes.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Baba, 미국",
+      "what": "Medicare와 Medicare Advantage 가입자에게 사람 중심의 케어 네비게이션을 제공하고 AI로 서류와 후속 조율을 보조하는 서비스",
+      "how": "간호사, 사회복지사와 혜택 전문가가 의료진과 보험자에게 전화하고 예약, 처방, 교통, 장비와 퇴원 후 확인을 이어간다. AI는 기록에서 놓친 후속 업무를 찾고 통화와 문자로 다음 행동을 돕는다. 가입자와 가족이 주요 사용자이며 보험자와 Medicare가 비용 흐름의 핵심이다.",
+      "numbers": "Baba 공식 사이트는 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만, 27개 이상 언어를 표시한다. 2026년 10월 20일 발표된 Series A 4,000만달러는 성장 자금이며 매출이나 보험자 지급액이 아니다. 회사는 적격 가입자의 서비스가 Medicare로 보장되고 대부분 본인부담이 없다고 설명하지만 개별 계약 단가와 손익은 공개하지 않았다.",
+      "source_url": "https://www.callbaba.com/"
+    },
+    {
+      "who": "Channel Talk의 Channel Works AI Edition, 한국",
+      "what": "고객 대화와 데이터를 분석하고 고객지원과 구매 대화를 실행하는 기업용 AI 운영 제품",
+      "how": "AI CoS가 매출과 고객 대화에서 다음 분석과 행동을 제안하고 ALF Marketing이 구매 가능성이 높은 고객에게 먼저 말을 건다. AI 지원은 문의를 해결하고, 서비스 크레딧은 분석, 워크플로와 마케팅 기능을 한 예산으로 묶는다.",
+      "numbers": "공식 공지 기준 ALF는 2026년에 출시된 채널에서 실제 고객 문의의 평균 80%를 해결한다고 회사가 밝혔다. 2026년 10월 16일 이후 신규 가입자는 AI Edition과 새 요금 구조로 시작하며 기존 유료 고객의 가격은 그대로다. 매출 증가와 유료 전환율은 공개되지 않았다.",
+      "source_url": "https://docs.channel.io/updates/en/articles/%EA%B3%B5%EC%A7%80-10%EC%9B%94-16%EC%9D%BC-%EC%B1%84%EB%84%90%EC%9B%8D%EC%8A%A4-AI-%EC%97%90%EB%94%94%EC%85%98-%EC%B6%9C%EC%8B%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%95%88%EB%82%B4-%EA%B8%B0%EC%A1%B4-%ED%94%8C%EB%9E%9C%EC%9A%94%EA%B8%88-%EC%9C%A0%EC%A7%80-b3dbef91"
+    },
+    {
+      "who": "Superwall, 미국",
+      "what": "앱의 결제 화면, 구독 실험과 수익화 분석을 코드와 에이전트 흐름으로 연결하는 플랫폼",
+      "how": "결제 화면을 React와 TypeScript 코드에 두고 SQL API와 광고 유입 추적을 제공한다. 회사가 소개한 Status AI 사례에서는 여러 에이전트가 실험 아이디어, 분석, 결제 화면 제작과 기록을 나누며 매일 오전 9시에 중단 또는 유지할 테스트를 고른다. 배포 전 승인은 Slack에서 사람이 한다.",
+      "numbers": "2026년 10월 22일 회사 발표는 새 가입자의 70%가 첫 앱을 만들고 그중 10%만 App Store에 도달한다고 설명한다. 이는 Superwall의 온보딩 퍼널 내부 데이터다. 고객 앱의 매출 증가와 수익화 성과는 이번 발표에서 공개되지 않았다.",
+      "source_url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+    },
+    {
+      "who": "AstraZeneca, Oracle Health and Life Sciences, M42",
+      "what": "제약사의 임상 및 규제 역량과 클라우드, 실세계 데이터와 현장 의료 운영을 연결하는 글로벌 AI 협력",
+      "how": "임상시험 대상자 찾기, 조기 진단, 안전성 모니터링과 진료 지침 적용을 여러 지역에서 시험한다. 첫 프로그램은 아부다비에서 M42와 함께 조절되지 않는 고혈압 환자를 찾고 임상시험 모집을 지원한다.",
+      "numbers": "2026년 10월 20일 발표 기준 첫 프로그램과 미국, 중동, 유럽의 여러 프로젝트 계획은 공개됐지만 계약 금액, 매출, 환자 결과와 도입 비용은 공개되지 않았다. 협력 발표를 상용 성과로 확대하지 않는다.",
+      "source_url": "https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-oracle-launch-global-ai-collaboration-advance-clinical-trial-optimisation-support-better-patient-outcomes.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "CMS ACCESS Model",
+      "use": "기술 기반 만성질환 관리의 결과 연동 지급, 참가 조건과 기간을 확인하는 공공 원자료로 사용한다.",
+      "source_url": "https://www.cms.gov/priorities/innovation/innovation-models/access"
+    },
+    {
+      "name": "Channel Talk AI CoS와 ALF",
+      "use": "고객 대화 분석, 문의 해결과 구매 대화 실행을 서비스 크레딧으로 묶는 흐름을 확인한다.",
+      "source_url": "https://channel.io/us/cos"
+    },
+    {
+      "name": "Superwall MCP와 Monetization Loop",
+      "use": "결제 화면, 실험, 분석과 사람 승인을 코드 기반 운영 루프로 설계하는 참고 자료로 사용한다.",
+      "source_url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+    },
+    {
+      "name": "Baba 케어 네비게이션",
+      "use": "환자와 가족의 케어 조율을 보험자와 Medicare의 보장 흐름에 연결하는 실제 서비스 구조를 확인한다.",
+      "source_url": "https://www.callbaba.com/"
+    }
+  ],
+  "quote": {
+    "text": "The models are ready. Your tooling isn't.",
+    "author": "Jake Mor, Superwall 공동창업자 겸 CEO",
+    "source_url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+  },
+  "newsletter": {
+    "title": "환자에게 구독료를 받지 않는 AI 헬스케어의 가격표",
+    "body_md": "이번 주 가장 강한 주장은 AI 헬스케어의 큰 지불자가 환자가 아니라 보험자와 공공 지급 구조가 될 수 있다는 점이다. 미국 Baba는 간호사, 사회복지사와 AI를 묶어 Medicare 가입자의 예약, 보험 서류, 처방과 퇴원 후 업무를 처리하고, 적격 가입자는 대부분 본인부담이 없다고 안내한다. 회사 사이트에는 10,000명 이상 지원, 15,000시간 이상 지원과 평균 상담까지 24시간 미만이 표시돼 있지만 회사 공개 수치다. CMS ACCESS Model은 10년 동안 기술 기반 만성질환 관리에 결과 연동 지급을 시험하며, 2026년 10월 20일 기준 160곳 이상의 조직이 참여한다. 독자는 기능을 더 만들기 전에 누가 비용을 부담하는지, 결과를 어떤 숫자로 판단할지, 사람의 승인 지점을 어디에 둘지 정해야 한다. Baba의 4,000만달러 Series A는 성장 자금이지 매출 증명이 아니다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "환자에게 구독료를 받지 않는 AI 헬스케어의 가격표",
+      "hook": "환자는 거의 돈을 내지 않는데도 AI 헬스케어 서비스가 커지는 구조가 있다.",
+      "core_claim": "Baba는 환자용 앱 구독보다 보험자와 Medicare가 비용을 부담하는 케어 네비게이션에 사람과 AI를 결합하고, CMS ACCESS는 결과 연동 지급을 시험한다.",
+      "primary_case": "미국 Baba의 Medicare 케어 네비게이션",
+      "public_number": "회사 사이트 표시 기준 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만. Series A 4,000만달러는 투자금이며 실적과 분리.",
+      "payer": "적격 Medicare와 Medicare Advantage 가입자의 보험 및 정부 지급 구조, 개별 계약 단가는 공개되지 않음",
+      "seven_day_action": "내 서비스의 사용자가 아니라 실제 지불자와 지불자가 확인할 결과를 한 장으로 정리하고, 사람 승인 지점 하나를 측정한다.",
+      "source_urls": [
+        "https://www.callbaba.com/",
+        "https://www.cms.gov/priorities/innovation/access-model-participants",
+        "https://firstmark.com/story/ai-native-care-leading-babas-40m-series-a/"
+      ]
+    },
+    {
+      "title": "문의 해결률 80%를 서비스 크레딧으로 파는 AI 운영 제품",
+      "hook": "AI가 몇 번 답했는지가 아니라 어떤 고객 업무를 끝냈는지가 요금표가 된다.",
+      "core_claim": "Channel Talk은 고객지원, 데이터 분석과 구매 대화를 서비스 크레딧으로 묶고, 기능별 사용량 계산을 줄이는 실행형 AI 요금 구조를 제시한다.",
+      "primary_case": "Channel Works AI Edition과 ALF",
+      "public_number": "회사 기준 2026년 출시 채널의 실제 고객 문의 평균 80% 해결. 매출과 유료 전환율은 공개되지 않음.",
+      "payer": "고객지원과 마케팅 운영을 맡은 기업",
+      "seven_day_action": "반복 문의, 이탈 고객 재접촉과 장바구니 회복 중 하나를 골라 처리 완료 건수와 사람 승인 시간을 기록한다.",
+      "source_urls": [
+        "https://docs.channel.io/updates/en/articles/%EA%B3%B5%EC%A7%80-10%EC%9B%94-16%EC%9D%BC-%EC%B1%84%EB%84%90%EC%9B%8D%EC%8A%A4-AI-%EC%97%90%EB%94%94%EC%85%98-%EC%B6%9C%EC%8B%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%95%88%EB%82%B4-%EA%B8%B0%EC%A1%B4-%ED%94%8C%EB%9E%9C%EC%9A%94%EA%B8%88-%EC%9C%A0%EC%A7%80-b3dbef91",
+        "https://channel.io/us/cos"
+      ]
+    },
+    {
+      "title": "앱 결제 화면을 에이전트의 매일 실험으로 바꾸는 법",
+      "hook": "앱 수익화 도구가 결제 화면을 만드는 데서 멈추지 않고 매일 실험을 고른다.",
+      "core_claim": "Superwall은 결제 화면, 분석, 실험과 배포를 코드와 에이전트의 루프로 연결하지만 배포 전 사람 승인을 남긴다.",
+      "primary_case": "Superwall과 Status AI의 수익화 루프",
+      "public_number": "Superwall 발표 기준 새 가입자의 70%가 첫 앱을 만들고 그중 10%가 App Store에 도달. 고객 앱의 매출 성과는 공개되지 않음.",
+      "payer": "구독형 앱 개발사와 앱 스튜디오",
+      "seven_day_action": "결제 화면 하나의 실험 가설, 성공 지표, 중단 기준과 승인자를 먼저 적고 한 번에 한 변수만 바꾼다.",
+      "source_urls": [
+        "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+      ]
+    },
+    {
+      "title": "헬스케어 AI는 기능보다 첫 실증 지역을 먼저 판다",
+      "hook": "임상 AI는 제품 하나로 병원에 들어가기보다 제약사, 클라우드와 지역 운영자를 묶는다.",
+      "core_claim": "AstraZeneca, Oracle과 M42는 아부다비 고혈압 관리와 임상시험 모집을 첫 프로그램으로 삼아 과학, 데이터와 현장 책임을 한 흐름에 넣는다.",
+      "primary_case": "AstraZeneca와 Oracle의 글로벌 AI 협력, M42의 아부다비 첫 프로그램",
+      "public_number": "첫 프로그램과 미국, 중동, 유럽의 프로젝트 계획은 공개됐지만 계약 금액, 매출과 환자 결과는 공개되지 않음.",
+      "payer": "제약사, 의료기관과 공공 및 지역 의료 운영 주체의 공동 도입 구조",
+      "seven_day_action": "규제 산업의 새 서비스라면 기능 목록보다 첫 지역, 현장 파트너, 책임자와 측정할 업무 결과를 한 장으로 만든다.",
+      "source_urls": [
+        "https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-oracle-launch-global-ai-collaboration-advance-clinical-trial-optimisation-support-better-patient-outcomes.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "Baba는 AI를 환자 구독이 아니라 Medicare 보장 업무로 판다",
+      "body_md": "AI 헬스케어 서비스는 환자에게 월 구독료를 받는 방식으로만 커지지 않는다. 미국의 Baba는 예약, 처방, 보험 서류와 퇴원 후 확인을 사람과 AI로 처리하고, 적격 Medicare 가입자에게 대부분 본인부담이 없는 케어 지원을 제공한다고 안내한다. 돈이 흐르는 곳을 환자 화면이 아니라 보험과 공공 지급의 업무로 옮긴 사례다.\n\n## Baba가 파는 것은 답변이 아니라 케어의 다음 단계다\n\nBaba의 공식 사이트를 보면 이용자는 앱에서 답을 기다리는 사람이 아니다. 간호사, 사회복지사와 혜택 전문가가 의사와 보험사에 전화하고, 전문의 예약을 잡고, 처방 비용과 교통편을 확인하고, 병원에서 돌아온 뒤 약과 후속 진료를 다시 확인한다. AI는 의료 기록에서 놓친 의뢰나 승인 지연을 찾고, 사람의 동의를 받은 뒤 문자와 전화로 다음 행동을 이어준다. 사용자는 환자와 가족이지만, 지불 구조의 핵심은 Medicare와 Medicare Advantage다.\n\n공식 사이트에는 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만, 27개 이상 언어가 표시돼 있다. 이 숫자는 회사가 공개한 운영 수치이지 감사된 매출이나 보험자 계약 실적은 아니다. 2026년 10월 20일 공개된 4,000만달러 Series A도 서비스 성과가 아니라 확장에 쓰는 투자금으로 따로 봐야 한다.\n\n## 결과를 지불 기준으로 바꾸는 실험\n\nCMS의 ACCESS Model은 기술 기반 만성질환 관리에 결과 연동 지급을 시험한다. 2026년 7월 5일부터 10년간 운영되며, 10월 20일 기준 160곳 이상의 의료 조직이 참여한다. 기존 진료 행위의 개수보다 혈압 조절이나 건강 상태 같은 결과를 기준으로 반복 지급할 수 있는지 확인하는 모델이다. Baba가 이 모델에 선정됐다는 사실은 새로운 지불 경로를 시험할 수 있다는 뜻이지, 이미 안정적인 매출이 발생했다는 뜻은 아니다.\n\n작은 사업자가 가져갈 방법은 두 가지다. 첫째, 사용자를 늘리기 전에 실제 지불자를 적는다. 환자, 가족, 고용주, 보험사 중 누가 돈을 내고 어떤 문제를 줄이고 싶은지 분리하면 가격이 달라진다. 둘째, 결과를 한 가지 업무로 좁힌다. 예약 완료율, 승인 대기시간, 퇴원 후 확인 완료처럼 사람의 확인이 가능한 지표를 정하고, AI가 초안을 만들더라도 최종 승인자와 기록을 남긴다.\n\nBaba의 사례가 보여주는 것은 AI가 의료인을 없앤다는 약속이 아니다. 반복되는 서류와 후속 조율을 줄여 사람의 케어 시간을 살리고, 그 결과를 보험자와 공공 지급 체계가 이해할 수 있는 언어로 바꾸는 가격 설계다.\n\n출처: [Baba 공식 사이트](https://www.callbaba.com/), [FirstMark Capital의 Baba 투자 글](https://firstmark.com/story/ai-native-care-leading-babas-40m-series-a/), [CMS ACCESS Model](https://www.cms.gov/priorities/innovation/innovation-models/access), [CMS 참여 조직 목록](https://www.cms.gov/priorities/innovation/access-model-participants)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "환자에게 구독료를 받지 않는 AI 헬스케어가 있습니다.\n\n미국 Baba는 Medicare 가입자의 예약, 보험 서류, 처방과 퇴원 후 확인을 간호사, 사회복지사와 AI로 돕습니다. 적격 가입자는 대부분 본인부담이 없다고 안내합니다. 이 회사가 먼저 잡은 고객은 환자가 아니라 보험과 지급 구조입니다.",
+      "Baba 공식 사이트에 공개된 숫자는 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만, 27개 이상 언어입니다. 모두 회사가 표시한 운영 수치입니다. 4,000만달러 Series A는 성장 자금이지 매출이나 보험자 지급액이 아닙니다.",
+      "CMS ACCESS Model은 2026년 7월 5일부터 10년 동안 기술 기반 만성질환 관리에 결과 연동 지급을 시험합니다. 10월 20일 기준 160곳 이상의 의료 조직이 참여합니다. 활동량보다 혈압 조절과 같은 결과를 보겠다는 구조입니다. Baba의 선정은 매출 증명이 아니라 새 지급 경로를 시험할 기회입니다.",
+      "작게 적용하려면 두 가지만 먼저 적으세요. 실제 지불자와 지불자가 줄이고 싶은 비용, 그리고 예약 완료율이나 승인 대기시간처럼 사람이 확인할 결과입니다. AI가 초안을 만들더라도 최종 승인자와 기록은 남겨야 합니다.\n\n출처: Baba 공식 사이트, CMS ACCESS Model, FirstMark Capital\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "환자에게 구독료를 받지 않는 AI 헬스케어가 있습니다.\n\n미국 Baba는 Medicare 가입자의 예약, 보험 서류, 처방과 퇴원 후 확인을 간호사, 사회복지사와 AI로 돕습니다. 적격 가입자는 서비스가 Medicare로 보장되고 대부분 본인부담이 없다고 안내합니다.\n\n공식 사이트에는 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만, 27개 이상 언어가 표시돼 있습니다. 회사 공개 수치이며 매출이나 보험자 계약 단가가 아닙니다.\n\nCMS ACCESS Model은 10년간 기술 기반 만성질환 관리에 결과 연동 지급을 시험하고, 2026년 10월 20일 기준 160곳 이상의 의료 조직이 참여합니다.\n\n작은 사업자라면 기능보다 먼저 실제 지불자와 결과 기준을 정하세요. 환자, 가족, 고용주와 보험사는 서로 다른 가격표를 필요로 합니다.\n\n출처: Baba 공식 사이트, CMS ACCESS Model, FirstMark Capital\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #헬스케어비즈니스 #시니어비즈니스 #AI비즈니스 #케어비즈니스 #가격전략 #수익화",
+      "cards": [
+        "환자에게 구독료를 받지 않는 AI 헬스케어",
+        "Baba는 Medicare 가입자의 예약, 보험 서류, 처방과 퇴원 후 확인을 돕습니다",
+        "누가 돈을 내나\n적격 가입자는 대부분 본인부담이 없고 보험과 Medicare가 비용 흐름의 중심입니다",
+        "공개된 운영 수치\n10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만",
+        "CMS ACCESS\n10년간 결과 연동 지급을 시험, 2026년 10월 20일 기준 160곳 이상 참여",
+        "투자금과 실적은 다릅니다\nSeries A 4,000만달러는 성장 자금이며 매출 증명이 아닙니다",
+        "작게 적용하기\n사용자가 아니라 지불자와 결과 기준부터 정합니다"
+      ]
+    },
+    "youtube": {
+      "title": "환자에게 구독료를 안 받는 AI 헬스케어의 가격 설계",
+      "hook": "환자에게 구독료를 받지 않는 AI 헬스케어 회사가 있습니다. 그런데도 보험자에게는 돈을 받을 수 있습니다.",
+      "script": "환자에게 구독료를 받지 않는 AI 헬스케어 회사가 있습니다. 그런데도 보험자에게는 돈을 받을 수 있습니다.\n\n미국의 Baba는 Medicare 가입자의 예약, 보험 서류, 처방 비용, 교통편과 퇴원 후 확인을 돕습니다. 간호사와 사회복지사 같은 케어 담당자가 의사와 보험사에 전화하고, AI는 기록에서 놓친 의뢰나 승인 지연을 찾아 다음 행동을 정리합니다.\n\nBaba 공식 사이트에는 10,000명 이상 지원, 15,000시간 이상 지원, 평균 상담까지 24시간 미만, 27개 이상 언어가 표시돼 있습니다. 적격 가입자는 서비스가 Medicare로 보장되고 대부분 본인부담이 없다고 안내합니다. 다만 이 숫자는 회사가 공개한 운영 수치이고, 보험자 계약 단가나 매출은 공개되지 않았습니다.\n\n여기서 중요한 건 기능보다 돈의 흐름입니다. 환자에게 앱 구독료를 받는 대신, 보험과 공공 지급이 케어 조율의 비용을 부담합니다. CMS ACCESS Model은 2026년 7월 5일부터 10년 동안 기술 기반 만성질환 관리에 결과 연동 지급을 시험하고 있습니다. 2026년 10월 20일 기준 160곳 이상의 의료 조직이 참여합니다. 활동량이 아니라 혈압 조절이나 건강 상태 같은 결과를 보겠다는 구조입니다.\n\nBaba가 4,000만달러 Series A를 조달했다는 발표는 성장 자금입니다. 매출이나 보험자 지급액과 섞으면 안 됩니다.\n\n작게 적용하는 방법은 두 가지입니다. 먼저 사용자가 아니라 실제 지불자를 적습니다. 그리고 예약 완료율, 승인 대기시간, 퇴원 후 확인 완료처럼 한 가지 결과를 정합니다. AI가 초안을 만들더라도 최종 승인자와 기록은 남겨야 합니다.\n\n헬스케어 AI의 가격은 화면에 붙는 구독료가 아니라, 누가 반복되는 케어 업무를 부담하고 그 결과를 어떻게 확인하는지에서 시작합니다.\n\n출처: Baba 공식 사이트, CMS ACCESS Model, CMS 참여 조직 목록, FirstMark Capital\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Baba 공식 사이트",
+      "url": "https://www.callbaba.com/"
+    },
+    {
+      "name": "FirstMark Capital의 Baba Series A 투자 글",
+      "url": "https://firstmark.com/story/ai-native-care-leading-babas-40m-series-a/"
+    },
+    {
+      "name": "CMS ACCESS Model",
+      "url": "https://www.cms.gov/priorities/innovation/innovation-models/access"
+    },
+    {
+      "name": "CMS ACCESS Model 참여 조직 목록",
+      "url": "https://www.cms.gov/priorities/innovation/access-model-participants"
+    },
+    {
+      "name": "Channel Talk AI Edition 공식 공지",
+      "url": "https://docs.channel.io/updates/en/articles/%EA%B3%B5%EC%A7%80-10%EC%9B%94-16%EC%9D%BC-%EC%B1%84%EB%84%90%EC%9B%8D%EC%8A%A4-AI-%EC%97%90%EB%94%94%EC%85%98-%EC%B6%9C%EC%8B%9C-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%95%88%EB%82%B4-%EA%B8%B0%EC%A1%B4-%ED%94%8C%EB%9E%9C%EC%9A%94%EA%B8%88-%EC%9C%A0%EC%A7%80-b3dbef91"
+    },
+    {
+      "name": "Superwall 2026 Keynote",
+      "url": "https://superwall.com/blog/superwall-keynote-2026-agents-run-your-monetization"
+    },
+    {
+      "name": "AstraZeneca와 Oracle 공식 발표",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-oracle-launch-global-ai-collaboration-advance-clinical-trial-optimisation-support-better-patient-outcomes.html"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
