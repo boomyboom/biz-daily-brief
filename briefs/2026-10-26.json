@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-26",
+  "generated_at_kst": "2026-10-26T12:02:49+09:00",
+  "mode": "new",
+  "headline": "월 4.99달러 AI 피부과는 하지 않을 일부터 정했다",
+  "insights": [
+    {
+      "title": "Nolla Health는 좁은 의료 범위와 검토 단계를 함께 판다",
+      "summary": "Nolla Derm은 유타주 18세 이상 주민의 경증 및 중등도 여드름을 대상으로 월 4.99달러부터의 AI 초기 처방 파일럿을 운영한다. 회사 발표 기준 첫 100명은 의사 두 명이 사전 검토하고, 다음 약 500명은 처방 뒤 최소 주 1회 검토한다. 실제 환자 수, 매출과 유지율은 공개되지 않았다.",
+      "takeaway": "규제 산업에서는 기능을 넓히기보다 하지 않을 일과 사람에게 넘길 조건을 먼저 가격표에 적어라.",
+      "source_type": "media",
+      "source_name": "Nolla Health 공식 발표, 유타 AI 파일럿 공공 기록, KSL",
+      "source_url": "https://www.nollahealth.com/blog/ai-prescriptions-utah"
+    },
+    {
+      "title": "Puyo Puyo Trainer는 익숙한 게임을 시설의 반복 여가로 바꾼다",
+      "summary": "Puyo Puyo Trainer는 돌봄과 복지시설의 레크리에이션 준비 부담과 프로그램의 단조로움을 겨냥한 브라우저형 서비스다. 시설 이용 플랜은 이용자 등록 100명까지 월 3,300엔 또는 연 33,000엔이며, 게임 효과를 치료 성과로 약속하지 않는다. 고객 수와 재계약률은 공개되지 않았다.",
+      "takeaway": "시설용 콘텐츠는 새 기기보다 직원이 반복 운영할 수 있는 준비 시간과 기록 방식을 함께 팔아라.",
+      "source_type": "blog",
+      "source_name": "Puyo Puyo Trainer 공식 가격표와 ITmedia 보도",
+      "source_url": "https://puyo-puyo-trainer.jp/pricing/"
+    },
+    {
+      "title": "NOCK DESIGN은 돌봄 채용 영상에 동의와 승인 절차를 넣었다",
+      "summary": "NOCK DESIGN의 돌봄 전용 TikTok 채용 플랜은 월 4편, 월 28만엔부터, 최소 6개월 계약이다. 촬영 전 운영 규칙, 이용자와 직원의 화면 노출 확인, 공개 전 승인 기록과 퇴직 또는 철회 때 비공개 절차를 포함한다. 지원자와 채용을 보장하지 않으며 초기 비용과 광고비는 별도다.",
+      "takeaway": "돌봄 콘텐츠의 구매자는 조회수가 아니라 개인정보와 공개 승인까지 관리되는 제작 과정에 돈을 낼 수 있다.",
+      "source_type": "media",
+      "source_name": "NOCK DESIGN 공식 발표와 서비스 사례",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000098249.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "규제 산업 상품은 허용 범위와 검토 단계로 가격을 만든다",
+      "summary": "Nolla의 유타 파일럿은 모든 피부 질환을 다루지 않고 성인 경증 및 중등도 여드름과 일부 국소 치료로 범위를 제한한다. 의사 검토 단계와 중대한 이상사례 기준을 운영에 포함한 사례다.",
+      "why_now": "AI가 진료와 처방에 가까워질수록 모델 성능만이 아니라 어떤 환자를 받지 않고 언제 사람에게 넘기는지가 도입 조건과 가격의 일부가 된다.",
+      "source_url": "https://commerce.utah.gov/ai/regulatory-relief-4/authorized-pilots/"
+    },
+    {
+      "theme": "돌봄시설의 여가 예산이 반복 가능한 브라우저 서비스로 내려온다",
+      "summary": "Puyo Puyo Trainer는 전용 기기와 설치 없이 PC 또는 태블릿에서 이용하고, 이용자 관리와 플레이 기록을 시설 계정에 붙인다. 월 요금은 콘텐츠 자체보다 반복 운영 조건을 기준으로 읽어야 한다.",
+      "why_now": "2026년 10월 정식 제공이 시작됐고, 기관은 행사 하루 이용과 시설 월 구독 중에서 프로그램의 반복성에 맞는 결제 단위를 고를 수 있다.",
+      "source_url": "https://puyo-puyo-trainer.jp/pricing/"
+    },
+    {
+      "theme": "돌봄 채용 콘텐츠에 개인정보 승인 운영이 포함된다",
+      "summary": "NOCK DESIGN은 돌봄시설 촬영에서 이름, 병세 정보, 기록, 명찰과 동의받지 않은 얼굴의 화면 노출을 확인하고, 시설 승인 뒤에만 게시하는 절차를 표준 범위로 제시했다.",
+      "why_now": "돌봄 현장은 채용 홍보와 이용자 보호가 같은 화면에 부딪히기 쉬워, 조회수 대행만으로는 시설이 감당할 승인과 철회 업무를 설명하기 어렵다.",
+      "source_url": "https://nock-design.com/nichiyobi/service/tiktok-op"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Nolla Health, 미국",
+      "what": "유타주 성인 경증 및 중등도 여드름을 대상으로 한 좁은 범위의 AI 초기 처방 파일럿",
+      "how": "이용자가 본인 확인과 동의, 문진, 얼굴 다섯 각도 사진을 제출하면 AI가 사전 승인된 국소 치료 계획 중에서 초기 처방을 연결한다. 중증 여드름과 임신 등 파일럿 밖의 조건은 면허를 가진 의사 또는 대면 진료로 넘긴다.",
+      "numbers": "회사 발표 기준 월 4.99달러부터, 첫 100명은 의사 두 명의 처방 전 검토, 다음 약 500명은 처방 후 최소 주 1회 검토다. 단계 전환에는 의사 일치율 95퍼센트, 중대한 이상사례 0건과 주정부 승인이 필요하다고 회사가 설명한다. 실제 환자 수와 매출은 공개되지 않았다.",
+      "source_url": "https://www.nollahealth.com/blog/ai-prescriptions-utah"
+    },
+    {
+      "who": "Puyo Puyo Trainer 제작위원회, 일본",
+      "what": "돌봄과 복지시설의 레크리에이션을 위한 브라우저형 퍼즐 게임 구독",
+      "how": "PC 또는 태블릿 브라우저에서 설치 없이 이용하고, 개인 이용자 등록과 플레이 기록 저장, CSV 출력을 제공한다. 시설의 일상 활동, 두 사람 대전과 행사 운영에 맞춰 쓰도록 설계했다.",
+      "numbers": "시설 이용 플랜은 이용자 등록 100명까지 월 3,300엔 또는 연 33,000엔이다. 이벤트 플랜은 하루 66,000엔이고, 상설 전시 플랜은 1주 11,000엔이다. 고객 수, 재계약률과 직원 시간 절감은 공개되지 않았다.",
+      "source_url": "https://puyo-puyo-trainer.jp/pricing/"
+    },
+    {
+      "who": "NOCK DESIGN의 니치요우비와 세세라기, 일본",
+      "what": "돌봄시설의 TikTok 채용 콘텐츠 제작과 공개 승인 운영",
+      "how": "월 4편의 기획, 대본, 촬영, 편집, 게시, 댓글 대응과 수치 보고에 촬영 전 규칙 문서화, 이용자 화면 노출 확인, 시설 승인 기록과 퇴직 또는 철회 때 비공개 절차를 더한다.",
+      "numbers": "공식 플랜은 월 28만엔부터, 최소 6개월이며 초기 비용과 광고비는 별도다. 세세라기 사례의 330만 회 재생, 월 20명 이상 지원과 지원 10배 증가는 회사 사례 페이지와 고객 인터뷰의 주장이다. 지원자와 채용을 보장하지 않는다.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000098249.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Nolla Health 유타 AI 파일럿 안내",
+      "use": "AI 상품의 대상 범위, 제외 조건, 단계별 사람 검토와 중단 기준을 가격표에 적을 때 참고한다.",
+      "source_url": "https://www.nollahealth.com/ai-prescriptions"
+    },
+    {
+      "name": "Puyo Puyo Trainer 공식 가격표",
+      "use": "시설 월 구독, 행사 하루 이용과 상설 운영을 고객 수와 사용 장면에 따라 나누는 가격 설계를 확인한다.",
+      "source_url": "https://puyo-puyo-trainer.jp/pricing/"
+    },
+    {
+      "name": "니치요우비 돌봄 전용 TikTok 플랜",
+      "use": "콘텐츠 제작비와 촬영 동의, 공개 승인, 철회 때 비공개 절차를 하나의 서비스 범위로 설계할 때 참고한다.",
+      "source_url": "https://nock-design.com/nichiyobi/service/tiktok-op"
+    }
+  ],
+  "quote": {
+    "text": "撮る前に決めごとをして、公開する前にもう一度確かめる手順が要ります。",
+    "author": "NOCK DESIGN 대표 長門 弥",
+    "source_url": "https://prtimes.jp/main/html/rd/p/000000035.000098249.html"
+  },
+  "newsletter": {
+    "title": "AI 서비스는 기능보다 하지 않을 일을 가격표에 넣는다",
+    "body_md": "오늘의 중심 후보는 유타주에서 시작한 Nolla Derm이다. 월 4.99달러라는 가격보다 중요한 것은 성인 경증 및 중등도 여드름과 일부 국소 치료로 범위를 좁히고, 그 바깥은 사람에게 넘기는 운영을 함께 판다는 점이다. 회사 발표 기준 첫 100명은 의사 두 명이 사전 검토하고, 다음 약 500명은 처방 뒤 최소 주 1회 검토한다. 실제 환자 수, 매출과 유지율은 공개되지 않았으므로 성공 사례가 아니라 규제 산업의 첫 유료 실험으로 읽는다. 같은 원리는 일본의 Puyo Puyo Trainer와 NOCK DESIGN에서도 보인다. 전자는 시설 100명까지 월 3,300엔으로 반복 여가의 운영 조건을 팔고, 후자는 월 28만엔부터의 돌봄 채용 영상에 동의와 공개 승인 기록을 넣었다. 독자가 적용할 일은 두 가지다. 업무 하나와 하지 않을 일을 한 줄로 정하고, 예외 처리와 사람 승인 시간을 가격에 포함한다. 출처는 Nolla Health, 유타 공공 기록, KSL, Puyo Puyo Trainer, ITmedia와 NOCK DESIGN이다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "월 4.99달러 AI 피부과가 하지 않을 일을 먼저 정한 이유",
+      "hook": "AI 피부과의 첫 가격표에서 봐야 할 숫자는 월 요금보다 어떤 환자를 받지 않는지다.",
+      "core_claim": "Nolla Health는 유타주 성인 경증 및 중등도 여드름으로 범위를 제한하고 단계별 의사 검토를 붙여 규제와 가격을 함께 시험한다.",
+      "primary_case": "Nolla Derm 유타 AI 초기 처방 파일럿",
+      "public_number": "회사 발표 기준 월 4.99달러부터, 첫 100명은 의사 두 명 사전 검토, 다음 약 500명은 처방 후 최소 주 1회 검토, 단계 전환 기준은 의사 일치율 95퍼센트와 중대한 이상사례 0건. 실제 환자 수와 매출은 공개되지 않음.",
+      "payer": "유타주 18세 이상 파일럿 이용자. 보험자별 계약과 단가는 공개되지 않음.",
+      "seven_day_action": "한 가지 고객 문제만 골라 대상 조건, 제외 조건, 사람에게 넘길 예외와 검토 기록을 한 장에 적고 가상 사례 20건으로 처리 시간을 잰다.",
+      "source_urls": [
+        "https://www.nollahealth.com/blog/ai-prescriptions-utah",
+        "https://www.nollahealth.com/ai-prescriptions",
+        "https://commerce.utah.gov/ai/regulatory-relief-4/authorized-pilots/",
+        "https://www.ksl.com/article/51633260/utah-pilot-lets-artificial-intelligence-prescribe-acne-treatments"
+      ]
+    },
+    {
+      "title": "시설 100명까지 월 3,300엔을 받는 Puyo Puyo 여가 서비스",
+      "hook": "돌봄시설이 게임에 돈을 내는 이유는 인지 효과를 보장해서가 아니라 반복할 수 있는 활동을 준비하기 위해서다.",
+      "core_claim": "Puyo Puyo Trainer는 익숙한 IP를 전용 기기 없이 쓰게 하고 이용자 관리와 플레이 기록을 붙여 시설용 반복 여가로 가격을 만든다.",
+      "primary_case": "Puyo Puyo Trainer 제작위원회",
+      "public_number": "시설 이용자 등록 100명까지 월 3,300엔 또는 연 33,000엔, 행사 하루 66,000엔. 고객 수와 재계약률은 공개되지 않음.",
+      "payer": "특별양호노인홈, 데이서비스와 복지시설 등 기관. 개인 판매는 현재 안내되지 않음.",
+      "seven_day_action": "시설의 기존 PC 또는 태블릿으로 비의료적 체험을 7일 운영하고 준비 시간, 실제 참여자 수와 재참여 의향을 기록한다.",
+      "source_urls": [
+        "https://puyo-puyo-trainer.jp/",
+        "https://puyo-puyo-trainer.jp/pricing/",
+        "https://prtimes.jp/main/html/rd/p/000000027.000162174.html",
+        "https://www.itmedia.co.jp/news/article/2607/10/1260710123/"
+      ]
+    },
+    {
+      "title": "돌봄 채용 영상에 월 28만엔을 받는 이유는 촬영 뒤에 있다",
+      "hook": "돌봄시설은 영상 네 편보다 이용자 개인정보가 들어오지 않게 만드는 승인 절차에 돈을 낼 수 있다.",
+      "core_claim": "NOCK DESIGN은 기획과 촬영에 더해 노출 확인, 공개 승인 기록과 퇴직 또는 철회 때 비공개를 돌봄 전용 채용 플랜에 포함한다.",
+      "primary_case": "NOCK DESIGN 니치요우비 돌봄 전용 플랜",
+      "public_number": "월 4편, 월 28만엔부터, 최소 6개월, 초기 비용과 광고비 별도. 세세라기 사례의 지원 증가와 재생 수는 회사와 고객의 주장.",
+      "payer": "데이서비스, 입소시설과 방문돌봄 등 돌봄 사업자",
+      "seven_day_action": "직원만 나오는 짧은 영상을 하나 만들고 촬영 전 동의, 화면 확인, 공개 승인과 철회 절차를 체크리스트로 기록한다.",
+      "source_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000035.000098249.html",
+        "https://nock-design.com/nichiyobi/service/tiktok-op",
+        "https://nock-design.com/nichiyobi/works/t_seseragi"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "월 4.99달러 AI 피부과가 하지 않을 일을 먼저 정한 이유",
+      "body_md": "AI 피부과 서비스의 가격표에서 눈에 먼저 들어오는 것은 월 4.99달러다. 하지만 Nolla Health가 유타주에서 시험하는 상품의 핵심은 AI가 의사를 대신한다는 약속이 아니다. 성인 경증 및 중등도 여드름과 일부 국소 치료로 범위를 좁히고, 그 바깥은 사람에게 넘기는 운영을 가격에 넣었다는 점이다.\n\n## 범위를 좁혀 가격을 만든다\n\nNolla Derm은 유타주 18세 이상 주민을 대상으로 본인 확인, 동의, 문진과 얼굴 다섯 각도 사진을 받은 뒤 초기 치료 계획을 만든다. 회사가 안내한 파일럿 가격은 월 4.99달러부터다. 국소약이 아닌 경우와 중증 여드름, 임신 등 파일럿 밖의 조건은 의료진이나 대면 진료로 넘긴다. 돈을 내는 사람은 보험사가 아니라 파일럿에 참여하는 이용자다.\n\n회사 발표 기준 첫 100명은 의사 두 명이 AI 처방을 사전 검토하고, 다음 약 500명은 처방 뒤 최소 주 1회 검토한다. 세 번째 단계는 매달 처방의 10퍼센트 이상을 표본 확인하고 악화나 부작용 사례를 모두 검토한다. 단계 전환에는 의사 일치율 95퍼센트, 중대한 이상사례 0건과 주정부 승인이 필요하다고 회사는 설명한다.\n\n## 돈이 되는 지점\n\n월 요금은 AI 호출량만 파는 가격이 아니다. 가입, 사진 촬영, 처방 전달, 28회 스캔마다의 계획 검토와 의료진 메시지를 한 흐름으로 묶었다. 유타주의 공공 기록 안내도 이 파일럿을 모든 일을 허용하는 면허가 아니라 특정 규칙을 일정 기간 좁게 바꾸는 서면 협약으로 설명한다.\n\n현재 공개 자료에는 실제 환자 수, 매출, 구독 유지율과 치료 결과가 없다. Nolla가 밝힌 임상의 권고 일치율 96퍼센트도 회사 수치다. 따라서 이 사례는 의료 AI의 성공을 증명하지 않고, 범위와 책임을 가격표에 넣은 첫 유료 실험으로 읽어야 한다.\n\n## 작은 사업자가 적용할 두 가지\n\n첫째, 고객 문제 하나와 하지 않을 일을 같이 적는다. 초기 문진, 예약, 리필 알림처럼 업무를 좁히고 사람에게 넘길 조건을 가격표에 넣는다.\n\n둘째, 사람의 검토 시간을 원가로 계산한다. 자동 처리 건수뿐 아니라 예외 건수, 승인 시간과 기록 보관 비용을 측정한다. 고객이 돈을 내는 지점은 AI가 많은 일을 했다는 사실보다 문제가 생겼을 때 다음 행동을 정할 책임자가 선명해지는 순간이다.\n\nNolla의 월 4.99달러는 한국 의료 제도에 그대로 옮길 가격이 아니다. 그래도 좁은 상품, 직접 결제자와 단계별 검토를 한 장에 넣으면 규제 산업에서도 유료 실험을 설계할 수 있다는 힌트를 준다.\n\n출처: [Nolla Health 공식 발표](https://www.nollahealth.com/blog/ai-prescriptions-utah), [Nolla Derm 파일럿 안내](https://www.nollahealth.com/ai-prescriptions), [유타 AI 파일럿 공공 기록](https://commerce.utah.gov/ai/regulatory-relief-4/authorized-pilots/), [KSL 보도](https://www.ksl.com/article/51633260/utah-pilot-lets-artificial-intelligence-prescribe-acne-treatments)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "유타주에서 월 4.99달러짜리 AI 피부과 파일럿이 시작됐습니다.\n\n핵심은 AI가 의사를 대체한다는 말이 아닙니다. 성인 경증 및 중등도 여드름과 일부 국소 치료만 맡고, 범위를 넘으면 사람에게 넘기는 좁은 상품입니다.",
+      "돈을 내는 사람은 유타주 18세 이상 이용자입니다. 얼굴 다섯 각도 사진과 문진, 본인 확인과 동의를 거쳐 10분에서 15분 안에 계획을 만들고, 회사는 4.99달러부터 안내합니다.\n\n실제 환자 수, 매출과 유지율은 공개되지 않았습니다.",
+      "검토 책임을 가격표 안에 넣었습니다.\n\n회사 발표 기준 첫 100명은 의사 두 명이 처방 전 검토하고, 다음 약 500명은 처방 뒤 최소 주 1회 검토합니다. 다음 단계는 의사 일치율 95퍼센트와 중대한 이상사례 0건 등 조건을 요구합니다.",
+      "작게 적용할 때는 기능부터 늘리지 마세요.\n\n첫째, 한 문제와 하지 않을 일을 같이 적습니다. 둘째, 사람이 검토할 예외와 기록을 가격에 포함합니다. 월 구독료보다 범위와 책임 경계가 먼저 정해져야 합니다.\n\n출처: Nolla Health 공식 발표, 유타 AI 파일럿 공공 기록, KSL\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "월 4.99달러 AI 피부과가 먼저 정한 것은 기능이 아니라 범위였습니다.\n\nNolla Derm은 유타주 18세 이상 주민의 경증 및 중등도 여드름으로 파일럿을 제한하고, 사진 문진과 본인 확인 뒤 일부 국소 치료의 초기 처방을 연결합니다. 회사 발표 기준 첫 100명은 의사 두 명이 사전 검토하고, 다음 약 500명은 처방 뒤 주 1회 이상 검토합니다.\n\n실제 환자 수, 매출과 유지율은 공개되지 않았습니다. 이 사례에서 읽을 사업 포인트는 AI가 모든 일을 한다는 약속이 아니라 하지 않을 일, 사람에게 넘길 조건, 검토 기록을 가격표에 넣었다는 점입니다.\n\n작은 사업자는 업무 하나를 정하고 예외 처리와 승인 시간을 함께 견적에 넣어보세요.\n\n출처: Nolla Health 공식 발표, 유타 AI 파일럿 공공 기록, KSL\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #헬스케어비즈니스 #시니어비즈니스 #AI사업 #가격전략 #돌봄비즈니스",
+      "cards": [
+        "월 4.99달러 AI 피부과\n하지 않을 일을 먼저 정했다",
+        "Nolla Derm 파일럿\n유타주 18세 이상\n경증 및 중등도 여드름 중심",
+        "가격과 지불자\n월 4.99달러부터\n유타주 이용자가 직접 결제",
+        "회사 발표 기준\n첫 100명은 의사 두 명 사전 검토\n다음 약 500명은 처방 뒤 주 1회 검토",
+        "범위를 넘으면\n중증 여드름, 임신 등은 의사나 대면 진료로 넘김",
+        "실제 매출과 유지율은 공개되지 않음\n사업 포인트는 기능보다 범위와 책임 경계",
+        "작게 적용하기\n업무 하나, 예외 조건, 사람 승인과 기록을 한 가격표에 적습니다"
+      ]
+    },
+    "youtube": {
+      "title": "월 4.99달러 AI 피부과가 하지 않을 일을 먼저 정한 이유",
+      "hook": "월 4.99달러 AI 피부과가 먼저 만든 것은 진단 기능이 아니라 금지선입니다.",
+      "script": "월 4.99달러 AI 피부과가 먼저 만든 것은 진단 기능이 아니라 금지선입니다.\n\n미국 유타주에서 Nolla Health가 AI 초기 처방 파일럿을 시작했습니다. 대상은 유타주 18세 이상 주민 가운데 경증 및 중등도 여드름 환자입니다. 본인 확인과 동의, 짧은 문진, 얼굴 다섯 각도 사진을 받은 뒤 초기 치료 계획을 만들고, 회사는 월 4.99달러부터의 가격을 안내합니다. 돈을 내는 쪽은 보험사가 아니라 파일럿에 참여하는 이용자입니다.\n\n중요한 것은 기능이 아니라 범위입니다. Nolla는 중증 여드름, 임신 등 파일럿 밖의 조건을 의사나 대면 진료로 넘긴다고 설명합니다. 국소약이 아닌 경우에도 의료진이 맡습니다. 이 상품은 모든 피부 문제를 해결한다고 말하지 않고, 하나의 문제와 몇 가지 사전 승인된 치료 계획으로 시작합니다.\n\n검토 단계도 가격과 함께 설계했습니다. 회사 발표 기준 첫 100명은 면허를 가진 의사 두 명이 AI 처방을 약국으로 보내기 전에 검토합니다. 다음 약 500명은 처방 뒤 최소 주 1회 의사가 검토합니다. 세 번째 단계는 매달 처방의 10퍼센트 이상을 표본으로 확인하고, 악화나 부작용 사례는 모두 검토합니다. 단계가 올라가려면 의사와의 일치율 95퍼센트, 중대한 이상사례 0건과 주정부의 서면 승인이 필요하다고 회사는 설명합니다.\n\n현재 공개 자료만으로는 실제 환자 수, 매출, 구독 유지율과 치료 결과를 확인할 수 없습니다. 회사가 밝힌 임상의 권고 일치율 96퍼센트도 회사 수치입니다. 유타주의 파일럿은 한국 의료 제도와 같은 방식으로 옮길 수 없습니다.\n\n그래도 사업 설계의 힌트는 분명합니다. 첫째, 고객 문제를 하나로 좁히고 하지 않을 일을 가격표에 적습니다. 둘째, 사람에게 넘길 예외와 승인 시간을 원가에 넣습니다. 고객은 AI가 몇 건을 처리했는지보다, 문제가 생겼을 때 누가 다음 행동을 결정하는지에 돈을 냅니다.\n\n출처: Nolla Health 공식 발표, Nolla Derm 파일럿 안내, 유타 AI 파일럿 공공 기록, KSL\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Nolla Health AI 처방 파일럿 공식 발표",
+      "url": "https://www.nollahealth.com/blog/ai-prescriptions-utah"
+    },
+    {
+      "name": "Nolla Derm 공식 파일럿 안내",
+      "url": "https://www.nollahealth.com/ai-prescriptions"
+    },
+    {
+      "name": "유타 상무부 AI 파일럿 공공 기록",
+      "url": "https://commerce.utah.gov/ai/regulatory-relief-4/authorized-pilots/"
+    },
+    {
+      "name": "KSL 유타 AI 처방 파일럿 보도",
+      "url": "https://www.ksl.com/article/51633260/utah-pilot-lets-artificial-intelligence-prescribe-acne-treatments"
+    },
+    {
+      "name": "Puyo Puyo Trainer 공식 사이트",
+      "url": "https://puyo-puyo-trainer.jp/"
+    },
+    {
+      "name": "Puyo Puyo Trainer 공식 가격표",
+      "url": "https://puyo-puyo-trainer.jp/pricing/"
+    },
+    {
+      "name": "Puyo Puyo Trainer 정식 제공 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000162174.html"
+    },
+    {
+      "name": "ITmedia Puyo Puyo Trainer 보도",
+      "url": "https://www.itmedia.co.jp/news/article/2607/10/1260710123/"
+    },
+    {
+      "name": "NOCK DESIGN 돌봄 전용 플랜 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000098249.html"
+    },
+    {
+      "name": "NOCK DESIGN TikTok 운영 서비스",
+      "url": "https://nock-design.com/nichiyobi/service/tiktok-op"
+    },
+    {
+      "name": "NOCK DESIGN 세세라기 사례",
+      "url": "https://nock-design.com/nichiyobi/works/t_seseragi"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
