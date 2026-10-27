@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-27",
+  "generated_at_kst": "2026-10-27T12:04:30+09:00",
+  "mode": "new",
+  "headline": "돌봄 소프트웨어는 좌석 대신 기록된 돌봄 시간에 가격을 붙인다",
+  "insights": [
+    {
+      "title": "Seniorverse는 좌석이 아니라 기록된 돌봄 시간에 과금한다",
+      "summary": "미국 Seniorverse의 Navigate는 사용자 수가 아니라 고객에게 제공하고 기록한 서비스 시간을 가격 단위로 삼는다. Solo는 월 79달러에 80시간, Team은 월 349달러에 580시간을 포함하고, 초과분은 시간당 0.99달러와 0.60달러다. Team은 사용자를 무제한으로 열어두지만 이동과 사무 시간은 과금 시간에서 제외하며, 민간결제 돌봄 업무에 맞춘다. 고객 수, 재계약률과 실제 시간 절감은 공개되지 않았다.",
+      "takeaway": "현장 직원이 기록에서 빠지지 않도록 사용자 수가 아니라 실제 제공 시간과 초과분을 가격 단위로 시험해라.",
+      "source_type": "blog",
+      "source_name": "Seniorverse Navigate 공식 요금표",
+      "source_url": "https://seniorverse.com/pricing"
+    },
+    {
+      "title": "SilverX는 시니어에게 AI 사용법보다 동년배 고객 검증을 먼저 시켰다",
+      "summary": "일본 SilverX의 Second Peak Accelerator는 60세 이상을 대상으로 참가비 없이 2개월 동안 다섯 번의 사업 개발 워크숍과 AI 시제품 제작을 운영한다. 공식 발표에 따르면 참가자들은 동년배 70명 이상을 인터뷰하고 AI 에이전트로 사업 페이지를 만들어 고객 반응을 확인했다. 프로그램 페이지와 데모데이 안내의 참가자 수 표기가 19명과 18명으로 달라, 이 수치는 기준을 나눠 기록해야 한다. 운영비, 유료 전환과 출자 조건은 공개되지 않았다.",
+      "takeaway": "AI 교육을 팔기 전에 고객 인터뷰, 한 페이지 제안과 첫 반응을 한 과정으로 묶어라.",
+      "source_type": "media",
+      "source_name": "SilverX Second Peak Accelerator 공식 프로그램 페이지",
+      "source_url": "https://www.silver-x.co.jp/founders-program"
+    },
+    {
+      "title": "Microsoft 365 Copilot Business는 새 CSP 구매부터 사용량 청구를 기본값으로 둔다",
+      "summary": "Microsoft Partner Center는 2026년 12월 1일부터 CSP를 통한 신규 Microsoft 365 Copilot Business 구매에 사용량 기반 청구를 기본으로 적용한다고 안내한다. Copilot Cowork와 Work IQ API 같은 사용량 기반 기능에 대해 사용자당 기본 월 4,000 Copilot Credits 한도가 설정되고 관리자가 조정할 수 있다. 이번 초기 적용 대상에는 한국이 포함되지 않는다. 이는 제품 실적이 아니라 향후 청구 방식에 대한 공식 정책이다.",
+      "takeaway": "AI 가격표에 기본료만 적지 말고 사용량 단위, 월별 상한과 관리 방법까지 함께 넣어라.",
+      "source_type": "media",
+      "source_name": "Microsoft Partner Center 공식 안내",
+      "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄 SaaS가 좌석 과금에서 실제 서비스량 과금으로 이동한다",
+      "summary": "Seniorverse는 현장 직원의 로그인 수를 제한하기보다 기록된 서비스 시간과 초과 시간에 가격을 붙인다. 최근 시설 수나 법인 매출을 기준으로 삼은 돌봄 소프트웨어와 달리, 고객에게 제공한 작업량을 가격 단위로 삼는 방식이다.",
+      "why_now": "사무실이 현장 기록을 다시 입력하는 비용을 줄이려면 사용자 수보다 실제 서비스 흐름이 가격과 기능의 중심이 되어야 한다.",
+      "source_url": "https://seniorverse.com/care-management"
+    },
+    {
+      "theme": "시니어 창업 교육이 AI 기능보다 고객 검증 순서를 앞세운다",
+      "summary": "SilverX는 무료 프로그램에서 시니어 참가자에게 동년배 인터뷰, AI 사업 페이지 제작과 데모데이 발표를 이어 붙였다. 참가자의 고객 반응과 수익 전환은 아직 공개되지 않았지만, AI를 배운 뒤 바로 시장의 말을 확인하는 흐름은 분명하다.",
+      "why_now": "AI로 시제품을 만드는 비용이 낮아질수록 어떤 문제를 누구에게 팔지 확인하는 과정이 사업 개발의 병목이 된다.",
+      "source_url": "https://www.silver-x.co.jp/news/founders-demoday-2026"
+    },
+    {
+      "theme": "사용량 기반 AI 가격은 관리자 상한과 함께 도입된다",
+      "summary": "Microsoft는 신규 CSP 구매에 사용량 기반 청구를 기본 설정하고 사용자별 기본 한도와 관리 화면을 함께 제공한다. AI를 무제한 좌석으로만 판매하기보다 사용량이 늘어날 때 비용과 통제권을 함께 설명하는 가격표다.",
+      "why_now": "AI 기능이 실제 사용량에 따라 비용을 만들면 고객은 기능 목록보다 상한, 모니터링과 예산 통제를 먼저 확인하게 된다.",
+      "source_url": "https://learn.microsoft.com/en-us/partner-center/pricing/usage-based-billing-copilot"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Seniorverse Navigate, 미국",
+      "what": "Aging Life Care practice, geriatric care manager와 민간결제 홈케어 기관을 위한 돌봄 관리 소프트웨어",
+      "how": "Solo와 Team 요금제를 기록된 서비스 시간으로 나누고, Team에서는 현장과 사무실의 모든 사용자가 로그인하도록 한다. 기관은 고객이나 가족에게 돌봄비를 청구하고, Seniorverse는 Medicaid 청구와 전자방문확인은 제공하지 않는다고 안내한다.",
+      "numbers": "공식 요금표 기준 Solo는 월 79달러에 80시간, 초과 시간당 0.99달러다. Team은 월 349달러에 580시간, 초과 시간당 0.60달러이며 사용자는 무제한이다. 두 요금제는 30일 무료 체험과 설정비 없음을 안내한다. 고객 수, 재계약률과 실제 시간 절감은 공개되지 않았다.",
+      "source_url": "https://seniorverse.com/pricing"
+    },
+    {
+      "who": "SilverX Second Peak Accelerator, 일본",
+      "what": "60세 이상을 대상으로 경험과 AI를 이용해 시니어 대상 사업을 검증하는 무료 창업 프로그램",
+      "how": "2개월 동안 다섯 번의 사업 개발 워크숍을 진행하고, 참가자들이 동년배를 인터뷰한 뒤 AI 에이전트로 사업 페이지를 공개하고 데모데이에서 발표하도록 했다.",
+      "numbers": "SilverX 발표 기준 참가자들은 동년배 70명 이상을 인터뷰했고, 데모데이 일반 관람료는 2,000엔이다. 공식 프로그램 페이지는 1기 참가자를 19명으로, 데모데이 안내는 18명으로 표기한다. 참가비는 무료이며 운영비, 유료 전환과 출자 조건은 공개되지 않았다.",
+      "source_url": "https://www.silver-x.co.jp/news/founders-demoday-2026"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Seniorverse Navigate 요금 계산기",
+      "use": "돌봄 제공 시간, 기본 포함량과 초과 단가를 넣어 좌석 과금과 시간 과금을 비교할 때 참고한다.",
+      "source_url": "https://seniorverse.com/pricing"
+    },
+    {
+      "name": "SilverX Second Peak Accelerator 검증 순서",
+      "use": "동년배 인터뷰, AI 사업 페이지, 고객 반응과 피치 발표를 짧은 사업 검증 과정으로 설계할 때 참고한다.",
+      "source_url": "https://www.silver-x.co.jp/founders-program"
+    },
+    {
+      "name": "Microsoft Partner Center 사용량 기반 청구 문서",
+      "use": "사용량 기반 AI 기능의 사용자별 및 조직별 한도, 사용량 확인과 비용 통제 항목을 가격표에 넣을 때 참고한다.",
+      "source_url": "https://learn.microsoft.com/en-us/partner-center/pricing/usage-based-billing-copilot"
+    }
+  ],
+  "quote": {
+    "text": "Pay for Care, Not Seats.",
+    "author": "Seniorverse Navigate",
+    "source_url": "https://seniorverse.com/care-management"
+  },
+  "newsletter": {
+    "title": "돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유",
+    "body_md": "돌봄 소프트웨어의 가격을 직원 계정 수로만 정하면 현장 직원이 기록에서 빠지고 사무실이 방문 내용을 다시 입력할 수 있다. 미국 Seniorverse의 Navigate는 이 문제를 기록된 서비스 시간으로 가격에 넣었다. Solo는 월 79달러에 80시간, Team은 월 349달러에 580시간을 포함하고 초과분은 시간당 0.99달러와 0.60달러다. Team은 사용자를 무제한으로 열어두지만 여행과 사무 시간은 과금 시간에서 뺀다. 고객은 민간결제 돌봄기관과 케어 매니저이며, Medicaid 청구와 전자방문확인은 제공하지 않는다. 따라서 이 사례는 고객 수나 매출 성과가 아니라, 돈을 내는 기관의 실제 제공량과 기록 업무를 가격 단위로 맞춘 실험으로 읽어야 한다. 7일 동안 방문 10건의 제공 시간, 기록 시간, 청구 시간을 나눠 재입력 횟수와 누락을 세면 작은 사업자도 좌석 과금과 시간 과금 중 무엇이 맞는지 비교할 수 있다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유",
+      "hook": "현장 직원의 계정을 줄이면 비용은 내려가도 사무실의 재입력은 늘어날 수 있다.",
+      "core_claim": "Seniorverse는 사용자 수가 아니라 기록된 서비스 시간과 초과분을 가격 단위로 삼아, 현장 직원의 기록 참여와 기관의 청구 흐름을 한 상품에 묶는다.",
+      "primary_case": "Seniorverse Navigate의 Solo와 Team 요금제",
+      "public_number": "Solo 월 79달러에 80시간, Team 월 349달러에 580시간, 초과분은 시간당 0.99달러와 0.60달러, Team 사용자는 무제한",
+      "payer": "민간결제 홈케어 기관, Aging Life Care practice와 geriatric care manager",
+      "seven_day_action": "방문 10건의 서비스 시간, 기록 시간, 청구 시간과 재입력 횟수를 나눠 측정하고 기본 시간과 초과 단가를 가정한다.",
+      "source_urls": [
+        "https://seniorverse.com/pricing",
+        "https://seniorverse.com/care-management"
+      ]
+    },
+    {
+      "title": "시니어에게 AI를 가르치기 전에 동년배 고객 70명을 만난 프로그램",
+      "hook": "AI 창업 교육의 첫 결과물은 챗봇이 아니라 고객이 실제로 반응하는 한 장짜리 사업 페이지였다.",
+      "core_claim": "SilverX는 무료 프로그램에서 시니어 참가자를 인터뷰, AI 시제품과 데모데이까지 이어 붙였지만 운영비와 유료 전환은 아직 공개하지 않았다.",
+      "primary_case": "SilverX Second Peak Accelerator 1기",
+      "public_number": "동년배 70명 이상 인터뷰, 2개월 과정, 참가비 무료, 데모데이 일반 관람 2,000엔. 참가자 수는 공식 페이지 19명과 데모데이 안내 18명으로 표기가 다름.",
+      "payer": "참가자는 무료, 데모데이 일반 관람객은 2,000엔. 프로그램 운영비와 유료 전환 및 출자 조건은 공개되지 않음.",
+      "seven_day_action": "해결할 시니어 문제 하나를 정하고 동년배 5명을 인터뷰한 뒤 한 장짜리 소개 페이지와 문의 버튼을 공개한다.",
+      "source_urls": [
+        "https://www.silver-x.co.jp/founders-program",
+        "https://www.silver-x.co.jp/news/founders-demoday-2026",
+        "https://prtimes.jp/main/html/rd/p/000000009.000183566.html"
+      ]
+    },
+    {
+      "title": "AI 기능의 사용량과 월별 상한을 가격표에 넣는 Microsoft의 새 청구 방식",
+      "hook": "AI를 좌석 수로만 팔면 사용량이 늘 때 고객도 판매자도 비용을 예측하기 어렵다.",
+      "core_claim": "Microsoft는 새 CSP 구매의 사용량 기반 청구를 기본으로 두고 사용자별 기본 한도와 관리자 조정 기능을 함께 제공한다.",
+      "primary_case": "Microsoft 365 Copilot Business의 CSP 사용량 기반 청구",
+      "public_number": "2026년 12월 1일부터 신규 CSP 구매에 기본 적용, 사용자당 월 4,000 Copilot Credits 기본 한도, 초기 적용 대상에 한국은 포함되지 않음",
+      "payer": "Microsoft 365 Copilot Business를 CSP로 구매하는 기업과 이를 판매하는 파트너",
+      "seven_day_action": "AI 기능 하나를 골라 사용자당 월 사용량, 조직 상한, 초과 시 승인자와 비용 알림을 한 장에 적는다.",
+      "source_urls": [
+        "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october",
+        "https://learn.microsoft.com/en-us/partner-center/pricing/usage-based-billing-copilot"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유",
+      "body_md": "# 돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유\n\n<!-- DAILY_VISUAL_START -->\n![Seniorverse 공식 로고](assets/daily-cover-logo.png)\n<!-- DAILY_VISUAL_END -->\n\n돌봄기관에서 기록을 가장 많이 남기는 사람은 사무실 직원이 아니라 현장 직원입니다. 그런데 소프트웨어가 사용자 수로만 과금되면 기관은 비용을 아끼려고 현장 계정을 줄이고, 사무실이 방문 기록을 다시 입력하게 됩니다. 미국 Seniorverse의 Navigate는 반대로 기록된 돌봄 시간을 가격 단위로 삼았습니다. 중요한 것은 계정 수를 늘리는 일이 아니라 실제 돌봄 업무가 시스템 안에 들어오는 일이라는 주장입니다.\n\n## 가격표에 돌봄 시간만 올렸다\n\nSeniorverse 공식 요금표에서 혼자 일하는 케어 매니저용 Solo는 월 79달러에 월 80시간을 포함합니다. 초과 시간은 시간당 0.99달러입니다. Team은 월 349달러에 580시간을 포함하고, 초과분은 시간당 0.60달러입니다. Team에는 사용자가 무제한으로 포함되고 30일 무료 체험과 설정비 없음이 안내됩니다. 이 시간은 고객에게 제공하고 기록한 서비스 시간이며, 이동과 사무 시간은 포함하지 않습니다.\n\n이 가격은 노인 이용자에게 직접 청구하는 구독료가 아닙니다. Seniorverse가 겨냥하는 고객은 Aging Life Care practice, geriatric care manager, private-pay home care agency입니다. 기관은 고객이나 가족에게 돌봄비를 청구하고 소프트웨어 이용료를 냅니다. 공식 FAQ는 Medicaid 청구와 전자방문확인을 제공하지 않는다고 적습니다. 따라서 이 제품을 공공보험 청구용 시스템으로 넓혀 읽으면 안 됩니다.\n\n## 시간 단위가 만드는 사업 논리\n\n이 사례에서 공개된 것은 가격과 기능이지 고객 수, 재계약률, 실제 시간 절감이 아닙니다. 그래서 Seniorverse가 성공했다거나 현장 업무가 반드시 줄었다고 단정할 수 없습니다. 다만 가격 단위를 바꾸면 판매 문장이 달라집니다. 기관은 직원 수가 늘어날 때마다 과금되는 도구가 아니라, 제공한 돌봄 시간이 늘어날 때 비용도 함께 늘어나는 기록 장부로 이해할 수 있습니다. 현장 직원에게 로그인을 열어주고 사무실의 재입력을 줄이려는 설계가 가격표와 제품 기능에 같이 들어간 것입니다.\n\n## 작은 사업자가 7일 안에 시험할 것\n\n첫째, 최근 방문 10건을 방문 시간, 기록 시간, 청구 시간으로 나눠 적습니다. 계정 수가 아니라 한 고객의 서비스가 끝날 때까지 몇 번 손이 바뀌는지 세어야 합니다. 둘째, 가장 작은 기본 시간과 초과 시간 단가를 가정한 가격표를 만듭니다. 무료 체험을 주더라도 이동, 사무, 공공보험 청구처럼 포함하지 않는 일을 먼저 적습니다. 일주일 뒤에는 처리한 시간, 재입력 횟수와 청구 누락을 비교해 어느 가격 단위가 실제 비용을 설명하는지 확인합니다.\n\n돌봄 소프트웨어의 가격 경쟁은 기능 수를 늘리는 데서 끝나지 않습니다. 누가 기록하고, 어떤 시간이 고객에게 청구되며, 어떤 업무는 아직 지원하지 않는지를 공개할 때 작은 기관도 구매 판단을 할 수 있습니다.\n\n출처: [Seniorverse 공식 요금표](https://seniorverse.com/pricing), [Seniorverse 케어 관리 제품](https://seniorverse.com/care-management)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)\n\n*Seniorverse 공식 사이트의 로고 이미지를 내려받아 사용했습니다. 공식 로고의 상업적 재사용 조건은 별도로 확인하지 않았습니다.*"
+    },
+    "threads": [
+      "돌봄 소프트웨어가 직원 계정 수 대신 기록된 돌봄 시간에 가격을 붙인 사례가 있습니다.\n\n미국 Seniorverse의 Navigate는 Solo 월 79달러에 80시간, Team 월 349달러에 580시간을 포함합니다. Team은 사용자를 무제한으로 열어두고, 초과분만 시간당 0.60달러를 더 받습니다. 회사는 사용자당 과금이 현장 직원을 시스템 밖에 두고 사무실의 재입력을 만든다고 설명합니다. 가격 단위를 업무 흐름에 맞춘 이유입니다.",
+      "이 시간은 고객에게 제공하고 기록한 서비스 시간입니다. 이동과 사무 시간은 제외됩니다. 두 요금제는 30일 무료 체험과 설정비 없음도 안내합니다. 고객은 민간결제 홈케어 기관과 케어 매니저이고, 기관은 고객이나 가족에게 돌봄비를 청구합니다. Medicaid 청구와 전자방문확인은 제공하지 않습니다. 고객 수와 재계약률, 실제 시간 절감은 공개되지 않았습니다. 이 사례는 성공을 입증한 숫자가 아니라, 가격 단위를 현장 업무에 맞춘 설계 사례로 읽어야 합니다.",
+      "가격표보다 중요한 것은 재입력입니다. 현장 직원이 시스템에서 빠지면 사무실이 방문 기록을 다시 옮겨야 합니다. 작은 사업자는 7일 동안 방문 10건의 제공 시간, 기록 시간, 청구 시간과 재입력 횟수를 세고, 기본 시간과 초과 단가를 함께 시험해볼 수 있습니다.\n\n출처: Seniorverse 공식 요금표, Seniorverse 케어 관리 제품\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "돌봄 소프트웨어의 가격 단위가 바뀌고 있습니다.\n\n미국 Seniorverse의 Navigate는 직원 계정 수가 아니라 고객에게 제공하고 기록한 서비스 시간으로 과금합니다. Solo는 월 79달러에 80시간, Team은 월 349달러에 580시간을 포함합니다. Team은 사용자를 무제한으로 열어두고 초과분만 시간당 0.60달러를 더 받습니다.\n\n이 시간에는 이동과 사무 시간이 포함되지 않습니다. 고객은 민간결제 홈케어 기관과 케어 매니저이며, Medicaid 청구와 전자방문확인은 제공하지 않습니다. 고객 수와 재계약률, 실제 시간 절감은 공개되지 않았습니다.\n\n작게 적용하려면 방문 10건의 제공 시간, 기록 시간, 청구 시간과 재입력 횟수를 나눠 적어보세요. 가격 단위가 실제 업무를 설명해야 합니다.\n\n출처: [Seniorverse 공식 요금표](https://seniorverse.com/pricing), [Seniorverse 케어 관리 제품](https://seniorverse.com/care-management)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #돌봄비즈니스 #SaaS #가격전략 #B2B #헬스케어비즈니스",
+      "cards": [
+        "돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유",
+        "Seniorverse Navigate\nSolo 월 79달러, 80시간 포함\nTeam 월 349달러, 580시간 포함",
+        "Team은 사용자를 무제한으로 열어둔다\n초과분은 시간당 0.60달러",
+        "과금 시간은 고객에게 제공하고 기록한 서비스 시간\n이동과 사무 시간은 제외",
+        "돈을 내는 쪽\n민간결제 홈케어 기관과 케어 매니저",
+        "아직 공개되지 않은 것\n고객 수, 재계약률, 실제 시간 절감",
+        "작게 적용하기\n방문 10건의 제공 시간, 기록 시간, 청구 시간과 재입력을 나눠 센다"
+      ]
+    },
+    "youtube": {
+      "title": "돌봄 소프트웨어가 좌석 대신 기록된 시간을 과금하는 이유",
+      "hook": "직원 계정 수가 아니라 실제 돌봄 시간에 돈을 받는 소프트웨어가 있습니다.",
+      "script": "직원 계정 수가 아니라 실제 돌봄 시간에 돈을 받는 소프트웨어가 있습니다.\n\n미국 Seniorverse의 Navigate는 돌봄기관의 소프트웨어 요금을 사용자 수가 아니라 기록된 서비스 시간으로 나눕니다. 혼자 일하는 케어 매니저용 Solo는 월 79달러에 80시간을 포함하고, 초과분은 시간당 0.99달러입니다. Team은 월 349달러에 580시간을 포함하고, 초과분은 시간당 0.60달러입니다. Team은 사용자를 무제한으로 열어둡니다.\n\n여기서 말하는 시간은 고객에게 제공하고 기록한 서비스 시간입니다. 이동과 사무 시간은 포함하지 않습니다. Seniorverse가 겨냥하는 고객은 Aging Life Care practice, geriatric care manager와 민간결제 홈케어 기관입니다. 기관은 고객이나 가족에게 돌봄비를 청구하고, 소프트웨어 이용료를 냅니다. 공식 FAQ는 Medicaid 청구와 전자방문확인을 제공하지 않는다고 안내합니다.\n\n이 가격표의 핵심은 값이 싸다는 것이 아닙니다. 현장 직원이 시스템에 들어오지 못하면 사무실이 방문 내용을 다시 입력해야 합니다. 사용자 수 과금은 현장 기록을 줄일 수 있지만, 시간 과금은 실제 서비스가 늘어날 때 비용도 함께 늘어나게 합니다. 제품 기능과 가격 단위가 같은 업무를 가리키는 셈입니다.\n\n다만 공개 자료만으로 고객 수, 재계약률과 실제 시간 절감을 확인할 수는 없습니다. 따라서 성공 사례나 검증된 생산성 개선으로 쓰지 않고, 가격 설계 실험으로 읽어야 합니다.\n\n작게 적용하는 방법은 두 가지입니다. 첫째, 최근 방문 10건을 제공 시간, 기록 시간과 청구 시간으로 나눕니다. 둘째, 기본 포함 시간과 초과 단가를 가정하고 재입력 횟수와 청구 누락을 함께 기록합니다. 무료 체험을 주더라도 이동, 사무와 공공보험 청구처럼 지원하지 않는 일을 가격표에 적어야 합니다.\n\n돌봄 소프트웨어의 가격은 기능 목록보다 돈의 흐름을 설명해야 합니다. 누가 기록하고, 어떤 시간이 청구되며, 어디까지 지원하는지가 선명할 때 기관은 좌석 수가 아니라 운영 결과를 기준으로 구매를 판단할 수 있습니다.\n\n출처: [Seniorverse 공식 요금표](https://seniorverse.com/pricing), [Seniorverse 케어 관리 제품](https://seniorverse.com/care-management)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Seniorverse Navigate 공식 요금표",
+      "url": "https://seniorverse.com/pricing"
+    },
+    {
+      "name": "Seniorverse 케어 관리 제품 설명",
+      "url": "https://seniorverse.com/care-management"
+    },
+    {
+      "name": "SilverX Second Peak Accelerator 공식 프로그램 페이지",
+      "url": "https://www.silver-x.co.jp/founders-program"
+    },
+    {
+      "name": "SilverX 데모데이 안내",
+      "url": "https://www.silver-x.co.jp/news/founders-demoday-2026"
+    },
+    {
+      "name": "SilverX 데모데이 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000183566.html"
+    },
+    {
+      "name": "Microsoft Partner Center 2026년 10월 안내",
+      "url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-october"
+    },
+    {
+      "name": "Microsoft Partner Center 사용량 기반 청구 문서",
+      "url": "https://learn.microsoft.com/en-us/partner-center/pricing/usage-based-billing-copilot"
+    },
+    {
+      "name": "Seniorverse 공식 로고",
+      "url": "https://cdn.seniorverse.com/assets/sv-logo-bg-stars.png?auto=format&w=1200"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다."
+}
