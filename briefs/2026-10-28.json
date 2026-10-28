@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-28",
+  "generated_at_kst": "2026-10-28T12:02:15+09:00",
+  "mode": "new",
+  "headline": "투자금보다 먼저 봐야 할 것은 누가 반복해서 비용을 내는가다",
+  "insights": [
+    {
+      "title": "JoyLiving은 시니어 리빙의 전화를 월 통화량으로 판다",
+      "summary": "ONSCREEN의 JoyLiving은 시니어 리빙 운영자에게 AI 전화 응대와 주민 확인을 제공한다. 공식 가격표는 Starter 월 249달러에 400분, Growth 월 499달러에 1,000분을 포함하고, 초과분에는 분당 요금을 붙인다. Asbury 사례에서 2026년 4월 700건 이상의 문의를 처리했고 10건 중 7건을 직원 개입 없이 해결했다고 회사가 밝혔다. 이 수치는 회사 사례이지 일반적인 절감 효과가 아니다.",
+      "takeaway": "기능을 나열하기보다 반복 업무량과 사람에게 넘길 조건을 가격표에 적어라.",
+      "source_type": "blog",
+      "source_name": "JoyLiving 공식 가격 페이지와 ONSCREEN Asbury 사례",
+      "source_url": "https://joyliving.ai/"
+    },
+    {
+      "title": "SilverKin은 가족에게 기기값 99달러와 월 39.99달러를 받는다",
+      "summary": "CarePredict의 시설용 Tempo 기술을 가정으로 옮긴 SilverKin은 성인 자녀와 가족이 지불하는 상품이다. 공식 페이지는 Starter Kit 99달러, 첫 250가족 대상 월 39.99달러, 정규 월 59.99달러를 제시한다. 키트에는 밴드와 네 개 방 비콘이 포함되고 추가 비콘은 개당 19.99달러다. 회사는 응급 서비스가 아니며 의료 진단용이 아니라고 밝힌다.",
+      "takeaway": "기관용 기술을 가정에 옮길 때는 장비보다 가족이 매달 확인하려는 정보를 구독 단위로 나눠라.",
+      "source_type": "blog",
+      "source_name": "SilverKin 공식 제품과 가격 페이지",
+      "source_url": "https://www.silverkin.com/"
+    },
+    {
+      "title": "Abby Care는 가족 돌봄을 건강보험과 주 프로그램의 지급 구조에 얹는다",
+      "summary": "Abby Care는 가족 돌봄자를 교육하고 인증한 뒤 RN 케어 매니저와 기록 플랫폼을 붙인다. 회사는 2026년 10월 15일 Series C 8,200만달러 조달과 8개 주 운영을 발표했고, 테네시 안내 페이지는 해당 프로그램이 Medicaid를 통해 가족에게 비용 없이 제공된다고 설명한다. Fierce Healthcare는 회사가 8개 주에서 Medicaid 제공자로 돌봄자에게 지급한다고 전했다. 조달액은 실적이나 지급 단가가 아니다.",
+      "takeaway": "헬스케어에서 먼저 확인할 것은 고객 수보다 보험자, 자격과 지급 기록이다.",
+      "source_type": "media",
+      "source_name": "Abby Care 공식 발표, Tennessee 안내와 Fierce Healthcare",
+      "source_url": "https://www.abbycare.org/blog/abby-care-series-c-raise"
+    },
+    {
+      "title": "TAI의 12억7천만엔 조달은 고객 매출이 아니라 다음 단계의 자금이다",
+      "summary": "Tokyo Artisan Intelligence는 2026년 10월 26일 Series C 1st close에서 증자와 Mizuho 대출을 합쳐 12억7천만엔을 조달했다고 발표했다. 회사는 철도 사업자와 지방자치단체에서 AI 솔루션 실증과 도입을 쌓아왔다고 설명하며, 자금으로 Manta Ray 생산 체계와 솔루션 확대를 추진할 계획이다. 실제 고객별 가격, 매출과 반복 결제는 공개되지 않았다.",
+      "takeaway": "큰 조달액을 봤다면 고객, 납품과 반복 결제를 별도 칸에서 확인하라.",
+      "source_type": "media",
+      "source_name": "Tokyo Artisan Intelligence 공식 발표와 창업수첩",
+      "source_url": "https://tokyo-ai.co.jp/news/info_20261026/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "시니어 AI의 지불자가 가족, 시설 운영자, 보험자와 주 프로그램으로 갈라진다",
+      "summary": "JoyLiving은 시설 운영자에게 통화량과 기록 업무를 팔고, SilverKin은 가족에게 기기와 구독을 판다. Abby Care는 가족 돌봄을 건강보험과 Medicaid 프로그램의 지급 구조에 연결한다. 같은 돌봄 기술이라도 결제자가 달라지면 가격과 필요한 증빙이 달라진다.",
+      "why_now": "2026년 10월 공개된 JoyLiving 가격, SilverKin의 초기 가족 요금과 Abby Care의 Series C 및 8개 주 운영 자료가 지불자별 사업 구조를 한눈에 보여준다.",
+      "source_url": "https://joyliving.ai/"
+    },
+    {
+      "theme": "기관용 돌봄 기술이 가정용 구독 상품으로 번역된다",
+      "summary": "SilverKin은 시니어 리빙에서 10년 이상 사용됐다고 설명한 Tempo 기술을 밴드, 방 비콘과 가족 앱으로 옮겼다. 시설의 운영 데이터 상품이 가정에서는 안부 확인과 변화 알림을 원하는 가족의 구독 상품으로 바뀐다.",
+      "why_now": "SilverKin 공식 페이지가 99달러 Starter Kit와 첫 250가족 대상 월 39.99달러를 함께 공개해 가정용 전환의 가격 단위를 보여준다.",
+      "source_url": "https://www.silverkin.com/"
+    },
+    {
+      "theme": "조달 발표와 고객 지불 증거를 한 문장에 넣지 않는다",
+      "summary": "TAI의 12억7천만엔 조달과 Abby Care의 8,200만달러 Series C는 다음 사업을 위한 자금이다. TAI의 고객별 가격과 매출, Abby Care의 가족별 지급액은 별도로 공개되지 않았다. 투자금은 고객 수요나 이익의 대체 숫자가 아니다.",
+      "why_now": "10월 15일과 26일의 대형 조달 발표가 이어졌지만 두 회사 모두 자금 사용 계획과 고객 지불 증거를 분리해 설명하고 있다.",
+      "source_url": "https://tokyo-ai.co.jp/news/info_20261026/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "JoyLiving과 Asbury Methodist Village, 미국",
+      "what": "시니어 리빙 시설의 주민 문의와 전화 업무를 AI 음성 플랫폼으로 처리하는 서비스",
+      "how": "시설 운영자가 월 구독료와 포함 통화량을 내고, AI가 문의를 분류하고 답변하거나 직원에게 넘긴다. Asbury 사례에서는 기존 운영 시스템과 연결해 유지보수 요청과 행사, 식사 문의도 기록했다.",
+      "numbers": "JoyLiving 공식 가격은 Starter 월 249달러와 400분, Growth 월 499달러와 1,000분이다. Asbury에서는 2026년 4월 700건 이상의 문의와 10건 중 7건 자동 해결을 회사가 공개했다. 고객 사례 수치이며 일반 성과로 확정하지 않는다.",
+      "source_url": "https://onscreeninc.com/blogs/news/joyliving-ai-receptionist-asbury"
+    },
+    {
+      "who": "SilverKin, 미국",
+      "what": "시설용 시니어 모니터링 기술을 가족의 가정용 구독 상품으로 전환한 서비스",
+      "how": "가족이 Starter Kit를 사고 밴드와 방 비콘을 집에 설치한 뒤, 가족 앱과 변화 알림을 위해 월 멤버십을 낸다. 회사는 카메라를 사용하지 않고 응급 서비스가 아니라고 안내한다.",
+      "numbers": "Starter Kit 99달러, 첫 250가족 대상 월 39.99달러, 정규 월 59.99달러, 추가 방 비콘 개당 19.99달러다. 가입자 수, 유지율과 오탐률은 공개되지 않았다.",
+      "source_url": "https://www.silverkin.com/"
+    },
+    {
+      "who": "Abby Care, 미국",
+      "what": "가족을 교육받은 유급 돌봄자로 연결하고 보험자와 주 프로그램이 비용을 지급하는 재가 돌봄 플랫폼",
+      "how": "가족 돌봄자에게 교육과 인증을 제공하고 RN 케어 매니저와 실시간 기록 플랫폼을 붙인다. 테네시 안내는 Medicaid를 통한 프로그램이 가족에게 비용 없이 제공된다고 설명한다.",
+      "numbers": "2026년 10월 15일 Series C 8,200만달러, 운영 주 8곳과 수천 가족은 회사 발표와 독립 보도에서 확인됐다. 테네시 페이지는 일정 조건의 프로그램이 100퍼센트 보장된다고 안내한다. 가족별 지급액과 매출은 공개되지 않았다.",
+      "source_url": "https://www.abbycare.org/tennessee"
+    },
+    {
+      "who": "Tokyo Artisan Intelligence, 일본",
+      "what": "철도와 지방자치단체 현장의 엣지 AI 솔루션과 자체 AI 반도체를 함께 키우는 딥테크 기업",
+      "how": "기존 AI 솔루션의 실증과 도입 경험을 바탕으로 Manta Ray 칩의 생산 체계와 글로벌 공급망을 만들 계획이다. 조달 완료 사실과 양산 추진 계획은 시제를 나눠 기록해야 한다.",
+      "numbers": "2026년 10월 26일 Series C 1st close에서 증자와 Mizuho 대출을 합쳐 12억7천만엔을 조달했다고 발표했다. 고객별 가격, 매출과 반복 결제는 공개되지 않았다.",
+      "source_url": "https://tokyo-ai.co.jp/news/info_20261026/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "JoyLiving 가격표와 ROI 계산기",
+      "use": "시설의 반복 전화량, 포함 사용량과 사람의 인건비 가정을 분리해 서비스 가격을 설계할 때 참고한다. 계산기 결과는 회사 가정값으로만 본다.",
+      "source_url": "https://joyliving.ai/"
+    },
+    {
+      "name": "SilverKin 가족용 가격 구조",
+      "use": "기기 일회성 비용과 가족 구독료를 분리해 가정용 돌봄 상품의 결제 단위를 점검한다.",
+      "source_url": "https://www.silverkin.com/"
+    },
+    {
+      "name": "Abby Care Tennessee 자격 흐름",
+      "use": "돌봄 사업에서 자격 확인, 교육, 기록과 보험자 지급 조건을 한 흐름으로 정리할 때 참고한다.",
+      "source_url": "https://www.abbycare.org/tennessee"
+    },
+    {
+      "name": "TAI 자금 사용 발표",
+      "use": "조달액, 자금 사용 계획과 고객 매출을 분리해 딥테크 사업의 다음 단계 근거를 검토한다.",
+      "source_url": "https://tokyo-ai.co.jp/news/info_20261026/"
+    }
+  ],
+  "quote": {
+    "text": "The future of healthcare starts at home.",
+    "author": "Abby Care",
+    "source_url": "https://www.abbycare.org/blog/building-the-future-of-care-at-home-with-our-new-healthcare-partners"
+  },
+  "newsletter": {
+    "title": "돌봄 AI의 가격표에는 먼저 지불자가 적혀야 한다",
+    "body_md": "오늘의 핵심은 AI 기능이 아니라 지불자다. JoyLiving은 시니어 리빙 운영자에게 월 249달러로 400분, 월 499달러로 1,000분의 전화와 기록을 판다. 회사 사례에서 Asbury는 2026년 4월 700건 이상의 문의 중 10건 중 7건을 직원 개입 없이 처리했다고 밝혔다. 반면 SilverKin은 가족에게 99달러 기기와 월 39.99달러 구독을 받는다. Abby Care는 가족 돌봄자를 교육하고 Medicaid와 건강보험을 통해 비용을 지급받는 구조로 확장하며 8,200만달러 Series C를 조달했다. 세 사례는 같은 돌봄 기술도 시설 운영비, 가족 구독, 보험자 지급으로 상품이 갈린다는 사실을 보여준다. 이번 주에는 내 서비스의 실제 지불자와 반복 업무량, 사람이 승인해야 하는 지점을 한 장에 적어보자. TAI의 12억7천만엔 조달처럼 투자금은 고객 매출과 분리해 기록한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "시니어 리빙의 전화 1,000분에 499달러를 붙인 이유",
+      "hook": "월 499달러를 내는 사람은 시니어가 아니라 시설 운영자다.",
+      "core_claim": "JoyLiving은 AI 기능을 파는 대신 시설의 반복 전화량과 기록 업무를 월 통화량으로 가격화한다.",
+      "primary_case": "JoyLiving과 Asbury Methodist Village의 주민 문의 처리 사례",
+      "public_number": "Starter 월 249달러와 400분, Growth 월 499달러와 1,000분, Asbury 2026년 4월 700건 이상 문의와 10건 중 7건 자동 해결이라는 회사 사례",
+      "payer": "시니어 리빙 시설 운영자",
+      "seven_day_action": "시설 문의 30건을 일반 안내, 예약, 유지보수, 긴급 전환으로 분류하고 사람이 승인해야 하는 구간과 월 처리량을 적는다.",
+      "source_urls": [
+        "https://joyliving.ai/",
+        "https://onscreeninc.com/blogs/news/joyliving-ai-receptionist-asbury",
+        "https://www.leadingageca.org/premier-business-partners/onscreen"
+      ]
+    },
+    {
+      "title": "시설용 AI를 가족 월 구독으로 옮긴 SilverKin",
+      "hook": "SilverKin은 99달러 기기보다 가족이 매달 확인하는 정보를 판다.",
+      "core_claim": "기관에서 쓰던 시니어 모니터링 기술이 가정에서는 기기값과 가족 구독료를 결합한 상품으로 바뀐다.",
+      "primary_case": "SilverKin의 Tempo 기반 밴드, 방 비콘과 가족 앱",
+      "public_number": "Starter Kit 99달러, 첫 250가족 대상 월 39.99달러, 정규 월 59.99달러, 추가 방 비콘 개당 19.99달러",
+      "payer": "부모와 떨어져 사는 성인 자녀와 가족의 Care Circle",
+      "seven_day_action": "성인 자녀 5명에게 안부 확인, 생활 변화 알림과 긴급 연결 중 매달 돈을 낼 정보가 무엇인지 묻고 세 가지 가격표를 비교한다.",
+      "source_urls": [
+        "https://www.silverkin.com/"
+      ]
+    },
+    {
+      "title": "가족이 하던 돌봄을 Medicaid 지급 서비스로 바꾸는 법",
+      "hook": "가족이 이미 하던 돌봄도 교육과 기록이 붙으면 보험자 지급 구조에 들어갈 수 있다.",
+      "core_claim": "Abby Care는 가족의 관계 지식을 교육, RN 감독과 실시간 기록으로 묶어 건강보험과 주 프로그램의 지급 조건에 맞춘다.",
+      "primary_case": "Abby Care의 8개 주 가족 돌봄자 플랫폼과 Tennessee Medicaid 안내",
+      "public_number": "2026년 10월 15일 Series C 8,200만달러, 운영 주 8곳, Tennessee 안내의 가족 비용 없음",
+      "payer": "Medicaid와 건강보험, 주별 돌봄 프로그램",
+      "seven_day_action": "지역 돌봄기관의 지급자, 자격, 교육, 기록과 승인 기간을 한 장의 흐름표로 정리하고 실제 개인정보 없이 검토받는다.",
+      "source_urls": [
+        "https://www.abbycare.org/blog/abby-care-series-c-raise",
+        "https://www.abbycare.org/tennessee",
+        "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26?trk=article-ssr-frontend-pulse-little-text-block"
+      ]
+    },
+    {
+      "title": "12억7천만엔 조달 뒤에도 고객 가격을 따로 확인해야 하는 이유",
+      "hook": "조달액이 커졌다는 사실과 고객이 반복해서 돈을 낸다는 사실은 다르다.",
+      "core_claim": "TAI는 AI 솔루션과 반도체 양산을 위한 자금을 조달했지만, 고객별 가격과 매출은 별도로 공개되지 않았다.",
+      "primary_case": "Tokyo Artisan Intelligence의 Series C 1st close와 Manta Ray 생산 계획",
+      "public_number": "2026년 10월 26일 증자와 대출을 합친 12억7천만엔 조달",
+      "payer": "현재 공개 자료만으로 고객별 지불자는 확인되지 않음",
+      "seven_day_action": "투자 뉴스 하나를 골라 조달액, 자금 사용, 고객, 납품과 반복 결제를 각각 다른 칸에 기록한다.",
+      "source_urls": [
+        "https://tokyo-ai.co.jp/news/info_20261026/",
+        "https://sogyotecho.jp/news/20261027tokyo-ai/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "시니어 리빙 AI는 왜 월 499달러의 통화량을 파나",
+      "body_md": "AI 돌봄 서비스의 가격표에서 먼저 봐야 할 것은 모델 이름이 아니라 결제자다.\n\n시니어 리빙 운영자를 위한 JoyLiving은 Starter를 월 249달러, 400분으로, Growth를 월 499달러, 1,000분으로 공개했다. 포함 분을 넘기면 각각 분당 0.25달러와 0.22달러가 붙는다. 주민이 앱을 설치하는 상품이 아니라 시설의 대표 전화, 주민 문의, 가족 연락, 유지보수 요청을 처리하고 기록하는 운영비로 파는 구조다.\n\n이 가격표가 흥미로운 이유는 AI를 기능 묶음이 아니라 반복 업무량으로 바꿔 보여주기 때문이다. 공식 페이지의 계산기는 주민 100명과 시간당 인건비 24달러를 입력하면 연간 79,224달러의 잠재 효과를 표시한다. 다만 이 숫자는 회사 계산기의 가정값이다. 실제 고객 절감액이나 이익으로 읽으면 안 된다.\n\n실제 사용 장면은 회사의 Asbury 사례에서 확인된다. 2026년 4월 Joy가 700건이 넘는 주민 문의를 받고 10건 중 7건을 직원 개입 없이 해결했다고 회사가 밝혔다. 유지보수 작업 요청 126건, 활동과 행사 문의 146건, 당일 식사 메뉴 문의 112건도 함께 제시했다. 이는 회사가 공개한 한 시설의 사례이지 모든 시설에서 같은 결과가 나온다는 증거는 아니다. 그래도 무엇을 팔고 있는지는 분명하다. 답변 생성 모델이 아니라 전화가 들어온 뒤 분류하고, 기록하고, 사람에게 넘기는 업무 흐름이다.\n\n시설이 구매하는 것은 응답만이 아니다. LeadingAge California의 소개처럼 운영 시스템과 연결하고, 대화를 요약하며, 긴급한 요청을 직원에게 넘기는 기록 체계까지 함께 산다. 그래서 월 요금은 모델 사용료가 아니라 프런트 데스크의 반복 업무를 묶은 운영 상품으로 읽어야 한다.\n\n다른 가격표를 보면 지불자의 차이가 더 선명해진다. SilverKin은 시설용 기술을 가정으로 가져와 가족에게 Starter Kit 99달러와 첫 250가족 대상 월 39.99달러 구독을 받는다. Abby Care는 가족 돌봄자를 교육하고 인증한 뒤 RN 관리와 기록을 붙이고, 테네시에서는 Medicaid를 통한 프로그램이 가족에게 비용 없이 제공된다고 안내한다. Abby Care의 8,200만달러 Series C는 확장 자금이지 돌봄 매출이나 가족별 지급액이 아니다.\n\n작은 사업자라면 가격표를 만들기 전에 세 칸만 적으면 된다. 누가 돈을 내는가, 어떤 반복 업무를 몇 번 처리하는가, 어떤 순간에는 사람이 승인하는가. 이 세 칸이 채워지면 AI 기능은 그다음 문제다.\n\n출처:\n- [JoyLiving 공식 가격과 ROI 계산기](https://joyliving.ai/)\n- [ONSCREEN Asbury 사례](https://onscreeninc.com/blogs/news/joyliving-ai-receptionist-asbury)\n- [SilverKin 공식 가격](https://www.silverkin.com/)\n- [Abby Care 공식 발표와 Tennessee 안내](https://www.abbycare.org/tennessee)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "월 499달러를 내는 사람은 시니어가 아니었습니다. JoyLiving은 시니어 리빙 운영자에게 1,000분의 AI 전화와 기록을 월 499달러에 팝니다. 시설의 대표 전화, 주민 문의, 유지보수 요청을 처리하는 운영비입니다.",
+      "Asbury 사례에서 Joy는 2026년 4월 700건이 넘는 주민 문의를 받고 10건 중 7건을 직원 개입 없이 해결했다고 회사가 밝혔습니다. 공식 가격은 Starter 월 249달러와 400분, Growth 월 499달러와 1,000분입니다. 이 수치는 회사 사례로만 읽어야 합니다.",
+      "지불자는 가족일 수도 있습니다. SilverKin은 시설용 기술을 가정으로 옮겨 Starter Kit 99달러와 첫 250가족 대상 월 39.99달러를 받습니다. Abby Care는 가족 돌봄자를 교육하고 Medicaid와 건강보험 구조에 연결합니다. 같은 AI라도 결제자에 따라 가격표가 달라집니다.",
+      "TAI가 발표한 12억7천만엔은 Series C 1st close의 증자와 대출입니다. 고객 매출이나 이익이 아닙니다. AI 사업을 볼 때는 조달액, 고객, 반복 업무량과 사람의 승인 지점을 따로 적어야 실제 돈의 흐름이 보입니다."
+    ],
+    "instagram": {
+      "caption": "같은 돌봄 AI라도 누가 돈을 내는지에 따라 사업이 달라집니다.\n\n시설 운영자는 JoyLiving에 월 249달러 또는 499달러를 내고 통화량과 기록 업무를 삽니다. 가족은 SilverKin의 99달러 기기와 월 39.99달러 구독을 삽니다. Abby Care는 가족 돌봄자를 교육해 Medicaid와 건강보험 지급 구조에 연결합니다.\n\n반대로 TAI의 12억7천만엔은 고객 매출이 아니라 조달 자금입니다. 가격표를 만들 때는 지불자, 반복 업무량, 사람의 승인 지점을 먼저 적어야 합니다.\n\n출처: JoyLiving, ONSCREEN, SilverKin, Abby Care, Tokyo Artisan Intelligence 공식 자료",
+      "hashtags": "#비즈니스인사이트 #헬스케어비즈니스 #시니어비즈니스 #AI사업 #구독모델 #돌봄서비스",
+      "cards": [
+        "같은 AI라도 지불자는 다르다",
+        "시설 운영자\nJoyLiving\n월 249달러, 400분\n월 499달러, 1,000분",
+        "가족\nSilverKin\n기기 99달러\n첫 250가족 월 39.99달러",
+        "보험자와 주 프로그램\nAbby Care\n가족 돌봄자 교육과 기록\n8개 주 운영",
+        "투자자\nTAI\n12억7천만엔 조달\n고객 매출과는 별도",
+        "가격표를 만들 때\n지불자\n반복 업무량\n사람의 승인 지점"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 돌봄 AI는 누가 돈을 내는가",
+      "hook": "월 499달러를 내는 사람은 시니어가 아니라 시설 운영자입니다.",
+      "script": "AI 돌봄 사업을 볼 때 기능보다 먼저 볼 것은 지불자입니다.\n\nJoyLiving은 시니어 리빙 운영자에게 월 249달러로 400분, 월 499달러로 1,000분의 전화와 기록을 팝니다. Asbury 사례에서는 2026년 4월 700건 이상 문의 중 10건 중 7건을 직원 개입 없이 처리했다고 회사가 공개했습니다.\n\nSilverKin은 가족에게 99달러 기기와 월 39.99달러 구독을 받습니다. Abby Care는 가족 돌봄자를 교육하고 Medicaid와 건강보험 구조를 통해 비용을 지급받습니다. 같은 돌봄 AI라도 시설 운영비, 가족 구독, 보험자 지급으로 가격표가 달라집니다.\n\n반대로 일본 TAI가 조달한 12억7천만엔은 고객 매출이 아니라 다음 단계의 자금입니다. AI 사업을 시작한다면 누가 돈을 내는지, 반복 업무량이 얼마인지, 어디서 사람이 승인하는지부터 적어보세요."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "JoyLiving 공식 가격과 ROI 계산기",
+      "url": "https://joyliving.ai/"
+    },
+    {
+      "name": "ONSCREEN Asbury 주민 문의 사례",
+      "url": "https://onscreeninc.com/blogs/news/joyliving-ai-receptionist-asbury"
+    },
+    {
+      "name": "LeadingAge California의 JoyLiving 소개",
+      "url": "https://www.leadingageca.org/premier-business-partners/onscreen"
+    },
+    {
+      "name": "SilverKin 공식 제품과 가격",
+      "url": "https://www.silverkin.com/"
+    },
+    {
+      "name": "Abby Care Series C 공식 발표",
+      "url": "https://www.abbycare.org/blog/abby-care-series-c-raise"
+    },
+    {
+      "name": "Abby Care Tennessee 프로그램 안내",
+      "url": "https://www.abbycare.org/tennessee"
+    },
+    {
+      "name": "Fierce Healthcare Abby Care funding tracker",
+      "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26?trk=article-ssr-frontend-pulse-little-text-block"
+    },
+    {
+      "name": "Tokyo Artisan Intelligence Series C 공식 발표",
+      "url": "https://tokyo-ai.co.jp/news/info_20261026/"
+    },
+    {
+      "name": "창업수첩 TAI 조달 보도",
+      "url": "https://sogyotecho.jp/news/20261027tokyo-ai/"
+    },
+    {
+      "name": "Abby Care care at home 공식 안내",
+      "url": "https://www.abbycare.org/blog/building-the-future-of-care-at-home-with-our-new-healthcare-partners"
+    },
+    {
+      "name": "JoyLiving 공식 로고",
+      "url": "https://joyliving.ai/joyliving-logo.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익과 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
