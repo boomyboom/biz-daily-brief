@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-29",
+  "generated_at_kst": "2026-10-29T12:02:34+09:00",
+  "mode": "new",
+  "headline": "시니어 서비스는 같은 사람의 반복 접촉을 가격표로 만든다",
+  "insights": [
+    {
+      "title": "ToneOfCare는 매일의 안부를 월 119달러부터 받는다",
+      "summary": "미국 ToneOfCare는 고정 담당자의 비의료 통화를 매일 제공하고 통화 기록과 가족 보고를 묶는다. 1일 1회 월 119달러, 2회 179달러, 3회 249달러이며, 회사는 의료 서비스와 응급 서비스가 아니라고 명시한다. 매출, 유료 가족 수와 유지율은 공개되지 않았다.",
+      "takeaway": "무료 자동 확인과 경쟁하려면 사람의 반복성, 기록과 가족 보고 중 무엇을 유료로 약속하는지 분명히 적어라.",
+      "source_type": "blog",
+      "source_name": "ToneOfCare 공식 서비스 페이지",
+      "source_url": "https://toneofcare.com/"
+    },
+    {
+      "title": "무료 공공 전화가 있어도 유료 상품의 자리는 남는다",
+      "summary": "메릴랜드 Senior Call Check and Social Connections는 60세 이상 주민에게 매일 자동 전화 또는 문자를 무료로 제공하고, 무응답 시 두 번 더 시도한 뒤 대체 연락처에 알린다. 주 1회 생방송 전화 옵션도 있지만 기본은 자동 확인이다. 따라서 유료 상품의 차이는 의료나 응급 대응이 아니라 익숙한 사람이 같은 시간에 통화하고 기록을 남기는 구조로 설명해야 한다.",
+      "takeaway": "무료 공공 서비스와 경쟁할 때 기능을 더하기보다 사람, 기록과 책임 경계를 비교표로 보여줘라.",
+      "source_type": "media",
+      "source_name": "Maryland Department of Aging",
+      "source_url": "https://aging.maryland.gov/programs-and-services/senior-call-check"
+    },
+    {
+      "title": "Kirari는 1시간 3,960엔으로 같은 담당자의 생활 지원을 판다",
+      "summary": "일본 Kirari Life Support는 가사, 육아, 펫케어와 생활 지원을 한 담당자가 이어서 제공한다. 공식 페이지의 가격은 1시간 3,960엔, 2시간 3,520엔, 3시간 3,080엔, 4시간 이상 2,970엔이며 방문비 990엔을 별도 받는다. 회사 페이지에는 누적 방문 10만 회 이상, 이용 가구 2,700가구 이상, 반복률 96퍼센트가 표시되어 있지만 반복률의 분모와 기간은 공개되지 않았다.",
+      "takeaway": "관계가 핵심인 서비스는 시간당 단가만 말하지 말고 담당자 고정, 방문 횟수와 완료 보고를 한 상품으로 묶어라.",
+      "source_type": "blog",
+      "source_name": "Kirari Life Support 공식 서비스 페이지",
+      "source_url": "https://support.kirari.co.jp/"
+    },
+    {
+      "title": "입욕 보조 기술은 가격표보다 검증 항목부터 만든다",
+      "summary": "Science, Gakken Holdings와 Medical Care Service는 2026년 11월부터 요양시설에서 파인버블 기술을 활용한 입욕 보조를 검증할 예정이다. 도입 전후 욕조 세균 검사, 입주자의 피부 오염과 보습 상태, 직원 업무 부담 등을 확인할 계획이지만 장비 가격, 계약 구조와 인력 절감 결과는 공개되지 않았다. 아직 성공 사례가 아니라 검증 설계 사례다.",
+      "takeaway": "시설용 장비는 먼저 누가 사는지보다 어떤 전후 지표가 예산을 움직이는지 합의해라.",
+      "source_type": "media",
+      "source_name": "Science, Gakken Holdings와 Medical Care Service 공식 발표",
+      "source_url": "https://www.gakken.co.jp/ja/news/20269370289940464.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "같은 담당자와 기록이 생활 서비스의 차별점이 된다",
+      "summary": "ToneOfCare는 고정 담당자의 통화와 가족 보고를 월정액으로 묶고, Kirari는 같은 시니어 담당자가 한 가정에 반복 방문하는 구조를 가격표에 넣는다.",
+      "why_now": "시니어 서비스의 기능 경쟁이 커지는 가운데 사람의 일관성, 기록과 교체 책임을 별도 가치로 설명할 수 있는 공개 가격 사례가 나왔다.",
+      "source_url": "https://toneofcare.com/"
+    },
+    {
+      "theme": "무료 공공 안부 확인과 유료 인간 접촉이 다른 단위로 나뉜다",
+      "summary": "메릴랜드의 무료 프로그램은 자동 확인과 무응답 알림을 제공한다. 유료 서비스는 익숙한 사람의 대화, 기록과 가족 보고를 차별점으로 삼아야 한다.",
+      "why_now": "같은 문제를 공공 프로그램과 민간 구독이 다르게 풀고 있어, 무료 서비스와 겹치지 않는 유료 범위를 설계하기 쉬워졌다.",
+      "source_url": "https://aging.maryland.gov/programs-and-services/senior-call-check"
+    },
+    {
+      "theme": "돌봄 장비는 판매 전 현장 검증이 사업 단계가 된다",
+      "summary": "Science와 Gakken 그룹은 파인버블 기술을 요양시설에서 시험하면서 위생, 피부 상태와 업무 부담을 전후 비교할 계획이다. 가격과 성과는 아직 공개되지 않았다.",
+      "why_now": "기술 발표가 곧 매출 증거가 되지 않는다는 점을 보여주며, 시설 도입 전 검증 항목과 지불자 확인이 먼저 필요한 사례다.",
+      "source_url": "https://www.gakken.co.jp/ja/news/20269370289940464.html"
+    }
+  ],
+  "cases": [
+    {
+      "who": "ToneOfCare, 미국 버지니아",
+      "what": "가족이 직접 하기 어려운 매일의 비의료 안부 통화와 가족 보고를 제공하는 서비스",
+      "how": "평일에는 고정 담당자가, 주말에는 창업자가 통화한다. 통화마다 기록을 남기고 무응답이나 평소와 다른 변화가 있으면 정해진 절차에 따라 가족에게 알린다. 회사는 의료 서비스와 응급 서비스가 아니라고 밝힌다.",
+      "numbers": "회사 요금표 기준 하루 1회 월 119달러, 2회 월 179달러, 3회 월 249달러다. 계약은 없고 가족 묶음은 10퍼센트 할인, 연간 선결제는 15퍼센트 할인이다. 유료 가족 수, 매출과 유지율은 공개되지 않았다.",
+      "source_url": "https://toneofcare.com/"
+    },
+    {
+      "who": "Kirari Life Support, 일본",
+      "what": "시니어 담당자가 같은 가정에 반복 방문해 가사, 육아, 펫케어와 생활 지원을 제공하는 서비스",
+      "how": "이용자는 방문 횟수와 시간을 기준으로 고정 요금을 내고, 회사는 담당자 선발과 교육, 완료 보고와 사고 대응을 운영에 포함한다. Venture.jp 인터뷰는 같은 담당자가 매주 방문하는 장기 이용 구조를 설명한다.",
+      "numbers": "공식 페이지 표시 기준 1시간 3,960엔, 2시간 3,520엔, 3시간 3,080엔, 4시간 이상 2,970엔이며 방문비 990엔이 별도다. 누적 방문 10만 회 이상, 이용 가구 2,700가구 이상, 반복률 96퍼센트와 평가 4.95점은 회사 표시 수치이며 계산 기간과 분모는 공개되지 않았다.",
+      "source_url": "https://support.kirari.co.jp/"
+    },
+    {
+      "who": "Science, Gakken Holdings와 Medical Care Service, 일본",
+      "what": "파인버블 기술을 활용한 입욕 보조를 실제 요양시설의 업무와 이용자 상태에 맞춰 검증하는 협업",
+      "how": "Medical Care Service가 운영하는 인지증 그룹홈에서 2026년 11월부터 도입 전후의 욕조 세균 검사, 입주자 피부 오염과 보습 상태, 직원 업무 부담 등을 비교할 예정이다. 현재는 계획과 검증 단계다.",
+      "numbers": "2026년 11월 검증 시작 예정이며 장비 가격, 계약 구조와 인력 절감 결과는 공개되지 않았다. 공식 자료에 시설 수가 서로 다르게 표시되어 그 숫자는 사용하지 않는다.",
+      "source_url": "https://www.gakken.co.jp/ja/news/20269370289940464.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "ToneOfCare 비의료 통화 가격표",
+      "use": "고정 담당자, 통화 횟수, 기록과 가족 보고를 월정액으로 묶을 때 가격 단위를 점검한다.",
+      "source_url": "https://toneofcare.com/"
+    },
+    {
+      "name": "Kirari 방문 횟수와 시간 가격표",
+      "use": "담당자 고정 서비스의 시간당 단가, 방문비와 장기 이용 조건을 한 장에 설계할 때 참고한다.",
+      "source_url": "https://support.kirari.co.jp/"
+    },
+    {
+      "name": "무료 안부 확인과 유료 서비스 비교표",
+      "use": "자동 확인, 사람의 대화, 기록, 가족 보고와 응급 대응의 책임 범위를 분리해 상품 경계를 정한다.",
+      "source_url": "https://aging.maryland.gov/programs-and-services/senior-call-check"
+    },
+    {
+      "name": "입욕 보조 전후 검증 체크리스트",
+      "use": "시설 장비를 도입하기 전에 위생, 피부 상태, 직원 시간과 이용자 경험을 전후 지표로 합의한다.",
+      "source_url": "https://kaden.watch.impress.co.jp/docs/news/2151272.html"
+    }
+  ],
+  "quote": {
+    "text": "A real conversation, not a checklist read at someone.",
+    "author": "ToneOfCare 공식 서비스 페이지",
+    "source_url": "https://toneofcare.com/"
+  },
+  "newsletter": {
+    "title": "기능이 아니라 같은 사람이 오는 약속을 팔아라",
+    "body_md": "핵심 주장은 시니어 생활 서비스의 반복 결제 단위가 같은 사람이 정해진 시간에 다시 오는 약속이라는 것이다. ToneOfCare는 가족에게 하루 한 번 월 119달러부터 비의료 통화와 기록을 판다. 메릴랜드의 무료 자동 안부 전화와 비교하면 유료 차별점은 사람의 일관성과 가족 보고다. Kirari Life Support는 같은 담당자의 생활 지원을 1시간 3,960엔, 방문비 990엔에 제공한다. 회사 표시 반복률 96퍼센트의 계산 기준은 공개되지 않았다. 독자는 일주일간 고정 담당자와 기록을 한 상품으로 시험하고 실제 결제자를 확인하면 된다. 의료와 응급 대응의 책임은 별도로 적는다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "월 119달러 안부 전화가 만든 관계의 가격표",
+      "hook": "하루 한 번의 안부는 무료일 수 있지만, 같은 사람이 정해진 시간에 기록까지 남기는 약속에는 월 119달러가 붙는다.",
+      "core_claim": "ToneOfCare는 비의료 통화, 통화 기록과 가족 보고를 고정 담당자의 반복 접촉으로 묶어 부모 또는 성인 자녀에게 판매한다.",
+      "primary_case": "ToneOfCare의 하루 1회, 2회와 3회 통화 요금제",
+      "public_number": "하루 1회 월 119달러, 2회 월 179달러, 3회 월 249달러. 유료 가족 수와 유지율은 공개되지 않음.",
+      "payer": "부모 본인 또는 성인 자녀",
+      "seven_day_action": "부모 동의가 있는 비의료 안부 통화 7일 파일럿을 설계하고 통화 시간, 기록 시간, 가족 보고의 지불 의향을 분리해 확인한다.",
+      "source_urls": [
+        "https://toneofcare.com/",
+        "https://aging.maryland.gov/programs-and-services/senior-call-check"
+      ]
+    },
+    {
+      "title": "같은 담당자가 오는 생활 지원은 시간당 얼마가 되는가",
+      "hook": "Kirari는 청소 한 건보다 같은 담당자가 매주 오는 관계와 넓은 작업 범위를 한 가격표로 묶는다.",
+      "core_claim": "Kirari Life Support는 시니어 담당자가 같은 가정을 반복 방문하도록 운영하고 방문 횟수와 시간으로 이용료를 받는다.",
+      "primary_case": "Kirari Life Support의 전담 담당자와 시간당 가격 구조",
+      "public_number": "1시간 3,960엔, 2시간 3,520엔, 3시간 3,080엔, 4시간 이상 2,970엔, 방문비 990엔. 회사 표시 반복률 96퍼센트의 분모와 기간은 미공개.",
+      "payer": "도쿄, 가나가와, 지바와 사이타마의 가정 고객",
+      "seven_day_action": "한 동네의 가정 세 곳에 담당자 고정, 2시간 정기 방문과 완료 보고를 묶은 가격을 제시하고 교체 가능성과 안전 절차의 가치를 확인한다.",
+      "source_urls": [
+        "https://support.kirari.co.jp/",
+        "https://venture.jp/news/2026/07/09/26640/"
+      ]
+    },
+    {
+      "title": "입욕 보조 장비는 가격보다 검증 항목부터 판다",
+      "hook": "요양시설용 장비는 판매 가격을 공개하기 전에 어떤 업무가 줄고 어떤 상태가 좋아지는지부터 측정한다.",
+      "core_claim": "Science와 Gakken 그룹은 파인버블 입욕 기술을 실제 시설에서 시험하며 위생, 피부 상태와 업무 부담을 전후 비교할 계획이다.",
+      "primary_case": "Science, Gakken Holdings와 Medical Care Service의 2026년 11월 입욕 보조 검증",
+      "public_number": "2026년 11월 검증 시작 예정. 장비 가격, 계약 구조와 인력 절감 결과는 공개되지 않음.",
+      "payer": "검증 전이라 시설 운영자, 입주자와 공공 지원 중 실제 지불자는 확인되지 않음",
+      "seven_day_action": "시설 관리자 세 명에게 입욕 1회당 직원 시간, 이동 시간, 피부 부담과 이용자 경험 중 예산을 움직일 지표를 묻고 전후 비교표를 만든다.",
+      "source_urls": [
+        "https://www.gakken.co.jp/ja/news/20269370289940464.html",
+        "https://i-feel-science.com/news/post-1814/",
+        "https://kaden.watch.impress.co.jp/docs/news/2151272.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "월 119달러 안부 전화가 보여준, 시니어 서비스의 가격 단위",
+      "body_md": "안부 전화는 무료일 수 있습니다. 같은 사람이 정해진 시간에 전화하고 기록을 남겨 가족에게 알려주면 월 119달러의 상품이 됩니다. ToneOfCare는 반복되는 약속을 팝니다.\n\nToneOfCare는 비의료 안부 전화를 하루 한 번 월 119달러, 두 번 179달러, 세 번 249달러에 제공합니다. 평일에는 고정 담당자가, 주말에는 창업자가 전화합니다. 통화 기록과 가족 요약이 포함됩니다. 가족이 결제하며, 유료 가족 수와 유지율은 공개되지 않았습니다.\n\n메릴랜드의 Senior Call Check는 60세 이상에게 매일 자동 전화나 문자를 무료로 보내고, 무응답이면 대체 연락처에 알립니다. 유료 서비스가 구분해야 할 것은 안부 확인이 아니라 익숙한 사람의 대화, 기록과 가족 보고입니다. ToneOfCare는 의료나 응급 서비스가 아니라고 밝힙니다.\n\n일본 Kirari Life Support는 같은 담당자가 반복 방문해 가사와 생활 지원을 제공합니다. 공식 가격은 1시간 3,960엔, 4시간 이상 2,970엔이며 방문비 990엔이 별도입니다. 회사는 반복률 96퍼센트를 표시하지만 분모와 기간은 공개하지 않았습니다.\n\n두 사례는 다음 만남을 상품으로 만듭니다. 일주일 동안 담당자, 시간, 기록과 가족 보고를 묶어 세 가정에 제시하고, 부모, 가족과 기관 중 누가 결제하는지 기록해보세요. 담당자 교체와 응급 상황의 책임도 가격표에 넣어야 합니다.\n\n출처: [ToneOfCare 공식 서비스 페이지](https://toneofcare.com/), [메릴랜드 Department of Aging](https://aging.maryland.gov/programs-and-services/senior-call-check), [Kirari Life Support 공식 페이지](https://support.kirari.co.jp/), [Venture.jp 인터뷰](https://venture.jp/news/2026/07/09/26640/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1번. 하루 한 번 안부 전화는 무료일 수 있습니다. 하지만 같은 사람이 정해진 시간에 전화를 걸고, 대화 내용을 기록해 가족에게 알려주면 월 119달러의 상품이 됩니다. 미국 ToneOfCare는 부모 본인이나 성인 자녀에게 비의료 통화와 가족 보고를 묶어 판매합니다. 유료 가족 수와 유지율은 공개되지 않았습니다.",
+      "2번. 메릴랜드의 Senior Call Check and Social Connections는 60세 이상 주민에게 매일 자동 전화나 문자를 무료로 보냅니다. 무응답이면 두 번 더 시도한 뒤 대체 연락처에 알립니다. 유료 상품의 차이는 전화한다는 사실이 아니라 같은 사람이 같은 시간에 통화하고 기록을 남기는 약속입니다.",
+      "3번. 일본 Kirari Life Support는 같은 담당자가 가사와 생활 지원을 이어서 제공합니다. 공식 가격은 1시간 3,960엔, 2시간 3,520엔, 3시간 3,080엔, 4시간 이상 2,970엔이고 방문비 990엔이 별도입니다. 회사 표시 반복률 96퍼센트의 분모와 기간은 공개되지 않았습니다.",
+      "4번. 작게 시험한다면 고정 담당자, 정해진 시간, 기록과 가족 보고를 한 상품으로 묶어 일주일 운영해보세요. 부모 본인, 가족과 기관 중 누가 어떤 결과에 돈을 내는지 따로 적고, 의료와 응급 대응의 책임은 서비스 밖에 명확히 두어야 합니다. 출처: ToneOfCare, Maryland Department of Aging, Kirari Life Support, Venture.jp\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "시니어 서비스에서 돈이 붙는 것은 기능이 아니라 반복되는 약속일 수 있습니다.\n\n미국 ToneOfCare는 같은 사람이 매일 안부 전화를 걸고 통화 기록과 가족 보고를 남깁니다. 하루 한 번 월 119달러, 두 번 179달러, 세 번 249달러입니다. 의료 서비스나 응급 서비스는 아닙니다.\n\n메릴랜드에는 자동 안부 전화와 무응답 알림을 무료로 제공하는 공공 프로그램이 있습니다. 유료 서비스는 익숙한 사람의 대화와 기록으로 차이를 만들어야 합니다.\n\n일본 Kirari Life Support는 같은 담당자가 가사와 생활 지원을 이어서 제공합니다. 1시간 3,960엔, 방문비 990엔을 표시하고, 반복률 96퍼센트는 회사 표시 수치로만 제시합니다.\n\n작게 시작할 때는 담당자, 시간, 기록과 보고를 하나의 상품으로 묶고 누가 실제로 결제하는지 확인하세요.\n\n출처: [ToneOfCare](https://toneofcare.com/), [Maryland Department of Aging](https://aging.maryland.gov/programs-and-services/senior-call-check), [Kirari Life Support](https://support.kirari.co.jp/), [Venture.jp](https://venture.jp/news/2026/07/09/26640/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #헬스케어비즈니스 #돌봄서비스 #구독모델 #서비스디자인",
+      "cards": [
+        "같은 사람이 반복해서 오는 약속에 가격이 붙습니다",
+        "ToneOfCare\n하루 1회 월 119달러\n2회 월 179달러\n3회 월 249달러",
+        "무료 공공 프로그램과 다른 점\n익숙한 사람의 통화\n통화 기록\n가족 보고",
+        "Kirari Life Support\n1시간 3,960엔\n방문비 990엔\n회사 표시 반복률 96퍼센트",
+        "가격표에 먼저 적을 것\n담당자\n반복 시간\n기록과 보고\n결제자",
+        "수익을 단정하기 전에\n매출과 유지율을 확인하고\n의료와 응급 대응의 책임을 분리하세요"
+      ]
+    },
+    "youtube": {
+      "title": "월 119달러 안부 전화가 보여준 시니어 서비스의 가격 단위",
+      "hook": "하루 한 번의 안부 전화는 무료일 수 있습니다. 같은 사람이 매일 기록까지 남기면 월 119달러의 상품이 됩니다.",
+      "script": "시니어 서비스에서 기능보다 먼저 봐야 할 것은 같은 사람이 반복해서 오는가입니다.\n\n미국 ToneOfCare는 비의료 안부 전화를 하루 한 번 월 119달러, 두 번 179달러, 세 번 249달러에 제공합니다. 평일에는 고정 담당자가 통화하고, 주말에는 창업자가 직접 전화합니다. 모든 통화는 기록되고 가족에게 주간 요약이 전달됩니다. 회사는 의료 서비스나 응급 서비스가 아니라고 밝힙니다.\n\n메릴랜드의 Senior Call Check and Social Connections는 매일 자동 전화나 문자를 무료로 제공합니다. 응답이 없으면 두 번 더 시도하고 대체 연락처에 알립니다. 그렇다면 유료 서비스가 팔아야 하는 것은 전화 한 통이 아닙니다. 익숙한 사람의 목소리, 같은 시간의 약속과 기록입니다.\n\n일본 Kirari Life Support도 같은 구조를 방문 서비스에 적용합니다. 한 명의 담당자가 가사와 생활 지원을 이어서 제공하고 1시간 3,960엔, 방문비 990엔을 받습니다. 반복률 96퍼센트는 회사가 표시한 수치이며 계산 기준은 공개되지 않았습니다.\n\n작은 사업자는 고정 담당자, 반복 시간, 기록과 가족 보고를 하나의 상품으로 묶어 일주일 시험해볼 수 있습니다. 누가 결제하는지, 사람이 꼭 필요한 순간이 언제인지, 담당자 교체 비용이 얼마인지부터 적어야 합니다."
+    }
+  },
+  "sources_used": [
+    {
+      "name": "ToneOfCare 공식 서비스 페이지",
+      "url": "https://toneofcare.com/"
+    },
+    {
+      "name": "Maryland Department of Aging Senior Call Check and Social Connections",
+      "url": "https://aging.maryland.gov/programs-and-services/senior-call-check"
+    },
+    {
+      "name": "Kirari Life Support 공식 서비스 페이지",
+      "url": "https://support.kirari.co.jp/"
+    },
+    {
+      "name": "Venture.jp Kirari 대표 인터뷰",
+      "url": "https://venture.jp/news/2026/07/09/26640/"
+    },
+    {
+      "name": "Science 다음 세대 입욕 보조 공식 발표",
+      "url": "https://i-feel-science.com/news/post-1814/"
+    },
+    {
+      "name": "Gakken Holdings 다음 세대 입욕 보조 공식 발표",
+      "url": "https://www.gakken.co.jp/ja/news/20269370289940464.html"
+    },
+    {
+      "name": "家電 Watch 입욕 보조 검증 보도",
+      "url": "https://kaden.watch.impress.co.jp/docs/news/2151272.html"
+    },
+    {
+      "name": "Kirari Life Support 공식 로고",
+      "url": "https://support.kirari.co.jp/wp-content/themes/original/common/img/logo_header_wide.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이나 표시이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
