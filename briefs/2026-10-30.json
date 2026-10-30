@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-30",
+  "generated_at_kst": "2026-10-30T12:02:40+09:00",
+  "mode": "new",
+  "headline": "시니어 시설 사업은 기능보다 유료 운영 실험에 먼저 가격을 붙인다",
+  "insights": [
+    {
+      "title": "CareEvidence AI는 AI 문장이 아니라 시설 한 곳의 검토 흐름을 판다",
+      "summary": "영국 CareEvidence AI는 요양시설 한 곳을 기준으로 CQC 대응 문서 업무를 가격화한다. 30일 유료 파일럿은 299파운드이고, 20베드 이하 월 249파운드, 21에서 40베드 월 399파운드다. 직원 계정은 무제한이며 원문 연결, 사람 승인과 감사 이력 내보내기를 함께 제공한다. 가격표는 회사가 공개한 조건이며 고객 수, 매출과 재계약률은 공개되지 않았다.",
+      "takeaway": "규제 산업용 AI는 생성 기능보다 원문, 승인자와 이력 저장을 한 업무 단위로 묶어 시험하라.",
+      "source_type": "blog",
+      "source_name": "CareEvidence AI 공식 요금표",
+      "source_url": "https://www.care-evidence-ai.com/pricing"
+    },
+    {
+      "title": "MyBelVoy는 차량 대신 하루의 이동 조율을 90일 파일럿으로 판다",
+      "summary": "미국 MyBelVoy는 시니어 생활시설의 프런트, 운전기사, 거주자와 가족을 예약, 이동, 복귀 알림의 한 흐름으로 묶는다. 90일 유료 파일럿은 1,500달러 선불이며 90일 뒤 전환하면 첫해 연간 구독료에서 전액 차감한다. 연간 요금과 고객 성과는 공개되지 않았고, 사이트 화면은 가상 미리보기라고 명시한다.",
+      "takeaway": "차량이나 앱을 만들기 전에 한 시설의 예약, 복귀와 가족 알림을 유료 운영 실험으로 정의하라.",
+      "source_type": "blog",
+      "source_name": "MyBelVoy 공식 사이트",
+      "source_url": "https://mybelvoy.com/"
+    },
+    {
+      "title": "NAGARA는 기록을 직원 계정이 아니라 사업소와 베드 수로 과금한다",
+      "summary": "일본 NAGARA의 음성 기반 개호 기록 서비스는 1사업소 월 3만엔, 30베드 초과분은 1베드당 월 1천엔을 더한다. 직원 통화 기능은 1명당 월 850엔이고 첫 달은 무료다. 회사는 참여 시설에서 연간 1만 시간 이상의 기록 시간 절감을 기대한다고 밝혔지만, 이는 회사가 제시한 전망으로 독립 측정 결과가 아니다.",
+      "takeaway": "현장 SaaS는 사용자 수를 늘리기보다 시설 운영비와 처리량을 기준으로 가격을 단순하게 보여줘라.",
+      "source_type": "media",
+      "source_name": "NAGARA 공식 서비스 페이지",
+      "source_url": "https://nagara.io/"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "유료 파일럿이 시니어 시설 B2B의 진입 상품이 된다",
+      "summary": "CareEvidence AI는 30일 299파운드, MyBelVoy는 90일 1,500달러의 유료 파일럿을 공개했고 NAGARA는 첫 달 무료 뒤 사업소 단위 가격으로 전환한다. 세 사례 모두 장기 계약이나 고객 성과를 증명하는 숫자는 공개하지 않았다.",
+      "why_now": "시설 운영자는 기능보다 도입 전후의 업무 흐름과 책임 범위를 먼저 확인해야 한다. CQC도 보건과 사회복지에서 AI의 이익과 위험, 안전성, 공정성과 사람 중심성을 함께 보도록 안내한다.",
+      "source_url": "https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans"
+    },
+    {
+      "theme": "가격 단위가 이용자 수에서 시설 운영 단위로 이동한다",
+      "summary": "CareEvidence AI는 시설과 베드 수, NAGARA는 사업소와 베드 수, MyBelVoy는 커뮤니티의 90일 운영 실험을 기준으로 가격을 제시한다. 일본介護 소프트웨어 비교 자료에서도 86개 제품 중 공식 요금을 공개한 제품은 21개로 집계되어 가격 단위의 설명 자체가 차별점이 된다.",
+      "why_now": "비슷한 AI 기능이 늘수록 구매자는 직원 계정 수보다 한 시설에서 끝나는 업무와 예산 책임을 비교한다. 비교 자료의 집계는 시장 전체가 아니라 해당 사이트가 공식 정보를 확인한 제품 목록이다.",
+      "source_url": "https://kaigo-tool-navi.com/categories/kaigo-soft"
+    },
+    {
+      "theme": "사람이 승인하는 이력이 제품의 비용과 경계를 함께 만든다",
+      "summary": "CareEvidence AI는 AI 문단마다 원문 근거와 사람 승인 절차를 둔다. MyBelVoy 이용약관은 커뮤니티가 입력 데이터의 정확성과 이용자 동의를 책임진다고 적고, NAGARA는 음성에서 만든 기록 초안을 확인하고 고치는 흐름을 제공한다.",
+      "why_now": "돌봄 현장에서는 속도만 높이면 책임과 개인정보 비용이 커진다. 누가 확인하고 언제 가족에게 알리며 어떤 기록을 보존할지를 상품 범위에 넣어야 한다.",
+      "source_url": "https://mybelvoy.com/terms"
+    }
+  ],
+  "cases": [
+    {
+      "who": "CareEvidence AI, 영국",
+      "what": "요양시설의 CQC 대응 기록을 원문 연결형 AI 초안과 사람 승인 흐름으로 바꾸는 서비스",
+      "how": "돌봄 기록과 사고 기록을 바탕으로 위험, DoLS와 MCA 관련성을 분류하고 관리자가 초안을 수정, 승인 또는 거절한다. 승인과 내보내기 이력은 감사 자료로 남는다. 현재는 초대형 파일럿 접근을 안내한다.",
+      "numbers": "30일 유료 파일럿 299파운드, 20베드 이하 월 249파운드, 21에서 40베드 월 399파운드, 직원 계정 무제한. 모두 회사 요금표 확인값이며 고객 수, 매출과 재계약률은 공개되지 않았다.",
+      "source_url": "https://www.care-evidence-ai.com/pricing"
+    },
+    {
+      "who": "MyBelVoy, 미국",
+      "what": "시니어 생활시설의 이동 예약과 복귀 조율을 프런트, 운전기사, 거주자와 가족의 공유 workflow로 연결하는 서비스",
+      "how": "시설 직원이 예약과 이동 보조기기 정보를 입력하고 운전기사는 배차와 복귀 요청을 확인한다. 거주자와 가족은 약속 당일 이동 상태를 확인하며, 문자 알림은 선택 동의 방식으로 운영된다.",
+      "numbers": "90일 유료 파일럿 1,500달러 선불. 90일 뒤 전환하면 첫해 연간 구독료에서 파일럿 비용 전액을 차감한다고 회사가 안내한다. 연간 요금, 고객 수와 이동 지연 개선 결과는 공개되지 않았다.",
+      "source_url": "https://mybelvoy.com/"
+    },
+    {
+      "who": "NAGARA, 일본",
+      "what": "현장 대화를 기록 초안으로 바꾸고 직원 통화와 응원 요청까지 묶는 개호 기록 SaaS",
+      "how": "직원이 이용자와 나눈 말을 음성으로 남기면 식사, 수분, 배설과 활력징후 등 기록 초안을 만들고 직원이 확인, 수정한다. 사업소 단위로 기록을 과금하고 통화 기능은 직원 수로 분리한다.",
+      "numbers": "1사업소 월 30,000엔, 30베드 초과분은 1베드당 월 1,000엔, 통화 기능은 직원 1명당 월 850엔, 기록과 통화 모두 첫 달 무료. 연간 10,000시간 이상 절감은 참여 시설의 회사 전망이며 독립 검증 결과가 아니다.",
+      "source_url": "https://nagara.io/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "CareEvidence AI의 원문 연결 승인 흐름",
+      "use": "AI 초안, 근거 원문, 승인자와 내보내기 이력을 한 업무 단위로 설계할 때 참고한다.",
+      "source_url": "https://www.care-evidence-ai.com/"
+    },
+    {
+      "name": "MyBelVoy 90일 유료 파일럿 구조",
+      "use": "시설 한 곳의 반복 조율 문제를 짧은 유료 시험으로 정의하고 장기 구독 전환 조건을 설계할 때 참고한다.",
+      "source_url": "https://mybelvoy.com/"
+    },
+    {
+      "name": "NAGARA 시설 단위 가격표",
+      "use": "사업소, 베드 수와 직원 기능을 분리해 현장 SaaS 가격을 단순하게 보여줄 때 참고한다.",
+      "source_url": "https://nagara.io/"
+    },
+    {
+      "name": "CQC 보건과 사회복지 AI 원칙",
+      "use": "AI가 사람의 판단을 대신하지 않도록 안전성, 공정성, 사람 중심성과 검토 책임을 도입 조건에 넣을 때 참고한다.",
+      "source_url": "https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans"
+    }
+  ],
+  "quote": {
+    "text": "AI 초안은 자동으로 최종본이 되지 않는다.",
+    "author": "CareEvidence AI, 편집부 번역",
+    "source_url": "https://www.care-evidence-ai.com/"
+  },
+  "newsletter": {
+    "title": "AI 시설 사업은 답변이 아니라 운영 실험을 판다",
+    "body_md": "오늘 본 세 사례의 공통점은 AI가 무엇을 만들어 주는지가 아니라 시설이 어떤 운영 단위를 시험하고 돈을 내는지를 먼저 보여준다는 점이다. 영국 CareEvidence AI는 30일 유료 파일럿을 299파운드로 받고, 20베드까지 월 249파운드로 시설의 검토와 감사 문서를 묶는다. 미국 MyBelVoy는 시니어 생활시설의 이동 조율을 90일, 1,500달러 파일럿으로 시작하고 전환 때 첫해 구독료에서 차감한다. 일본 NAGARA는 사업소와 베드 수를 기준으로 음성 기록 서비스를 가격화한다. 고객 수나 재계약률은 공개되지 않았으므로 성공 사례로 단정할 수 없다. CQC의 AI 원칙도 특정 제품의 승인과는 다르므로 파일럿 결과와 규제 적합성을 따로 기록해야 한다. 작은 사업자는 기능을 먼저 만들기보다 한 시설의 반복 업무, 승인자, 가족 알림과 전후 시간을 적고 유료 파일럿의 범위를 정하는 편이 낫다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양시설 AI가 기능보다 유료 운영 실험을 먼저 파는 이유",
+      "hook": "요양시설용 AI의 첫 가격표는 직원 계정이 아니라 30일 운영 실험에서 시작한다.",
+      "core_claim": "시설용 AI는 답변 생성보다 원문 확인, 승인, 감사와 책임 기록을 묶은 운영 단위에 가격을 붙인다.",
+      "primary_case": "CareEvidence AI의 30일 유료 파일럿과 베드 수별 요금",
+      "public_number": "30일 299파운드, 20베드 이하 월 249파운드, 21에서 40베드 월 399파운드",
+      "payer": "영국 요양시설 운영자와 품질 책임자",
+      "seven_day_action": "한 시설의 기록 10건을 가상 데이터로 만들고 근거, 승인자, 수정 횟수와 파일럿 성공 기준을 한 장에 적는다.",
+      "source_urls": [
+        "https://www.care-evidence-ai.com/pricing",
+        "https://www.care-evidence-ai.com/",
+        "https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans"
+      ]
+    },
+    {
+      "title": "시니어 이동 서비스는 차량보다 시설의 조율 비용을 먼저 판다",
+      "hook": "차량을 더 사는 대신 예약, 복귀와 가족 알림을 한 시설의 운영 실험으로 묶을 수 있다.",
+      "core_claim": "MyBelVoy는 차량을 직접 제공하는 대신 시니어 생활시설의 이동 workflow를 90일 유료 파일럿으로 시험한다.",
+      "primary_case": "MyBelVoy의 1,500달러 유료 파일럿",
+      "public_number": "90일 1,500달러 선불, 전환 시 첫해 구독료에서 차감",
+      "payer": "시니어 생활시설 또는 커뮤니티 운영자",
+      "seven_day_action": "가상 이동 10건으로 예약, 변경, 복귀와 가족 알림의 담당자와 대기 시간을 기록하고 공유 화면의 필요성을 검토한다.",
+      "source_urls": [
+        "https://mybelvoy.com/",
+        "https://mybelvoy.com/terms",
+        "https://mybelvoy.com/privacy",
+        "https://apps.apple.com/us/app/mybelvoy/id6816497634"
+      ]
+    },
+    {
+      "title": "일본 개호 SaaS는 직원 계정 대신 사업소와 베드 수를 가격표에 넣는다",
+      "hook": "현장 기록 도구의 가격을 사용자 수가 아니라 사업소의 운영 규모로 설명하는 회사가 나왔다.",
+      "core_claim": "NAGARA는 음성 기록과 직원 통화 기능을 사업소, 베드 수와 직원 수로 나눠 시설 운영자가 비교할 수 있게 한다.",
+      "primary_case": "NAGARA의 ながらかいご",
+      "public_number": "1사업소 월 30,000엔, 30베드 초과 1베드당 월 1,000엔, 직원 통화 1명당 월 850엔",
+      "payer": "일본 개호시설 운영자",
+      "seven_day_action": "기록 30건을 가상으로 놓고 현재 작성 시간, 초안 수정 횟수와 시설이 지불할 월 한도를 비교한다.",
+      "source_urls": [
+        "https://nagara.io/",
+        "https://prtimes.jp/main/html/rd/p/000000008.000165374.html",
+        "https://kaigo-tool-navi.com/categories/kaigo-soft"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "요양시설 AI는 답변이 아니라 유료 운영 실험을 판다",
+      "body_md": "요양시설용 AI가 가장 먼저 파는 것은 똑똑한 답변이 아닙니다. 기록을 다시 확인하고, 누가 승인했는지 남기고, 시설의 하루가 꼬이지 않게 만드는 운영 실험입니다.\n\n영국 CareEvidence AI는 요양시설 한 곳을 기준으로 30일 유료 파일럿을 299파운드에 제시합니다. 계속 쓰면 20베드 이하 시설은 월 249파운드, 21에서 40베드는 월 399파운드입니다. 직원 계정은 무제한입니다. 돌봄 기록과 사고 기록을 근거에 연결해 초안을 만들고, 관리자가 수정하거나 승인한 이력을 저장해 CQC 대응용 자료로 내보냅니다. 회사 요금표는 파일럿과 가격을 공개하지만 고객 수, 매출과 재계약률은 공개하지 않습니다.\n\n이 가격표의 핵심은 AI가 문장을 얼마나 잘 쓰느냐가 아닙니다. 시설 한 곳의 책임자가 검토를 끝내고 감사 자료를 만들 때까지의 흐름을 한 상품으로 묶었다는 점입니다. 영국 CQC도 보건과 사회복지에서 AI를 쓸 때 사람에게 이익이 되고 안전하고 공정하며 사람 중심의 서비스가 되는지 살펴야 한다고 안내합니다. 규제 기관의 원칙이 곧 특정 제품의 승인이나 성과를 뜻하지는 않지만, 사람의 검토와 기록이 구매 조건이 되는 이유는 분명합니다.\n\n미국 MyBelVoy도 비슷한 방식으로 시작합니다. 시니어 생활시설의 프런트, 운전기사, 거주자와 가족이 예약, 이동, 복귀 알림을 공유하는 도구를 만들고 90일 유료 파일럿에 1,500달러를 받습니다. 90일 뒤 연간 구독으로 전환하면 파일럿 비용을 첫해 구독료에서 빼줍니다. 연간 요금과 고객 성과는 공개되지 않았습니다. 차량을 직접 파는 것이 아니라 한 시설의 이동 조율을 먼저 시험하는 구조입니다.\n\n작게 적용한다면 두 가지부터 적어보면 됩니다. 첫째, 한 시설에서 반복되는 기록, 승인, 예약, 가족 알림 중 하나만 골라 현재 처리 시간과 사람에게 넘기는 순간을 기록합니다. 둘째, 30일에서 90일의 유료 시험 범위와 성공 기준을 미리 정합니다. 처리 시간이 줄었는지뿐 아니라 누가 승인했고 어떤 오류가 남았는지까지 포함해야 합니다. 일본 NAGARA가 사업소와 베드 수를 기준으로 음성 기록 서비스를 가격화한 것도 같은 방향입니다. 기능 목록보다 운영 단위가 먼저 보여야 구매자가 비교할 수 있습니다.\n\n출처: [CareEvidence AI 공식 요금표](https://www.care-evidence-ai.com/pricing), [CQC AI 안내](https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans), [MyBelVoy 공식 사이트](https://mybelvoy.com/), [NAGARA 공식 서비스 페이지](https://nagara.io/), [NAGARA 발표](https://prtimes.jp/main/html/rd/p/000000008.000165374.html)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "1번. 요양시설용 AI는 직원 수보다 한 시설의 운영 실험에 먼저 가격을 붙입니다. 영국 CareEvidence AI는 30일 유료 파일럿 299파운드, 20베드 이하 월 249파운드의 요금표를 공개했습니다. 핵심은 AI 답변이 아니라 원문, 사람 승인과 감사 이력을 한 흐름으로 묶는 것입니다. 고객 수와 재계약률은 공개되지 않았습니다.",
+      "2번. CareEvidence AI는 돌봄 기록과 사고 기록을 근거에 연결해 초안을 만들고, 관리자가 수정, 승인 또는 거절한 이력을 남깁니다. 직원 계정은 무제한입니다. 규제 산업에서 돈이 되는 기능은 문장 생성보다 누가 확인했는지 추적할 수 있는 운영 경계에 가깝습니다. 출처: https://www.care-evidence-ai.com/pricing",
+      "3번. 미국 MyBelVoy는 차량을 파는 대신 시니어 생활시설의 프런트, 운전기사, 거주자와 가족을 예약, 이동, 복귀 알림으로 연결합니다. 90일 유료 파일럿은 1,500달러이고 전환하면 첫해 구독료에서 차감됩니다. 연간 요금과 고객 성과는 공개되지 않았습니다. 출처: https://mybelvoy.com/",
+      "4번. 일본 NAGARA는 음성 기록 서비스를 1사업소 월 30,000엔, 30베드 초과분은 1베드당 월 1,000엔으로 제시합니다. 직원 통화 기능은 1명당 월 850엔이고 첫 달은 무료입니다. 작게 시험한다면 한 시설의 반복 업무 하나, 승인자, 전후 시간을 적고 유료 파일럿 범위를 정해보세요. 출처: https://nagara.io/\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "시니어 시설용 AI에서 먼저 봐야 할 것은 기능 수가 아니라 누가 운영 실험에 돈을 내는가입니다.\n\n영국 CareEvidence AI는 30일 유료 파일럿을 299파운드로 받고, 20베드 이하 시설은 월 249파운드, 21에서 40베드는 월 399파운드를 제시합니다. 직원 계정은 무제한이며 원문 연결, 사람 승인과 감사 이력을 묶습니다.\n\n미국 MyBelVoy는 시설의 이동 예약과 복귀 알림을 90일 유료 파일럿 1,500달러로 시험하고, 전환하면 첫해 구독료에서 차감합니다. 일본 NAGARA는 1사업소 월 3만엔과 베드 수 기준 추가 요금을 공개합니다. 세 회사 모두 고객 성과와 재계약률은 공개하지 않았습니다.\n\n작게 시작할 때는 한 시설, 하나의 반복 업무, 승인자와 전후 시간을 정해 유료 운영 실험으로 확인하세요.\n\n출처: https://www.care-evidence-ai.com/pricing, https://mybelvoy.com/, https://nagara.io/\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #헬스케어비즈니스 #케어테크 #B2BSaaS #유료파일럿 #서비스디자인",
+      "cards": [
+        "시설용 AI는 기능보다 운영 실험의 가격을 먼저 정합니다",
+        "CareEvidence AI\n30일 파일럿 299파운드\n20베드 이하 월 249파운드",
+        "요양시설 운영자가 사는 것\n원문 연결\n사람 승인\n감사 이력",
+        "MyBelVoy\n90일 파일럿 1,500달러\n전환하면 첫해 구독료에서 차감",
+        "NAGARA\n1사업소 월 30,000엔\n30베드 초과 1베드당 월 1,000엔",
+        "공통점\nAI 답변보다 검토, 조율과 가족 알림 같은 반복 업무에 가격을 붙입니다",
+        "작게 시험하는 법\n한 시설, 하나의 업무, 전후 시간과 승인자를 정하고 유료 파일럿으로 확인하세요"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 시설 AI는 왜 유료 파일럿부터 팔까",
+      "hook": "요양시설용 AI 서비스가 직원 수가 아니라 시설 한 곳에 가격을 붙이기 시작했습니다. 이유는 답변보다 운영 책임을 팔기 위해서입니다.",
+      "script": "요양시설용 AI에서 먼저 봐야 할 것은 답변의 화려함이 아니라 운영 실험의 가격입니다.\n\n영국 CareEvidence AI는 요양시설 한 곳을 기준으로 30일 유료 파일럿을 299파운드에 제시합니다. 20베드 이하 시설은 월 249파운드, 21에서 40베드는 월 399파운드이고 직원 계정은 무제한입니다. 돌봄 기록과 사고 기록을 원문에 연결해 초안을 만들고, 관리자가 수정하거나 승인한 이력을 감사 자료로 남깁니다. 회사는 가격을 공개했지만 고객 수와 재계약률은 공개하지 않았습니다.\n\n미국 MyBelVoy는 차량을 직접 파는 대신 시니어 생활시설의 프런트, 운전기사, 거주자와 가족을 이동 workflow로 연결합니다. 90일 파일럿은 1,500달러 선불이고, 전환하면 첫해 연간 구독료에서 차감됩니다. 연간 요금과 이동 지연 개선 결과는 확인되지 않았습니다.\n\n일본 NAGARA는 음성 기반 개호 기록을 1사업소 월 30,000엔, 30베드 초과분은 1베드당 월 1,000엔으로 제시합니다. 직원 통화 기능은 1명당 월 850엔이고 첫 달은 무료입니다. 연간 10,000시간 이상 절감은 회사 전망이지 독립 검증 결과가 아닙니다.\n\n세 사례의 공통점은 AI를 먼저 설명하지 않는다는 데 있습니다. 누가 돈을 내는지, 어떤 반복 업무를 줄이는지, 사람이 언제 승인하는지와 짧은 시험 뒤 무엇을 판단할지를 가격표에 넣습니다. 작은 사업자라면 한 시설의 기록, 예약, 복귀 알림 중 하나를 골라 전후 시간을 기록하고 30일에서 90일의 유료 파일럿을 설계해보세요. 처리 시간뿐 아니라 오류와 승인 이력까지 측정해야 합니다.\n\n출처: [CareEvidence AI](https://www.care-evidence-ai.com/pricing), [CQC](https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans), [MyBelVoy](https://mybelvoy.com/), [NAGARA](https://nagara.io/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "CareEvidence AI 공식 요금표",
+      "url": "https://www.care-evidence-ai.com/pricing"
+    },
+    {
+      "name": "CareEvidence AI 공식 제품 설명",
+      "url": "https://www.care-evidence-ai.com/"
+    },
+    {
+      "name": "영국 CQC 보건과 사회복지 AI 안내",
+      "url": "https://www.cqc.org.uk/about-us/transparency/artificial-intelligence-health-social-care-cqcs-role-expectations-plans"
+    },
+    {
+      "name": "MyBelVoy 공식 사이트",
+      "url": "https://mybelvoy.com/"
+    },
+    {
+      "name": "MyBelVoy 이용약관",
+      "url": "https://mybelvoy.com/terms"
+    },
+    {
+      "name": "MyBelVoy 개인정보 처리방침",
+      "url": "https://mybelvoy.com/privacy"
+    },
+    {
+      "name": "MyBelVoy App Store 등록",
+      "url": "https://apps.apple.com/us/app/mybelvoy/id6816497634"
+    },
+    {
+      "name": "NAGARA 공식 서비스 페이지",
+      "url": "https://nagara.io/"
+    },
+    {
+      "name": "NAGARA 공식 발표",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000165374.html"
+    },
+    {
+      "name": "介護ツールナビ 개호 소프트웨어 비교",
+      "url": "https://kaigo-tool-navi.com/categories/kaigo-soft"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약, 재구성한 정보 제공용이며, 특정 수익, 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
