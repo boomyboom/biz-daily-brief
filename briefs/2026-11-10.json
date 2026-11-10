@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-10",
+  "generated_at_kst": "2026-11-10T12:04:10+09:00",
+  "mode": "new",
+  "headline": "시니어와 헬스케어 사업은 이용자보다 행정 대기열에 먼저 가격을 붙인다",
+  "insights": [
+    {
+      "title": "想ひ人은 부모 돌봄의 실무를 직원 1명당 월 100엔에 판다",
+      "summary": "일본의 株式会社想ひ人은 직원 100명 이상 기업을 대상으로 24시간 365일 상담창구를 월 100엔/인부터 제시한다. 월 300엔/인은 행정, 시설, 재산 관련 절차 대행과 연 2회 세미나를 포함한다. 회사 자체 조사에서 2020년부터 2024년까지 개호휴업 경험자 49명 중 96퍼센트가 실무 대행을 원했다고 표시하지만, 모집 방식과 전체 노동자 대표성은 확인되지 않았다. 1,000명 반도체 제조사에서 이직자가 6명에서 0명으로 줄었다는 수치도 1개 기업 사례이며 인과는 입증되지 않았다.",
+      "takeaway": "상담을 무료 혜택으로 끝내지 말고 신청, 시설 방문, 서류 정리처럼 손이 드는 한 업무에 가격을 붙여라.",
+      "source_type": "media",
+      "source_name": "株式会社想ひ人 공식 법인 서비스",
+      "source_url": "https://www.omohibito.com/services/corporate"
+    },
+    {
+      "title": "ClarityCare는 보험사의 사전승인 대기열에 AI를 넣는다",
+      "summary": "미국 ClarityCare는 2026년 10월 26일 1,650만달러 Series A를 발표했고 누적 조달액은 약 2,000만달러라고 밝혔다. 이는 매출이 아니다. Electra는 보험사의 이용관리 대기열에서 진료 기준과 가입자 혜택을 확인하고 감사 기록을 남긴 뒤 승인하거나 사람에게 넘기며, 회사 설명상 거절은 내리지 않는다. RevCycleAI는 회사가 현재 고객 7곳, 약 600만 명의 의료 이용 흐름을 다룬다고 전했으며, 한 고객의 대기 시간이 12일에서 2일로 줄었다는 수치도 회사 제공이라 독립 검증되지 않았다.",
+      "takeaway": "규제 산업의 자동화는 결론을 대신한다는 약속보다 근거, 승인, 인계 기록을 상품으로 만들어라.",
+      "source_type": "media",
+      "source_name": "ClarityCare 공식 발표",
+      "source_url": "https://claritycare.ai/blog/series-a-new-electra"
+    },
+    {
+      "title": "Xella는 건강검진을 연 499달러 해석 구독으로 묶는다",
+      "summary": "미국 Xella Health의 공식 가격 페이지는 연 499달러 회원권에 100개 이상 바이오마커 검사, 면허 의사의 기본 상담 1회와 후속 상담 1회, 무제한 메시지와 개인별 행동계획을 포함한다고 안내한다. 보험 네트워크 밖 서비스이며 HSA와 FSA 사용이 가능하다고 FAQ에 적었다. 회사가 말하는 130개 이상 질환 선별과 AI 해석은 제품 설명이지 임상 성과나 갱신률을 보여주는 숫자가 아니다.",
+      "takeaway": "건강 데이터 상품은 측정치보다 해석과 다음 진료 준비를 묶되, 진단과 치료 책임은 면허 체계 안에서 분리하라.",
+      "source_type": "media",
+      "source_name": "Xella Health 공식 가격 및 FAQ",
+      "source_url": "https://joinxella.com/pages/pricing"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "복지와 의료의 상품이 상담에서 실행 대행으로 내려온다",
+      "summary": "想ひ人은 상담창구부터 절차 대행까지, ClarityCare는 팩스와 이용관리 시스템의 상태 변경까지 업무의 마지막 단계를 다룬다. 두 사례의 공통점은 답변 생성이 아니라 다음 사람이 승인할 수 있는 기록과 인계다.",
+      "why_now": "일본 서비스는 직장과 돌봄의 실무 격차를 대상으로 가격을 공개했고, 미국 CMS는 특정 건강보험의 전자 사전승인 API 준비를 2027년 1월 1일부터 요구한다.",
+      "source_url": "https://www.cms.gov/priorities/electronic-prior-authorization/overview"
+    },
+    {
+      "theme": "첫 지불자는 환자보다 비용을 떠안는 조직이다",
+      "summary": "想ひ人의 고객은 기업 인사 또는 복지 담당자, ClarityCare의 고객은 건강보험사 쪽이다. Xella는 반대로 소비자가 직접 연회비를 낸다. 같은 헬스케어라도 지불자에 따라 가격과 검증 지표가 달라진다.",
+      "why_now": "이번 자료를 묶어 보면 이용자 수보다 인력, 행정, 보험 비용을 떠안는 조직이 어떤 결과를 사는지 먼저 확인하는 사업이 늘고 있다.",
+      "source_url": "https://www.omohibito.com/services/corporate"
+    },
+    {
+      "theme": "전자 사전승인 전환이 새 운영 시장을 연다",
+      "summary": "CMS는 사전승인 요청에 평균 주 13시간, 연 700시간과 약 3만4천달러의 행정 부담이 든다고 안내한다. 2027년 1월 1일부터 특정 건강보험의 API 구현이 시작되고 전자 업무 흐름과 상태 추적을 유도한다. 이 수치는 국가 규정 배경이지 ClarityCare의 성과가 아니다.",
+      "why_now": "법정 일정이 가까워지면서 보험사, 의료기관, 전자의무기록 업체가 연결 책임과 감사 기록을 사야 할 이유가 생긴다.",
+      "source_url": "https://www.cms.gov/priorities/electronic-prior-authorization/overview"
+    }
+  ],
+  "cases": [
+    {
+      "who": "株式会社想ひ人, 일본",
+      "what": "직원과 가족의 부모 돌봄 상담, 행정 및 시설 관련 실무 대행을 기업 복지 패키지로 판매",
+      "how": "100명 이상 기업을 대상으로 상담창구, 절차 대행, 세미나를 묶고 전화, LINE, 이메일로 24시간 365일 대응한다고 안내한다. 도입 후 분기별 이용 현황 보고를 제시한다.",
+      "numbers": "플랜 A 월 100엔/인, 플랜 B 월 300엔/인, 세미나 단발 20만엔. 회사 표시 49명 조사에서 실무 대행 요구 96퍼센트. 1,000명 반도체 제조사 사례는 개호 이직자 6명에서 0명으로 감소했다는 1개 기업 사례이며 인과 미검증.",
+      "source_url": "https://www.omohibito.com/services/corporate"
+    },
+    {
+      "who": "ClarityCare, 미국",
+      "what": "보험사 이용관리 대기열에서 사전승인 문서를 검토하고 승인 또는 사람에게 인계하는 AI 서비스",
+      "how": "진료 기준과 가입자 혜택을 확인하고 감사 추적을 남긴 뒤 팩스 수신함과 이용관리 시스템에서 요청을 처리한다고 회사가 설명한다. 거절은 하지 않는 설계다.",
+      "numbers": "2026년 10월 26일 Series A 1,650만달러, 누적 약 2,000만달러는 회사 발표이며 매출이 아닌 투자금이다. RevCycleAI는 현재 고객 7곳, 약 600만 명의 의료 이용 흐름, 한 고객의 대기 시간 12일에서 2일 단축을 전했지만 회사 제공 수치로 독립 검증되지 않았다.",
+      "source_url": "https://revcycleai.com/blog/claritycare-16-5m-series-a-headline-prior-authorization-ai/"
+    },
+    {
+      "who": "Xella Health, 미국",
+      "what": "여성 정밀 건강 플랫폼을 연회비 회원권으로 판매",
+      "how": "검사와 바이오마커 해석, 의사 검토, 개인별 행동계획, 메시지 지원을 한 회원권에 묶는다. 보험 네트워크 밖이며 HSA와 FSA 사용이 가능하다고 안내한다.",
+      "numbers": "연 499달러, 100개 이상 바이오마커, 면허 의사 비동기 상담 2회, 130개 이상 여성 건강 상태 선별은 회사 공식 페이지 표시값이다. 매출, 갱신률, 임상 결과는 공개되지 않았다.",
+      "source_url": "https://joinxella.com/pages/frequently-asked-questions"
+    }
+  ],
+  "tools": [
+    {
+      "name": "미국 CMS 전자 사전승인 안내",
+      "use": "사전승인 업무의 시간 비용과 2027년 API 준비 일정을 확인하고, 자동화 상품의 검증 항목을 정할 때 사용한다.",
+      "source_url": "https://www.cms.gov/priorities/electronic-prior-authorization/overview"
+    },
+    {
+      "name": "株式会社想ひ人 법인 서비스 가격표",
+      "use": "상담과 실제 절차 대행을 분리한 가격, 기업 지불자, 익명화된 이용 현황 보고 구조를 비교한다.",
+      "source_url": "https://www.omohibito.com/services/corporate"
+    },
+    {
+      "name": "Xella Health FAQ",
+      "use": "건강검진 회원권에 포함된 검사, 의사 상담, 데이터 사용과 진료 책임의 범위를 확인한다.",
+      "source_url": "https://joinxella.com/pages/frequently-asked-questions"
+    }
+  ],
+  "quote": {
+    "text": "「相談だけで終わらせない。」",
+    "author": "株式会社想ひ人",
+    "source_url": "https://www.omohibito.com/services/corporate"
+  },
+  "newsletter": {
+    "title": "돌봄과 의료의 행정 대기열에 가격을 붙이는 회사들",
+    "body_md": "헬스케어에서 돈이 되는 자리는 진료실 앞보다 그 뒤의 행정 대기열에 생기고 있다. 일본의 想ひ人은 기업 인사팀을 고객으로 삼아 직원 1명당 월 100엔에 24시간 돌봄 상담창구를, 월 300엔에 행정과 시설 절차 대행을 제시한다. 부모 돌봄의 실제 구매자는 직원이 아니라 이직과 업무 공백을 걱정하는 회사다. 미국 ClarityCare는 보험사 이용관리 대기열에 Electra를 넣었고, 1,650만달러 조달은 매출이 아닌 투자금으로 표시한다. RevCycleAI가 전한 12일에서 2일 단축은 회사 제공 수치다. CMS는 사전승인에 연 700시간, 약 3만4천달러의 행정 부담이 있다고 안내한다. 이번 주에는 우리 고객이 떠안는 대기 업무 하나를 골라 사람의 승인, 인계, 기록까지 포함한 7일 수동 실험을 하고, 이용자보다 비용을 지는 조직이 월정액을 낼지 확인한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "직원 부모 돌봄을 월 100엔에 파는 회사의 수익 구조",
+      "hook": "부모 돌봄의 첫 고객은 가족이 아니라 회사 인사팀일 수 있다.",
+      "core_claim": "想ひ人은 직원과 가족의 돌봄 상담을 기업 복지로 묶고, 상담창구와 실제 행정 및 시설 절차 대행에 서로 다른 월정액을 붙인다.",
+      "primary_case": "株式会社想ひ人의 24시간 365일 돌봄 상담과 실무 대행",
+      "public_number": "월 100엔/인 상담 플랜, 월 300엔/인 실무 대행 플랜, 49명 자체 조사에서 실무 대행 요구 96퍼센트",
+      "payer": "직원과 가족이 이용하지만 월정액을 계약하는 1차 지불자는 기업 인사 또는 복지 담당자다.",
+      "seven_day_action": "직원이 반복해서 떠안는 부모 돌봄 신청이나 시설 비교 한 가지를 골라 처리시간과 월정액 지불 의향을 기록한다.",
+      "source_urls": [
+        "https://www.omohibito.com/services/corporate",
+        "https://np-foundation.or.jp/information/000423.html"
+      ]
+    },
+    {
+      "title": "보험사의 사전승인 대기열은 AI의 새 구매처가 된다",
+      "hook": "의료 AI의 구매자는 환자가 아니라 팩스와 승인 대기열을 떠안은 보험사일 수 있다.",
+      "core_claim": "ClarityCare는 보험사 이용관리 대기열에서 사전승인 문서를 검토하고 승인 또는 사람 인계를 기록하는 Electra를 판다. 투자금은 매출이 아니며 고객 수와 시간 단축은 회사 제공 수치다.",
+      "primary_case": "ClarityCare Electra의 보험사 측 사전승인 업무",
+      "public_number": "2026년 10월 Series A 1,650만달러, 누적 약 2,000만달러, 회사가 전한 고객 7곳과 약 600만 명의 의료 이용 흐름",
+      "payer": "건강보험사와 의료관리 조직이 지불자이며 공개 정액 가격은 확인되지 않았다.",
+      "seven_day_action": "비식별 사전승인 사례 20건에서 누락 문서, 재제출 횟수, 사람 승인 지점을 기록하고 건당 또는 월정액 가격을 비교한다.",
+      "source_urls": [
+        "https://claritycare.ai/blog/series-a-new-electra",
+        "https://revcycleai.com/blog/claritycare-16-5m-series-a-headline-prior-authorization-ai/",
+        "https://www.cms.gov/priorities/electronic-prior-authorization/overview"
+      ]
+    },
+    {
+      "title": "건강검진 뒤의 해석을 연 499달러에 파는 구독",
+      "hook": "검사 결과를 보여주는 데서 끝내지 않고 다음 행동까지 묶으면 소비자는 연회비를 낼까.",
+      "core_claim": "Xella Health는 여성 건강 검사, 의사 검토, 행동계획과 메시지 지원을 연 499달러 회원권으로 묶는다. 제품 페이지의 검사 범위는 확인되지만 매출과 갱신률, 임상 성과는 공개되지 않았다.",
+      "primary_case": "Xella Health 여성 정밀 건강 회원권",
+      "public_number": "연 499달러, 100개 이상 바이오마커, 의사 상담 2회, 130개 이상 건강 상태 선별",
+      "payer": "미국 소비자가 직접 지불하며 현재 보험 네트워크 밖이고 HSA와 FSA 사용이 가능하다.",
+      "seven_day_action": "검사 결과를 받은 사람 10명에게 가장 어려운 해석과 병원에서 묻고 싶은 질문을 받아 비의료적 진료 준비 서비스의 지불 의향을 확인한다.",
+      "source_urls": [
+        "https://joinxella.com/pages/pricing",
+        "https://joinxella.com/pages/frequently-asked-questions"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "想ひ人은 부모 돌봄의 실무를 직원 1명당 월 100엔에 판다",
+      "body_md": "시니어 사업을 시작하면 많은 사람이 가족에게 무엇을 팔지부터 생각합니다. 그러나 일본의 想ひ人이 먼저 가격을 붙인 곳은 가족의 지갑이 아니라 회사 인사팀이었습니다.\n\n株式会社想ひ人은 직원 100명 이상 기업을 대상으로 부모 돌봄 상담과 실무 대행을 기업 복지로 묶어 판매합니다. 공식 페이지에 따르면 월 100엔/인은 24시간 365일 상담창구, 월 300엔/인은 상담에 행정, 시설, 재산 관련 절차 대행과 연 2회 세미나를 더합니다. 단발 세미나는 1회 20만엔입니다. 직원 본인뿐 아니라 배우자, 부모, 자녀도 창구를 이용할 수 있고 개별 상담 내용은 회사에 알리지 않으며 분기별로 익명화된 이용 현황만 보고한다고 안내합니다.\n\n이 가격표가 보여주는 것은 돌봄 정보가 아니라 업무 공백의 가격입니다. 인사팀이 복지제도를 알려주는 일과, 부모의 요양등급 신청, 시설 견학 일정, 병원 동행, 집 정리 같은 실제 일을 대신하는 일은 다릅니다. 회사는 2020년부터 2024년까지 개호휴업 경험자 49명을 조사해 96퍼센트가 실무 대행을 원했다고 표시했습니다. 다만 표본 모집 방식과 전체 노동자 대표성은 공개되지 않았습니다. 1,000명 규모 반도체 제조사에서 개호 이직자가 6명에서 0명으로 줄었다는 수치도 한 회사 사례일 뿐, 서비스가 원인이었다고 확인된 것은 아닙니다.\n\n그래도 돈의 흐름은 선명합니다. 이용자는 부모를 돌보는 직원과 가족이지만, 월정액을 계약하는 사람은 회사입니다. 이때 회사가 사는 것은 좋은 상담 한 통이 아니라, 직원이 근무시간에 떠안던 신청, 예약, 비교와 확인을 외부 운영으로 옮기는 일입니다. 일본필란소로픽재단이 이 회사의 가족 사회자원 연결 AI 사업에 300만엔을 지원한 사실은 사업의 공익성을 보여주지만, 기업 복지 매출이나 수익성을 증명하는 숫자는 아닙니다.\n\n같은 흐름은 의료에서도 보입니다. 미국 ClarityCare는 보험사의 사전승인 대기열을 대상으로 Electra를 만들었습니다. 회사는 진료 기준과 가입자 혜택을 확인하고 감사 기록을 남긴 뒤 승인하거나 사람에게 넘기며, 거절은 하지 않는다고 설명합니다. 1,650만달러 Series A와 누적 약 2,000만달러는 투자금이지 매출이 아닙니다. CMS는 사전승인 요청에 평균 주 13시간, 연 700시간과 약 3만4천달러의 행정 부담이 든다고 안내합니다. 보험사와 의료기관이 사는 것은 AI라는 이름보다 이 대기열의 기록과 책임 분리일 가능성이 큽니다.\n\n작은 사업자라면 두 가지를 바로 시험할 수 있습니다. 첫째, 고객이 반복해서 떠안는 신청, 예약, 서류 확인 중 하나만 골라 최근 7일 건수와 처리시간, 사람의 최종 승인 횟수를 기록합니다. 둘째, 답변을 제공하는 가격과 실제 실행을 맡는 가격을 나눠 제안합니다. 자동화가 없어도 누가 돈을 내고, 어디서 사람이 다시 들어오며, 어떤 기록을 남겨야 재구매하는지 확인할 수 있습니다.\n\n출처: [株式会社想ひ人 법인 서비스](https://www.omohibito.com/services/corporate), [일본필란소로픽재단 미래의 개호기금](https://np-foundation.or.jp/information/000423.html), [ClarityCare 공식 발표](https://claritycare.ai/blog/series-a-new-electra), [미국 CMS 전자 사전승인 안내](https://www.cms.gov/priorities/electronic-prior-authorization/overview)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "첫 고객은 부모님이 아니었습니다. 일본 想ひ人은 직원 100명 이상 기업에 부모 돌봄 상담창구를 월 100엔/인부터 팝니다. 월 300엔/인은 행정, 시설, 재산 관련 절차 대행까지 포함합니다. 시니어 사업에서 먼저 찾아야 할 지갑은 가족이 아니라 업무 공백을 비용으로 보는 회사입니다.",
+      "이 회사가 파는 것은 정보가 아니라 실행입니다. 24시간 365일 상담, 요양등급 신청, 시설 견학 일정, 병원 동행, 집 정리 같은 업무를 회사 복지로 묶었습니다. 49명 조사에서 실무 대행을 원했다는 응답이 96퍼센트였지만 회사 자체 조사라 대표성은 확인되지 않았습니다. 개호 이직자 6명에서 0명 사례도 한 회사의 결과입니다.",
+      "보험사도 비슷한 대기열에 돈을 씁니다. ClarityCare의 Electra는 사전승인 문서를 확인하고 감사 기록을 남긴 뒤 승인하거나 사람에게 넘깁니다. 회사는 거절하지 않는다고 설명합니다. 1,650만달러 Series A는 매출이 아니라 투자금이고, CMS는 사전승인에 연 700시간과 약 3만4천달러의 행정 부담이 든다고 안내합니다. 사업 아이디어는 AI가 아니라 승인과 인계를 포함한 운영 가격표입니다.\n\n출처: [株式会社想ひ人 법인 서비스](https://www.omohibito.com/services/corporate), [ClarityCare 공식 발표](https://claritycare.ai/blog/series-a-new-electra), [미국 CMS 전자 사전승인 안내](https://www.cms.gov/priorities/electronic-prior-authorization/overview)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "돌봄 사업의 지불자를 바꾸면 가격표가 달라집니다.\n\n일본 株式会社想ひ人은 부모 돌봄을 직원 개인의 문제로 두지 않고 기업 복지로 묶었습니다. 월 100엔/인은 24시간 365일 상담창구, 월 300엔/인은 행정과 시설 절차 대행을 포함합니다.\n\n미국 ClarityCare도 환자보다 보험사의 사전승인 대기열을 고객으로 삼습니다. 이때 팔리는 것은 답변이 아니라 실행, 기록, 사람에게 넘기는 기준입니다.\n\n작게 시작하려면 고객이 매주 반복하는 신청이나 서류 확인 한 가지를 골라 처리시간과 승인 횟수를 기록하세요. 이용자 수보다 어떤 조직이 비용을 떠안는지 먼저 보세요.\n\n출처: [株式会社想ひ人 법인 서비스](https://www.omohibito.com/services/corporate), [ClarityCare 공식 발표](https://claritycare.ai/blog/series-a-new-electra), [미국 CMS 전자 사전승인 안내](https://www.cms.gov/priorities/electronic-prior-authorization/overview)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#시니어비즈니스 #헬스케어비즈니스 #돌봄서비스 #복지서비스 #B2B #사업아이디어 #서비스기획 #비즈니스인사이트",
+      "cards": [
+        "돌봄 사업의 첫 고객은 가족이 아닐 수 있습니다",
+        "想ひ人의 가격표\n월 100엔/인\n24시간 365일 상담창구",
+        "월 300엔/인\n행정, 시설, 재산 관련 절차 대행\n연 2회 세미나",
+        "회사가 사는 것은 상담이 아닙니다\n직원이 떠안은 신청, 예약, 확인을 대신하는 실행입니다",
+        "의료에서도 같은 흐름\nClarityCare는 보험사의 사전승인 대기열에 AI를 넣고 승인 또는 사람 인계를 기록합니다",
+        "작게 적용하는 법\n반복 업무 1개를 골라 처리시간, 승인 횟수, 월정액 지불자를 7일 기록합니다"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 돌봄의 실무를 회사에 월 100엔으로 파는 방법",
+      "hook": "부모 돌봄 서비스의 첫 고객은 부모님도 직원도 아니었습니다. 월정액을 계약하는 회사 인사팀이었습니다.",
+      "script": "일본의 株式会社想ひ人은 직원 100명 이상 기업에 부모 돌봄 상담과 실무 대행을 기업 복지로 판매합니다. 공식 가격은 24시간 365일 상담창구 월 100엔/인부터, 행정과 시설, 재산 관련 절차 대행을 포함한 플랜은 월 300엔/인입니다. 단발 세미나는 20만엔입니다.\n\n이 모델의 핵심은 정보가 아니라 실행입니다. 요양등급 신청, 시설 견학 일정, 병원 동행, 집 정리처럼 직원이 근무시간에 떠안는 일을 대신합니다. 회사 페이지의 49명 자체 조사에서 96퍼센트가 실무 대행을 원했다고 표시했지만 대표성은 확인되지 않았고, 이직자가 6명에서 0명으로 줄었다는 1개 기업 사례도 인과가 검증된 실적은 아닙니다.\n\n미국 ClarityCare는 비슷한 방식으로 보험사의 사전승인 대기열을 고객으로 삼습니다. Electra는 기준과 보험 혜택을 확인하고 감사 기록을 남긴 뒤 승인하거나 사람에게 넘기며, 거절은 하지 않는다고 회사가 설명합니다. CMS는 사전승인에 연 700시간과 약 3만4천달러의 행정 부담이 든다고 안내합니다.\n\n작은 사업자라면 AI부터 만들 필요가 없습니다. 고객이 반복해서 처리하는 신청이나 서류 확인 하나를 골라 7일간 처리시간, 사람의 승인 횟수, 실패한 인계만 기록하세요. 그 기록이 누구의 비용을 줄이고 누가 월정액을 낼지 알려줍니다.\n\n출처: [株式会社想ひ人 법인 서비스](https://www.omohibito.com/services/corporate), [ClarityCare 공식 발표](https://claritycare.ai/blog/series-a-new-electra), [미국 CMS 전자 사전승인 안내](https://www.cms.gov/priorities/electronic-prior-authorization/overview)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "株式会社想ひ人 공식 법인 서비스",
+      "url": "https://www.omohibito.com/services/corporate"
+    },
+    {
+      "name": "일본필란소로픽재단 미래의 개호기금",
+      "url": "https://np-foundation.or.jp/information/000423.html"
+    },
+    {
+      "name": "ClarityCare 공식 발표",
+      "url": "https://claritycare.ai/blog/series-a-new-electra"
+    },
+    {
+      "name": "RevCycleAI ClarityCare 보도",
+      "url": "https://revcycleai.com/blog/claritycare-16-5m-series-a-headline-prior-authorization-ai/"
+    },
+    {
+      "name": "미국 CMS 전자 사전승인 안내",
+      "url": "https://www.cms.gov/priorities/electronic-prior-authorization/overview"
+    },
+    {
+      "name": "Xella Health 공식 가격",
+      "url": "https://joinxella.com/pages/pricing"
+    },
+    {
+      "name": "Xella Health 공식 FAQ",
+      "url": "https://joinxella.com/pages/frequently-asked-questions"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 정리한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
