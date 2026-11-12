@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-12",
+  "generated_at_kst": "2026-11-12T12:00:23+09:00",
+  "mode": "new",
+  "headline": "헬스케어 사업은 기능보다 청구와 운영 기반에 가격을 붙인다",
+  "insights": [
+    {
+      "title": "CareBravo는 홈케어 소프트웨어를 청구 매출에 연결해 판다",
+      "summary": "미국 CareBravo는 Medicaid 홈케어 기관에 활동 고객 1명당 월 15달러인 Core, 적격 청구 매출의 다음 50개 기관 대상 1.97퍼센트와 표준 2.47퍼센트인 Autonomous, 청구와 일정 운영을 맡기는 4.47퍼센트 Managed를 제시한다. 모든 플랜의 월 최소 요금은 250달러이고 설치비는 없다. 가격과 99퍼센트 원청구 오류 보장은 회사가 제시한 조건이며 실제 고객 수와 수익성은 공개되지 않았다.",
+      "takeaway": "고객의 현금흐름과 직접 이어지는 업무를 찾아 가격 단위, 최소 요금과 책임 범위를 먼저 공개하라.",
+      "source_type": "blog",
+      "source_name": "CareBravo 공식 가격표",
+      "source_url": "https://carebravo.com/pricing/"
+    },
+    {
+      "title": "EVV 기록이 홈케어 청구와 운영 소프트웨어의 진입점이 된다",
+      "summary": "미국 Medicaid는 주가 개인 돌봄 서비스에는 2020년 1월 1일, 방문이 필요한 재가 건강 서비스에는 2023년 1월 1일까지 전자방문확인 EVV를 요구하도록 했다. EVV는 서비스 종류, 이용자, 제공자, 날짜, 시작과 종료 시각, 장소를 확인한다. CareBravo는 이 기록을 출발점으로 스케줄, 급여, 청구, 기록과 가족 소통 등 9개 업무를 한 운영 흐름으로 묶는다고 설명한다.",
+      "takeaway": "규제가 남기게 한 기록에서 청구, 승인과 재작업을 줄이는 업무 단위를 찾아라.",
+      "source_type": "media",
+      "source_name": "미국 Medicaid EVV 안내",
+      "source_url": "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification"
+    },
+    {
+      "title": "일본 돌봄 사업은 고객과 인력과 허가가 이어지는 운영 기반으로 양도된다",
+      "summary": "오사카의 방문개호, 거택개호지원과 거택개호 사업 양도 매물은 2025년 9월기 매출 6,000만엔, 대표 보수를 뺀 실질 연간 이익 약 300만엔, 희망가 400만엔으로 표시됐다. 상근 약 10명과 비상근 약 30명, 세 사업의 이용자 60명, 100명, 10명이 함께 적혔다. 이는 거래 완료 가격이 아니라 매도 희망 조건이며, 직원 전원 승계도 전망으로 표시됐다.",
+      "takeaway": "돌봄 사업을 평가할 때 브랜드보다 직원 잔류, 이용자 유지, 허가와 청구 흐름을 먼저 실사하라.",
+      "source_type": "media",
+      "source_name": "介護M&A支援センター 오사카 양도 매물",
+      "source_url": "https://kaigo-ma.com/buy/detail?id=4776"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "돌봄 SaaS의 가격 단위가 좌석에서 활동 고객과 청구액으로 이동한다",
+      "summary": "CareBravo는 활동 고객당 월정액과 적격 청구 매출 연동 요금을 함께 공개하고, Managed에서는 청구와 일정 운영까지 맡는다. 가격이 로그인 수보다 실제 현금흐름을 만드는 업무에 가까워진 사례다.",
+      "why_now": "Medicaid 홈케어는 EVV로 방문 사실과 서비스 단위를 확인해야 하며, 기록 누락과 청구 오류가 기관의 입금 시점에 영향을 준다.",
+      "source_url": "https://carebravo.com/pricing/"
+    },
+    {
+      "theme": "고령자 서비스의 성장 경로가 신규 창업에서 운영 기반 승계로 넓어진다",
+      "summary": "오사카 매물은 직원과 이용자와 서비스 운영을 함께 넘기는 구조를 보여준다. RECOF는 2026년 9월 고령자 대상 서비스의 사업승계 M&A 6건이 공개됐다고 집계했지만 공개 자료 기반이며 미완료 건을 포함할 수 있다고 적었다.",
+      "why_now": "인력 부족과 비용 상승이 이어지는 업종에서는 새로 허가와 인력을 모으는 시간 자체가 인수 판단의 비용이 된다.",
+      "source_url": "https://recof.co.jp/report/detail/695.html"
+    },
+    {
+      "theme": "규제 데이터가 헬스케어 소프트웨어의 첫 판매 지점이 된다",
+      "summary": "EVV는 서비스 종류와 이용자, 제공자, 시간과 장소를 남기도록 하며, 이 기록은 청구와 품질 관리의 공통 원자료가 된다. 운영 사업자는 규정 준수와 매출 지연을 함께 줄이는 흐름을 비교하게 된다.",
+      "why_now": "EVV 적용 시점이 이미 정착된 가운데, 기관은 별도 기록과 청구 시스템 사이의 재입력 비용을 줄여야 한다.",
+      "source_url": "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification"
+    }
+  ],
+  "cases": [
+    {
+      "who": "CareBravo, 미국",
+      "what": "Medicaid 홈케어 기관의 EVV, 스케줄, 청구, 기록과 일정 운영을 묶는 운영 소프트웨어",
+      "how": "Core는 활동 고객당 월정액으로 기관이 직접 운영하게 하고, Autonomous는 회사의 AI 에이전트를 더해 적격 청구 매출에 연동한다. Managed는 회사 팀이 청구와 일정 운영을 맡고, 간호사가 임상 필드를 서명하도록 둔다.",
+      "numbers": "Core 월 15달러/활동 고객, 모든 플랜 월 최소 250달러, Autonomous 다음 50개 기관 1.97퍼센트와 표준 2.47퍼센트, Managed 4.47퍼센트, 설치비 없음. Managed의 99퍼센트는 회사가 만든 오류 없이 원청구가 나가는 것에 대한 회사 보장이다. 고객 수와 실제 매출은 공개되지 않음.",
+      "source_url": "https://carebravo.com/pricing/"
+    },
+    {
+      "who": "오사카 방문개호 사업 양도 매물, 일본",
+      "what": "방문개호, 거택개호지원과 거택개호 사업을 사업소 이전 조건으로 넘기는 공개 매물",
+      "how": "대표는 현장에 나가지 않고 백오피스를 맡으며, 매물 설명은 현장이 자율적으로 운영되고 직원 전원이 승계 가능할 전망이라고 적는다. 매수자는 사업소를 통합하거나 이전해야 한다.",
+      "numbers": "2025년 9월기 매출 6,000만엔, 대표 보수를 뺀 실질 연간 이익 약 300만엔, 희망가 400만엔, 상근 약 10명과 비상근 약 30명, 이용자 60명과 100명과 10명. 모두 매물 표시값이며 희망가는 실제 거래가가 아님.",
+      "source_url": "https://kaigo-ma.com/buy/detail?id=4776"
+    }
+  ],
+  "tools": [
+    {
+      "name": "CareBravo 공식 가격 계산기",
+      "use": "활동 고객 수와 적격 청구 매출을 넣어 월정액, 매출 연동과 최소 요금의 차이를 비교한다.",
+      "source_url": "https://carebravo.com/pricing/"
+    },
+    {
+      "name": "미국 Medicaid EVV 요구사항",
+      "use": "서비스 종류, 이용자, 제공자, 날짜, 시작과 종료 시각과 장소가 기록되는지 홈케어 업무 흐름을 점검한다.",
+      "source_url": "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification"
+    },
+    {
+      "name": "RECOF 고령자 서비스 M&A 월간 보고서",
+      "use": "공개된 승계 거래 수와 거래 완료 여부의 범위를 구분해 고령자 서비스 인수 흐름을 확인한다.",
+      "source_url": "https://recof.co.jp/report/detail/695.html"
+    }
+  ],
+  "quote": {
+    "text": "You take the bravo. We take the work.",
+    "author": "CareBravo",
+    "source_url": "https://carebravo.com/pricing/"
+  },
+  "newsletter": {
+    "title": "돌봄 사업의 가격표는 기능보다 청구와 승계에서 나온다",
+    "body_md": "헬스케어 사업의 가격은 기능 수보다 돈이 흐르는 운영 단위에 붙는다. CareBravo는 Medicaid 홈케어 기관에 활동 고객 1명당 월 15달러인 Core, 적격 청구 매출 표준 2.47퍼센트인 Autonomous, 청구와 일정까지 맡기는 Managed 4.47퍼센트를 공개했다. 월 최소 250달러, 설치비 없음, 2주 병행 운영과 회사가 만든 오류 없이 원청구를 보내는 99퍼센트 보장을 함께 적었다. EVV가 서비스 종류, 이용자, 제공자, 날짜, 시각과 장소를 남기기 때문에 방문 기록과 청구를 한 흐름으로 묶을 수 있다. 지불자는 홈케어 기관이고 Medicaid는 돌봄 서비스의 재원이다. 일본 오사카 매물은 2025년 9월기 매출 6,000만엔, 실질 연간 이익 300만엔, 희망가 400만엔에 직원 약 40명과 이용자가 포함된다고 표시했지만, 희망가는 거래가가 아니다. 독자가 해볼 일은 한 건의 서비스가 제공돼 입금될 때까지 누락, 재입력, 반려와 대기 시간을 세고, 그 결과에 가격을 붙일 최소 단위와 책임자를 정하는 것이다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "홈케어 소프트웨어가 청구 매출의 2.47퍼센트를 받는 이유",
+      "hook": "돌봄 기관은 앱 사용권보다 청구가 끝나고 돈이 들어오는 흐름에 비용을 붙인다.",
+      "core_claim": "CareBravo는 Medicaid 홈케어 기관에 활동 고객당 월 15달러인 기본 플랜과 적격 청구 매출의 표준 2.47퍼센트인 Autonomous, 청구와 일정 운영을 맡기는 4.47퍼센트 Managed를 함께 제시한다.",
+      "primary_case": "CareBravo의 Core, Autonomous와 Managed 가격표",
+      "public_number": "활동 고객당 월 15달러, 월 최소 250달러, Autonomous 표준 2.47퍼센트, Managed 4.47퍼센트, 다음 50개 기관 대상 1.97퍼센트",
+      "payer": "CareBravo 이용료는 Medicaid 홈케어 기관이 내며, 돌봄 서비스 청구의 재원과 이용료는 분리된다.",
+      "seven_day_action": "방문 10건을 대상으로 EVV 기록, 청구 제출, 반려와 재입력에 걸린 시간을 익명으로 세고 월정액과 매출 연동 중 하나의 기준을 가정한다.",
+      "source_urls": [
+        "https://carebravo.com/pricing/",
+        "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification"
+      ]
+    },
+    {
+      "title": "돌봄 사업은 새로 만드는 대신 400만엔 희망가로 운영 기반을 넘긴다",
+      "hook": "돌봄 사업의 가격표에는 앱보다 직원, 이용자와 이미 돌아가는 청구 흐름이 먼저 적힌다.",
+      "core_claim": "오사카의 공개 매물은 방문개호와 관련 사업을 매출 6,000만엔, 실질 연간 이익 약 300만엔, 희망가 400만엔으로 제시하며 상근과 비상근 직원 약 40명과 이용자 기반을 함께 설명한다.",
+      "primary_case": "介護M&A支援センター의 오사카 방문개호 사업 양도 매물",
+      "public_number": "2025년 9월기 매출 6,000만엔, 실질 연간 이익 약 300만엔, 희망가 400만엔, 상근 약 10명과 비상근 약 30명, 이용자 60명과 100명과 10명",
+      "payer": "희망가의 직접 지불자는 매수자와 매도자 사이의 양도 거래이며, 인수 뒤 서비스 매출의 지불 구조는 사업별 청구와 이용자 부담을 따로 실사해야 한다.",
+      "seven_day_action": "매수 검토표에 직원 잔류, 이용자 유지, 허가와 자격, 임대차, 미수금과 청구 이력을 넣고 희망가와 실제 거래가를 분리한다.",
+      "source_urls": [
+        "https://kaigo-ma.com/buy/detail?id=4776",
+        "https://recof.co.jp/report/detail/695.html"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "홈케어 소프트웨어는 월정액보다 청구 매출에 가격을 붙인다",
+      "body_md": "홈케어 사업자가 앱을 하나 더 사는 이유는 화면이 예뻐서가 아닙니다. 방문 기록이 빠지거나 청구가 늦어지면 돌봄은 끝났어도 돈은 늦게 들어옵니다. 미국 CareBravo는 이 구간에 월정액만 붙이지 않고, 기관의 적격 청구 매출에 가격을 연결했습니다. 헬스케어 사업에서 돈이 붙는 위치가 기능 화면에서 현금흐름과 운영 기반으로 옮겨가는 사례입니다.\\n\\nCareBravo 공식 가격표의 Core는 활동 고객 1명당 월 15달러, 월 최소 250달러입니다. 팀이 직접 운영하는 기본 앱입니다. Autonomous는 다음 50개 기관에 12개월 동안 1.97퍼센트, 표준 2.47퍼센트를 적격 청구 매출에 붙입니다. Managed는 청구와 일정 운영을 맡기고 4.47퍼센트를 받습니다. 모든 플랜에 설치비는 없고, 회사는 기존 시스템과 2주간 병행 운영한 뒤 숫자가 맞을 때 전환한다고 안내합니다.\\n\\n여기서 적격 청구 매출은 지불자가 허용한 원청구액을 한 번만 계산하는 기준입니다. 수정 청구, 재제출, 취소와 대체는 다시 세지 않습니다. Managed의 99퍼센트 보장은 보험자가 청구를 승인한다는 뜻이 아니라, CareBravo가 원청구를 보내는 과정에서 만든 오류 없이 나가는 비율에 대한 회사의 서면 보장입니다. 숫자의 이름과 범위를 함께 적은 것이 가격표의 핵심입니다.\\n\\n이 가격이 가능한 배경에는 EVV가 있습니다. 미국 Medicaid는 개인 돌봄 서비스에는 2020년 1월 1일, 방문이 필요한 재가 건강 서비스에는 2023년 1월 1일까지 전자방문확인을 쓰도록 주에 요구했습니다. EVV는 서비스 종류, 이용자, 제공자, 날짜, 시작과 종료 시각, 장소를 남깁니다. CareBravo는 이 기록을 시작점으로 스케줄, 급여, 청구, 기록과 가족 소통 등 9개 업무를 한 운영 흐름으로 묶는다고 설명합니다. 규제가 만든 데이터가 소프트웨어의 진입점이 된 셈입니다.\\n\\n일본의 한 사업 양도 매물은 다른 방식으로 운영 기반의 값을 보여줍니다. 오사카의 방문개호, 거택개호지원과 거택개호 사업은 2025년 9월기 매출 6,000만엔, 대표 보수를 뺀 실질 연간 이익 300만엔, 희망가 400만엔으로 제시됐습니다. 상근 약 10명과 비상근 약 30명, 세 사업의 이용자 60명, 100명, 10명이 함께 적혀 있고 대표는 현장에 나가지 않는다고 합니다. 다만 희망가는 거래 완료 가격이 아니며, 직원 전원 승계도 매도자 측 전망입니다. RECOF는 2026년 9월 고령자 대상 서비스의 사업승계 M&A 6건이 공개됐다고 집계하면서 미완료 건이 포함될 수 있다고 밝혔습니다.\\n\\n두 사례를 같이 보면 돈의 단위가 선명해집니다. CareBravo는 앱 사용자가 아니라 활동 고객과 청구액을 기준으로 받고, 매물의 매수자는 새 브랜드보다 직원, 이용자, 허가와 청구가 이어지는 운영 기반을 사려 합니다. 물론 CareBravo의 가격은 회사 제시값이고 실제 고객 수나 수익성은 공개되지 않았습니다. 매물도 거래 성과가 아니라 희망 조건입니다. 따라서 가격표를 봤다는 이유만으로 시장성이나 이익을 확정하면 안 됩니다.\\n\\n작게 적용할 방법은 두 가지입니다. 첫째, 서비스 제공부터 입금까지 한 건을 따라가며 누락 기록, 재입력, 반려와 승인 대기 시간을 세고 가격 단위를 정합니다. 활동 고객당 월정액인지, 청구액 연동인지, 최소 요금이 필요한지 비교할 수 있습니다. 둘째, 돌봄 사업을 사거나 맡을 때 직원 잔류, 이용자 수, 자격과 허가, 청구 미수금, 임대차를 먼저 표로 만들고 희망가와 실제 거래가를 분리합니다. 헬스케어에서 기능은 복제되지만, 돈이 흐르는 운영 기록과 사람의 이탈 비용은 쉽게 복제되지 않습니다.\\n\\n출처: [CareBravo 공식 가격표](https://carebravo.com/pricing/), [미국 Medicaid EVV 안내](https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification), [介護M&A支援センター 오사카 매물](https://kaigo-ma.com/buy/detail?id=4776), [RECOF 2026년 9월 보고서](https://recof.co.jp/report/detail/695.html)\\n\\n*대표 이미지는 CareBravo 공식 웹사이트에서 내려받은 회사 로고입니다. 실제 시설이나 서비스 이용 장면을 보여주는 사진이 아니며 상업적 재사용 허가는 별도로 확인되지 않았습니다.*\\n\\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "홈케어 소프트웨어가 월정액보다 청구 매출에 가격을 붙이기 시작했습니다. CareBravo는 Medicaid 홈케어 기관에 활동 고객 1명당 월 15달러 또는 적격 청구 매출의 표준 2.47퍼센트를 제시합니다. 돈을 내는 사람은 돌봄 기관이고, 서비스 재원인 Medicaid와 CareBravo 이용료는 분리됩니다. 기능이 아니라 돈이 흐르는 운영 단위를 파는 방식입니다.",
+      "Autonomous는 다음 50개 기관에 1.97퍼센트, Managed는 청구와 일정 운영을 맡고 4.47퍼센트, 모든 플랜 최소 250달러와 설치비 없음입니다. CareBravo의 99퍼센트 보장은 보험자 승인률이 아니라 회사가 만든 오류 없이 원청구가 나가는 비율에 대한 회사 보장입니다. 기준을 쪼개 보여준 점이 가격표의 핵심입니다.",
+      "미국 Medicaid는 개인 돌봄 서비스와 재가 건강 서비스에 EVV를 요구합니다. 서비스 종류, 이용자, 제공자, 날짜, 시작과 종료 시각, 장소를 기록합니다. 이 데이터가 스케줄, 급여, 청구와 가족 소통을 잇는 출발점이 됩니다. 규제 대응이 제품의 진입점이 된 셈입니다.",
+      "일본 오사카 돌봄 사업 양도 매물은 2025년 9월기 매출 6,000만엔, 실질 연간 이익 300만엔, 희망가 400만엔입니다. 상근 약 10명과 비상근 약 30명, 이용자 60명, 100명, 10명이 함께 적혔습니다. 다만 거래 완료가 아니라 희망 조건입니다. 돌봄 사업의 값은 앱보다 사람, 이용자와 청구 흐름에 붙습니다."
+    ],
+    "instagram": {
+      "caption": "헬스케어 소프트웨어의 가격표가 바뀌고 있습니다. CareBravo는 Medicaid 홈케어 기관에 활동 고객 1명당 월 15달러를 받는 기본 플랜과, 적격 청구 매출의 표준 2.47퍼센트를 받는 운영 플랜을 함께 제시합니다. 청구와 일정 운영을 맡기는 Managed는 4.47퍼센트입니다. 이용료는 CareBravo가 받고, 돌봄 서비스의 보험 재원은 기관이 Medicaid 등 지불자에게 청구합니다. 일본의 오사카 매물도 매출과 이용자, 직원이 있는 운영 기반을 희망가 400만엔에 내놓았습니다. 희망가는 거래가가 아니므로 가격표만 보고 수익을 확정하지 않습니다. 고객이 실제로 돈을 내는 업무 단위를 먼저 찾아보세요.\\n\\n출처: [CareBravo 공식 가격표](https://carebravo.com/pricing/), [미국 Medicaid EVV 안내](https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification), [介護M&A支援センター 오사카 매물](https://kaigo-ma.com/buy/detail?id=4776)\\n\\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#헬스케어비즈니스 #시니어비즈니스 #홈케어 #돌봄서비스 #B2B #가격전략 #사업승계 #비즈니스인사이트",
+      "cards": [
+        "홈케어 소프트웨어는 월정액보다 청구 매출에 가격을 붙입니다",
+        "CareBravo 기본 플랜\\n활동 고객 1명당 월 15달러\\n월 최소 250달러",
+        "운영 플랜\\n적격 청구 매출의 표준 2.47퍼센트\\n청구와 일정 운영을 맡기면 4.47퍼센트",
+        "왜 이 단위인가\\nEVV가 서비스 종류, 이용자, 제공자, 날짜, 시각, 장소를 기록\\n기록이 청구의 출발점",
+        "일본 오사카 돌봄 매물\\n매출 6,000만엔\\n실질 연간 이익 300만엔\\n희망가 400만엔\\n거래 완료 가격 아님",
+        "작게 적용하기\\n제공부터 입금까지 누락, 재입력, 반려, 대기 시간을 세세요\\n고객이 반복해서 돈 내는 운영 단위를 찾으세요"
+      ]
+    },
+    "youtube": {
+      "title": "홈케어 소프트웨어가 청구 매출의 2.47퍼센트를 받는 이유",
+      "hook": "홈케어 기관이 소프트웨어에 돈을 내는 이유는 AI 기능이 많아서가 아닙니다. 청구가 끝나고 돈이 들어오는 흐름을 이어주기 때문입니다. CareBravo는 적격 청구 매출의 표준 2.47퍼센트를 가격표에 넣었습니다.",
+      "script": "홈케어 기관이 소프트웨어에 돈을 내는 이유는 AI 기능이 많아서가 아닙니다. 청구가 끝나고 돈이 들어오는 흐름을 이어주기 때문입니다.\\n\\n미국 CareBravo는 Medicaid 홈케어 기관에 세 가지 가격 단위를 제시합니다. Core는 활동 고객 1명당 월 15달러, 모든 플랜의 월 최소 요금은 250달러입니다. Autonomous는 다음 50개 기관에 1.97퍼센트, 표준 2.47퍼센트를 적격 청구 매출에 붙입니다. Managed는 청구와 일정 운영을 맡고 4.47퍼센트를 받습니다. 설치비는 없습니다.\\n\\n이 회사가 말하는 99퍼센트 보장은 보험자가 청구를 승인한다는 뜻이 아닙니다. CareBravo가 원청구를 보내는 과정에서 만든 오류 없이 나가는 비율을 회사가 보장한다는 의미입니다. 가격의 기준과 책임 범위를 분리해 적은 점이 중요합니다.\\n\\n미국 Medicaid는 개인 돌봄 서비스와 방문이 필요한 재가 건강 서비스에 전자방문확인, EVV를 요구합니다. EVV는 서비스 종류, 이용자, 제공자, 날짜, 시작과 종료 시각, 장소를 남깁니다. CareBravo는 이 기록을 스케줄, 급여, 청구, 기록과 가족 소통 등 9개 업무로 이어갑니다. 규제 대응 데이터가 운영 소프트웨어의 진입점이 된 셈입니다.\\n\\n일본 오사카의 한 돌봄 사업 양도 매물은 2025년 9월기 매출 6,000만엔, 실질 연간 이익 300만엔, 희망가 400만엔으로 표시됐습니다. 상근 약 10명과 비상근 약 30명, 여러 서비스의 이용자 60명, 100명, 10명이 함께 적혔습니다. 다만 희망가는 실제 거래가가 아니고, 직원 승계도 전망입니다.\\n\\n작은 사업자라면 기능 목록부터 늘리지 말고, 서비스 제공부터 입금까지 누락 기록, 재입력, 반려와 대기 시간을 세어 보세요. 고객이 반복해서 돈을 내는 운영 단위와 최소 요금을 찾는 일이 첫 가격 실험이 될 수 있습니다.\\n\\n출처: [CareBravo 공식 가격표](https://carebravo.com/pricing/), [미국 Medicaid EVV 안내](https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification), [介護M&A支援センター 오사카 매물](https://kaigo-ma.com/buy/detail?id=4776)\\n\\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "CareBravo 공식 가격표",
+      "url": "https://carebravo.com/pricing/"
+    },
+    {
+      "name": "미국 Medicaid EVV 안내",
+      "url": "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-guidance-additional-resources/electronic-visit-verification"
+    },
+    {
+      "name": "介護M&A支援センター 오사카 방문개호 양도 매물",
+      "url": "https://kaigo-ma.com/buy/detail?id=4776"
+    },
+    {
+      "name": "RECOF 2026년 9월 고령자 서비스 M&A 보고서",
+      "url": "https://recof.co.jp/report/detail/695.html"
+    },
+    {
+      "name": "CareBravo 공식 로고",
+      "url": "https://carebravo.com/assets/cb-logo.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약하고 재구성한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
