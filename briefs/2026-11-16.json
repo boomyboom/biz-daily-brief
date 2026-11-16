@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-16",
+  "generated_at_kst": "2026-11-16T12:00:42+09:00",
+  "mode": "new",
+  "headline": "AI 서비스의 가격표는 기능보다 반복되는 책임 단위로 내려온다",
+  "insights": [
+    {
+      "title": "Preferred는 요양시설의 회의 운영에 시설당 월 9,800엔을 붙인다",
+      "summary": "일본 Preferred는 요양시설의 생산성 향상 위원회 운영을 라이트 월 9,800엔, 스탠더드 월 29,800엔으로 제시한다. 후생노동성 자료상 생산성 향상 추진체계 가산을 받는 시설은 3개월에 한 번 이상 안전, 서비스 품질, 직원 부담, 장비 점검과 교육을 논의해야 한다. 10개 사업소의 3개월 무상 시범은 예정이며, 실제 유료 고객과 전환률은 확인되지 않았다.",
+      "takeaway": "기능이 아니라 매달 반복되는 회의와 기록을 1개 사업소 단위로 먼저 가격표에 올려라.",
+      "source_type": "blog",
+      "source_name": "Preferred 공식 서비스 페이지",
+      "source_url": "https://www.pref.co.jp/service/kaigo-community"
+    },
+    {
+      "title": "ReLa.LAB은 시니어 경험을 1시간 24만원의 의사결정 상품으로 쪼갠다",
+      "summary": "한국 비사이드미의 ReLa.LAB은 AI 기반 기업 진단, 전문가 매칭, 1시간 온라인 자문과 실행 Report를 1회 24만원에 묶는다. 공식 페이지는 120명 이상 전문가와 11개 분야를 표시하고 대상은 스타트업과 중소기업 대표와 리더다. 24만원은 1회 가격이지 구독 매출이나 재구매율의 증거가 아니다.",
+      "takeaway": "긴 컨설팅을 팔기 어렵다면 문제 진단, 1시간 회의와 실행 보고서를 한 건으로 고정해 구매 장벽을 낮춰라.",
+      "source_type": "blog",
+      "source_name": "ReLa.LAB 공식 서비스 상세",
+      "source_url": "https://www.relalab.kr/service_details.php?service_id=1"
+    },
+    {
+      "title": "Front는 상담 자동화를 좌석이 아니라 처리 단계로도 과금한다",
+      "summary": "Front의 현재 가격 페이지는 좌석형 Starter 25달러, Professional 65달러, Enterprise 105달러와 별도로 Autopilot을 대화 1건당 0.39달러부터 제시한다. 2026년 11월 13일 수정된 도움말은 분류와 접수, 정책에 따른 실행, 사람에게 넘기는 기준을 함께 설명한다. PricingSaaS의 11월 2일과 9일 화면 비교는 시작 가격이 0.05달러에서 0.39달러로 바뀌었다고 기록하지만, 이는 독립 추적 기록이며 공식 변경 공지는 아니다.",
+      "takeaway": "AI 자동화를 팔 때 월좌석과 처리 단계 과금을 분리하고 사람이 이어받는 기준을 가격표와 함께 적어라.",
+      "source_type": "blog",
+      "source_name": "Front 공식 가격 페이지와 도움말",
+      "source_url": "https://front.com/pricing"
+    },
+    {
+      "title": "NexWell Insight는 무료 문제 수집 뒤 직원당 월 1,000엔을 받는다",
+      "summary": "일본 TRUE NORTH의 NexWell Insight는 QR 코드로 직원의 현장 문제를 모으고 원인 관계를 시각화하는 기능을 무료로 제공한 뒤, AI 분석과 개선 계획과 진행 관리를 프리미엄 직원 1명당 월 1,000엔, 최소 월 5,000엔으로 제시한다. 요양시설 운영자가 지불자이며 실제 도입률과 재계약은 공개되지 않았다.",
+      "takeaway": "무료로 모을 데이터와 유료로 책임질 실행을 분리해 첫 달 도입 장벽을 낮춰라.",
+      "source_type": "blog",
+      "source_name": "NexWell Insight 공식 페이지",
+      "source_url": "https://www.t-north.jp/care_insight_lp"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "규제와 정기 운영이 B2B AI의 첫 가격표가 된다",
+      "summary": "요양시설은 AI 기능만 사는 것이 아니라 정기 위원회, 기록, 교육과 개선 실행을 반복해야 한다. Preferred는 이 운영 주기를 1개 사업소 월정액으로 제시한다.",
+      "why_now": "후생노동성 자료는 가산을 받는 시설에 3개월에 한 번 이상 위원회를 열고 안전, 품질, 직원 부담, 장비 점검과 교육을 다루도록 안내하며 3년의 경과조치를 둔다.",
+      "source_url": "https://www.mhlw.go.jp/content/12300000/001280909.pdf"
+    },
+    {
+      "theme": "경력 자산이 채용이 아니라 짧은 의사결정 상품으로 쪼개진다",
+      "summary": "ReLa.LAB은 시니어 경험을 장기 채용이 아니라 진단, 1시간 자문과 실행 보고서가 붙은 한 건의 기업 구매로 바꾼다.",
+      "why_now": "국가데이터처는 55세에서 79세 인구의 69.2퍼센트가 앞으로도 일하기를 원하고 희망 근로 연령은 평균 73.6세라고 집계했다. 가장 오래 일한 일자리를 그만둔 평균 연령은 53세다.",
+      "source_url": "https://mods.go.kr/board.es?act=view&bid=210&bodo_b_type=all&list_no=446335&mid=a10301010000"
+    },
+    {
+      "theme": "AI 과금 단위가 좌석에서 처리 단계로 넓어진다",
+      "summary": "Front는 기본 협업 공간을 좌석으로 과금하면서 복잡한 상담 자동화는 대화 단위로 별도 과금한다. 자동화의 범위와 사람에게 넘기는 지점을 가격 단위로 드러내는 구조다.",
+      "why_now": "Front 도움말이 2026년 11월 13일 복잡한 업무 자동화, 가드레일과 사람에게 넘기는 흐름을 함께 정리했고 현재 가격 페이지에 대화당 0.39달러부터가 표시된다.",
+      "source_url": "https://help.front.com/en/articles/4890624"
+    },
+    {
+      "theme": "무료 유입과 유료 실행을 분리하는 현장형 SaaS",
+      "summary": "NexWell Insight는 직원의 문제 수집과 시각화는 무료로 열고, 원인 분석과 개선 계획과 진행 관리는 직원당 과금한다. 현장 데이터가 쌓인 뒤 책임 있는 실행 구간에 가격을 붙이는 방식이다.",
+      "why_now": "요양시설은 새 시스템을 한 번에 바꾸기보다 직원의 스마트폰 입력과 관리자의 대시보드로 시작할 수 있는 낮은 도입 장벽을 요구한다.",
+      "source_url": "https://www.t-north.jp/care_insight_lp"
+    }
+  ],
+  "cases": [
+    {
+      "who": "Preferred, 일본",
+      "what": "요양시설의 생산성 향상 위원회 운영을 돕는 AI 서비스",
+      "how": "위원회 안건, 기록 초안, 교육과 개인정보 운용 원칙을 1개 사업소 단위의 반복 운영으로 묶어 시설 운영자와 법인에게 제안한다.",
+      "numbers": "회사 공개 가격은 라이트 월 9,800엔, 스탠더드 월 29,800엔이다. 2026년 11월부터 10개 사업소에 3개월 무상 시범을 예정했으며 실제 유료 고객 수와 전환률은 미공개다.",
+      "source_url": "https://www.pref.co.jp/service/kaigo-community"
+    },
+    {
+      "who": "비사이드미 ReLa.LAB, 한국",
+      "what": "스타트업과 중소기업을 위한 1시간 온라인 전문가 자문",
+      "how": "AI 기반 기업 진단 뒤 산업과 직무 경험이 있는 전문가를 매칭하고, 1시간 Zoom 회의와 단기, 중기, 장기 액션 Report를 한 세션으로 판매한다.",
+      "numbers": "1회 240,000원이며 기업 진단, 전문가 매칭, 1시간 미팅과 실행 Report가 포함된다. 등록 전문가 120명 이상, 11개 분야는 회사 표시값이며 반복 구독 가격과 재구매율은 공개되지 않았다.",
+      "source_url": "https://www.relalab.kr/service_details.php?service_id=1"
+    },
+    {
+      "who": "Front, 미국",
+      "what": "공유 인박스 위에서 복잡한 고객 상담을 자동화하는 Autopilot",
+      "how": "기본 협업 기능은 좌석으로 과금하고, Autopilot은 분류, 접수, 정책에 따른 실행과 사람에게 넘기는 흐름을 대화 단위로 처리한다.",
+      "numbers": "현재 공식 가격 페이지는 Starter 월 25달러, Professional 월 65달러, Enterprise 월 105달러와 Autopilot 대화 1건당 0.39달러부터를 표시한다. 0.05달러에서 0.39달러로의 변화는 PricingSaaS 화면 비교 기록이다.",
+      "source_url": "https://front.com/pricing"
+    },
+    {
+      "who": "TRUE NORTH NexWell Insight, 일본",
+      "what": "요양시설 직원의 문제 수집과 개선 계획을 돕는 현장형 SaaS",
+      "how": "QR 코드로 직원 의견을 모으고 11개 범주로 시각화한 뒤 AI 분석, 개선 계획과 진행 관리를 프리미엄 단계에 묶는다.",
+      "numbers": "무료 플랜 뒤 프리미엄은 직원 1명당 월 1,000엔, 최소 월 5,000엔이다. 가격은 공식 페이지 표시값이며 실제 도입률과 재계약은 확인되지 않았다.",
+      "source_url": "https://www.t-north.jp/care_insight_lp"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Preferred 생산성 향상 위원회 커뮤니티",
+      "use": "요양시설의 정기 회의, 기록 초안, 교육과 개인정보 운용을 한 운영 주기로 점검할 때 참고한다.",
+      "source_url": "https://www.pref.co.jp/service/kaigo-community"
+    },
+    {
+      "name": "NexWell Insight",
+      "use": "QR 코드로 현장 문제를 모으고 원인 관계, 개선 계획과 진행을 연결하는 무료 및 유료 구조를 검토할 때 쓴다.",
+      "source_url": "https://www.t-north.jp/care_insight_lp"
+    },
+    {
+      "name": "ReLa.LAB 1시간 전문가 자문",
+      "use": "기업 진단, 전문가 매칭, 짧은 회의와 실행 보고서를 한 번의 구매 단위로 설계할 때 참고한다.",
+      "source_url": "https://www.relalab.kr/service_details.php?service_id=1"
+    },
+    {
+      "name": "Front Autopilot",
+      "use": "고객 상담 자동화의 분류, 처리, 사람 인계 기준과 대화 단위 과금을 비교할 때 쓴다.",
+      "source_url": "https://help.front.com/en/articles/4890624"
+    }
+  ],
+  "quote": {
+    "text": "1시간이 끝나면 다음에 할 일이 정해집니다.",
+    "author": "비사이드미 ReLa.LAB",
+    "source_url": "https://www.relalab.kr/service_details.php?service_id=1"
+  },
+  "newsletter": {
+    "title": "AI 기능보다 반복되는 책임에 가격을 붙이는 법",
+    "body_md": "오늘의 핵심 주장은 AI 기능이 아니라 고객이 매달 책임져야 하는 운영 단위에 가격을 붙여야 한다는 것이다. 일본 Preferred는 요양시설의 생산성 향상 위원회 운영을 라이트 월 9,800엔, 스탠더드 월 29,800엔으로 제시했고 10개 사업소 3개월 무상 시범을 예정했다. 후생노동성 자료상 가산을 받는 시설은 3개월에 한 번 이상 안전, 서비스 품질, 직원 부담, 장비 점검과 교육을 논의해야 한다. 한국 ReLa.LAB은 진단, 전문가 매칭, 1시간 자문과 실행 보고서를 24만원에 묶는다. Front는 좌석 요금 위에 AI 상담 처리 단위 과금을 붙인다. Preferred와 NexWell은 무료 시범 또는 무료 수집으로 시작해 실행 구간에 가격을 붙이고, ReLa.LAB과 Front는 짧은 자문과 상담 처리 단계에 가격을 정한다. 이 숫자는 회사가 공개한 가격이며 고객 수, 전환률과 재구매는 확인하지 않았다. 작은 사업자는 반복 회의나 승인, 보고 중 한 가지를 골라 7일간 건수, 처리 시간, 수정 횟수와 사람의 최종 책임을 기록한 뒤 월정액을 시험할 수 있다. 이 기록이 있어야 월정액과 건당 과금 중 무엇이 맞는지 판단할 수 있다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양시설은 AI보다 회의 운영에 월 9,800엔을 낸다",
+      "hook": "요양시설의 AI 첫 고객은 이용자가 아니라 매달 운영 회의를 책임지는 법인일 수 있다.",
+      "core_claim": "Preferred는 규정과 가산에 연결된 위원회 운영, 기록, 교육을 1개 사업소 월정액으로 제시한다. 돈을 내는 사람은 이용자와 가족보다 시설 운영자에 가깝다.",
+      "primary_case": "Preferred 생산성 향상 위원회 커뮤니티",
+      "public_number": "라이트 월 9,800엔, 스탠더드 월 29,800엔, 10개 사업소 3개월 무상 시범 예정. 모두 회사 공개값이며 실제 유료 전환은 미확인.",
+      "payer": "일본 요양시설 운영자와 법인",
+      "seven_day_action": "최근 위원회 기록 3건을 익명화해 안건 작성, 회의, 수정, 교육 후속에 걸린 시간을 적고 월정액으로 줄일 업무 한 가지를 고른다.",
+      "source_urls": [
+        "https://www.pref.co.jp/service/kaigo-community",
+        "https://www.mhlw.go.jp/content/12300000/001280909.pdf"
+      ]
+    },
+    {
+      "title": "시니어의 경험은 1시간 자문과 실행 보고서로 먼저 팔린다",
+      "hook": "경력을 장기 채용으로만 팔지 않고 회사의 다음 결정 한 건에 묶을 수 있다.",
+      "core_claim": "ReLa.LAB은 기업 진단, 실전 경험 전문가 매칭, 1시간 자문과 실행 Report를 24만원 단일 세션으로 만든다. 이는 구독 매출이 아니라 짧은 의사결정 상품의 가격표다.",
+      "primary_case": "비사이드미 ReLa.LAB 온라인 1대1 전문가 자문",
+      "public_number": "1회 240,000원, 등록 전문가 120명 이상, 11개 분야. 회사 표시값이며 재구매율과 전문가 보수 배분은 공개되지 않음.",
+      "payer": "스타트업과 중소기업 대표와 리더",
+      "seven_day_action": "특정 업종의 반복 문제 하나를 골라 사전 진단, 1시간 자문과 액션 Report를 3건 시험하고 7일 뒤 실행 여부를 기록한다.",
+      "source_urls": [
+        "https://www.relalab.kr/service_details.php?service_id=1",
+        "https://www.venturesquare.net/1127398/",
+        "https://mods.go.kr/board.es?act=view&bid=210&bodo_b_type=all&list_no=446335&mid=a10301010000"
+      ]
+    },
+    {
+      "title": "상담 자동화는 좌석보다 처리 단계로 과금하기 시작했다",
+      "hook": "AI 상담원의 월 구독료를 묻기 전에 한 대화가 어디까지 처리되는지부터 봐야 한다.",
+      "core_claim": "Front는 협업 공간을 좌석으로 과금하면서 Autopilot을 대화 단위로 분리했다. 자동 분류와 사람 인계와 완결된 처리의 범위를 가격 단위로 설명하는 구조다.",
+      "primary_case": "Front Autopilot",
+      "public_number": "현재 공식 가격 페이지의 시작가는 대화 1건당 0.39달러이며 Starter 25달러, Professional 65달러, Enterprise 105달러의 좌석 가격이 별도다. 0.05달러에서 0.39달러로의 변화는 PricingSaaS 기록.",
+      "payer": "고객지원과 운영팀을 가진 기업",
+      "seven_day_action": "상담 20건을 분류, 사람 인계, 완결 처리로 나눠 실제 비용과 책임 지점을 비교한다.",
+      "source_urls": [
+        "https://front.com/pricing",
+        "https://help.front.com/en/articles/4890624",
+        "https://pricingsaas.com/companies/front/diffs/2026W46"
+      ]
+    },
+    {
+      "title": "무료로 현장 문제를 모으고 직원당 월 1,000엔으로 실행을 붙인다",
+      "hook": "요양시설의 첫 결제는 AI 분석이 아니라 직원의 문제를 계속 해결하는 단계에서 나온다.",
+      "core_claim": "NexWell Insight는 직원 의견 수집과 시각화를 무료로 열고 AI 분석, 개선 계획과 진행 관리를 직원당 월 1,000엔으로 제시한다. 무료 유입과 유료 실행을 분리한 가격표다.",
+      "primary_case": "TRUE NORTH NexWell Insight",
+      "public_number": "무료 플랜, 프리미엄 월 1,000엔/인, 최소 월 5,000엔. 실제 도입률과 재계약은 공개되지 않음.",
+      "payer": "요양시설 운영자와 법인",
+      "seven_day_action": "직원 5명의 익명 의견을 모아 한 가지 개선 계획을 만들고, 회의 전후의 수정 횟수와 실행 여부를 기록한다.",
+      "source_urls": [
+        "https://www.t-north.jp/care_insight_lp"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "요양시설은 AI가 아니라 회의 운영에 월 9,800엔을 낸다",
+      "body_md": "![요양시설 운영을 돕는 Preferred 공식 로고](assets/daily-cover-logo.png)\n\n요양시설에 AI를 팔 때 가장 먼저 물어야 할 것은 모델이 무엇을 잘하느냐가 아닙니다. 시설 운영자가 매달 빠뜨리기 어려운 일을 누가 정리하고, 그 기록에 누가 책임을 지느냐입니다. 일본 Preferred의 가격표는 이 질문에 구체적인 답을 내놓습니다.\n\nPreferred는 요양시설의 생산성 향상 위원회를 돕는 서비스를 라이트 월 9,800엔, 스탠더드 월 29,800엔으로 제시합니다. 모두 1개 사업소 기준이며 스탠더드에는 위원회 운영 팩이 붙습니다. 회사는 2026년 11월부터 10개 사업소에 3개월 무상 사용을 예정했지만, 유료 고객 수와 전환률은 공개하지 않았습니다. 그러므로 이 숫자는 매출이 아니라 회사가 공개한 가격표와 시범 계획입니다.\n\n이 상품이 돈이 되는 이유는 AI가 회의록을 예쁘게 써서가 아닙니다. 후생노동성 자료에 따르면 생산성 향상 추진체계 가산을 받는 시설은 3개월에 한 번 이상 위원회를 열고, 이용자 안전과 케어 품질, 직원 부담과 근무 상황, 장비 점검, 직원 교육을 다뤄야 합니다. 시설이 사는 것은 문장 생성 기능보다 회의 안건, 기록 초안, 다음 실행과 교육을 한 주기로 묶는 운영입니다. 돈을 내는 사람도 이용자나 가족보다 시설 운영자와 법인에 가깝습니다.\n\n이 가격은 노인 돌봄의 이용자 수를 늘린다는 약속이 아닙니다. 시설 운영자는 한 번의 회의가 끝난 뒤 다음 회의까지 무엇을 점검했는지, 누가 교육을 받았는지, 기록이 어디에 남았는지를 설명해야 합니다. 그래서 제품의 가치는 모델 정확도보다 운영을 계속 굴리는 힘으로 평가될 가능성이 큽니다. 아직 회사 자료만으로 시간 절감이나 가산 취득을 입증할 수 없고, 제도 대상 서비스와 실제 상품 범위도 계약마다 확인해야 합니다.\n\n비슷한 가격 설계는 TRUE NORTH의 NexWell Insight에서도 보입니다. 직원의 목소리를 QR 코드로 모으고 문제를 시각화하는 기능은 무료로 열어 둔 뒤, AI 분석과 개선 계획, 진행 관리를 포함한 프리미엄을 직원 1명당 월 1,000엔, 최소 월 5,000엔으로 제시합니다. 무료로 진입 장벽을 낮추고, 실행과 진행 책임이 생기는 구간에서 과금하는 방식입니다. 두 회사 모두 실제 도입률이나 재계약을 공개한 것은 아니므로 가격표를 시장 성과로 읽어서는 안 됩니다.\n\nFront의 Autopilot은 다른 업종에서 같은 가격 원리를 보여줍니다. 기본 협업은 좌석으로, 복잡한 상담 자동화는 대화 단위로 나눕니다. 공식 가격 페이지의 시작가는 1건 0.39달러이고, 도움말은 분류, 정책 실행, 예외 상황의 사람 인계를 설명합니다. 기업이 돈을 내는 것은 AI가 대답했다는 사실이 아니라 어느 단계까지 책임지고 기록했는지입니다. 업종은 달라도 가격 단위는 운영의 결과로 내려옵니다.\n\n이 구조를 작은 사업에 적용하는 방법은 두 가지입니다. 첫째, 고객이 매달 반복하는 회의, 승인, 보고 중 하나를 골라 지난 4주 건수와 처리 시간을 적습니다. 둘째, 답변을 주는 단계와 사람이 검토하고 기록을 남기는 단계를 나눠 가격을 제시합니다. 자동화를 먼저 만들 필요는 없습니다. 누가 최종 확인을 하는지, 실패하면 어디로 넘기는지, 다음 달에도 같은 업무가 생기는지를 확인하면 가격 단위가 보입니다.\n\n출처: [Preferred 공식 서비스 페이지](https://www.pref.co.jp/service/kaigo-community), [후생노동성 생산성 향상 추진체계 자료](https://www.mhlw.go.jp/content/12300000/001280909.pdf), [NexWell Insight 공식 페이지](https://www.t-north.jp/care_insight_lp), [Front 공식 가격 페이지](https://front.com/pricing), [Front 도움말](https://help.front.com/en/articles/4890624)\n\n*대표 이미지는 Preferred 공식 사이트의 공식 OGP와 로고입니다. 본문 사례를 직접 보여주는 사진을 확보하지 못해 공식 로고를 사용했으며 상업적 재사용 허가 범위는 확인하지 않았습니다.*\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "요양시설에 AI를 팔 때 기능보다 먼저 볼 것은 매달 반복되는 책임입니다. 일본 Preferred는 생산성 향상 위원회 운영을 1개 사업소 월 9,800엔부터 제시했습니다. AI가 무엇을 생성하는지보다 누가 회의와 기록을 끝까지 책임지는지가 가격의 출발점이 됩니다.",
+      "Preferred의 스탠더드는 월 29,800엔입니다. 후생노동성 자료상 생산성 향상 추진체계 가산을 받는 시설은 3개월에 한 번 이상 위원회를 열고 안전, 케어 품질, 직원 부담, 장비 점검과 교육을 다뤄야 합니다. 10개 사업소 3개월 무상 시범은 예정이며 유료 전환은 확인되지 않았습니다.",
+      "ReLa.LAB은 진단, 전문가 매칭, 1시간 자문과 실행 Report를 24만원에 묶고 Front는 좌석 요금 위에 대화 단위 과금을 붙입니다. 작은 사업자는 반복 회의, 승인, 보고 중 한 가지를 골라 건수, 처리 시간과 사람의 최종 확인을 7일 기록하면 됩니다.\n\n출처: [Preferred 공식 서비스 페이지](https://www.pref.co.jp/service/kaigo-community), [후생노동성 자료](https://www.mhlw.go.jp/content/12300000/001280909.pdf), [ReLa.LAB](https://www.relalab.kr/service_details.php?service_id=1), [Front 가격](https://front.com/pricing)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "AI 서비스의 가격표는 기능보다 반복되는 책임 단위로 내려오고 있습니다.\n\n일본 Preferred는 요양시설의 생산성 향상 위원회 운영을 1개 사업소 월 9,800엔부터 제시합니다. 스탠더드는 월 29,800엔입니다. 이용자에게 AI를 파는 것이 아니라 시설 운영자가 매달 해야 하는 회의와 기록을 돕는 구조입니다.\n\n한국 ReLa.LAB은 기업 진단, 전문가 매칭, 1시간 자문과 실행 Report를 24만원에 묶습니다. Front는 좌석 요금 위에 상담 처리 단계별 과금을 붙입니다.\n\n작게 시험하려면 고객이 반복하는 회의나 승인 한 가지를 골라 7일간 건수, 처리 시간, 수정 횟수와 사람의 최종 확인을 기록하세요. 가격은 자동화 기능이 아니라 책임의 범위에서 시작됩니다.\n\n출처: [Preferred 공식 서비스 페이지](https://www.pref.co.jp/service/kaigo-community), [ReLa.LAB](https://www.relalab.kr/service_details.php?service_id=1), [Front 가격](https://front.com/pricing)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #AI비즈니스 #시니어비즈니스 #헬스케어비즈니스 #요양시설 #B2B #서비스기획 #가격전략",
+      "cards": [
+        "AI 기능보다 반복되는 책임에 가격을 붙입니다",
+        "Preferred의 가격표\n라이트 월 9,800엔\n스탠더드 월 29,800엔\n1개 사업소 기준",
+        "가산을 받는 시설은 3개월에 한 번 이상 위원회 운영\n안전, 품질, 직원 부담, 장비 점검과 교육을 다룹니다",
+        "ReLa.LAB\n1시간 자문 24만원\n진단, 전문가 매칭, 실행 Report 포함",
+        "Front Autopilot\n좌석 요금 위에\n대화 1건당 0.39달러부터\n처리 단계에 따라 과금",
+        "작게 시험하는 법\n반복 업무 1개를 고르고\n건수, 처리 시간, 사람의 최종 확인을 7일 기록"
+      ]
+    },
+    "youtube": {
+      "title": "AI 서비스는 기능보다 반복되는 책임에 가격을 붙인다",
+      "hook": "요양시설이 AI에 돈을 내는 이유는 회의록이 예쁘게 나와서가 아닙니다. 매달 해야 할 운영을 빠뜨리지 않게 하기 때문입니다.",
+      "script": "일본 Preferred는 요양시설의 생산성 향상 위원회 운영을 라이트 월 9,800엔, 스탠더드 월 29,800엔으로 제시합니다. 회사는 2026년 11월부터 10개 사업소에 3개월 무상 시범을 예정했지만, 유료 전환은 공개하지 않았습니다.\n\n후생노동성 자료상 생산성 향상 추진체계 가산을 받는 시설은 3개월에 한 번 이상 위원회를 열고 이용자 안전과 케어 품질, 직원 부담, 장비 점검과 교육을 다뤄야 합니다. 시설이 사는 것은 AI 문장 생성보다 회의 안건, 기록 초안과 다음 실행을 이어주는 운영입니다.\n\n비슷하게 한국 ReLa.LAB은 기업 진단, 전문가 매칭, 1시간 자문과 실행 Report를 24만원에 묶습니다. Front는 좌석 요금 위에 상담 처리 단계별 과금을 붙입니다.\n\n작은 사업자는 자동화부터 만들 필요가 없습니다. 반복 회의나 승인 한 가지를 골라 7일간 건수, 처리 시간, 수정 횟수와 사람의 최종 확인을 적어 보세요. 가격을 정할 단위는 기능 목록보다 책임의 범위에서 먼저 보입니다.\n\n출처: [Preferred 공식 서비스 페이지](https://www.pref.co.jp/service/kaigo-community), [후생노동성 자료](https://www.mhlw.go.jp/content/12300000/001280909.pdf), [ReLa.LAB](https://www.relalab.kr/service_details.php?service_id=1), [Front 가격](https://front.com/pricing)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Preferred 공식 서비스 페이지",
+      "url": "https://www.pref.co.jp/service/kaigo-community"
+    },
+    {
+      "name": "후생노동성 생산성 향상 추진체계 가산 자료",
+      "url": "https://www.mhlw.go.jp/content/12300000/001280909.pdf"
+    },
+    {
+      "name": "NexWell Insight 공식 페이지",
+      "url": "https://www.t-north.jp/care_insight_lp"
+    },
+    {
+      "name": "ReLa.LAB 공식 서비스 상세",
+      "url": "https://www.relalab.kr/service_details.php?service_id=1"
+    },
+    {
+      "name": "VentureSquare Aging and Working 2026 소개",
+      "url": "https://www.venturesquare.net/1127398/"
+    },
+    {
+      "name": "국가데이터처 2026년 5월 경제활동인구조사 고령층 부가조사",
+      "url": "https://mods.go.kr/board.es?act=view&bid=210&bodo_b_type=all&list_no=446335&mid=a10301010000"
+    },
+    {
+      "name": "Front 공식 가격 페이지",
+      "url": "https://front.com/pricing"
+    },
+    {
+      "name": "Front 도움말 Autopilot 안내",
+      "url": "https://help.front.com/en/articles/4890624"
+    },
+    {
+      "name": "PricingSaaS Front 가격 변경 기록",
+      "url": "https://pricingsaas.com/companies/front/diffs/2026W46"
+    },
+    {
+      "name": "Preferred 공식 OGP 이미지",
+      "url": "https://www.pref.co.jp/ogp.png"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 정리한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이며, 실행과 판단의 책임은 본인에게 있습니다."
+}
