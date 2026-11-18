@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-18",
+  "generated_at_kst": "2026-11-18T12:05:55+09:00",
+  "mode": "new",
+  "headline": "요양시설 AI는 대화보다 직원이 떠나도 남는 기억에 가격을 붙인다",
+  "insights": [
+    {
+      "title": "LifeLoop는 직원이 떠나도 남는 이용자 정보를 시설용 AI로 바꾼다",
+      "summary": "LifeLoop는 2026년 11월 17일 Olia를 북미 시니어 리빙 시설에 일반 제공하기 시작했다. Olia는 이용자와 커뮤니티 정보를 읽고 직원 승인 뒤 활동 생성, 일정 등록, 교통 요청, 공지 발송까지 수행한다. 회사 발표 기준 조기 도입 프로그램에는 30개 고객사 직원이 참여했고, 북미 4,700개 커뮤니티에서 사용되고 있다. 가격과 유료 전환율은 공개되지 않았다.",
+      "takeaway": "AI의 첫 판매 단위를 대화가 아니라 담당자가 바뀌어도 사라지지 않는 기록과 승인된 실행으로 설계하라.",
+      "source_type": "media",
+      "source_name": "LifeLoop Olia 일반 제공 발표",
+      "source_url": "https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html"
+    },
+    {
+      "title": "Enactic은 간병 로봇을 사람에게 닿지 않는 일부터 검증한다",
+      "summary": "일본 Enactic은 Ena를 목욕이나 이동 보조보다 세탁, 린넨 정리, 배식, 야간 순찰 같은 주변 업무에 먼저 적용하려 한다. NVIDIA 고객 사례에서 베개 커버 교체 성공률은 약 50퍼센트에서 70퍼센트 가까이로 올랐다고 회사 대표가 설명했고, 2027년 시설 PoC와 2028년 제품 출시 목표를 제시했다. 이는 판매 실적이나 인건비 절감이 아니라 특정 작업의 실증 단계다.",
+      "takeaway": "로봇을 팔기 전에 사람이 자주 하지만 결과를 측정하기 쉬운 주변 업무 하나를 정하고 성공률과 시간을 기록하라.",
+      "source_type": "media",
+      "source_name": "NVIDIA Enactic 고객 사례",
+      "source_url": "https://www.nvidia.com/ja-jp/case-studies/enactic/"
+    },
+    {
+      "title": "Novo는 소상공인 AI를 금융 앱 밖으로 보내지 않고 한 계정에 묶는다",
+      "summary": "미국 핀테크 Novo는 11월 17일 결제, 급여, 세금, 은행, 신용 기능에 AI를 연결했다. 급여 서비스는 월 24달러에 지급 인원 1명당 5달러를 받는 가격을 공개했고, 회사 발표 기준 고객 25만명 이상을 보유한다. Novo가 집계한 고객 자료에서 특정 AI 도구의 월 지출은 2024년 11월부터 2026년 6월까지 493퍼센트 늘었지만 현금 보유 차이는 회사의 관찰이며 인과관계는 확인되지 않았다.",
+      "takeaway": "AI 기능을 따로 팔기보다 이미 결제와 세금을 처리하는 계정에 붙여 이탈 비용을 높여라.",
+      "source_type": "media",
+      "source_name": "Novo 공식 발표",
+      "source_url": "https://www.prnewswire.com/news-releases/novo-launches-ai-capabilities-across-banking-payroll-tax-and-credit-to-help-small-businesses-scale-faster-302941398.html"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "직원 교체 비용을 데이터 연속성으로 바꾸는 시니어 리빙 소프트웨어",
+      "summary": "LifeLoop는 이용자 선호와 활동 기록을 직원 승인 뒤 일정, 교통 요청과 공지로 이어 붙인다. LeadingAge의 Watermark 사례는 22개 커뮤니티에서 입주자의 경험과 선호를 프로그램 운영에 연결한 과정을 보여준다.",
+      "why_now": "직원이 바뀔 때 이용자 정보를 다시 파악하는 시간은 시설 운영자가 직접 부담하는 비용이다. Olia가 일반 제공으로 넘어가며 기록 보존과 실행 연결이 한 제품의 판매 단위가 됐다.",
+      "source_url": "https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/"
+    },
+    {
+      "theme": "간병 로봇은 직접 돌봄보다 검증 가능한 주변 업무에서 시작",
+      "summary": "Enactic은 사람과 직접 접촉하는 업무보다 베개 커버 교체, 세탁, 배식, 야간 순찰처럼 작업 결과를 따로 측정할 수 있는 영역을 먼저 검증한다. 현재 공개 자료는 PoC와 제품 출시 목표를 보여주지만 유료 도입은 확인하지 못했다.",
+      "why_now": "일본은 2040년까지 2022년보다 약 57만명의 간병 인력을 추가로 확보해야 한다는 추계가 있다. 시설의 핵심 인력을 대체한다고 말하기보다 주변 업무를 떼어내는 순서가 현실적인 구매 논리가 된다.",
+      "source_url": "https://care.enactic.ai/?scroll=news"
+    },
+    {
+      "theme": "온디바이스 AI가 프라이버시와 반복 클라우드 비용을 함께 줄이는 판매 논리",
+      "summary": "EdgeLens Guardian은 원본 영상을 클라우드로 보내지 않고 기기나 허브에서 추론한 뒤 승인된 알림과 요약만 공유하는 구조를 제시한다. 회사는 홈케어, 시니어 리빙과 원격 모니터링 사업자를 대상으로 상용 파일럿과 라이선스를 열었다고 발표했다.",
+      "why_now": "가정 내부 영상을 외부로 보내기 어려운 고객과 방마다 클라우드 추론 비용을 부담하기 어려운 운영자에게 프라이버시와 비용이 동시에 구매 이유가 될 수 있다. 다만 공개된 자료만으로 실제 유료 전환은 확인되지 않았다.",
+      "source_url": "https://edgelensai.com/edgelens-guardian-hlth-2026/"
+    },
+    {
+      "theme": "소상공인 금융 플랫폼의 AI는 추천보다 승인 가능한 실행에 머문다",
+      "summary": "Novo는 금융 계정의 거래와 급여, 세금 자료를 자연어로 찾고 작업을 준비하게 하지만, 돈을 옮기거나 중요한 변경을 할 때는 소유자 승인을 요구한다. AI를 독립된 챗봇이 아니라 기존 금융 권한 위에 얹는 방식이다.",
+      "why_now": "Unite.AI는 Novo의 개발자 API가 제한된 베타이고 자금 이동은 승인 뒤에 가능하다고 정리했다. 실행 범위를 작게 열고 승인 기록을 남기는 방식이 금융 서비스의 AI 도입 장벽을 낮춘다.",
+      "source_url": "https://www.unite.ai/novo-ai-banking-payroll-tax-credit-small-businesses/"
+    }
+  ],
+  "cases": [
+    {
+      "who": "LifeLoop, 미국",
+      "what": "시니어 리빙 시설의 이용자 정보와 활동 운영을 이어 주는 Olia AI",
+      "how": "커뮤니티와 이용자 정보를 읽고 직원이 승인한 뒤 활동 생성, 일정 등록, 교통 요청과 공지 발송을 수행한다. 직원이 퇴직하거나 이동해도 기존 기록을 다음 담당자가 사용할 수 있게 하는 시설용 운영 계층이다.",
+      "numbers": "회사 발표 및 고객 사례 주장으로 조기 도입 30개 고객사, 북미 4,700개 커뮤니티, 약 300명 규모의 커뮤니티를 파악하는 데 최소 이틀의 업무를 줄였다는 사례가 공개됐다. 가격, 매출과 유료 전환율은 공개되지 않았다.",
+      "source_url": "https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html"
+    },
+    {
+      "who": "Enactic, 일본",
+      "what": "간병시설의 주변 업무를 맡는 휴머노이드 로봇 Ena",
+      "how": "사람과 직접 접촉하는 돌봄보다 베개 커버 교체, 세탁, 배식, 물품 보충, 야간 순찰과 청소를 먼저 검증한다. 시뮬레이션과 실제 접촉 데이터를 나눠 학습하고 엣지 장치에서 추론하는 구성을 개발 중이다.",
+      "numbers": "회사 페이지 기준 간병 사업자 파트너는 2026년 6월 100법인을 넘었다. NVIDIA 고객 사례에서 베개 커버 교체 성공률은 약 50퍼센트에서 70퍼센트 가까이로 상승했다는 회사 대표의 설명이며, 2027년 시설 PoC와 2028년 제품 출시 목표는 계획이다. 가격과 유료 도입 시설은 공개되지 않았다.",
+      "source_url": "https://www.nvidia.com/ja-jp/case-studies/enactic/"
+    },
+    {
+      "who": "Novo, 미국",
+      "what": "소상공인용 금융 계정에 AI, 급여, 세금과 신용 기능을 묶은 핀테크 플랫폼",
+      "how": "거래를 자연어로 찾고 지출 패턴을 확인하며 급여와 세금 처리를 같은 계정에서 준비하게 한다. 금융 작업을 제안할 수 있지만 자금 이동과 주요 변경은 계정 소유자의 승인을 거치게 한다.",
+      "numbers": "공식 가격은 급여 월 24달러와 지급 인원 1명당 월 5달러다. 회사 발표 기준 고객은 25만명 이상이며, 특정 AI 도구의 월 지출은 2024년 11월부터 2026년 6월까지 493퍼센트 증가했다. 이 수치와 AI 사용 기업의 현금 보유 차이는 회사가 익명 집계한 관찰이며 인과관계나 이익을 뜻하지 않는다.",
+      "source_url": "https://www.prnewswire.com/news-releases/novo-launches-ai-capabilities-across-banking-payroll-tax-and-credit-to-help-small-businesses-scale-faster-302941398.html"
+    }
+  ],
+  "tools": [
+    {
+      "name": "LifeLoop Olia",
+      "use": "시니어 리빙 운영자가 이용자 선호와 활동 기록을 승인된 일정과 공지 작업으로 연결하는 방식을 검토할 때 참고한다.",
+      "source_url": "https://lifeloop.com/olia"
+    },
+    {
+      "name": "Enactic Ena",
+      "use": "간병시설의 주변 업무를 세탁, 정리, 배식과 야간 순찰 같은 작업 단위로 나눠 PoC 목록을 만들 때 참고한다.",
+      "source_url": "https://care.enactic.ai/?scroll=news"
+    },
+    {
+      "name": "Novo Payroll",
+      "use": "급여, 세금 원천징수, W-2와 1099를 금융 계정 안에 묶는 가격표를 비교한다. 월 24달러와 지급 인원 1명당 월 5달러가 공개돼 있다.",
+      "source_url": "https://www.novo.co/payroll"
+    },
+    {
+      "name": "EdgeLens Guardian",
+      "use": "카메라 영상을 클라우드로 보내지 않고 기기에서 안전과 생활 변화를 요약하는 홈케어 AI 판매 구조를 참고한다. 의료기기나 긴급대응 서비스는 아니다.",
+      "source_url": "https://edgelensai.com/edgelens-guardian-hlth-2026/"
+    }
+  ],
+  "quote": {
+    "text": "지금은 속도보다 마무리의 확실성을 우선한다.",
+    "author": "Enactic 대표 모리 다이지로",
+    "source_url": "https://www.nvidia.com/ja-jp/case-studies/enactic/"
+  },
+  "newsletter": {
+    "title": "시니어 AI의 첫 가격표는 대화가 아니라 기억의 연속성에서 나온다",
+    "body_md": "이번 주에 볼 주장은 단순하다. 요양시설이 AI에 돈을 내는 이유는 챗봇과 대화해서가 아니라, 직원이 바뀌어도 이용자의 취향과 약속이 사라지지 않고 다음 업무까지 이어지기 때문이다. LifeLoop의 Olia는 30개 고객사 조기 도입을 거쳐 일반 제공을 시작했고, 회사는 북미 4,700개 커뮤니티에서 사용된다고 설명한다. 직원 승인 뒤 활동 생성, 일정 등록, 교통 요청, 공지 발송까지 연결한다. LeadingAge의 Watermark 사례는 22개 커뮤니티에서 이용자 정보를 프로그램과 연결한 과정을 보여준다. 다만 가격과 유료 전환율, 독립적인 시간 절감은 공개되지 않았다. 작은 사업자는 고객의 머릿속에만 있는 선호, 금지사항, 다음 약속을 다섯 항목으로 구조화하고 담당자 교체 전후의 확인 시간을 재어 보자. 로봇이나 음성 AI를 만들기 전에 기억이 어디서 끊기고 누가 승인하는지부터 상품으로 만들 수 있다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "직원이 떠나도 남는 이용자 정보에 시니어 시설 AI가 가격을 붙인다",
+      "hook": "요양시설에서 가장 비싼 AI 순간은 질문에 답할 때가 아니라 담당자가 바뀔 때다.",
+      "core_claim": "시니어 리빙 운영자는 챗봇보다 이용자 취향, 활동 이력과 다음 업무를 보존하고 승인된 실행까지 이어 주는 운영 계층에 돈을 낼 가능성이 있다.",
+      "primary_case": "LifeLoop Olia와 Watermark Retirement Communities의 LifeLoop Resident Onboarding",
+      "public_number": "조기 도입 30개 고객사, LifeLoop 발표 기준 북미 4,700개 커뮤니티, Watermark 22개 커뮤니티",
+      "payer": "북미 시니어 리빙 운영자와 시설 법인, 가격과 유료 전환율은 미공개",
+      "seven_day_action": "이용자 선호, 금지사항, 가족 연락 선호, 다음 약속과 담당자 승인 여부를 기록하고 담당자 교체 전후 확인 시간을 비교한다.",
+      "source_urls": [
+        "https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html",
+        "https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/",
+        "https://lifeloop.com/olia"
+      ]
+    },
+    {
+      "title": "간병 로봇은 사람을 돌보기 전에 주변 업무에서 가격을 배운다",
+      "hook": "로봇이 목욕을 돕기 전에 먼저 베개 커버를 바꾸는 이유는 실패를 측정할 수 있기 때문이다.",
+      "core_claim": "간병 로봇은 직접 돌봄보다 세탁, 배식, 순찰처럼 반복되고 결과를 측정할 수 있는 업무에서 시설의 구매 이유를 먼저 만들어야 한다.",
+      "primary_case": "Enactic Ena",
+      "public_number": "파트너 100법인 이상은 회사 발표, 베개 커버 교체 성공률 50퍼센트에서 70퍼센트 가까이는 NVIDIA 고객 사례의 회사 설명, 2027년 PoC와 2028년 출시는 계획",
+      "payer": "장래의 간병시설 운영자, 현재 유료 고객과 가격은 미공개",
+      "seven_day_action": "시설의 세탁, 배식, 물품 보충 업무를 관찰하고 작업별 소요 시간, 오류와 사람 재배치 가능 시간을 기록한다.",
+      "source_urls": [
+        "https://care.enactic.ai/?scroll=news",
+        "https://www.nvidia.com/ja-jp/case-studies/enactic/",
+        "https://osegi.com/en/ena-care-robot-enactic-humanoid-japan-nursing"
+      ]
+    },
+    {
+      "title": "소상공인 AI는 금융 계정 안에 있을 때 이탈 비용을 만든다",
+      "hook": "소상공인이 돈을 내는 것은 AI 대화가 아니라 급여와 세금까지 끝나는 계정이다.",
+      "core_claim": "Novo는 AI를 별도 도구로 팔지 않고 결제, 급여, 세금, 신용과 연결해 금융 데이터가 쌓이는 계정 안에 넣는다.",
+      "primary_case": "Novo AI와 Novo Payroll",
+      "public_number": "급여 월 24달러와 지급 인원 1명당 월 5달러, 고객 25만명 이상은 회사 발표, 특정 AI 도구 월 지출 493퍼센트 증가는 회사 익명 집계",
+      "payer": "미국 소상공인과 독립 사업자",
+      "seven_day_action": "고객이 이미 매달 처리하는 결제, 세금, 급여 업무를 한 계정으로 묶을 수 있는지 확인하고 승인 단계와 가격 단위를 적는다.",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/novo-launches-ai-capabilities-across-banking-payroll-tax-and-credit-to-help-small-businesses-scale-faster-302941398.html",
+        "https://www.novo.co/payroll",
+        "https://www.unite.ai/novo-ai-banking-payroll-tax-credit-small-businesses/"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "직원이 떠나도 남는 기록에 요양시설 AI가 가격을 붙인다",
+      "body_md": "![LifeLoop Olia가 시니어 리빙 현장의 관계와 운영을 보여주는 공식 이미지](assets/daily-cover-source.jpg)\n\n요양시설에서 AI가 가장 비싸지는 순간은 질문에 답할 때가 아니라 담당자가 바뀌는 순간입니다. 이용자의 취향과 가족 연락 선호, 자주 참여한 활동이 직원의 머릿속에만 있으면 퇴직 한 번에 운영 자산이 사라집니다.\n\n미국 LifeLoop는 2026년 11월 17일 Olia를 북미 시니어 리빙 시설에 일반 제공하기 시작했습니다. Olia는 커뮤니티와 이용자 정보를 찾아 직원에게 다음 활동을 제안하고, 승인을 받으면 활동 생성, 일정 등록, 교통 요청과 공지 발송까지 수행합니다. 회사 발표 기준 조기 도입 프로그램에는 30개 고객사 직원이 참여했고, LifeLoop는 북미 4,700개 커뮤니티에서 사용되고 있다고 설명합니다.\n\n이 숫자를 매출이나 시장 점유율로 읽으면 안 됩니다. 가격, 유료 전환율과 재계약률은 공개되지 않았습니다. 대신 구매자가 누구인지는 분명합니다. 이용자나 가족이 직접 사는 챗봇이 아니라, 기록과 활동 운영의 책임을 지는 시니어 리빙 운영자와 시설 법인이 고객입니다. Olia는 직원이 승인한 작업만 실행하고, 이용자 정보가 AI 학습에 쓰이지 않는다고 설명합니다.\n\n독립 자료에서도 같은 방향을 확인할 수 있습니다. LeadingAge CAST는 Watermark Retirement Communities가 LifeLoop의 AI 입주자 등록 기능을 22개 웰니스 커뮤니티에 적용한 사례를 소개했습니다. 입주자의 경험과 선호를 프로필에 남기고, 그 정보를 프로그램과 이웃 연결에 활용하는 방식입니다. 이 사례가 보여주는 것은 AI의 신기함보다 기록이 실제 활동으로 이어질 때 생기는 운영 가치입니다.\n\n이 구조는 인수인계 비용을 줄인다는 말만으로 끝나지 않습니다. 시설 운영자는 새 직원 교육, 활동 일정 재작성, 가족 문의 대응을 반복합니다. Olia가 다루는 항목을 표준화하면 시설은 기록의 보관과 실행 권한을 나눠 계약할 수 있습니다. 반대로 직원 승인을 거치지 않은 자동 실행이나 동의 범위를 벗어난 추천은 편리함이 아니라 책임 문제가 됩니다.\n\n작은 사업자가 적용하려면 두 가지부터 하면 됩니다. 첫째, 이용자 선호, 금지사항, 가족 연락 선호, 다음 약속과 담당자 승인 여부를 다섯 항목으로 고정합니다. 둘째, 담당자가 바뀌기 전과 후에 새 직원이 이용자 한 명을 파악하는 데 걸리는 시간을 잽니다. 시간이 줄어도 안전과 개인정보 기준을 지키지 못하면 상품이 되지 않으므로, 누가 보고 누가 승인하는지도 가격표와 함께 적어야 합니다.\n\n작은 사업자는 AI를 먼저 만들 필요가 없습니다. 기존 문서에서 반복되는 항목 세 개를 고르고, 담당자 이동 때 누락되는 정보와 확인 시간을 먼저 측정하면 됩니다. 그다음 조회, 제안, 승인, 실행을 나눠 어느 단계까지 자동화할지 정하면 월정액이나 시설 단위 가격을 설명하기 쉬워집니다. 절감 효과를 말할 때도 측정한 시간만 근거로 삼아야 합니다.\n\nLifeLoop 사례는 대규모 시설의 공개 발표입니다. 실제 유료 전환과 장기 효과는 아직 확인되지 않았습니다. 그래도 돈이 되는 지점은 분명합니다. AI가 대화를 잘하는지가 아니라, 사람이 떠나도 관계의 기록이 남고 다음 담당자의 승인 가능한 업무로 이어지는지가 구매 이유가 됩니다.\n\n출처: [LifeLoop Olia 일반 제공 발표](https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html), [LeadingAge CAST Watermark 사례](https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/), [LifeLoop Olia 공식 페이지](https://lifeloop.com/olia)\n\n*대표 이미지는 LifeLoop 공식 페이지에서 내려받았습니다. 실제 시니어 리빙 현장을 보여주는 공식 이미지이며, 별도의 상업적 재사용 허가 범위는 확인하지 않았습니다.*\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "요양시설 AI가 가장 비싸지는 순간은 질문에 답할 때가 아니라 담당자가 바뀔 때입니다. 이용자의 취향과 가족 연락 선호가 직원의 머릿속에만 있으면 퇴직 한 번에 운영 자산이 사라집니다. LifeLoop는 이 기록을 시설용 AI Olia로 바꿨습니다.",
+      "Olia는 이용자와 커뮤니티 정보를 찾아 다음 활동을 제안하고, 직원 승인 뒤 활동 생성, 일정 등록, 교통 요청과 공지 발송까지 합니다. 회사 발표 기준 조기 도입에는 30개 고객사 직원이 참여했고 북미 4,700개 커뮤니티에서 사용됩니다. 가격과 유료 전환율은 공개되지 않았습니다.",
+      "LeadingAge CAST가 소개한 Watermark 사례는 LifeLoop의 AI 입주자 등록 기능을 22개 커뮤니티에 적용했습니다. 입주자의 경험과 선호를 프로필에 남긴 뒤 프로그램과 이웃 연결에 사용했습니다. 핵심은 AI 대화가 아니라 기록이 다음 사람의 승인 가능한 업무로 이어지는 구조입니다.",
+      "작게 시험하려면 이용자 선호, 금지사항, 가족 연락 선호, 다음 약속과 담당자 승인 여부를 고정 항목으로 만드세요. 담당자 교체 전후의 확인 시간을 재면 기록의 가격을 계산할 수 있습니다. 출처: [LifeLoop](https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html), [LeadingAge](https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "요양시설 AI가 가장 비싸지는 순간은 질문에 답할 때가 아니라 담당자가 바뀔 때입니다.\n\nLifeLoop의 Olia는 이용자와 커뮤니티 정보를 찾아 직원에게 다음 활동을 제안하고, 승인을 받으면 활동 생성, 일정 등록, 교통 요청과 공지 발송까지 수행합니다. 회사 발표 기준 조기 도입에는 30개 고객사 직원이 참여했고 북미 4,700개 커뮤니티에서 사용됩니다. 가격과 유료 전환율은 공개되지 않았습니다.\n\nLeadingAge CAST는 Watermark Retirement Communities가 LifeLoop의 AI 입주자 등록 기능을 22개 커뮤니티에 적용한 사례를 소개했습니다. 입주자의 경험과 선호를 프로그램 운영에 연결한 사례입니다.\n\n작게 시험하려면 이용자 선호, 금지사항, 가족 연락 선호, 다음 약속과 담당자 승인 여부를 기록하고 담당자 교체 전후 확인 시간을 비교하세요. AI의 가격은 대화 기능보다 기록이 다음 업무로 이어지는지에서 보일 수 있습니다.\n\n출처: [LifeLoop 발표](https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html), [LeadingAge CAST 사례](https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #헬스케어비즈니스 #에이징테크 #요양시설 #B2B #서비스기획 #가격전략",
+      "cards": [
+        "직원이 떠나도 남는 기록에 요양시설 AI가 가격을 붙인다",
+        "담당자가 바뀌면 사라지는 것\n이용자 취향\n가족 연락 선호\n다음 약속",
+        "LifeLoop Olia\n조기 도입 30개 고객사\n북미 4,700개 커뮤니티\n가격과 유료 전환율은 미공개",
+        "Olia가 하는 일\n정보 찾기\n활동 제안\n직원 승인 뒤 일정과 공지 실행",
+        "Watermark 사례\n22개 커뮤니티 적용\n입주자 경험과 선호를 프로필화\n프로그램 운영과 연결",
+        "작게 시험하는 법\n기록 항목을 고정하고\n담당자 교체 전후\n확인 시간을 비교하기"
+      ]
+    },
+    "youtube": {
+      "title": "직원이 떠나도 남는 기록에 요양시설 AI가 가격을 붙인다",
+      "hook": "요양시설 AI가 가장 비싸지는 순간은 질문에 답할 때가 아니라 담당자가 바뀌는 순간입니다.",
+      "script": "요양시설에서는 직원이 바뀔 때 이용자 정보도 함께 사라지기 쉽습니다. 취향과 가족 연락 선호, 자주 참여한 활동이 담당자의 머릿속에만 남아 있기 때문입니다.\n\n미국 LifeLoop는 2026년 11월 17일 Olia를 북미 시니어 리빙 시설에 일반 제공하기 시작했습니다. Olia는 커뮤니티와 이용자 정보를 찾아 다음 활동을 제안하고, 직원 승인을 받으면 활동 생성, 일정 등록, 교통 요청과 공지 발송까지 처리합니다. 회사 발표 기준 조기 도입에는 30개 고객사 직원이 참여했고, 북미 4,700개 커뮤니티에서 사용됩니다. 가격과 유료 전환율은 공개되지 않았습니다.\n\nLeadingAge CAST가 소개한 Watermark 사례는 LifeLoop의 AI 입주자 등록 기능을 22개 커뮤니티에 적용했습니다. 입주자의 경험과 선호를 프로필에 남긴 뒤 프로그램과 이웃 연결에 사용했습니다. 중요한 것은 챗봇의 말솜씨가 아니라 기록이 다음 직원의 승인 가능한 업무로 이어지는지입니다.\n\n작게 시험하려면 이용자 선호, 금지사항, 가족 연락 선호, 다음 약속과 담당자 승인 여부를 고정 항목으로 만드세요. 담당자 교체 전후에 한 사람의 정보를 파악하는 시간을 재면 기록의 가격을 계산할 수 있습니다. 실제 유료 전환과 장기 효과는 아직 공개 자료만으로 확정할 수 없습니다.\n\n출처: [LifeLoop 발표](https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html), [LeadingAge CAST 사례](https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/), [LifeLoop Olia](https://lifeloop.com/olia)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "LifeLoop Olia 일반 제공 발표",
+      "url": "https://www.newswire.ca/news-releases/lifeloop-launches-olia-the-ai-companion-for-senior-living-that-moves-teams-from-insight-to-action-852373109.html"
+    },
+    {
+      "name": "LeadingAge CAST Watermark 사례",
+      "url": "https://leadingage.org/ai-resident-onboarding-lifts-engagement-says-new-leadingage-cast-case-study/"
+    },
+    {
+      "name": "LifeLoop Olia 공식 페이지",
+      "url": "https://lifeloop.com/olia"
+    },
+    {
+      "name": "Enactic 공식 서비스 페이지",
+      "url": "https://care.enactic.ai/?scroll=news"
+    },
+    {
+      "name": "NVIDIA Enactic 고객 사례",
+      "url": "https://www.nvidia.com/ja-jp/case-studies/enactic/"
+    },
+    {
+      "name": "Osegi Ena 보도",
+      "url": "https://osegi.com/en/ena-care-robot-enactic-humanoid-japan-nursing"
+    },
+    {
+      "name": "Novo 공식 발표",
+      "url": "https://www.prnewswire.com/news-releases/novo-launches-ai-capabilities-across-banking-payroll-tax-and-credit-to-help-small-businesses-scale-faster-302941398.html"
+    },
+    {
+      "name": "Novo Payroll 공식 가격",
+      "url": "https://www.novo.co/payroll"
+    },
+    {
+      "name": "Unite.AI Novo 해설",
+      "url": "https://www.unite.ai/novo-ai-banking-payroll-tax-credit-small-businesses/"
+    },
+    {
+      "name": "EdgeLens Guardian 공식 발표",
+      "url": "https://edgelensai.com/edgelens-guardian-hlth-2026/"
+    },
+    {
+      "name": "LifeLoop 공식 대표 이미지",
+      "url": "https://lifeloop.com/hubfs/Olia%20-%20%20Header%20image%202400px%20%284%29.jpg"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 정리한 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장이나 공개 자료이며, 실행과 판단의 책임은 본인에게 있습니다. 출처는 각 항목에 표기했습니다."
+}
