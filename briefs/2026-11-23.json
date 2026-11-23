@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-23",
+  "generated_at_kst": "2026-11-23T12:13:55+09:00",
+  "mode": "new",
+  "headline": "시니어 주거는 방보다 돌봄 운영에 가격을 붙인다",
+  "insights": [
+    {
+      "title": "Jubiliv는 요양원과 집 사이의 돌봄 주거를 다섯 방으로 시험한다",
+      "summary": "싱가포르 LHN은 2026년 10월 21일 시설관리 부문 아래 Jubiliv를 출시하고 Boon Lay의 다섯 시니어 친화 유닛에서 돌봄 지원과 복약 관리를 붙인 파일럿을 시작했다. 회사 공시는 서비스 중심 모델이라고 설명한다. 2차 보도는 월 S$2,800부터라고 전했지만, 파일럿의 실제 점유율, 매출과 이익은 회사 재무 공시로 확인되지 않았다.",
+      "takeaway": "방을 먼저 채우기보다 돌봄 지원, 복약 관리와 사고 대응의 책임 범위를 먼저 상품으로 나눈다.",
+      "source_type": "media",
+      "source_name": "LHN Jubiliv 공식 공시",
+      "source_url": "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737"
+    },
+    {
+      "title": "Basalt Health는 병원 팩스의 대기 시간을 입원 판단 소프트웨어로 바꾼다",
+      "summary": "미국 Basalt Health는 팩스, 포털과 EMR로 들어오는 post-acute care 의뢰서를 시설별 입원 기준과 보험 기준에 대조하고, 최종 입원 결정은 임상의가 내리도록 한다. 회사는 Lifepoint Health에서 중앙값 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했다. 2천만달러 Series A는 실적이 아닌 투자금이며, 가격과 독립 검증은 공개되지 않았다.",
+      "takeaway": "헬스케어 AI의 첫 구매자는 챗봇 사용자가 아니라 빈 병상과 행정 지연을 줄여야 하는 운영팀이다.",
+      "source_type": "media",
+      "source_name": "Basalt Health 공식 발표",
+      "source_url": "https://basalt.health/company/news/basalt-series-a"
+    },
+    {
+      "title": "Postiz는 무료 오픈소스와 유료 호스팅의 책임 범위를 나눈다",
+      "summary": "Postiz는 AGPL-3.0 기반 셀프 호스팅 버전을 무료로 공개하고, 설치와 서버 운영을 맡기고 싶은 사용자는 Cloud Standard 월 29달러부터 이용하게 한다. 공식 안내는 호스팅 서비스가 소셜 플랫폼 연동, 업데이트, 백업과 지원을 관리한다고 설명한다. 무료 설치 사용자에서 유료 호스팅으로의 전환율과 매출은 공개 자료만으로 확인하지 않았다.",
+      "takeaway": "무료로 배포할 기능과 계속 책임질 운영을 분리하면 구독 가격이 선명해진다.",
+      "source_type": "blog",
+      "source_name": "Postiz 공식 사이트와 공개 저장소",
+      "source_url": "https://postiz.com/pricing"
+    }
+  ],
+  "trends": [
+    {
+      "theme": "중간형 시니어 주거가 시설과 돌봄 서비스의 결합으로 내려온다",
+      "summary": "Jubiliv는 요양원보다 가볍고 독립생활보다 관리가 많은 주거를 다섯 유닛으로 시험하면서, 숙박 공간에 돌봄 지원과 복약 관리를 묶었다. LHN은 부동산 개발보다 서비스 중심의 모델이라고 설명했으며, 실제 수요와 수익성은 아직 공개 자료만으로 확정할 수 없다.",
+      "why_now": "LHN 공식 공시는 싱가포르의 65세 이상 시민 비중이 2026년 21.4퍼센트이고 2035년에는 4명 중 1명을 넘을 것으로 전망된다고 인용했다. 이 수치는 시장 배경이지 Jubiliv의 수요나 성과를 증명하는 숫자는 아니다.",
+      "source_url": "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737"
+    },
+    {
+      "theme": "헬스케어 AI의 판매 단위가 모델이 아니라 심사와 승인 기록으로 좁혀진다",
+      "summary": "Basalt는 긴 의뢰서를 읽고 시설별 기준을 확인한 뒤 근거가 붙은 결과를 임상의에게 넘긴다. AI가 입원 결정을 대신한다는 상품이 아니라, 문서 확인과 사람의 최종 승인을 한 흐름으로 묶는 운영 계층이다.",
+      "why_now": "2026년 9월 Series A 발표에서 회사는 Lifepoint Health의 처리 시간 개선과 111개 시장 확장 계획을 함께 공개했다. 투자금과 확장 계획은 매출이나 실제 도입 완료를 뜻하지 않으므로 회사 발표로 구분해야 한다.",
+      "source_url": "https://hlth.com/insights/news/basalt-health-raises-20m-to-scale-ai-powered-post-acute-care-platform"
+    },
+    {
+      "theme": "오픈소스의 사업화는 무료 기능과 유료 운영 책임을 분리한다",
+      "summary": "Postiz는 셀프 호스팅에서는 서버, 개발자 앱 승인과 업데이트를 사용자가 맡게 하고, Cloud에서는 그 운영 부담을 월 구독에 포함한다. 같은 코드의 무료 배포가 설치와 유지보수 책임을 유료 서비스로 옮기는 유입 경로가 된다.",
+      "why_now": "공식 가격표는 Cloud Standard 월 29달러부터 Ultimate 월 99달러까지 채널 수와 지원 범위를 나누며, 공개 저장소는 셀프 호스팅의 인프라와 관리 책임을 따로 적고 있다.",
+      "source_url": "https://github.com/gitroomhq/postiz-app/blob/main/README.md"
+    }
+  ],
+  "cases": [
+    {
+      "who": "LHN의 Jubiliv, 싱가포르",
+      "what": "요양원과 독립생활 사이의 시니어 주거에 돌봄 지원과 복약 관리를 붙이는 서비스",
+      "how": "2026년 10월 21일 Boon Lay의 다섯 시니어 친화 유닛에서 파일럿을 시작했다. LHN은 시설을 새로 짓는 부동산 사업보다 기존 공간과 시설관리 역량을 활용하는 서비스 중심 모델로 설명한다.",
+      "numbers": "공식 공시 기준 파일럿은 5개 유닛이고 싱가포르 65세 이상 시민 비중은 2026년 21.4퍼센트다. Prevo Research가 The Edge Singapore를 재인용한 보도 기준 월 요금은 S$2,800부터이며, 가격과 파일럿 점유 상황은 회사 재무 공시가 아니다. 실제 매출과 이익은 공개되지 않았다.",
+      "source_url": "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737"
+    },
+    {
+      "who": "Basalt Health, 미국",
+      "what": "post-acute care 시설의 환자 의뢰서 검토와 입원 판단 준비를 돕는 B2B 헬스케어 소프트웨어",
+      "how": "팩스, 포털과 EMR로 들어오는 문서를 읽고 시설별 임상 기준과 보험 기준에 대조한다. 위험과 근거를 보여준 뒤 임상의가 최종 입원 결정을 내리며, 같은 근거를 보험 확인과 사전 승인 업무에 이어 붙인다.",
+      "numbers": "2026년 9월 공식 발표 기준 Series A 투자금은 2천만달러이며, 회사는 Lifepoint Health에서 중앙값 처리 시간이 8.5분에서 1.2분으로 줄었다고 밝혔다. 2026년 말 111개 시장 확장은 계획이다. 가격, 매출과 독립 성능 검증은 공개되지 않았다.",
+      "source_url": "https://basalt.health/company/news/basalt-series-a"
+    },
+    {
+      "who": "Postiz, Nevo David의 오픈소스 SaaS",
+      "what": "소셜미디어 예약 도구를 무료 셀프 호스팅과 유료 관리형 Cloud로 나눠 제공하는 서비스",
+      "how": "AGPL-3.0 공개 저장소를 직접 운영할 때는 사용자가 서버, Docker 배포, 소셜 플랫폼 개발자 앱 승인과 업데이트를 맡는다. Cloud를 선택하면 Postiz가 인프라, 연동 업데이트, 미디어 처리와 지원을 관리한다.",
+      "numbers": "공식 안내 기준 Cloud Standard 월 29달러, Team 월 39달러, Pro 월 49달러, Ultimate 월 99달러이며 7일 체험이 있다. 셀프 호스팅은 소프트웨어 사용료가 없지만 인프라와 관리 비용이 든다. 유료 전환율, 매출과 이익은 확인하지 않았다.",
+      "source_url": "https://postiz.com/pricing"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Jubiliv 운영 모델",
+      "use": "시니어 주거에서 숙박, 돌봄 지원, 복약 관리, 응급 호출과 가족 보고를 어떤 운영 단위로 묶을지 설계할 때 참고한다.",
+      "source_url": "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737"
+    },
+    {
+      "name": "Basalt Health",
+      "use": "긴 문서의 누락 확인, 기준 대조, 근거 표시와 사람의 최종 승인을 하나의 B2B 헬스케어 흐름으로 설계할 때 참고한다.",
+      "source_url": "https://basalt.health/solution"
+    },
+    {
+      "name": "Postiz Cloud와 Open-source",
+      "use": "무료 공개판과 호스팅, 업데이트, API 연동, 백업과 지원을 분리해 오픈소스 기반 구독 상품을 설계할 때 참고한다.",
+      "source_url": "https://github.com/gitroomhq/postiz-app/blob/main/README.md"
+    }
+  ],
+  "quote": {
+    "text": "숙박은 배경일 뿐이고, 우리가 만드는 것은 일관된 돌봄을 위한 운영력이다.",
+    "author": "Jess Lim, LHN 그룹 MD 발언 번역",
+    "source_url": "https://www.edgeprop.sg/property-news/lhn-pilots-new-eldercare-offering-jubiliv-five-senior-friendly-units-boon-lay"
+  },
+  "newsletter": {
+    "title": "시니어 주거와 병원 AI가 먼저 파는 것은 운영 시간이다",
+    "body_md": "오늘의 핵심 주장은 시니어 주거와 헬스케어 AI가 기능보다 반복되는 운영 책임에 가격을 붙인다는 것이다. 싱가포르 LHN의 Jubiliv는 다섯 개 시니어 친화 유닛에 돌봄 지원과 복약 관리를 묶었고, 2차 보도는 월 S$2,800부터라고 전했다. 실제 매출과 점유율은 공개되지 않았다. 미국 Basalt Health는 팩스와 포털로 들어오는 의뢰서를 시설별 기준에 대조하고 임상의의 최종 승인을 남긴다. 회사는 Lifepoint Health의 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했지만 회사 사례다. 작은 사업자는 먼저 반복 확인 업무 하나를 골라 7일 동안 처리 시간과 사람 인계를 기록하고, 그 다음 누가 월 비용을 승인할지 확인해야 한다."
+  },
+  "newsletter_candidates": [
+    {
+      "title": "요양원과 집 사이의 방은 돌봄 운영을 월 요금으로 판다",
+      "hook": "시니어 주거의 첫 가격표는 방 크기보다 누가 약 복용과 사고 대응을 책임지는지에서 나온다.",
+      "core_claim": "LHN의 Jubiliv는 기존 공간을 활용해 독립생활과 요양원 사이의 돌봄 수요를 서비스 중심의 주거로 시험하고 있다.",
+      "primary_case": "LHN Jubiliv의 Boon Lay 다섯 유닛 파일럿",
+      "public_number": "공식 공시 기준 5개 유닛, 싱가포르 65세 이상 시민 비중 2026년 21.4퍼센트, 2차 보도 기준 월 S$2,800부터. 가격과 인구 비중은 파일럿 매출이 아니다.",
+      "payer": "시니어 본인 또는 가족이 지불할 가능성이 높지만 실제 계약자와 결제 비율은 공개되지 않았다.",
+      "seven_day_action": "지역 시니어 주거 이용자와 가족 5명에게 식사, 안전 확인, 병원 동행, 복약 알림 중 가장 필요한 지원을 묻고, 기존 공간에서 제공할 책임 범위와 월 지불 상한을 기록한다.",
+      "source_urls": [
+        "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737",
+        "https://www.edgeprop.sg/property-news/lhn-pilots-new-eldercare-offering-jubiliv-five-senior-friendly-units-boon-lay",
+        "https://prevoresearch.com/news/jubiliv-eldercare-pilot-at-31-boon-lay-drive-2026-11"
+      ]
+    },
+    {
+      "title": "병원용 AI는 팩스가 끝나기 전 입원 판단을 준비한다",
+      "hook": "병원은 새로운 챗봇보다 빈 병상을 만들 수 있는 의뢰서 처리 시간에 예산을 붙인다.",
+      "core_claim": "Basalt Health는 임상 판단을 대신하지 않고 문서, 시설별 기준과 보험 근거를 빠르게 정리해 병원과 post-acute care 운영자의 지연 비용을 줄이는 흐름을 만든다.",
+      "primary_case": "Basalt Health의 Lifepoint Health 의뢰서 처리 사례",
+      "public_number": "회사 발표 기준 중앙값 처리 시간 8.5분에서 1.2분, 86퍼센트 감소, 2천만달러 Series A, 2026년 말 111개 시장 확장 계획. 투자금과 계획은 매출이나 완료된 도입 성과가 아니다.",
+      "payer": "병원 시스템과 post-acute care 운영자가 지불하는 B2B 구조로 보이며 가격과 계약 규모는 공개되지 않았다.",
+      "seven_day_action": "적법하게 비식별화된 합성 의뢰서 20건을 행정, 보험과 임상 확인 항목으로 나누고 가장 오래 걸리는 확인 단계와 사람에게 넘겨야 할 판단을 기록한다.",
+      "source_urls": [
+        "https://basalt.health/company/news/basalt-series-a",
+        "https://basalt.health/solution",
+        "https://basalt.health/referral-intake-performance",
+        "https://hlth.com/insights/news/basalt-health-raises-20m-to-scale-ai-powered-post-acute-care-platform"
+      ]
+    },
+    {
+      "title": "무료 오픈소스가 호스팅 월 구독으로 바뀌는 지점",
+      "hook": "무료 코드는 기능을 주지만, 서버와 연동 승인을 계속 책임지는 일은 별도 상품이 된다.",
+      "core_claim": "Postiz는 셀프 호스팅용 AGPL-3.0 공개판과 인프라, 업데이트, 소셜 플랫폼 연동과 지원을 맡는 Cloud를 분리해 운영 책임에 가격을 붙인다.",
+      "primary_case": "Postiz의 Cloud와 Open-source 비교",
+      "public_number": "Cloud Standard 월 29달러, Team 월 39달러, Pro 월 49달러, Ultimate 월 99달러, 7일 체험. 매출과 무료 사용자 대비 유료 전환율은 공개 자료만으로 확인하지 않았다.",
+      "payer": "여러 소셜 채널을 운영하는 1인 사업자, 마케팅팀과 대행사가 서버 운영과 연동 관리 시간을 줄이기 위해 직접 지불한다.",
+      "seven_day_action": "업종별 무료 템플릿이나 작은 자동화 도구를 5명에게 배포하고, 설치 대행, 호스팅, 유지보수 중 어느 책임에 실제 지불 의향이 있는지 기록한다.",
+      "source_urls": [
+        "https://postiz.com/pricing",
+        "https://postiz.com/",
+        "https://github.com/gitroomhq/postiz-app/blob/main/README.md"
+      ]
+    }
+  ],
+  "variants": {
+    "blog": {
+      "title": "시니어 주거의 가격표는 방보다 돌봄 운영에 붙는다",
+      "body_md": "<!-- DAILY_VISUAL_START -->\n![싱가포르 Jubiliv의 시니어와 돌봄 담당자](assets/daily-cover-source.jpg)\n<!-- DAILY_VISUAL_END -->\n\n시니어 주거를 만들 때 가장 먼저 계산할 것은 방 개수가 아닙니다. 누가 약 복용을 확인하고, 사고가 나면 누가 움직이며, 가족에게 어떤 기록을 남길지입니다. 싱가포르 LHN이 2026년 10월 시작한 Jubiliv는 이 질문을 시설관리 사업 안으로 가져왔습니다.\n\nJubiliv는 요양원처럼 의료 의존도가 높은 시설과, 별도 도움 없이 사는 집 사이를 겨냥합니다. LHN 공식 공시는 Boon Lay에서 다섯 개 시니어 친화 유닛으로 파일럿을 시작하고, 돌봄 지원과 복약 관리를 붙였다고 설명합니다. EdgeProp는 이 모델을 부동산을 먼저 개발하는 방식보다 서비스 중심의 돌봄 사업으로 소개했습니다. 방은 상품의 전부가 아니라 돌봄이 작동하는 장소가 됩니다.\n\n가격도 서비스 범위를 보여줍니다. 2차 보도인 Prevo Research가 The Edge Singapore를 재인용한 자료는 월 S$2,800부터, 숙박과 돌봄, 복약 관리, 공과금과 청소를 포함한다고 전합니다. 이 가격은 회사의 재무 공시가 아니라 경영진 인터뷰를 옮긴 보도 수치입니다. 파일럿의 실제 매출, 점유율과 이익은 공개되지 않았습니다. 싱가포르 65세 이상 시민 비중이 2026년 21.4퍼센트라는 공식 공시도 시장 배경이지 Jubiliv의 수요를 증명하는 숫자는 아닙니다.\n\n그럼에도 돈의 흐름은 선명합니다. 이용자는 방을 쓰지만, 비용을 승인하는 사람은 본인 또는 가족일 가능성이 높고, 운영자는 돌봄 인력과 사고 대응의 책임을 집니다. 따라서 가격표는 침대와 면적보다 직원의 확인 시간, 복약 기록, 응급 호출과 가족 보고의 범위를 담아야 합니다.\n\n이때 생활 지원과 의료 행위를 섞지 않는 선도 중요합니다. Jubiliv 공식 공시는 돌봄 지원과 복약 관리를 설명하지만, 의료행위와 보험 지급 범위까지 확정하지는 않습니다. 이용자가 받는 도움, 가족이 맡을 일과 의료진에게 넘길 상황을 계약과 안내문에서 나눠야 운영비와 책임이 함께 보입니다.\n\n병원용 AI에서도 같은 장면이 보입니다. 미국 Basalt Health는 팩스나 포털로 들어오는 긴 의뢰서를 시설별 입원 기준과 보험 기준에 대조하고, 최종 입원 결정은 임상의가 하도록 합니다. 회사는 Lifepoint Health에서 중앙값 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했지만, 이는 회사가 공개한 고객 사례입니다. 2천만달러 Series A는 투자금이지 매출이 아니며, 가격과 독립 검증은 공개되지 않았습니다. 병원이 사는 것은 AI 대화가 아니라 빈 병상과 행정 지연을 줄이는 처리 시간입니다.\n\n작은 사업자가 적용할 방법은 두 가지입니다. 첫째, 기능 목록 대신 반복되는 책임 하나를 고릅니다. 병원이라면 의뢰서 누락 확인, 시니어 주거라면 복약 기록처럼 사람이 매일 확인하는 일을 정하고 7일 동안 처리 시간, 사람 인계와 오류를 적습니다. 둘째, 사용자와 지불자를 나눠 묻습니다. 누가 화면을 쓰는지보다 누가 월 비용을 승인하는지, 어떤 상황에서 사람에게 넘겨야 하는지 확인해야 합니다.\n\n좋은 헬스케어와 시니어 사업은 기술을 크게 말하기보다 운영의 빈틈을 작게 잘라 가격을 만듭니다. 방 하나와 문서 한 묶음에서 누가 책임지고 얼마를 낼지가 보일 때, 서비스는 기능 설명을 넘어 사업이 됩니다.\n\n출처: [LHN 공식 공시](https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737), [EdgeProp Singapore의 Jubiliv 파일럿 보도](https://www.edgeprop.sg/property-news/lhn-pilots-new-eldercare-offering-jubiliv-five-senior-friendly-units-boon-lay), [Prevo Research의 가격 정리](https://prevoresearch.com/news/jubiliv-eldercare-pilot-at-31-boon-lay-drive-2026-11), [Basalt 공식 발표](https://basalt.health/company/news/basalt-series-a), [HLTH의 Basalt 보도](https://hlth.com/insights/news/basalt-health-raises-20m-to-scale-ai-powered-post-acute-care-platform)\n\n*대표 이미지는 LHN 공식 공시의 보도자료 이미지이며, 사용 조건은 별도 확인이 필요합니다.*\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    },
+    "threads": [
+      "시니어 비즈니스에서 가장 비싼 것은 방이 아니라 매일 반복되는 돌봄 운영입니다. 누가 약 복용을 확인하고, 사고가 나면 움직이며, 가족에게 기록을 남길지까지 정해질 때 가격표가 생깁니다.",
+      "싱가포르 LHN의 Jubiliv는 요양원과 독립생활 사이를 겨냥해 다섯 개 유닛에 돌봄 지원과 복약 관리를 붙였습니다. 2차 보도 기준 월 S$2,800부터지만, 실제 매출과 점유율은 공개되지 않았습니다. 출처: LHN 공식 공시, EdgeProp Singapore",
+      "미국 Basalt Health는 팩스와 포털로 들어오는 post-acute care 의뢰서를 시설 기준에 대조하고 임상의의 최종 승인을 남깁니다. 회사는 Lifepoint Health 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했습니다. 가격과 독립 검증은 미공개입니다.",
+      "무료 오픈소스 Postiz는 셀프 호스팅판을 공개하고 Cloud는 월 29달러부터 받습니다. 무료판은 서버와 연동 승인을 사용자가 맡고, Cloud는 인프라와 업데이트를 맡습니다. 돈은 기능보다 계속 책임질 운영에서 붙습니다.",
+      "작게 시험하려면 반복 확인 업무 하나를 골라 7일 동안 처리 시간, 사람 인계와 오류를 기록하세요. 그 다음 실제 사용자가 아니라 월 비용을 승인하는 지불자에게 가격 상한을 묻습니다. 출처: LHN, Basalt Health, Postiz\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    ],
+    "instagram": {
+      "caption": "시니어 주거와 헬스케어 AI의 공통점은 기능보다 운영 책임에 가격을 붙인다는 데 있습니다.\n\n싱가포르 LHN의 Jubiliv는 요양원과 독립생활 사이를 겨냥해 다섯 개 유닛에 돌봄 지원과 복약 관리를 묶었습니다. 2차 보도 기준 월 S$2,800부터지만, 이 가격은 회사 재무 공시가 아니며 실제 매출과 점유율도 공개되지 않았습니다.\n\n미국 Basalt Health는 팩스와 포털로 들어오는 병원 의뢰서를 시설별 기준에 맞춰 정리하고 임상의에게 최종 판단을 넘깁니다. 회사는 Lifepoint Health의 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했습니다.\n\n무료 오픈소스 Postiz는 직접 운영할 수 있고, Cloud는 월 29달러부터 서버와 연동 관리를 맡습니다.\n\n사업자는 반복 확인 업무 하나를 골라 7일 동안 처리 시간과 사람 인계를 기록한 뒤, 사용자가 아니라 비용을 승인하는 사람에게 가격을 물어야 합니다.\n\n출처: [LHN 공식 공시](https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737), [Basalt Health](https://basalt.health/company/news/basalt-series-a), [Postiz](https://postiz.com/pricing)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)",
+      "hashtags": "#비즈니스인사이트 #시니어비즈니스 #헬스케어비즈니스 #B2B헬스케어 #오픈소스SaaS #사업모델 #업무자동화",
+      "cards": [
+        "시니어 주거의 가격표는 방보다 돌봄 운영에 붙는다",
+        "Jubiliv\n싱가포르 Boon Lay의 다섯 유닛 파일럿\n돌봄 지원과 복약 관리 포함",
+        "월 S$2,800부터라는 보도\n실제 매출과 점유율은 공개되지 않음\n가격과 성과를 구분해야 함",
+        "Basalt Health\n병원 의뢰서를 시설 기준에 대조\n최종 입원 판단은 임상의가 담당",
+        "Postiz\n셀프 호스팅은 무료\nCloud는 월 29달러부터\n서버와 연동 관리에 가격을 붙임",
+        "7일 실험\n반복 확인 업무 하나의 시간, 사람 인계와 오류를 기록\n지불자에게 월 상한을 확인"
+      ]
+    },
+    "youtube": {
+      "title": "시니어 주거와 병원 AI는 운영 시간에 가격을 붙인다",
+      "hook": "시니어 주거의 가격표는 방 크기보다 누가 돌봄과 사고 대응을 책임지는지에서 시작합니다.",
+      "script": "시니어 주거의 가격표는 방 크기보다 누가 돌봄과 사고 대응을 책임지는지에서 시작합니다. 오늘은 시니어 주거, 병원 의뢰서와 오픈소스 SaaS에서 같은 사업 구조를 보겠습니다.\n\n싱가포르 LHN은 2026년 10월 Jubiliv를 시작했습니다. Boon Lay의 다섯 시니어 친화 유닛에 돌봄 지원과 복약 관리를 붙여 요양원과 독립생활 사이의 수요를 시험합니다. LHN은 부동산을 먼저 개발하는 방식보다 서비스 중심의 돌봄 모델이라고 설명합니다. 2차 보도는 월 S$2,800부터라고 전했지만, 실제 매출과 점유율은 공개되지 않았습니다. 싱가포르의 65세 이상 시민 비중 21.4퍼센트는 시장 배경이지 Jubiliv의 성과가 아닙니다.\n\n병원에서는 미국 Basalt Health가 비슷한 문제를 풉니다. 팩스, 포털과 EMR로 들어오는 의뢰서를 읽고 시설별 입원 기준과 보험 기준에 대조한 뒤, 근거를 임상의에게 넘깁니다. 최종 입원 결정은 사람이 합니다. 회사는 Lifepoint Health에서 중앙값 처리 시간이 8.5분에서 1.2분으로 줄었다고 발표했습니다. 2천만달러 Series A는 투자금이지 매출이 아니며, 가격과 독립 검증은 공개되지 않았습니다.\n\n오픈소스 SaaS인 Postiz는 무료 셀프 호스팅과 유료 Cloud를 분리합니다. 직접 운영하면 서버, 소셜 플랫폼 개발자 앱 승인과 업데이트를 사용자가 맡습니다. Cloud Standard는 월 29달러부터이며, 인프라와 연동 업데이트, 미디어 처리와 지원이 포함됩니다. 무료 기능은 유입을 만들고, 계속 책임질 운영이 구독으로 남는 구조입니다.\n\n세 사례에서 작은 사업자가 배울 점은 기능을 늘리는 순서가 아닙니다. 먼저 반복 확인 업무 하나를 고릅니다. 복약 기록, 의뢰서 누락 확인, 서버 업데이트처럼 매일 시간이 드는 일을 7일 기록합니다. 처리 시간, 사람에게 넘긴 횟수와 오류를 적은 뒤 실제 사용자가 아니라 월 비용을 승인하는 지불자에게 가격 상한을 묻습니다. 사업의 첫 가격표는 기술 이름보다 책임 범위에서 나옵니다.\n\n출처: [LHN 공식 공시](https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737), [Basalt Health](https://basalt.health/company/news/basalt-series-a), [Postiz 공식 가격표](https://postiz.com/pricing)\n\n[그사이의 돈 되는 레터 무료 구독하기](https://maily.so/boomyboom)"
+    }
+  },
+  "sources_used": [
+    {
+      "name": "LHN Group Jubiliv 공식 SGX 공시",
+      "url": "https://links.sgx.com/FileOpen/LHN%20Limited%20-%20PR%20-%20LHN%20Group%20Launches%20Jubiliv.ashx?App=Announcement&FileID=907737"
+    },
+    {
+      "name": "EdgeProp Singapore Jubiliv 파일럿 보도",
+      "url": "https://www.edgeprop.sg/property-news/lhn-pilots-new-eldercare-offering-jubiliv-five-senior-friendly-units-boon-lay"
+    },
+    {
+      "name": "The Edge Singapore Jubiliv 보도",
+      "url": "https://www.theedgesingapore.com/cityandcountry/property/lhn-launches-eldercare-offering-jubiliv-five-unit-pilot-31-boon-lay-drive"
+    },
+    {
+      "name": "Prevo Research Jubiliv 가격 정리",
+      "url": "https://prevoresearch.com/news/jubiliv-eldercare-pilot-at-31-boon-lay-drive-2026-11"
+    },
+    {
+      "name": "Basalt Health 공식 Series A 발표",
+      "url": "https://basalt.health/company/news/basalt-series-a"
+    },
+    {
+      "name": "Basalt Health post-acute admissions 설명",
+      "url": "https://basalt.health/solution"
+    },
+    {
+      "name": "Basalt Health 의뢰서 처리 성능 자료",
+      "url": "https://basalt.health/referral-intake-performance"
+    },
+    {
+      "name": "HLTH Basalt Health 투자 및 고객 사례 보도",
+      "url": "https://hlth.com/insights/news/basalt-health-raises-20m-to-scale-ai-powered-post-acute-care-platform"
+    },
+    {
+      "name": "Postiz 공식 가격표",
+      "url": "https://postiz.com/pricing"
+    },
+    {
+      "name": "Postiz 공식 사이트",
+      "url": "https://postiz.com/"
+    },
+    {
+      "name": "Postiz 오픈소스 저장소 README",
+      "url": "https://github.com/gitroomhq/postiz-app/blob/main/README.md"
+    }
+  ],
+  "disclaimer": "⚠️ 본 콘텐츠는 공개된 자료를 요약과 재구성으로 만든 정보 제공용이며, 특정 수익이나 투자를 보장하지 않습니다. 인용된 사례와 수치는 각 출처의 주장일 수 있으며, 실행과 판단의 책임은 본인에게 있습니다."
+}
